@@ -1,0 +1,72 @@
+When marketers
+create campaigns to advertise their
+products or services, they usually create more than
+one ad and in many cases, they will have specific messages for different audience segments. That's why tools to create advertising online are typically structured at different levels, letting advertisers
+create one campaign that contains multiple ads. That's also the case for Facebook Ads Manager
+and in order to understand and evaluate
+the success of campaigns, it's important to
+understand that structure. In this video, I'll explain it. While marketing
+analysts may not be the ones creating the campaigns, knowing how it
+works will be very helpful when you're asked
+to evaluate the results. There are three parts to
+a Facebook ad campaign. The campaign, an ad set, and the individual ads. Collectively, this is called
+the campaign structure. Knowing how these parts work
+together can help marketers best optimize their advertising
+experience and results. We'll briefly break
+down each part using one of our
+example companies. Calla & Ivy, a flower
+shop in Amsterdam with a website where people can
+order bouquets online. We'll start by
+explaining the campaign. The first thing you
+do when you go to create an ad in Ads Manager is, choose a campaign objective. Think of the campaign as
+the foundation of your ad. The objective you
+choose will define what options you will have in the rest of the
+campaign setup. The objective you choose should
+reflect what you want to accomplish with your ads
+such as promoting your app, or building awareness
+for your business. We'll come back to this in more detail later but let's say Calla & Ivy want to drive
+traffic to their website. They'll set, increase
+web traffic as their campaign objective
+and move on to the next level of the
+structure, ad sets. Ad sets are at the second
+level of a campaign. Think of the ad set as the level that tells your ad how to run. At the ad set level, you will define who will see
+your ad or the targeting, where the ad will show up, the placement, how much you
+want to spend the budget, and how long it should
+run for the schedule. It's important to
+know a campaign can include multiple ad sets, each with different targeting, scheduling, and budgeting
+option selected. This allows you
+to easily segment your ads to try different
+things to see what works. You could target one ad
+set to young people, and one ad set to older ones. You could set one ad
+set to run on Facebook, and one to run on Instagram. You can effectively
+use them to target any one of Facebook's
+audience categories. For example, Calla
+& Ivy might want to advertise wedding
+flower packages to newly engaged couples in the Netherlands in March
+and they're interested in finding out whether
+younger or older couples respond better to their ads. They could create one ad set to target people who
+are newly engaged, who live in the
+Netherlands and are between the ages of 20 and 35, and a second ad set to target
+those between 36 and 49. The third and final level of the campaign structure
+is the ad level. The ad level defines what your audience
+will actually see, for which you first
+choose the ad format, and then you'll add
+videos, or photos, right copy, and define
+your destination. Keep in mind that you can have multiple ads within
+a single ad set. Calla & Ivy could for
+example test photo ads and a video ad in each ad set, to learn which performs better. To summarize, a
+campaign is built off of a single
+objective and consists of one or multiple ad sets that each contain one
+or multiple ads. It's a simple structure
+that helps you organize and optimize
+your campaign. This structure also
+enables you to test many different parameters such as your audience,
+ad creative etc. This then allows you
+to shift more budget towards the highly
+performing ad set or ads, or consider new
+strategies altogether. You now know how ads are bought and sold on
+Facebook through the Facebook advertising
+auction and you have a good understanding of how campaigns are structured
+in Ads Manager. Now, let's take a closer look at all the decisions
+that are made when developing a campaign and creating ads in
+Facebook Ads Manager. See you in our next video.

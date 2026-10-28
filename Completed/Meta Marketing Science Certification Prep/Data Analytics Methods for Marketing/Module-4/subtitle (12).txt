@@ -1,0 +1,42 @@
+Sales Funnel Reference Sheet
+0:01
+/
+4:47
+What are sales funnels? 
+In this lesson, we’ve focused on using marketing mix modeling (MMM) and attribution to optimize our marketing mix, help us stay within budget and have the most impact. Another important aspect besides knowing where to focus your spending is understanding how people move through your sales funnel. That’s what we’ll focus on in this reading. 
+
+Sales funnels are also called purchase or revenue funnels. No matter which term you describe them with, funnels are used to visualize a customer’s journey from their first interaction with your brand all the way to them actually making a purchase. Understanding what the steps in the funnel are will help us do our sales funnel analysis. 
+
+Using our ecommerce example from the video 
+Dropoff in Sales Funnels
+, a sales funnel could look like this: entry page, to the category page, product page, checkout page, and finally the thank you page. Your own funnel could look very different based on your desired page and input from your design team if applicable; they might even help you make your funnel even more efficient than when you started! 
+
+
+
+
+Stages of sales funnels
+Regardless of what your funnel looks like, it will typically consist of about four stages that help us analyze and optimize funnels for maximum impact. 
+
+Awareness: In this stage, we are trying to attract the right audience for our brand, so we want to ask questions like: what page are people entering on, where are they coming from and how long do they stay? Using this information can help us not only optimize these pages and push people to the next stage, but also to help evaluate whether people are getting the first impression of your brand that you’re wanting them to get.
+
+Interest and consideration: In the interest stage, we’ve now attracted our audience and we’d like to keep their attention to prevent them from dropping out of the funnel. To this end, we can ask our data questions such as what are people searching for on my site? What categories or product pages are driving most traffic? Where are people dropping off without making a purchase or taking other action? This will help us keep their attention and can even help push us to the next stage. 
+
+Conversion: At the conversion stage, you’re really looking diving into the purchase process. This is to understand a couple of things, particularly where do users drop off within this process and how might we retain them. This means examining potential pain points customers might be experiencing that are blocking them from making a purchase. For example, do they drop off when shipping costs are calculated? Or perhaps do they move backwards in the process at any point, which might mean that the checkout process is too complicated. Although these variables might seem like tiny details, they great food for thought as you consider moving your customers through the funnel and can even be easy fixes in reaching that goal. 
+
+Retention: In the last stage, you’re looking at repeat customers, those that keep returning to make more purchases. Here in this stage the questions can look like:  how many of the visitors to our site are returning users and what pages do they visit? Asking what the repurchase rate is can also be very telling, because of course you want customers to come back and buy your products or services again!  
+
+Tools such as Google Analytics can help you answer these questions, and the skills you learn in this course can help you make informed marketing plans after analyzing the data you collect. 
+
+How do marketers use sales funnels? 
+A marketer has two goals within the sales funnel, which are the following. 
+
+Micro level
+At the micro level, a marketer’s goal is to move an individual customer from one stage to the next (preferably all the way to purchase!). Focusing at this small-picture level helps us evaluate how people actually move through this process and what we can do to make it smoother for them. Marketers can step in at any point during the sales funnel through the website or other activities such as a phone call from a salesperson. 
+
+Macro level
+At the macro level, a marketer’s goal is to move as many people as possible through the funnel. This is where the insights from individual data points come in handy and give us a bigger picture of how we’re doing overall with our marketing efforts. 
+
+Conclusion
+Whether you use your sales funnel to get a better sense of how your customer base on aggregate flows through the process to help you make strategic decisions related to marketing action or to check in on an in-progress campaign, funnels can be a useful tool to fully optimize your marketing mix. 
+
+

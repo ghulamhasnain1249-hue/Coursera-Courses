@@ -1,0 +1,16 @@
+In our previous lesson, you learned about different ways in
+which data can be collected online. We looked at web server logs,
+cookies, tags or pixels, SDKs, APIs and
+we also talked about UIDs. Each of these methods can help you
+achieve slightly different things and I think they can be quite confusing. So that's why in this lesson I want to
+focus on how they are used in practice. To do that, we're going to take a look at
+another fictitious company, Calla & Ivy. Calla & Ivy is a flower shop in Amsterdam;
+Imra is the owner of the store. She always loved fresh flowers,
+but she is particularly known for her handbound bouquets. A few years ago Imra started
+selling these bouquets online and her business has expanded
+quite a bit as a result. She now employs a few people who
+help her focus on the website and they also help her with her marketing. Recently, Imra introduced
+a flower subscription service. Subscribers can schedule monthly
+deliveries of bouquets to their home. In the next video, we'll explore
+how Imra and her team collect and use data to help them
+market their products. Let's take a look.

@@ -1,0 +1,31 @@
+It probably isn't a
+surprise that everything in the world can't be quantified
+or represented as a number. This means that not all
+variables can be numbers. Sometimes variables describe
+the qualities of an object. In this video, you
+will learn about qualitative variables that describe qualities
+or attributes. A qualitative variable is a variable that isn't numerical. For example, eye
+color, such as blue, green, or brown can't be represented in a meaningful
+way with a number. Most qualitative variables are actually categories
+like eye color. There are two main types of qualitative or
+categorical variables ; nominal and ordinal. First, let's discuss
+nominal variables. A nominal variable represents categories with no
+specific order. An example of a nominal
+variable is types of food, such as Italian,
+Chinese, and Mexican. The second type of
+qualitative variable we will discuss is
+ordinal variables. An ordinal variable
+is a variable that represents categories that
+do have a specific order. An example of an ordinal
+variable is drink size, such as small, medium, large, and extra large. Just like we saw with
+quantitative variables, some variables can change their type depending
+on their use. Take store location,
+for example. Store location is
+a nominal variable when it is used in a
+list without any order. However, if you
+were listing stores using sales figures to
+place them in order, store location would be
+an ordinal variable. Qualitative variables give us one more way to describe
+the world around us, which is the goal of statistics. The better we can
+describe the world, the more we can understand
+how to make sense of it.

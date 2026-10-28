@@ -1,0 +1,13 @@
+>> Welcome to week three of our
+statistics foundations course. Let me ask you a question. Has switching to led lighting reduced
+electricity bills in households? This week, you'll learn how to design experiments
+to answer these sorts of questions. Let's start with a quick review of what's
+coming up in this week's first lesson, Experimental Design and Hypotheses. First, youll get an introduction
+to what a research question is and how to go about writing them. Next, you'll learn how to formulate and
+write a hypothesis. After that, youll learn about
+observational and experimental studies and how they differ from each other, and
+review common scenarios of each. Youll finish this lesson by
+learning about experimental design with a focus on data analysis. Earlier, we laid the groundwork
+with basic concepts. Now, we're moving to applying
+those concepts to designing and conducting a study. This is an exciting lesson,
+so lets get started.

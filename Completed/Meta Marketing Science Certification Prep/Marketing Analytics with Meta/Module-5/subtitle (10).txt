@@ -1,0 +1,107 @@
+Now we come to the final
+part of our program recap. This week, we reviewed
+how you obtain and assess your data
+against the business goal, how you hypothesize, and decide on the right
+methodology and analysis to run to answer the key
+business questions, and evaluate progress against the business or marketing goals. We also talked about how you can generate insights from
+your data analysis. In this video, we'll focus
+on what you should do next. What did we do all
+this analysis for? Yes, we want to evaluate whether we hit our
+business goals, but usually marketing analysts
+do much more than that. They also come up with
+recommendations for what to do next based on what we have learned from the data
+and the analysis. If you took the first
+course in this program, you may remember how we
+evaluated the main tasks of a marketer and support a marketing analyst
+provides indoors tasks. We talked about how
+marketers need to identify a target
+audience, plan, and forecast actions resulting from their marketing investment, evaluate the effectiveness
+of their marketing, optimize their marketing
+campaigns and marketing mix, and optimize the
+purchase funnel. Let's revisit them, and for each one, I'll give you tips
+on what to think about when formulating
+recommendations. Let's start with a
+target audience. We saw how you can use
+cluster analysis as a way to segment your audience and identify and describe
+your target. It's good to reflect on the target audience or
+audiences you chose. Was your marketing successful
+for the different segments? Did you evaluate the
+effect of your ads on different target audiences
+maybe through A/B tests? Did you do any further research that can give you
+more insight into your attractive
+targets or was there an opportunity to evaluate
+results by audience group? What was the cost to reach
+your desired audience? If it was very expensive, it may be worth thinking about targeting a secondary audience. Ask yourself, would
+you recommend targeting the same
+audience in the future? Would you recommend
+expanding the audience or maybe you'd suggest going
+after narrower targets? Next, let's look at
+planning and forecasting. We saw how you can
+use regression to forecast or you may have had a chance to work
+with an agency to help you build a marketing
+mix model to help you understand the influence
+of advertising in different media
+channels on your results. Such a model will
+help you understand which channels were most
+important in achieving results, but it can also be used to come up with the media
+mix for the future. You can adjust budgets and
+plug in the data to help you predict the outcome when you shift money from one
+channel to another. With that information, you can recommend
+suggested marketing mix and budget for the
+future campaign. You might find for instance that the money spent on
+Instagram ads had a bigger impact on
+conversions than the money you spent
+on radio ads. You might then recommend to
+shift some of your budget for radio advertising to advertising
+on Instagram instead. Another area where colleagues
+may look to you for some recommendations
+is related to an evaluation of the
+effectiveness of your marketing. Depending on the
+impact advertising and marketing action
+had on the results, you may want to do things
+differently in the future. We saw how you can use
+experiments to evaluate the effectiveness
+of advertising in a channel like
+Facebook, for instance. If you find that the impact of your advertising isn't
+exactly as big as you'd hope, you can look at making some changes to your
+advertising strategy. There are a few things
+advertisers have control over and you can adjust them
+if you think it's necessary. You may decide to change your bid strategy, for instance, or maybe the
+advertising objective you selected wasn't
+quite right for what you're trying to achieve or maybe you didn't spend
+enough on the campaign. You can also adjust
+where your ads appear or you can target a different audience if you
+think that the audience you selected wasn't very
+receptive to your message, and of course you can
+adjust the creative itself. As you formulate your
+recommendations, think about what
+you could change in the campaign strategy that
+could improve the results. You may already have learned a few things about how you can optimize your advertising if you used A/B testing in the past. Depending on the
+variables you tested, you may have insights into
+which audiences, creative, or placement work best for what you are
+trying to achieve. Based on these insights, you can provide
+recommendations of what to keep in mind when
+advertising in the future. James, for instance, found that for SnackWell, carousel ads led to more subscriptions than
+ads with only one image. In the future, it's a good
+idea to keep that in mind. Of course, it's
+always a good idea to keep testing as you may find that you can still
+improve all your best ads, so I suggest you always make that one of your
+recommendations. Finally, you may have some recommendations that have to do with the purchase funnel. As you study the shape
+of your purchase funnel, you may have found that there's a drop-off at a particular
+point in the funnel. Say, for instance,
+you found that people abandon the subscription
+process and you believe this has to do with asking
+too much information from the customer before they get to submit their
+subscription request. In that case, you should recommend to update the
+subscription process and adjust the number
+of fields that need to be filled out before
+you can subscribe. Ask yourself which area of
+the purchase funnel shows most loss and recommend further investigation or
+action to prevent it. All these recommendations
+can help you build a powerful story and it's your chance to guide future
+marketing decisions. As you build up your story, ask yourself what you want
+your audience to know, feel, and do and use your story to influence your audience in the
+right direction. Keep in mind that your
+presentation and recommendations are the culmination of all
+your hard analysis work, so make sure you use it as an
+opportunity to have impact.

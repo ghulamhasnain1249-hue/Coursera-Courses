@@ -1,0 +1,112 @@
+We've talked about a lot
+of different metrics and ways of finding and
+segmenting your audience. Now, we're going
+to shift gears and talk about how to present
+that information. You may remember how in an earlier course
+in this program, we talked about reflecting on your business goals before
+starting an analysis. We also saw how it helps
+to determine which metrics you will track to
+assess whether you're making progress
+towards those goals. We call those metrics Key
+Performance Indicators or KPIs. It's no surprise
+then that one of the most common types of
+reports is a KPI dashboard. As Microsoft Power BI explains, KPI dashboards are tools that unite data sources and provide at-a-glance visual feedback
+showing your business is performing against your
+key performance indicators. They benefit users
+by providing a fast, easy solution to tracking KPIs and other business metrics, a unified view of data that improves visibility
+into company health, and customizable
+data visualization with performance and
+status indicators. In order to develop
+a KPI dashboard, you must first have a KPI. As we said, KPIs are derived
+from your business goals. They have three important
+characteristics. First, a KPI is measurable, and more specifically, it
+should be rated or graded. This generally
+translates to a cost per like cost per acquisition
+or cost per click, or a rate like click-through
+rate or view-through rate. Second, it should be
+directional and target-based. You should have an idea of
+what success looks like, either through internal
+or external benchmarks. Lastly, it should be related to the behavior you're looking to impact with your marketing. Looking to increase sales, customer loyalty,
+lifetime value. Your KPI should ladder
+up into your goal. You should have one
+singular primary KPI for any given
+marketing campaign. That way, you can easily look
+at your campaign and say, was this successful or not? Having a single KPI
+also gives your team a metric to focus on and
+optimize during your campaign. It's important to
+note there may be different KPIs at different
+levels of your campaign. Here we see a KPI pyramid. Your business KPI is the
+company's North star. What will make the
+company money? This generally focuses on
+overall sales or acquisitions. Your campaign KPI is what designates the success
+of the campaign. Is there a specific
+efficient reach number or course per action
+you're focused on? Whatever it is, this
+one primary KPI should indicate success
+for that campaign. Last, we have your channel KPI. Each channel within
+your campaign should be there for a reason, with a goal for that channel. For instance, you
+may use YouTube and Facebook in the same campaign with totally different goals. YouTube may be used for more upper-funnel
+tactics measured through video completion
+rate, for instance. While Facebook may be used for lower-funnel tactics
+and measured on a cost per acquisition
+or conversion rate. While it's really
+important to focus on one singular KPI at each
+level of the campaign, your dashboard may also include secondary KPIs and
+diagnostic metrics. Secondary KPIs are
+those that indicate you're on your way to
+success in your primary KPI. For example,
+click-through rate may be a secondary KPI for a cost-per-acquisition-focused
+campaign. CPA is your primary KPI, but CTR can give you
+information that helps you understand whether you're making progress towards
+that primary KPI. Diagnostic metrics
+are those metrics you want to keep an eye on to
+make sure things are okay. These are metrics like spend, impressions, and reach. If these metrics were
+to significantly increase or decrease
+at any given time, you'd want to investigate. As you can imagine, different people require
+different levels of granularity when
+looking at a dashboard. After establishing your KPIs, the second step to developing a strong dashboard is
+understanding your audience. Consider their level, their
+familiarity with the data, how they usually
+see information, and what they care about. Is this sea-level audience who usually sees complicated
+finance charts but needs just a
+high level insights because they don't have much time to spend
+on this information? Is this in the weeds team
+who digs into the details? Is this a client who prefers information be
+communicated in words? What are their KPIs, and what are they
+concerned about? Be sure to design
+for your audience and provide the information
+they need to know. What kind of chart should you use
+to show your performance? Well, there are lots of options. Let's go over some of
+the most common ones. If you're looking to
+compare results over time, use a linear chart or bar chart if you're focused on
+only one variable. If you're showing
+parts of a whole, use a pie chart or a
+stacked bar chart. If you want to show
+the relationship between two different variables, a scatter plot or bubble
+chart should do the trick. You'll want to use
+color theory and sizing to indicate key metrics
+and their performance. The easiest way to do
+this is to represent your primary KPI as a
+larger area of the report, along with the red,
+yellow, green indicators, to let readers know
+how the campaign or initiative is
+performing overall. In addition to designing
+your dashboard to call out your KPI
+loud and proud, you'll most likely
+want to indicate insights in your KPI
+dashboard as well. In order to have
+a strong insight, you should include
+what happened, why it matters, and what you'll
+do with this information. For instance, let's say you ran an AB creative test against
+two different creatives. One with just a product shot, and one with an offer
+and the product shot. If you find that the
+offer creative commands a 50 percent lower CPA,
+that's what's happened. Here's why it matters. We've learned that creative
+with an offer in it drives more efficient
+acquisitions than one without. What can we do with
+this information? Develop more creative with
+an offer involved or design another test against
+different offers to see which performs best. Thinking about your audience,
+incorporating your KPIs, telling your story with
+a fantastic graphic and a few insights can really take your reports
+to the next level.

@@ -1,0 +1,52 @@
+Earlier in this course,
+we've already touched on data ownership, in this video we're going to take another
+look at it in light of data privacy depending on who collects and
+manages the data. There are different restrictions and
+regulations of course, as a consumer, you are always the owner of your data,
+but you can engage in a relationship with a publisher or an advertiser
+where you allow them to use your data. As we saw earlier in this course,
+the parties that you allow to collect and store your data fall into three
+different groups depending on how direct your relationship is with them,
+first party, second party or third party. First party data is the data a company
+receives from the people it's interacting with directly. These people could be customers,
+visitors to the website or followers on social media. For example, if you're using a social
+media platform and you click on an ad for Pizza, the platform may infer
+that you are interested in Pizza, that information is considered first
+party data that the social media platform is now managing about you. With first party data, there is
+an implicit or explicit agreement between the consumer and the data receiving
+company that it can use your data. Of course, with certain restrictions,
+as we saw earlier. Second party data consists of the same
+type of data is the first party data, but in this case the data has
+been passed on to a second party, often a trusted partner
+of the first party. Continuing the metaphor, if the social
+media platform you signed up for earlier gives information to a partner,
+that partner company also knows that you like Pizza then
+both managed that data about you. In this scenario,
+ideally the partner is trustworthy and responsible with the data that was
+passed on from the first party social media platform and it's the responsibility
+of the first party to ensure that the second party
+won't misuse your data. If not, the repercussions would involve
+both parties first and the second party. The final bucket that personal data
+can fall into his third party data. Third party data is collected by a company
+or entity that doesn't have a clear relationship with the company a person
+is interacting with or the first party. Third parties may track a person's
+behavior across sites, for instance, using browser cookies,
+which we call third party cookies. Information gathered this week
+can be bundled together to create a profile about a person that
+can then be sold to advertisers. Using our metaphor one more time,
+if a third party tracks your behavior across the web, they might learn
+about your interest in Pizza, even if you didn't specifically
+give that information to them. This type of information gathered
+is the kind that makes consumers most uncomfortable, since people don't
+have an explicit agreement with these third parties that allows them to
+collect and store this information. Third party data tracking
+often raises privacy concerns. As a result, several browsers block
+third party cookies to help limit this kind of data collection. It's important that all parts of
+the advertising ecosystem, first, second or third parties set and
+maintain high privacy standards. That's the only way that
+a consumer can trust and have confidence that their information
+is being handled appropriately. Now, you know more about how personal
+data is collected and managed. But remember the person who owns
+the data is always the consumer. In the next lesson, we're going to
+learn more about the protections and regulations that are in place
+to safeguard consumers data. I'll see you there.

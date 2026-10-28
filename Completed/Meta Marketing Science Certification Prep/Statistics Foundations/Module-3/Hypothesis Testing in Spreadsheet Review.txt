@@ -1,0 +1,103 @@
+More on Hypothesis Testing
+We have said that, in hypothesis testing, we are looking for an answer to the question, “Is there a difference?” But, in statistics, the answer to this question is not quite as simple as it may sound. What we are looking for is not whether there is just any difference between two measurements, but whether there is a statistically significant difference.
+
+A simple example may help explain: Suppose you are trying to determine whether a coin-flip is fair by determining whether you are using a “fair coin.” With a fair coin there should be no statistically significant difference between the likelihood of getting a heads versus getting a tails. Let’s say we flip our coin 100 times to test the hypothesis that the coin is fair (i.e., that there will be no difference between the number of tails versus heads), and we find that our coin flip comes up heads 48 times and tails 52 times.
+
+There is a difference in the number of tails versus heads, but is it a statistically significant difference? Probably not. It is well within the realm of possibility that a fair coin will come up with heads or tails, a few times more than the other for every 100 flips. So, this relatively small difference of 52 versus 48 is not enough of a difference to reach the conclusion that we have an unfair coin.
+
+By contrast, suppose our flips come up heads 32 times and tails 68 times. That’s a pretty big difference! It’s highly unlikely that a fair coin will come up tails 36 more times than heads, over a span of 100 flips. That much difference is a statistically significant difference that should lead us to suspect an unfair coin.
+
+
+P-Values
+So how do you go about determining whether there is a statistically significant difference in your data? One way this is done in data analytics is by determining a p-value for your analysis. Technically, a p-value represents the probability that a difference between two data measurements was just a matter of random chance (the way 52 tails versus 48 heads might be), rather than being a statistically significant difference (the way 68 tails versus 32 heads would be). 
+
+
+Put another way, a very low p-value represents a low probability that a difference is a matter of random chance and, therefore, a high probability of statistical significance. This p-value probability is usually written in decimal form, and often it is calculated for you by the software you use to run your analyses (such as spreadsheet software, like Excel, or data visualization software, like Tableau). There are also ways to calculate a p-value for yourself, such as the T-test method that we will learn later in this course. 
+
+For now, it’s important to understand what you are seeing when you are presented with a p-value: it is a percentage probability that the measured difference in your data set might occur as a matter of chance. So, for example, if you run an analysis and find that your analysis reflects a p-value = 0.04, this tells you that there is a 4% chance that a measured difference would occur as a matter of chance and is not the kind of statistically significant difference that you are looking for when you are running your hypothesis test. In other words, a p-value = 0.04 tells you that, when your hypothesis test finds a difference and, therefore, tells you to accept the “alternative hypothesis” (i.e., H1, which says there is a significant difference between your two comparison groups) there’s a 4% chance that you’re incorrect in that conclusion. In practical terms, this means that if you act on that conclusion, there’s a 4% risk that you will not see the results you’re expecting.
+
+This leaves open a question about how much risk is too much risk in hypothesis testing. In terms of p-value, this amounts to a question of what would be a good p-value to look for in your analyses. The answer to that question is determined largely by considerations outside your data analysis—for example, considerations like how open your company is to changing their current website from red to blue, or how much of an increase in sales they need to see for it to be worth doing so. Generally speaking, these considerations are determined by the person, or persons, who pose the evaluation question for your analysis.
+
+Their question usually comes with a certain amount of risk tolerance they want you to factor into your analysis. This tolerance is often presented as a percentage of accuracy expressed by a value called alpha (𝛂). This alpha value determines the boundary for an acceptable p-value in your analysis. You always want a p-value that is less than or equal to the specified alpha. For example, your stakeholder may specify an alpha of 2.5% (𝛂 = 0.025), which means they are only willing to act on a hypothesis that is likely to prove incorrect no more than 2.5% of the time (i.e., they want to be 97.5% confident that there’s a real difference between the options being compared). In effect, this tells you that your evaluation of significant difference should be based on a p-value less than or equal to 0.025. With this in mind, we can note that a standard alpha assumption is 5% (𝛂 = 0.05). So, typically, your analyses will assume that a p-value = 0.05 is an acceptable standard of significant difference.
+
+Confidence Intervals
+Finally, now that we have raised the subject of error risk and hypothesis confidence, we should consider the concept of confidence intervals. Confidence intervals establish a range of precision for the calculations you make in your analyses. Specifically, confidence intervals are a span of values around your calculated value within which you can have a specific degree of confidence that your observed results will match your calculation.
+
+Take our coin flip experiment again. For a fair coin, the number of times a flip of that coin will come up tails would be about 50 times out of 100 flips (50%). But it’s not likely to be exactly 50 times. It would not be unusual for the fair coin to come up tails 52 times, or even 41 times. That’s to say, even though the flips will come up tails 50 times on average, that doesn’t allow us to expect with 100% certainty that it will come up tails 50 times for every 100 flips. However, if the coin is fair, it turns out that I can be 95% certain that it will come up tails somewhere between 40 and 60 times!
+
+We know this because we know what the probability distribution is for a fair coin and, from this, we can calculate “confidence intervals” for the fair coin (very much like how we are able to calculate the standard deviation of a known probability distribution). In this case we’re saying that the 95% Confidence Interval for flipping tails with a fair coin is 10 flips out of 100—i.e., there is a 95% chance that tails will come up within 10 flips of the statistical mean of 50 flips (95% Confidence Interval = 10). And, because 40 flips keeps us within 10 flips of 50 (on the lower side) and 60 flips keeps us within 10 flips of 50 (on the higher side), the 95% Confidence Interval = 10 tells us that we can be 95% confident that our fair coin will come up tails somewhere between 40 to 60 times. Notice that we are pegging our degree of confidence on the calculable probabilities: I’m 95% confident that my fair coin will come up tails 40 to 60 times out of 100 because the probability distribution for a fair coin tells me that this happens 95% of the time!
+
+Confidence intervals, like our 95% Confidence Interval above, are calculated based on the probability distribution and size of the data samples we want to analyze. But, you may not always be calculating a 95% Confidence Interval—we can calculate for any degree of confidence we want. It all depends on a degree of variance that you are asked to look for in your analysis. Once again, as with p-values, you will be working with a specified alpha value (𝛂) that sets the degree of variance around your calculated value that your stakeholder is willing to tolerate. The percentage of your confidence interval (e.g., the “95%” in “95% Confidence Interval”) is just alpha subtracted from %100.
+
+For example, let’s say your analysis of data reveals a tendency toward a specific value (e.g., your analysis of past sales data shows an average $200 profit per week). But, you and your stakeholders know that this past tendency doesn’t guarantee that you’ll hit that exact value every week—there will be some amount of variance around that value (i.e., the actual profit for a given week is likely to fall somewhere on either side of your average $200 weekly profit). For a clearer idea of what to expect for a specific week, your stakeholders ask you for the range of values that they can be 97.5 % confident in; that is, they want to know the range that includes 97.5% of the typical values.  For example, your sales manager wants to know the range of profit around your $200 average they can expect the weekly profit to fall into, 97.5% of the time. In that case, your stakeholders are accepting a 2.5% variance from your calculated value and you would be working with an 𝛂 = 0.025, which calls for a 97.5% Confidence Interval. In this way, the percentage of your Confidence Interval is determined by your alpha value, or amount of tolerable variance, such that a 95% Confidence Interval will be based on a 5%alpha value (𝛂 = 0.05), a 97.5% Confidence Interval will be based on a 2.5%alpha value (𝛂 = 0.025), and so on. With this in mind, we can note again that a standard alpha assumption is 5%. So, typically, your analyses will assume an 𝛂 = 0.05 and look for a 95% Confidence Interval.
+
+Now you have all the information you need to understand how to calculate a confidence interval. Here is the formula for calculating a confidence interval in an Excel or Google Sheets spreadsheet:
+
+
+In this formula, 𝛂 is the decimal alpha value described above; “SampleSize” is the number of values in your sample, which you’ve learned to compute with the =COUNT function; and, “StandardDeviation” is the standard deviation of that sample, which you’ve learned to compute with the =STDEV function. Note that this formula will give you the confidence interval with a percentage of 1 - 𝛂 (e.g., if 𝛂 = 0.03, the formula would give you the 1 - 0.03 = 0.97 = 97% Confidence Interval).
+
+Here’s an example of our confidence interval formula in action:
+
+
+In this spreadsheet, we are given a sample of weekly sales data for a website, which shows that we are averaging $120.25 of sales per week. We can calculate the size of our sample with the =COUNT formula in cell H3, and the standard deviation with the =STDEV formula in cell H4. We assume the typical alpha assumption of 5% (𝛂 = 0.05) so that we can calculate the 95% Confidence Interval for our sales data. We display this confidence interval in cell H6. With that 95% Confidence Interval = $7.26, we can tell our stakeholder that our data shows a 95% likelihood that next week’s sales will fall somewhere in the range between $112.99 and $127.51! (Remember: Lower end of range = Mean Value - 95% Confidence Interval, and higher end of range = Mean Value + 95% Confidence Interval.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hypothesis Testing and A/B Tests
+Testing Hypotheses
+Recall from our discussion of experimental design how your marketing study usually begins with an evaluation question. We noted how these evaluation questions come from many sources. Sometimes you get these questions from your manager or directors, or even from a board, as they evaluate business needs. The question may come directly from a stakeholder or client. You may even come up with an evaluation question yourself, when thinking about your marketing efforts and audience, and ways to help your company.
+
+Evaluation Questions: Business- or data-related questions marketing analysts ask about their data.
+
+
+It’s these evaluation questions that motivate us to form hypotheses—proposed answers to the question at hand—that we can then test through our analysis of data. 
+
+The Null Hypothesis (H0) and The Alternative Hypothesis (H1)
+In our earlier discussion of hypotheses, we formulated hypothesis statements as simple claims that answer a given question: for example, in response to the question, “Does website color affect the number of sales?”, we proposed a hypothesis that said “Yes: Blue websites will generate more sales than red ones.” But notice how evaluation questions like this one can be boiled-down to a more general question of difference. My hypothesis here answers a question about whether there is a difference (in sales) between blue websites and red ones. This is typical of the kind of evaluation questions you will have to address as a marketing analyst! Questions like:
+
+
+Is there a difference between demographic groups and how likely they are to purchase this product?
+
+Is one form of advertising more cost effective than another?
+
+Is the new campaign actually more effective than what we were doing before?
+
+
+All of these questions can be reduced to the simple question: “Is there a  difference?” When analyzing your marketing data and testing your hypotheses, it is this simple question that you are finding an answer to.
+
+
+Hypothesis tests are framed in terms of the question: “Is there a  difference?” And, this question actually implies two possible answers, or two hypotheses:
+
+
+(H0) No, there is no difference between population A and population B. 
+(H1) Yes, there is a difference between population A and population B.
+
+
+We commonly refer to the first hypothesis (H0) as the null hypothesis. We refer to the second hypothesis (H1) as the alternative hypothesis. You will hear these terms used frequently in fields involving statistical analysis (like Marketing Analytics). Looking again at our example question about whether there is a difference in sales between blue websites and red ones, we can formulate the null hypothesis for this question, which says (H0) “There is no difference in sales between blue and red websites.” Likewise, we also can formulate the alternative hypothesis for this question, which says (H1) “Yes, there is a difference in sales between blue and red websites.” 
+
+
+Notice how the null hypothesis and the alternative hypothesis are mutually exclusive. This means they cannot both be true at the same time. If (H0) is true, then (H1) must be false; and if (H1) is true, then (H0) must be false! A typical hypothesis test is designed to determine which hypothesis—the null hypothesis or the alternative hypothesis—is the true one.
+
+A/B Tests
+One of the most useful and therefore common hypothesis tests is the A/B test. A/B testing refers to studies in which two or more versions of a variable (e.g., a web page, an advertisement, a design element, etc.) are shown to different populations of users to determine which version has the most impact in meeting business goals. In A/B testing, the “A” usually refers to a ‘control,’ or the original testing variable, while “B” refers to a ‘variation,’ or a new version of the original testing variable. Since A/B testing is entirely data-driven, with no room for guesswork or mere instinct, you can quickly determine a “winner” and a “loser” based on statistically significant improvements in measured data, such as time spent on a page, conversion rate, cart abandonment rate, click-through rate, number of demo requests, and so on.
+
+
+In our reading on experimental design we suggested how A/B testing could be a great way to test our hypothesis regarding the question of whether website color scheme may affect number of sales. In that case, we could show two versions of our website—a version with a red color scheme and a version with a blue color scheme—to two populations of prospective customers. Let’s call the red site our A version (the control variable) and the blue site our B version (the variation). Then, we can just measure the conversion rates (percentage of viewers completing a sale) for each version of our site and compare them to see if one version has a better conversion rate than the other. If so, then we have good reason to believe that the color scheme does make a difference in sales—and that the company should use the “winning” version if we want to maximize sales! Notice how the determination that color makes a difference amounts to a confirmation of the (H1) hypothesis. For such a case, the alternative hypothesis is the true one.

@@ -1,0 +1,28 @@
+So far, we've learned about tools
+that can help you evaluate what's happening on your website or your app. We looked at Google Analytics for
+instance, which can tell you a lot about how many people visit your website, who
+they are, where they come from, and so on. As I'm sure you've seen there's
+a lot of data that comes with having an online presence and a tool like
+Google Analytics helps you monitor and evaluate that data and
+generate insights on the basis of it. But there's one more important set of
+tools that marketing analysts will use to evaluate performance. More specifically, they'll use tools
+that help to understand whether their advertising efforts worked or whether
+they can optimize campaigns to achieve better results for
+the money that's spent on advertising. For that, analysts turn to the data and reports that are provided inside
+the main advertising platforms. When you advertise on Facebook,
+Google, LinkedIn, and so on, you can track and
+evaluate the success of your ads and improve them all inside the tools
+that these platforms provide. Marketing analysts make
+extensive use of these tools, so they can help improve the marketing
+efforts of their company. In this lesson, we will take a look at reports you find in
+Facebook Ads Manager and in Google Ads. I selected these two platforms because
+they are the biggest advertising platforms out there. And as you'll see when we
+go through these tools, the metrics you'll find
+in them are very similar. If you explore other tools like Twitter or
+LinkedIn, you'll find that their dashboards are quite similar to the ones
+we will be discussing in this lesson. Before we get started, I want you to know
+that what we will cover in the next two videos is really just the tip of
+the iceberg in terms of the data and metrics that are available in these tools. Later in this program will cover
+some of this in more detail. But for now, I think it's important that you get
+a glimpse of the rich data marketing analysts have at their disposal when
+they start evaluating marketing success. Let's take a look.

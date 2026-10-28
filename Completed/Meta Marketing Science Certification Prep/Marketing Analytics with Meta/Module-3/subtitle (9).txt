@@ -1,0 +1,57 @@
+Conversion and Brand Lift Best Practices
+0:01
+/
+5:12
+Conversion Lift Versus Brand Lift Testing
+Over the last few videos, we’ve learned about conversion lifts and brand lifts. As a quick refresher, let’s recall the difference between the two. Conversion lifts focus on evaluating the effects of advertising on conversions, or actions. Brand lifts, however, focuses on evaluating the effects of advertising on brand recall or awareness. Now let’s explore some best practices in utilizing these measurements and coming up with ways in which to test each one. 
+
+Best Practices: Conversion Lift Testing
+A conversion lift test measures the effects of ads on conversions, which can be purchases, add to cart, leads or other actions. In other words, did your campaign help increase the occurrence of these actions?
+
+In order to conduct a conversion lift test, you’ll start with a hypothesis. In this case, your hypothesis is that your advertising campaigns on Facebook caused a significant lift in conversions. Next, you’ll randomly assign people from your target audience into two groups: one, your test group, which will see your ad and another group, your control, that will not see the ad. 
+
+Now that our experiment is set up, we’ll want to measure the influence of ads on the conversions, specifically whether the group that saw the ad took more actions than the group that didn’t. To do this, we need to see whether these conversions happened at all. You can use the Facebook Conversion API to pass along the data for Facebook to detect the conversions you’ll use for measuring during the test. 
+
+Lastly, you’ll measure the results and compare the difference between the actions taken by the test group and those by the control group. 
+
+Here are a few quick but key best practices: 
+
+Duration: ask yourself how long it takes for a customer to convert, which is 1 conversion cycle. Plan to run your conversion test for 1 to 2 cycles, at least. 
+
+Budget: in order to allow for an average of two ad impressions per person per week, make sure your budget is high enough--Facebook sets a required minimum spend of $30,000. 
+
+Creative: be sure your creative is recognizable as being associated with your brand since you’ll be asking your audience if they’ve seen your ad. A call to action, such as a “shop now” button, never hurts, either.
+
+Audience: minimize the overlap with other campaigns for the audience you are going to show your ad. 
+
+Pre- and post-study dark period: Facebook recommends a dark period where you don’t show your audience any ads for your brand. 
+
+Conversion events: choose a conversion event that aligns with your business goal, such as making a purchase, depending on where you think the audience is in the sales funnel
+
+Edits: don’t edit your brand campaign while you’re running your brand lift test.
+
+Best Practices: Brand Lifts Testing
+A brand lift test is used for campaigns that have a goal related to brand outcome, for example increasing awareness of the brand. Measuring brand recall lift is an important metric in evaluating a brand campaign’s success. 
+
+Just as with a conversion lift test, start by randomly assigning people from the target audience of a campaign to either a test or control group. Those in the test group will be exposed to an ad and those in the control group will not. 
+
+Both the test group and the control group will be served some polling questions, with the main question being, “Do you recall seeing an ad for [your brand name] online or on a mobile device in the last two days?” Next, you’ll compare the difference in ad recall between the test group and the control group so you can see the effect caused by the ad. You can even conduct your test right on Facebook using the Experiment tool--just remember to run the experiment before you start to run your campaign or you won’t get a proper control group.
+
+Here are a few more quick but key best practices, which might look familiar from the conversion lift test: 
+
+Duration: plan to run your brand lift test for about 4-6 weeks.
+
+Budget: in order to allow for an average of two ad impressions per person per week, make sure your budget is high enough--Facebook sets a required minimum spend of $30,000. 
+
+Creative: be sure your creative is recognizable as being associated with your brand since you’ll be asking your audience if they’ve seen your ad.
+
+Audience: minimize the overlap with other campaigns for the audience you are going to show your ad. 
+
+Dark period: Facebook recommends a dark period where you don’t show your audience any ads for your brand. 
+
+Polling questions: create polling suggestions for different stages of the sales funnel to get a better picture of your brand effect. 
+
+Edits: don’t edit your brand campaign while you’re running your brand lift test.
+
+Conclusion
+No matter which method you use or both, you’ll be learning valuable information about your marketing efforts, and although you won’t be able to adjust them in real-time while running your tests, you’ll then have knowledge for planning future campaigns that are even more successful. 

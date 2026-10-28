@@ -1,0 +1,47 @@
+So we now know how K-means
+clustering works and how to determine the number of
+clusters for your analysis. So you can run your analysis but
+now imagine your analysis returns three clusters in other words, you found three
+distinct segments in your audience. That's great but in order to communicate
+something interesting about these clusters, you'll need to describe
+the clusters or segments. You'll need to find a way to describe what
+makes the people in the clusters similar to each other and what makes them different from other
+people in other clusters or segments. We refer to this process
+as profiling clusters and that's what we will discuss in this video. Once you've found your clusters, it's good to think back of the variables
+that defined your initial data points. For instance you may have plotted data
+based on people's location and age. You can use those variables
+to describe your clusters. Let's look at an example. Remember CALLA and
+IVY the flower store in Amsterdam. Imra the owner worked with her team to segment
+the data from a survey she ran to evaluate interest in buying flowers
+online among people in the Netherlands. They ran a K-means clustering on
+the dataset using the variables location and age. They found three distinct clusters
+of respondents by looking at the data in each cluster, they found that people in the first
+cluster live in urban areas or cities. And they fall in the 25-44 age
+range people in second cluster live in more suburban areas and
+their age range is between 35-54. People in the third cluster are in
+rural areas and they're a bit older. This gives us a good idea of who
+the people in the clusters are, but we may want to look for
+more information to really understand him. Imra's team does that by looking at
+additional variables for the data points. So they go back to the survey and look
+at how respondents in each cluster score on other variables, primarily their
+interest in buying flowers online. They find that people in cluster
+one are most interested, then people in cluster two and
+finally people in cluster three, they are the least interested
+digging deeper into the data. They also find that people in cluster one
+are more likely to spend money on interior design than people in the other clusters. After having looked at a few more
+variables to find characteristics that define the segments. The team uses this information to describe
+their clusters and give them a name. They choose to name the first
+cluster urban design enthusiasts. The second segment is named efficient
+suburban families to reflect their finding that this segment is
+especially focused on saving time. And the third segment is called rural
+traditionalists after they found that group would rather go to a florist
+and isn't inclined to buy online. As you can see from this example
+profiling your segments, takes a bit of digging into the data. It's good to come up with a name
+that describes your segment using the characteristics that
+matter most to you and try to make the name
+somewhat self explanatory. So it's easy for other team members to get
+a sense of who's part of the segments. Marketers will often create a persona for
+each cluster. That's a more elaborate description
+of a person that may represent your segment well. The segments and their descriptions are
+the final result of your cluster analysis. In our next lesson, we'll take a look at how cluster analysis
+works in practice using Tableau.

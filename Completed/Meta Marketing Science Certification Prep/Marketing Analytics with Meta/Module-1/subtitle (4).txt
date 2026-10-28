@@ -1,0 +1,34 @@
+Welcome to a week of exploring
+Facebook's Ads Manager, the tool that lets
+marketers create advertising campaigns
+to run on Facebook, Instagram, Messenger, and the Audience Network
+which is a group of high-quality apps
+that partner with Facebook to show
+their users ads. Now you may wonder why I'm starting this course
+with a look at how ads are created rather
+than focusing on measurement, after all you're taking
+this course because you want to become a
+marketing analyst. Well, like you, I'm interested in evaluating the effectiveness of marketing action and I've spent a lot of time in my career analyzing data and generating
+insights and reports. But I've also found that it's
+very hard to do this well if you don't know how the underlying advertising
+platform works, hence I'll walk you through this first and you'll see throughout this course that this
+foundational knowledge will help you become
+a better analyst. If you already use Facebook's Ads Manager
+and know it well, this week can be a
+refresher for you. We will first start
+with the basics. We'll take a look at
+the Facebook auction. All ads on Facebook are sold
+using an auction and we will look at the basic
+considerations that go into buying in that auction. We'll also talk about the campaign's structure
+in Ads Manager. Then in our next lesson, we will get practical
+and we'll focus on how campaigns are planned and
+scheduled in Ads Manager. We'll look at how to
+define an objective, decide on the budget and
+audience for your campaign. We will also discuss how
+to select placements and how to optimize the
+delivery of your ads. Finally, you'll learn
+how ads are created in Ads Manager from
+adding images or videos to creating
+copy for your ad. At the end of this lesson, you'll know how to create a campaign in Ads
+Manager and that knowledge will prepare you to evaluate the results
+of those campaigns.

@@ -1,0 +1,73 @@
+Statistical models are like putting
+on glasses for the first time. Looking at data makes it difficult
+to get a clear picture of trends, patterns, relationships, and predictions. When you view the data through
+the lens of a model, the trends, patterns, relationships, and
+predictions become crystal clear. In this video, we will explore some of
+the most common statistical models, starting with the regression model. A regression model is a versatile
+statistical model for measuring the relationship
+between variables. A simple linear regression
+model uses a straight line to describe the relationship
+between two variables. It looks at one independent variable,
+x, and one dependent variable, y, and tries to draw a straight line
+that best fits the data points. This line is used to predict
+the value of y based on x. Visually, it appears as a series
+of data points on a graph with a straight line passing through them, where the line represents the predicted
+relationship between x and y. How does a regression model work? Let's consider the following example. A real estate company wants to
+understand how the size of a house using the measure of square
+footage affects its selling price. They collect data on
+various homes they've sold, plotting the size of each
+house against its sale price. The shape of the scatter plot
+is approximately a line. By applying a simple linear
+regression model to this data, they can predict the sale price
+based on the house's size, with the model providing
+a straight line that best represents the relationship
+between the two variables. Another common type of statistical
+model is a classification model. A classification model is
+a type of statistical model that predicts categorical variables. A classification model
+categorizes data points into predefined groups or
+classes based on their attributes. It examines multiple variables
+to assign each data data point to a specific category. Visually, it groups data points based on
+their characteristics and relationships. This could be in graph form or a chart. For instance, in this image,
+blue circles are used for class a and
+green triangles are used for class b. On the chart, a straight line or
+decision boundary divides the graph into two regions
+separating the two classes. The model determines
+the placement of the line. Points on one side of the line
+are predicted to belong to class a and points on the other to class b. What does this classification
+look like in the real world? Let's consider an example
+in the finance world. A bank wants to predict which
+loan applicants might default. It uses a classification model that
+looks at past applicants data, like credit scores and repayment history, to classify applicants as high risk or
+low risk for defaulting on their loans. Next, let's talk about a cluster model. A cluster model is a type of statistical
+model that identifies groups or segments of an audience. A cluster model organizes data
+into groups where the members of each cluster share certain traits,
+effectively segmenting the overall population into smaller,
+similar subsets. Visually, it looks like a scatterplot, where each cluster of data
+points is separated from others, often circled or colored differently
+to distinguish between the groups. This grouping helps identify patterns or
+segments within the data, such as customer types or
+product categories. But how does the cluster model work? Let's consider the following example. A retail company collects
+customer purchase data and wants to tailor marketing strategies
+to different segments of customers. Using a cluster model,
+they group customers into clusters based on purchasing patterns like frequency,
+average spending, and product preferences. Each cluster represents a customer
+segment with similar behaviors, allowing the company to
+customize marketing efforts for each group effectively. The last model that we will
+discuss is a time series model. A time series model is
+a statistical model that predicts a variable based on what
+it has done in the past. A time series model predicts future data
+points based on historical trends and patterns. Visually, it looks like a line graph
+with time on the x axis and the variable of interest, such as stock prices or
+temperature readings on the y axis. This model fits a line or
+curve that moves through the data points to indicate how the variable
+changes over time. But what types of situations can
+a time series graph be used for? Let's consider you're a business owner and
+you have a chain of coffee shops. Your managers record daily sales for
+several years, and you see this information to
+create a time series model that forecasts future sales patterns
+based on historic ones. This model can help predict the expected
+sales during different seasons or days of the week, allowing for
+better inventory and staffing management. These four models are the most common
+ones you will likely encounter in your role as a data analyst. Be sure to leverage the visuals that
+a model gives you in order to get a clear picture of trends, patterns,
+relationships, and predictions.

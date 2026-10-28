@@ -1,0 +1,71 @@
+Now that you're familiar
+with research questions, hypotheses and study types, let's integrate
+these concepts to grasp the full scope of
+an experimental study. In this video, you'll
+learn how to plan an experiment using
+experimental design. Remember, experimental
+study design is a way to plan your study where
+you introduce a treatment. Completing the experimental
+design is essential for structuring your
+study and must be completed before
+conducting any surveys, implementing interventions
+or analyzing data, like introducing a new exercise routine to assess its
+impact on blood pressure. There are six steps in the
+experimental design process. Question, hypothesis,
+required variables. Choose a measurement approach, select an analysis, and
+complete an analysis. Let's apply an
+experimental design to our study on cardio
+and blood pressure. Step 1 is to write
+your question. Remember to be specific. Consider your goals and
+understand your resources. Remember, our question was, does incorporating 30 minutes of cardiovascular exercise
+into my daily routine decrease my blood
+pressure over six months? This question is specific, considers the goals, and
+has doable resources. Step 2 is the hypothesis. Remember that this is a proposed explanation
+based on limited evidence, which is a starting point
+for further investigation. Remember to include
+what will change, how it will change, and what
+will cause that change. For our example study, the hypothesis is
+that 30 minutes of daily cardiovascular
+exercise will lower blood pressure
+over six months. The hypothesis includes
+what will change, how and the cause. Step 3 required variables. This is where you determine
+exactly what information to answer your question
+and test your hypothesis. You will need the
+independent variable, the one you're influencing, and the dependent variable,
+the one you're measuring. Still, you might also
+need to know the day, time, or another variable if you think it might
+impact your results. In our blood pressure study, the independent variable is the participants
+exercise routine, and the dependent variable is the change in
+their blood pressure. We'll monitor both to understand the exercises impact
+on blood pressure. Step 4, choose a
+measurement approach. This is where you figure out how to get the necessary variables. You can choose from
+many different types of experimental studies, but I encourage you to keep
+it as simple as possible. The more complicated
+the experiment, the higher of the chance
+something will go wrong. That said, most
+companies will have a few different kinds of studies they already
+use to choose from. If you're in doubt,
+don't hesitate to ask another data analyst which type of study they think would
+be most appropriate. Our blood pressure
+study will use a controlled experiment
+and AB test. Participants will be
+divided into two groups. One follows a 30-minute daily cardiovascular
+exercise routine, and the other continues their usual activities
+without added exercise. This setup allows us to assess the exercise routine
+impact on blood pressure. Step 5, select an analysis. Before you actually
+run your study, you need to sit
+down and pick out which analysis you will run
+on your variables at the end. This is important because each
+analysis has requirements, and you need to ensure you have everything you
+need to meet those. You will learn about
+specific types of analysis and the requirements
+later in this course. That will allow us
+to explore what type of analysis we would
+use for this study. For now, just know
+that selecting an analysis is an important
+part of experimental design. Step 6 is to complete
+the analysis, which we will cover
+later in this course. Now that you understand
+experimental design basics, when curiosity
+strikes the suite, consider how you might design an experiment to
+answer your questions.

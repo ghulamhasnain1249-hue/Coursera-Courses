@@ -1,0 +1,93 @@
+In the previous lesson, we took a closer
+look at the main tasks marketers perform. Now let's take a look at where the role
+of the marketing analyst comes in, or how marketing analytics can support and
+improve marketing. A first area of focus for marketers is
+identifying the target audience for their marketing message. This is a very important step. Marketers have limited budgets, so
+they want to make sure that their marketing message reaches
+a receptive audience. Or in other words, they want to talk to people that may have
+an interest in buying their product. In marketing, they refer to
+that as your target audience. So how do marketers find that audience? Well, they use research. Imagine a marketer for a mattress
+company. They could use surveys to get a better understanding of when people buy
+mattresses, what they find important when buying a mattress, how much they
+would spend on a mattress, and so on. They might also use some databases
+that exist about mattress sales, and the demographics of
+the people who buy them. All of this will help describe who
+the best target audience is for the mattresses. What are their characteristics? Where do they live? What phase of their life are they in,
+and so on? And you guessed it. All the information the marketer
+gathers comes in the form of data. And marketing analytics will help
+to make sense of that data and paint the detailed picture of the target
+audience the marketer needs to create the marketing message and
+get in front of the interested people. A second task where marketing analytics
+features is in the planning and forecasting phase. Marketing and
+advertising can be expensive. So before marketers spend their budgets,
+they evaluate where and when they should put
+their marketing message. They will carefully think about
+how much of their time and how much of their budgets should be
+spent on social media, ads on TV, radio, search engines, and so on. Often, marketers will take a look back
+at their previous marketing efforts, and on the basis of the success
+they have had with campaigns in all of these different places,
+they may decide to spend more or less money in some of
+them this time around. The mattress company may use data from
+the previous year to determine the mix of advertising for the coming year. They may have learned, for instance,
+that advertising on TV and social media really worked for them, but that there was little
+payoff from the ads on the radio. Often, this exercise comes with
+a detailed forecast of the sales they can expect based on the budget
+they plan to spend. This is where marketing
+analytics comes in. The more a marketer can rely on data and
+analysis in this phase, the better the results of
+their marketing will be. After marketing campaign is over,
+marketers will take a look back and ask themselves whether their
+campaign was effective. It helps them to learn more about
+what worked and what didn't work. But they're also doing it to report
+back to other people in the company. Marketers don't operate in a vacuum. They're given a budget, and
+management typically expects a report on how the budget was spent and
+how successful the marketing was. Evaluating the effectiveness
+of marketing and advertising is another crucial task
+the marketing analyst will help with. For our mattress marketer, there may be
+a quarterly management meeting in which the marketer reports the sales that
+resulted from the marketing campaign. The marketer may also use this opportunity
+to show data on the ads that worked best, the placement of these ads that generated
+the largest audience and sales, and so on. Showing that the marketing was effective
+is crucial for most marketers, as it will help them to get the budget
+they need for success in the future. Even after very careful planning and
+forecasting, things can always be improved. This is true with marketing too. Once a marketing campaign is up and
+running and you collect or gather data on how it is performing,
+there is an opportunity to optimize. And the more data you have, and
+the more you know about analytics, the better you'll be able to fine-tune and
+optimize your marketing. As soon as you get some information
+on how your ads are performing, you can use that information
+to adjust your marketing. Say for our mattress company, if you learn
+from the initial data that certain search engine ads are delivering more sales
+than others, you could decide to spend a bit more money on the ads that perform
+well, and less on the ads that don't. If you can take these kinds of actions,
+you optimize how your money is spent. Data and
+analytics are really powerful that way, and can save you quite a bit of money. Finally, there's a specific task
+of making sure that people who want to purchase a product or
+have shown an interest can easily do so. Marketers will refer to that as
+optimizing the sales funnel. That is because they think of
+the sales process in a few steps. For instance, you could think of
+the sales process in four steps. Awareness; or
+when a person first hears about a product. Then Interest; which is when a person
+is interested in the product and may try to learn a bit more about it. Then there is the Decision step when a
+person decides that they want to get your product. And then there is the Action step,
+when they buy your product. Marketers described this process
+as a funnel, because as people go through this process, some people drop
+off and don't take the next step. So when you draw the group of people
+that go through the four steps, the groups get gradually smaller. And when you put these groups together,
+it looks like a funnel. When marketers talk about
+optimizing the funnel, they really talk about reducing
+the number of people that drop out. Say for our mattress marketer,
+it's important that as many people as possible who are aware
+of the mattress become interested. And of the people who are interested, you want as many as possible to
+decide that they want your mattress. And then you want them to take action and
+buy your mattress. Since the marketer spends money on
+getting people to consider the mattress, they want as many people as possible
+to take all four steps and check out. Data and analytics will help inform marketers
+about how healthy their sales funnel is, how many people drop out and don't take
+the next step, and why that may be. As you can see, for almost all crucial
+tasks the marketer is engaged in, marketing analytics is essential. We summarized the main areas marketing
+analytics focuses on as identifying the target audience, planning and
+forecasting, evaluating marketing effectiveness, marketing optimization,
+and optimizing the sales funnel. In our next lesson, we'll walk you
+through examples of these tasks and how marketing analytics
+helps in each of them.

@@ -1,0 +1,72 @@
+Frequency
+Frequency is a fundamental part of descriptive statistics and is one of the tools you will use regularly as a marketing analyst. It tells you how often values occur in your data set. Frequency can give you quick and actionable insight into how your data divides into categories.
+
+Frequency: the number of times a value occurs in a data set
+
+For example, to determine whether gender is a factor for how your marketing appeals to potential customers, you may want to know how many of your actual customers are male and how many are female.
+
+Frequency Tables
+Frequency tables are often used in marketing analytics when the variables in question (like gender) are broken into categories (like male and female). Frequency tables give you a way to visualize the number of times each value in a set is recorded and is a great way to describe categorical data. Even numerical variables, like customer ages, can be categorized if you break them into chunks, like age groups.
+
+Let’s look at a basic frequency table that answers the question: How many customers subscribe to a service we offer? Suppose we have data for our customer population that assigns each customer to one of three possible subscriber status categories: active, expired, and nonsubscriber. Our frequency table simply counts the number of customers that fall into each of these three categories and tabulates the frequencies (the total number of instances for each category) like this:
+
+
+At a glance, this very simple table gives a lot of information. For example, because there are so many more non-subscribers than subscribers, it suggests to us that the sales funnel that turns customers into subscribers may need improvement! It also tells us that more customers have let their subscription expire than have kept it active, which could indicate that they were not satisfied with the subscription. Whatever causes customers not to renew their subscription also may be the same thing that keeps customers from subscribing in the first place. These are red flags that need to be investigated further—and we discovered all of this from a simple frequency table.
+
+The procedure for creating a frequency table is straightforward. Once you’ve determined a set of relevant categories to analyze for a particular dataset, it is simply a matter of counting the number of occurrences that fall into those categories. You can do this yourself, by hand, going through every line of your data and counting occurrences. But this becomes increasingly difficult and tedious for very large datasets, with hundreds or thousands of lines of data! Fortunately, we can rely on our spreadsheet software to help us out again. Spreadsheet software usually has a function that will comb through your data and count the number of occurrences for a specified category value. In Excel and in Google Sheets, that formula is represented by =COUNTIF(A:A,“Value”), where A:A is the spreadsheet column containing the lines of data you want to comb through, and Value is the category value or word that you want to count. Simply type the =COUNTIF(A:A,“Value”) formula into another cell of your spreadsheet and the number of times the value occurs will be displayed. Here is an example that counts the number of times the three categories—Active, Expired, and nonsubscriber—occur in the column of data that is labelled “Subscriber Status” (column A of the sheet).
+
+
+In this example, we used the =COUNTIF function to count the number of nonsubscribers in our dataset by entering =COUNTIF(A:A,“Nonsubscriber”) into cell G3 of our sheet. This combs through all the values in column A of the sheet, which contains the data for “Subscriber Status,” and counts the number of times the value “Nonsubscriber” occurs in that column. The number of occurrences is then displayed in cell G3. Note that there are in fact 500 lines of data in column A of this sheet (even though our picture only shows 23 of them), and our =COUNTIF function combs through all of them looking for occurrences of the specified value. Thankfully we don’t have to comb through those 500 lines of data by hand! Also notice that we have counts for the occurrences of “Active,” in cell E3 of this sheet, and of “Expired,” in cell F3. Can you figure out exactly how the =COUNTIF function was used to display those counts in those cells? This is a good example of how you can use the =COUNTIF function in Excel and Google Sheets to create frequency tables.
+
+Contingency Tables
+Contingency tables are a slightly more advanced form of frequency table and can give you a lot of information about your data. If you use them carefully, you can answer very specific questions about your audience, and their behaviors, and use those answers to improve your marketing efforts. But what are contingency tables exactly? They are a type of frequency table that allows you to look at multiple categorical variables at the same time. This will give you a more fine-grained view of your data. Here’s an example:
+
+
+This table is similar to the basic frequency table we looked at above, but this time we are looking at two sets of categorical variables—subscription status and gender—rather than looking only at subscription status. This means we have a dataset of customers who are identified by subscription status and gender, and our contingency table counts the number of customers who fall into each combination of categories, such as male customers who are nonsubscribers, or female customers whose subscriptions have expired.
+
+The example data shown in the contingency table above might prove interesting for our marketing analysis: notice how male customers, though fewer in number, are more likely to subscribe but also much more likely to let their subscription expire. We also see that there are more female customers, but they are less likely to subscribe. If they do subscribe, however, they are more likely to keep their subscriptions active. This tells us that the sales funnel that turns customers into subscribers should focus more on female customers, while campaigns for getting customers to renew subscriptions should focus more on male customers. You can understand from these relatively simple examples how much actionable information may be presented by frequency tables, especially as you investigate multiple combinations of data with contingency tables!
+
+The procedure for creating contingency tables is basically the same as that for a simple frequency table: decide which categories you want to determine frequencies for and start counting. The only difference is that now you are counting occurrences of value combinations (like subscription status and gender) rather than occurrences of a single value (like gender alone). For data that is collected into a spreadsheet, this means you will have to comb through multiple columns of data—for example, one column containing the subscription status data and another containing gender data—and count each combination of values. This is another task that spreadsheet software can do for you. In Excel and in Google Sheets, the task is accomplished by the =COUNTIFS(A:A,“Value1”, B:B,“Value2”) formula, where A:A is the first spreadsheet column containing the data you want to comb through, and Value1 is the first category value or word that you are looking for; and B:B is another spreadsheet column containing the additional data you want to comb through, with Value2 as the second category value or word that you are looking for. The =COUNTIFS formula will count the number of times it finds a row of data with Value1 in column A along with Value2 in column B. Simply type the =COUNTIFS(A:A,“Value1”, B:B,“Value2”) formula into a cell of your spreadsheet and it will display the number of times that combination of values occurs! Have another look at the contingency table above. Can you tell which cell is defined with the formula =COUNTIFS(A:A,“Expired”, B:B,“Female”)? Answer: It’s the cell that displays the number 8.
+
+Contingency tables are not limited to two variables. In fact, you can add as many variables as you like to a contingency table, but the tables can quickly get complicated and harder to read. Let’s look at the previous example again but, this time, also consider whether age is a factor. Here’s a spreadsheet with the contingency table that captures all three of the categories we now want to consider: subscription status, gender, and age.
+
+
+This sheet illustrates how we can use the =COUNTIFS formula to count combinations of the three variables—just add the third column and value inside the parentheses of the formula. So, in this example, we counted all the occurrences of male customers, between ages 21-30, with expired subscriptions and displayed that count in cell I5 by entering the =COUNTIFS(A:A,“Expired”, B:B,“Male”,C:C,“21-30”) formula into that cell. You can notice with this example how your contingency table will become more complicated with every additional variable you add to your combination, so that you’ll have to include significantly more cells of frequency data, which means more =COUNTIFS formulas to display your frequency counts. In this case, we have to enter thirty different =COUNTIFS formulas to capture all the frequency data we’re looking for.
+
+
+Correlation
+Besides frequency, correlation is another measure that is often used in marketing analytics to evaluate potential connections between variables. Specifically, when we evaluate the correlation between two variables, we are measuring how much those two variables are related to one another.
+
+Correlation: how two variables are related
+
+For example, if you are working on an e-commerce website, you may want to know whether there is a correlation between how long someone stays on a page and how likely they are to buy something from that page. Or you may wonder: Is there a correlation between how many web pages a customer visits and how much they end up spending?
+
+Scatter Plots
+A key tool for visualizing the correlation between two variables is a scatter plot. A scatter plot is a simple visualization that compares two numerical variables by using a dot to represent each data point. These data points are determined by treating corresponding values of the two variables as coordinates on a graph. Here’s an example: 
+
+
+This is a scatter plot that compares the number of purchases a customer makes with the amount the customer spends per purchase. The dots form a rough line that is sloping from the upper left-hand corner to the lower right. This shows that, in general, the more purchases a customer makes, the less they spend each time. Note, we are not saying that one of these numbers is causing the other; we are only saying that there is a relationship between them, and as one changes so does the other. The plot suggests a fairly clear correlation between the two variables, amount of purchase and number of purchases, because there is a clear trend in the way the data points cluster around a line that slopes from the upper left to the lower right. This is not always the case.
+
+Sometimes there is no relationship between two variables. When that’s the case, there will be no line on the chart and the dots will be scattered at random. Here’s an example:
+
+
+In this case there is no trend in the plotting of the data points. The dots are scattered all over the graph. This is because there is no correlation between the plotted variables. 
+
+Here’s one more example of a scatter plot that shows a correlation:
+
+
+This scatter plot is similar to the first scatter plot above, that compared the amount of purchases with the number of purchases, in that it also shows a clear trend in the way the data points cluster around a line. But in this case the trend slopes from the lower left to the upper right. This is the opposite direction from what we saw in the first scatter plot above. This difference is described as negative correlation (in the first case) versus positive correlation (in this second case).
+
+When a scatter plot shows a trend line that goes from the upper left to the lower right, this shows a negative correlation, because as one variable increases, the other decreases. When a scatter plot shows a trend line that goes from the lower left to the upper right, it is a positive correlation, because as one variable increases, so does the other. And, as we saw above, when a scatter plot shows no trend at all because the data points are scattered at random, then there is no correlation at all.
+
+Correlation Coefficient
+Besides distinguishing between positive and negative correlation, we also measure correlation by degrees. What that means is that we have a way of saying precisely how much correlation exists between two variables. We can do this by calculating a correlation coefficient for our dataset. The correlation coefficient is a numerical value, ranging between -1 and 1, where -1 represents a high degree of negative correlation and 1 represents a high degree of positive correlation. Of course, there is the 0 point in between, which represents no correlation in the data! Here’s a typical correlation coefficient scale used to describe the amount of correlation indicated by a calculated coefficient:
+
+
+There are many different scales, but a safe guide is that anything below -0.7 or above 0.7 is high correlation. Anything below -0.5 or above 0.5 is a medium correlation, below -0.3 or above 0.3 is low correlation, and anything between -0.3 and 0.3 is no correlation.
+
+So how can you come up with a correlation coefficient for a dataset? Once again, your spreadsheet software will usually have a formula you can use! In Excel and Google Sheets, the formula that will calculate a correlation coefficient for you is the =CORREL(A:A,B:B) formula. In this formula, A:A is a spreadsheet column that contains the data for the first variable you are comparing, and B:B is a column containing the data for the second variable. Here’s an example of this formula in action:
+
+
+
+In this spreadsheet, the =CORREL formula in cell D3 compares “Number of Clicks” (column A) and “Number of Items Purchased” (column B) and calculates a correlation coefficient of 0.883. What does this number say to you? Is there high, medium, low, or no correlation between number of clicks and number of items purchased? If there is correlation, is it positive or negative correlation? Can you visualize what a scatter plot might look like for this data set? These are all questions we’ve learned to answer in this reading!

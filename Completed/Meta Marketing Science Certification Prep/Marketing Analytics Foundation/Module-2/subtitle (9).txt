@@ -1,0 +1,60 @@
+So far, you've learned
+about several ways in which marketers can access data
+related to online behavior. We talked about web server logs, cookies, pixels, and tags. Everything we described
+so far has been related to data collected from interactions with websites. As you know, a lot of the online user behavior
+happens on mobile devices, and a large portion of
+mobile activity is on apps. Apps are different
+from websites, and tools like cookies, pixels, and tags don't work
+in the same way on apps. Of course, we can still get
+data related to app usage, but we need to use different
+tools to collect the data. That's where SDKs come in. In this video, you'll learn
+what that's all about. SDK stands for Software
+Developer Kit. You can think of it as a toolbox
+for software developers. The toolbox contains
+code developers can install to help
+create applications. In some ways, you can think
+of it as a library of ready-made code that makes the life of the
+developer easier. Instead of having to manually code every piece of
+an app, for instance, they can plug in pieces
+of ready-made code from an SDK to achieve
+certain functions. Here's an example: I'm sure
+you've downloaded apps on your phone where
+you were asked to log in with your Google
+or Facebook account. That makes it easier on you as you don't need to
+create a new login. The developer of
+that app would have used an SDK to make that work. Instead of manually programming
+a way for you to log in, developers would use
+the Facebook SDK, which has code they
+can implement in their app to let you log in with your Facebook
+credentials. It's a bit like copying
+and pasting code. The code inside the Facebook SDK is especially written
+to make it easy for outside developers
+to integrate their applications with the
+Facebook functionality. Many platforms like
+Facebook provide an SDK for a number of
+different functions. You could use an
+SDK, for instance, to allow people to use certain
+filters in their images, or to create a smooth check-out when buying a
+product, and so on. SDKs exist for all kinds
+of software development, not just for mobile apps, but they are definitely heavily used by mobile
+app developers. But what does this have to do with data about user behavior? Well, when you use an SDK from an advertising platform like Facebook or Google for instance, then you'll have the option
+to connect data from your advertising to actions that happen in your mobile app. Imagine you have a gaming app. You may decide to
+use the Facebook SDK so your users can log in with
+their Facebook credentials. By having your users log in with their Facebook ID using the SDK, some data is sent
+back to Facebook. This makes it
+possible for you to see things like
+whether people who saw an ad on Facebook for your gaming app,
+download your app. And, you could even see
+whether these people are more likely to
+make in-app purchases, like purchasing extra powers inside your game, for instance. The code in an SDK could
+instruct your app to send certain information over to the platform that
+created the SDK. That data can then
+be connected to other actions marketers
+take using the platform, like advertising, for instance. As a marketing analyst, it's good to know that SDKs
+are the way to go when you need to connect marketing
+platforms to your app. Most likely you won't need to install any of this
+code yourself. But, it helps to know
+that you can ask your developers to build
+in some code that can help you track the
+connection between your advertising and the actions
+people take on your app.

@@ -1,0 +1,11 @@
+Welcome to the second week in our
+course on data analytics for marketers. This week will delve into the use of
+analytics for planning and forecasting. As a marketing analyst, you'll often be asked to support
+budget estimates and requests where you have to help management justify
+the money they plan to spend on marketing. And help them predict the outcomes. Having a structures approach to planning
+and forecasting will help you with that. In our first lesson, will discuss
+the descriptive metrics marketers commonly use and we'll discuss how to create
+dashboards and assess trends in the data. In our second lesson will
+look at an important metric, customer lifetime value and
+how it's calculated. And in the third lesson we'll look at
+forecasting using regression analysis. We've got a lot to cover. So let's get started.

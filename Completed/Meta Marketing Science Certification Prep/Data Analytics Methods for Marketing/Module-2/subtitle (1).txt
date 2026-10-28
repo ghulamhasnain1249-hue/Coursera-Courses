@@ -1,0 +1,45 @@
+We're ready to get started
+with this week's lesson. We'll start by talking about
+the sales funnel as it is the backbone of all the metrics we're discussing in this lesson. A sales funnel, also called a purchase funnel
+or revenue funnel, is a way to visualize your potential customer's
+first interaction with your brand all the way
+through to repeat purchase. The sales funnel is shaped
+like an inverted pyramid because there are more users at the top of the
+funnel than the bottom. There are different
+versions of the funnel, but the basic structure
+is as follows. The top of the funnel is
+often labeled as awareness. This should indicate the user is aware of the brand or product. Next is interest,
+understanding or discovery. The mid funnel is often
+the hardest to quantify, but it should
+indicate the user is interested in or understands
+the brand or product. The third stage of the funnel is generally called decision
+or consideration. This is where the user considers their options and begins
+to make a decision. Next is conversion or sales, where a user actually purchases. After sales comes
+loyalty or repurchase, which may come in the form of multiple purchases
+or a referral. It's important to note the
+B2B and B2C funnel may look different as B2B often has a longer lead time and
+may include more steps. The funnel is important because it gives
+marketers a way to visualize the journey
+a customer takes on the way to purchase
+and repurchase. The marketer's goal is
+twofold: on a micro level, moving an individual user
+from one stage to the next; and on a macro level, moving as many people
+as possible through the funnel by increasing
+conversion rates at each step. Marketers can use the funnel
+to optimize each step of the funnel from
+click-through rate to lead rate to conversion rate. As we talk about
+return on investment, return on ad spend, and customer profit, you'll want to keep
+the funnel in mind. How can we optimize
+the purchase funnel to attract more customers
+and have them repurchase? In our second video, we'll look at descriptive
+versus predictive metrics, understanding what
+each is good for and why they're both valuable
+in different ways. Then we'll explore
+the importance of and the difference between
+return on ad spend, return on investment,
+and customer profit. We'll shift gears in
+the next video and discuss key performance
+indicators, good dashboard development, and how to create better reports. By the end of this lesson, you'll be able to use KPIs
+like return on ad spend, return on investment,
+and customer profit in your dashboards and
+reports. Let's get into it.

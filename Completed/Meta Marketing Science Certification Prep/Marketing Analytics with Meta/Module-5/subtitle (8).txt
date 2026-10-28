@@ -1,0 +1,39 @@
+Descriptive and Validation Metrics
+0:01
+/
+3:26
+So far we’ve seen how the analysis method you choose will be influenced by the hypothesis you want to test. In this reading, we’ll review the experimental methods Facebook offers and what to keep in mind in order to use them successfully. 
+
+Experiments in Facebook 
+There are three types of experiments you can use to test your Facebook campaigns. 
+
+A/B testing: lets you compare two strategies with one another
+
+Use A/B testing to make quick, tactical decisions about which advertising strategy to use, such as a creative or placement. 
+
+Conversion lift testing: lets you evaluate the effect of your advertising campaign on conversions
+
+Conversion lift tests can also help you learn the cost per incremental conversion, or how much you spent to generate one additional conversion. 
+
+Brand lift testing: lets you evaluate the effect of your advertising campaign on brand metrics
+
+Brand awareness is one example of a brand metric that brand lift testing can help with; you can also use this experiment to test recall.
+
+Depending on the question you’re trying to answer, you might run one or a combination of these experiments. 
+
+Experiments using Facebook and beyond
+In the previous section, we summarized some experiments you can conduct using only Facebook data. However, there are even more tests we can perform when we branch out a little and use data not only from Facebook, but other platforms as well. One method allows you to do just that. The OSEMN framework consists of different steps for analyzing your data: obtain, scrub, explore, model and interpret.
+
+Obtain: Sometimes the data you need for an analysis exists in different places, such as a Facebook campaign and a Google campaign that had similar goals. These data need to be combined, and there are various steps and tools in order to obtain and organize the data properly. 
+
+Scrub: Next, you’ll want to clean up your data so that you can begin to analyze it. This can look like filtering out data that is meaningful for your goal or correcting issues such as missing or duplicated data. You’ll also have to reconcile the results across different measurement solutions. 
+
+Explore: Your third step is to summarize your data with descriptive statistics, such as mean, median, mode or range. Which model you’ll choose depends on the hypothesis you’re trying to test. As an analyst, you won’t always be the one to come up with the model, but you’ll often be given a dataset as input and to use a given model for the output. 
+
+Model: For this step, you’ll validate your analysis. In other words, you want to make sure your analysis is good quality or that the data your found fits your model. Depending on how confident you’d like to be in your analysis, there are several validation methods to use such as R-squared, T-statistic, F-statistic or Durbin-Watson. 
+
+Interpret: Visualization is the key for this fifth and final step. Presenting your findings in a graph or other visual will help you communicate any relationships you found among the data. 
+
+Using the OSEMN framework will have you well on your way to conducting experiments using data from multiple sources, as well as presenting the findings and insights you gain from your data. 
+
+There’s on right or wrong way to analyze your data, it just depends on what questions you’re trying to answer. Happy analyzing! 

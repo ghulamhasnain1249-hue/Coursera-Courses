@@ -1,0 +1,66 @@
+While marketing mix modeling is an
+established measurement solution that can clearly be very useful to
+optimize your marketing mix. There are a few challenges
+you should be aware of and keep in mind as you use or
+recommend using this analysis method. First, as you saw as we walked through
+how marketing mix modeling works. It involves collecting a lot of data and
+if you want a high-quality analysis, you'll need high-quality data
+to conduct an MMM analysis. You need a long historical data
+window we said how ideally you use data from at least two years back. But typically models are built with
+data from even a longer period of time. For MMM to work well, you also need enough
+variation in the data for each variable. If there isn't much change in the variable
+over the time period you're looking at. The variable will not be much of a signal
+and its influence will be hard to model. Even if you expect that variable to
+change a lot more in the future. MMM measures the impact of
+different variables on a result. For instance, sales, for the model to
+work well the impact of the independent variables you are looking
+at should be substantial. In other words, you should expect that
+the variables change your result a lot. If that is not a case,
+it's hard to derive with enough confidence what the impact was of
+the different variables. MMM is great for
+saying what every factor contributed and whether channel X did
+better than channel y. But MMM is not great at deriving more
+granular insights from specific campaigns. For instance, MMM is not right tool to
+understand whether one ad placement was better than another. MMM is a combination of art and
+science, conducting the analysis means an interaction between a team of
+modelers and an econometric model. It's an iterative process where the
+modelers try to keep improving the model by altering the variables
+that serve as an input. When creating MMM you're heavily reliant
+on the team of modelers making good decisions when building the models. Modelers need to understand
+how your business works, and collaboration between client and
+modeler is critical for success. That's where your role as a marketing
+analyst comes in by understanding how the process works. You're in the best position to guide it. MMM does not help you within
+channel optimization. MMM is good when it comes to
+getting insights to help you set your budget across channels. But it does not help you to optimize
+your budget within a channel because of that limitation,
+it often optimizes media spent. Without questioning whether we
+maximized within the media channel, for example, let's think
+about Calla and ivy again. Imagine that there MMM shows that
+their Facebook investment did not have as much impact as the pay per click
+campaigns they ran last year. As a result, the model recommends spending
+more money on pay per click next year and reducing the investment on Facebook. But what a model doesn't know is that
+Enra could have chosen better creative assets for her Facebook campaign and could have done a better job
+defining her targeting parameters. Had she optimized these variables, Facebook might have had a much
+higher impact than pay per click So there would have been a better
+optimization option than what a model recommend. Estimating the future
+based on data from the past can be hard as we saw MMM
+uses historical data. Models based on historical
+data are of course useful but not 100 accurate at estimating the future. With MMM you are attempting
+to replicate a real world and you can get pretty close
+relying on historical data. But it's a fast changing world, especially
+when it comes to digital marketing. So the assumption that historical
+data from 2 to 3 years ago applies seamlessly to the future. Isn't always correct, and then also struggles with
+short-term changes in strategy. If your company goes through a substantial
+change the marketing mixed model, you have may no longer apply. Finally, marketing mix models
+take a long time to build and building them is expensive. The process to build a marketing mixed
+model can easily take six months, and once you have a model, you have to refresh
+it regularly with new historical data. As a result, MMM is mostly used by
+larger companies who have the means to run this type of analysis. In cooperation with the research agency
+that specializes in this sort of modeling. In our next course, in this program will
+discuss how there are new developments related to marketing mix modeling that try
+to help overcome some of these challenges. So MMM becomes more feasible
+as an analysis technique for smaller companies and
+companies who want faster results. In the next lesson, we'll look at attribution as a different
+way to optimize your marketing mix. Attribution is mainly
+focused on online channels. It uses a very different approach,
+but the results are more immediate. I'll see you there.

@@ -1,0 +1,39 @@
+Data driven decisions is
+a term we hear more often as companies and leaders use it to define their
+strategic choices. But what type of
+data do they mean? In this video, we will
+explore the variables that represent the quantitative data frequently used in
+decision making. Quantitative variables
+can be measured and assigned a meaningful
+numerical value. Quantitative variables are measurable and meaningful
+numbers like height, weight, or age, unlike numbers
+assigned to categories, such as one for blue
+and two for green. Quantitative variables
+can be broken down into two categories, discrete
+and continuous. First, let's talk about
+discrete variables. A discrete variable has a certain number of particular
+values and nothing else. In other words, a discrete
+variable can only take specific values
+like whole numbers with no values in between. Examples of discrete variables include the number of
+books on a bookshelf. The number of books has to be a whole number since you can't have three
+and a half books. The second type of
+quantitative variable is a continuous variable. A continuous variable is
+a variable that can take an uncountable set of values or an infinite
+set of values. In simpler terms,
+this means that a continuous variable can take
+any value within a range, including fractions or decimals, allowing for an infinite
+number of possible values. For example, the temperature in a room could be 22.5
+degrees Celsius, 22.55 degrees or any
+value in between. Now, here comes the tricky part. Certain variables
+can be continuous or discrete depending
+upon how you use them. A prime example is money. Counting money to pay
+at a gas station is discrete because you
+deal with exact amounts, including cents, but not
+fractions of a cent. Gas prices at the pump are continuous because
+they can include decimals like 3.579 per gallon, which includes nine
+tenths of a cent. By understanding whether
+data should be treated as countable units or measurable quantities with
+infinite possibilities, we can better analyze and interpret the information
+at our disposal. Remember, in statistics,
+the key is knowing the nature of numbers and how they relate to
+the real world.

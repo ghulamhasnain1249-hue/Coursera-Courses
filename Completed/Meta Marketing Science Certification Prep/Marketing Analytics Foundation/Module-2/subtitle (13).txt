@@ -1,0 +1,78 @@
+There are different ways in
+which data is collected online. Different methods serve
+different purposes. And in this video we'll walk through an
+example of how these different methods can be used in a real life scenario. For the scenario, I'll refer to our
+florist in Amsterdam, Calla & Ivy. Imra, the owner of Calla &
+Ivy, is introducing a new product, a flower subscription. People can subscribe on the website or
+on the Calla & Ivy app to receive a flower
+delivery every month. It's a way for people to get the fresh
+flower bouquets Imra is known for delivered on a regular basis and
+add some seasonal color to their homes. As the first step in making
+the product available, Imra and her team created a landing page
+on the Calla & Ivy website where they explain what is included in the
+subscription and where people can enroll. When people click to enroll, they provide
+all their details for shipping and payment. It's important to Imra and her team to
+track the appeal of this new product. She wants to know how many people
+check out the landing page and how many people subscribe. In theory, she could get this
+information from her web server logs. Remember, the web server logs keep track of
+all the interactions between people and the website. But in practice accessing and
+going through those logs it's not easy or practical. Instead, the team at Calla &
+Ivy tracks website traffic and website behavior using Google Analytics. For Imra and her team to use Google
+Analytics to see the interaction of people on their website, they first need to add
+the Google Analytics tag to the website. This tag or pixel is a piece of code that
+gets added to every page of the Calla & Ivy website, which sends information
+over to Google Analytics. The information sent by the tag includes
+things like how many times the landing page for
+the subscription service was viewed, how many people clicked on
+the subscription button, how many people filled out
+the subscription information and so on. Google Analytics sorts all this
+information in neat reports that help Imra to understand whether
+the new product is a success and whether its popularity is growing. From studying the Google
+Analytics reports, Imra learns that many people
+visit a landing page but far fewer subscribe. After discussing
+this with her team, they decide that it may be a good idea to present people
+who hesitate with a coupon on their next visit, making their first
+bouquet free when they subscribe. To make this work,
+Imra decides to use a cookie. Now, when people access the Calla &
+Ivy website, a cookie or a piece of formatted text,
+is added to their browser. It stores information about
+a user's visit to the site and it stores whether people accessed
+the page that describes the subscription. Now, when people leave the site and
+come back at a later point, the cookie will help recall that this
+person had already been to the site and had shown an interest in the subscription. If that is the case, a large overlay
+with the coupon comes up on the page the user is visiting, encouraging them
+to subscribe and get the free bouquet. Calla and Ivy also has an app that makes
+it easy for people to order flowers or subscribe, monitor and
+manage their subscription. Of course, Imra wants to understand the behavior
+of people that use the app as well. So, her team installed
+the Google Analytics SDK. Remember that an SDK or software developer
+kit is a library of different pieces of code that you can integrate in your app
+to make certain functions possible. By installing the Google Analytics
+SDK, the interactions of people with the app can be sent to Google
+Analytics so Imra can get a full picture of all the online usage,
+whether on the app or on the website. On the website,
+she can use the Google Analytics tag, but on the app that doesn't work,
+hence the SDK. For those people who live in Amsterdam, there's a good chance that they dropped
+by Imra's physical store to buy flowers. In some cases, people may learn about
+some of the new seasonal bouquets from ads the marketing team is running on
+Instagram. Instead of clicking on the ads to buy online,
+they decide to buy the flowers in person. Imra's marketing team is eager
+to connect the dots here. They would really like to know how
+effective their ads on Instagram are and they want to count all the resulting
+purchases, not just the purchases that happened online. That's where
+the marketing team relies on an API, or a system that lets them
+connect two pieces of software. In this case, they connect their
+instore customer management software to the Facebook API. That way,
+every time a purchase is made in-store, data can be sent to Facebook.
+Based on some information that may be known about the purchaser,
+like the email address for instance, it may be possible to link
+the purchaser to a known Facebook user Id. Imra's team can then assess whether
+the purchaser saw an Instagram ad and may thus have been influenced
+by that ad to make a purchase. This information is important to
+the marketing team to have access to, so they are able to better understand
+their ads' effectiveness. This is just a brief view into
+what may go on in a company and its marketing department on a daily basis. And as you can see, data plays a crucial role in many tasks
+that get executed on a regular basis. Marketers rely on different methods
+to get to the data they need. As the program goes on, we will refer
+to many of these methods again, and we will provide you with more
+examples of their daily use.

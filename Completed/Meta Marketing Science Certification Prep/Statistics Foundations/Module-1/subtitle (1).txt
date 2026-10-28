@@ -1,0 +1,29 @@
+Hi, and welcome to Statistics Foundations explicitly designed
+for Data Analysts. This course is tailored
+to equip you with the statistical tools necessary for insightful data analysis, moving you from making
+assumptions about data to data driven strategies that
+make a substantial impact. Statistics is a
+pivotal tool that enables analysts to
+decipher complex data, spot trends, and model
+future outcomes effectively. This comprehensive course is structured into five main parts, each intended to be
+completed over a week, culminating in a hands
+on capstone project. In the first week, we'll explore descriptive statistics to
+help you understand and summarize your data and provide quick insights to
+answer preliminary questions. The second week introduces
+inferential statistics, which allows you to
+make predictions and generalizations about
+a large dataset from a smaller sample. This is essential for
+effectively scaling analysis and is foundational
+in any analytics work. Week 3 focuses on experimental design and
+hypothesis testing. You'll learn how to set up
+and analyze experiments, interpret the results, and recognize common pitfalls
+and data analysis. The fourth week is particularly exciting as we explore
+data modeling. We'll cover various models, their applications
+and how to choose the right model for
+your data scenario. We'll conclude in
+the final week with the Capstone project that integrates all of the
+concepts you've learned. Throughout the course,
+I will guide you through each concept
+with step by step explanations and
+relevant examples to ensure you learn and apply
+these skills effectively, so let's get started.

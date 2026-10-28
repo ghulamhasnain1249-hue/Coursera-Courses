@@ -1,0 +1,54 @@
+Facebook lets you set up brand lift
+studies directly on its platform. In the previous video,
+we saw how you can create a test. And in this video, we will discuss
+the results and how to interpret them. 48 hours after the test stopped running,
+the results become available. Here's what results for
+our brand survey test look like. The result summary shows you
+the increase in percentage of people who recalled your ad. In this case, there's a 13.9
+point increase in brand lift. In other words, the percentage of people in the test group
+who recalled your ad was 13.9 points higher than the percentage of people that
+recalled the ad in the control group. This number is calculated by subtracting
+the percentage of desired responses observed between the test group and
+a control group. In this case, that is 21.8% minus 7.9%. You may have expected the number of people
+in the control group who say they saw your ad to be 0. After all, the control group is
+the group you did not serve your ad to. This usually isn't the case though. In surveys like this, where you ask
+people whether they recall seeing an ad, some people will say yes
+even if they didn't. This could be because they remember
+your brand from other exposure or they just think they saw it,
+but in reality they didn't. You also get a cost per brand lift,
+which reflects how much it costs you in advertising spent for each additional
+person who gives a desired response. You also see the total brand lift or
+the estimated number of people that are likely to respond favorably to your
+brand as a result of your advertising. Facebook lets you compare the results of
+your brand survey test to other tests in your region. For instance,
+other tests conducted in North America. This helps you evaluate how strong
+your results are as compared to average results seen in other tests. Not that in this case, we also get
+results for two other polling questions, a brand awareness question,
+and an intent question. Just as with conversion lift tests, the results also tell you what
+the confidence level is for your results. In this case,
+the confidence level is 99.9%. This means that if you were
+to run the test again, there's a 99.9% chance that
+your results will be the same. A confidence level of 90% or higher is
+good, ideally you shouldn't go below that. That means your test isn't
+as strong as it could be. And as we indicated in our previous
+lesson, if the confidence level for your test isn't very high, you can try to
+run your test longer or you can increase the budget for your campaign which could
+help to increase the effect it has. When we discussed conversion
+left tests on Facebook, we talked about how Facebook uses
+randomization in certain experiments. Facebook will randomly assign people
+to the test versus control group. And once people are assigned to a group,
+they will stay in that group. So for people who are assigned to the test
+group, but who happened to miss your ads, the tests will still assume they
+received your treatment or saw your ad. So you can rest assured that the
+experiment used to run a brand lift test is well designed. If you or your company spent
+a considerable amount of money on brand focused campaigns, it's always a good
+idea to build in brand lift tests. So as an analyst, you may want
+to encourage that practice and work together with the marketers
+who run the campaigns to make sure that they plan on including such a test. If the results show that your campaign
+was effective in lifting brand recall and other brand metrics, then you'll know
+that creative, your message, and your audience selection worked for
+your brand. But if you see that there is no or
+only a weak effect, you may want to advise the marketers
+to make changes in the campaign. Maybe the message could be stronger or maybe the campaign was directed
+to the wrong audience. Next week, we'll learn more about how ab testing
+can help you to optimize campaigns.

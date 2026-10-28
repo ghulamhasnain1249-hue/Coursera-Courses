@@ -1,0 +1,47 @@
+Data visualization is crucial
+to any marketing analyst. It doesn't matter if you
+found a formula to create a perfect ad campaign
+or solved world hunger. If you cannot communicate
+results of your analyses to the people who make
+decisions in your organization, your data means nothing. You can try to show your
+spreadsheets or raw data, but often the person
+you are reporting to does not have the
+background to understand it. Showing a single
+clear visualization can explain more than
+a long-winded speech. There are several ways to
+create visualizations. You can make them
+in a spreadsheet or directly in Python by
+using programming codes. But mostly, marketing analysts
+use software that is specifically designed
+for creating visualizations like Power BI, or Qlik and Tableau. We will cover how to create visualizations in Tableau
+later in this course. For now, I just want to show you some examples of visualizations so you know what they can do. When we think about
+visualizing data, there are probably a few common
+charts that come to mind, like bar charts, pie charts, line graphs, and so on. These simple graphs
+can be very helpful to explain what's going
+on in a set of data. But there are also some
+less common ways of displaying data that can
+be incredibly powerful, because they capture data
+in an intuitive way. Let's look at a few examples. Tableau has an area on
+its website where people upload their visualizations
+to Tableau Public, and Tableau Public
+publishes a Viz of the Day with some of the most
+remarkable visualizations. Note that most of these are
+fully interactive dashboards, and many of them have several
+pages of visualizations. So what you're seeing here is only the tip of the iceberg. Definitely worth checking out. There are visualizations
+on every topic. Here's a visualization of tweets celebrating International
+Women's Day, creating a stunning visual that gets the
+reader's attention. This is a visualization
+reporting Google Trends data to
+show what people were interested in through
+2020 and allowing you to capitalize on marketing
+opportunities or even try to predict
+the next trend. Perhaps you would like
+to know about trends in holiday consumer
+spending and see functional market
+data in action. Or you may want to trace the orbits of Earth and
+Venus for eight years, which looks at a data in an original way and
+creates a stunning visual. No matter the topic, visualization can
+be a powerful tool that every marketing
+analyst should have. If you're interested, you
+should check back with the Viz of the Day gallery
+regularly at public. tableau.com/gallery.

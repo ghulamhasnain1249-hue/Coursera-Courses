@@ -1,0 +1,32 @@
+So far, you've learned about the important outcome
+variables marketers focus on and how
+to calculate them. We saw how to find segments to help us determine
+our target audience, and you learned how you can use regression to help you
+plan and forecast. We also covered the
+different ways in which you can analyze
+the effectiveness of a campaign using observational or
+experimental methods. But as you can imagine, marketers need to look
+beyond one campaign and they often juggle different campaigns and actions on
+different platforms. It's great to evaluate
+the effectiveness of each of those
+actions individually. But you also want to understand
+how all these actions and efforts work together to ultimately help you
+reach your goal. Which of your ads was
+most influential? Where should you allocate your precious marketing dollars? Which parts of the sales funnel are affected by my actions? All of these are very common and
+important questions that marketing analysts
+help to answer. This week, you'll learn about different optimization
+techniques and you'll finish with a new
+set of tools that you can apply in your
+role as an analyst. In this first lesson, we're going to focus on
+marketing mix modeling, a technique that
+brings historical data from marketing actions in
+different channels together, and through iterative modeling, helps you understand how much each of them influence
+your results. Then we'll look at attribution, which also looks
+across channels, but it's often used to evaluate
+digital channels only. Attribution analysis is a
+bit more immediate than marketing mix modeling and uses a different approach
+to building a model. Finally, we'll look at how you can analyze
+your sales funnel to understand how your company is performing at the awareness, consideration, and
+conversion stage and what that could mean for
+your marketing optimization. Another full week, so
+let's get started.

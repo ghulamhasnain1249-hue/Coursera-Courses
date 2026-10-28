@@ -1,0 +1,44 @@
+Essentially I use data modeling every
+day because before I conduct any analysis we always have to model the data. Because the data comes
+from disparate sources and this includes things like the flat files. We have data coming from Google Analytics,
+from Salesforce, we have data coming from Google Ads platforms, so
+we have data coming from everywhere. But at the end of the day we need to
+model the data to create a relationship with the data for
+also actually be able to analyze and also get more insight on the overall
+perspective of the result. And also when we have to create dashboard,
+if the data is not modeled together then there's going to be some type of hiccups
+like the data not talking to each other. We're creating the dashboard in order for
+it to serve as a source of truth for the data that comes from
+disparate sources and the dashboard stays as an holistic
+centralized platform. Whereby we're going to like see
+the result of every data coming from the different sources. I won't say I have a favorite analysis,
+I conduct a lot of descriptive and predictive analysis. But for the descriptive analysis
+I think from time to time, not just with marketing,
+I think everyone in analytics field, we conduct a lot of root cause analysis. And this is essential because
+from time to time when we analyze maybe using time series and
+all, you see how the trend, we see the deep or we see an outlier or
+anomaly in like any KPI metrics. And that result us conducting
+trying to diagnose and see the reason or
+the factors that impacted the metrics. So it can either be a deep or a spike,
+but at the end of the day, once that is kind of signaled as an outlier then
+it needs to be further investigated. And that's where I conduct
+a lot of root cause analysis, finding out what caused the dip in
+like 15% decrease and click through rate what causes the deep or the spike
+in like sales and all that stuff. So yeah, it is a must. Predictive analytics is
+like done from time to time. However, it's more useful in
+marketing when we want to allocate marketing budget effectively, just to have idea of the future
+outcome and that way we can allocate. But once it's deployed, the campaigns
+are deployed, we continue with the descriptive part because we want to
+see how the data results into sales, which is always the final goal. Absolutely, I think it's very important. I know a lot of marketing
+analysts that feels like, hey the data only comes from Google Ads,
+comes from the individual platform, that doesn't really until you writing
+sequel code to extract the data. But in the era of big data which is what
+we are where you find yourself in like Fortune 500 companies. The data doesn't only reside or
+lives in the marketing vendor platform. It lives in the data warehouse as
+well as the relational database. So it's very important to know how
+to model your data for you to be able to create relationship across all
+the data coming from disparate sources, and also for your analysis to provide
+all results in an accurate result. So yeah, it's very important to
+know how to model your data, and no matter the tool you're using for
+your BI. Be it Tableau, Power BI, they all give you the capability to model
+your data before you structure analysis.

@@ -1,0 +1,40 @@
+In this video, we're going
+to look at how to create contingency tables
+in spreadsheets. A contingency table counts two categorical
+variables and puts them into a table format to easily identify overlaps between
+the categorical variables. For our dataset, we'll use the status of the home
+sale and whether or not the home has over
+three bedrooms as our categorical variables to
+understand if more homes are pending sale or for sale that have less than three bedrooms or if more homes might
+be pending sale or for sales that have
+more than three bedrooms. To create our table, we're going to highlight the
+data in both columns B and column C. Then we're going
+to insert a pivot table. You'll notice because
+I highlighted the data before I went to insert
+pivot table that the correct data range is identified in this field
+of the pivot table. Then I'm going to
+select "Create". You'll notice I have a
+blank contingency table at this point that I need to tell the spreadsheet
+what data to use. We're going to go to rows and we're going to
+select Status for our rows and it will populate the three different
+statuses for home sales, for sale, pending
+sale, and sold. Next, we're going to add the columns as our other
+categorical variable. You'll see that there's
+an indicator of over three bedrooms
+as no or as yes. Last, we're going to add
+our values for status. When we add our
+values for status, it's already separating out those variables that are
+indicating yes or no. So the way we read this table is that for the status for sale, five of the homes in for sale status do not have
+over three bedrooms. Three of the homes in pending sale status do not
+have over three bedrooms. Nine of the homes in for sale status have
+over three bedrooms. Then the grand total column is being calculated
+from adding the number of homes in no to the number of homes in yes for
+over three bedrooms. You could change this table by switching the rows
+and columns differently, but the data would
+look the same, and it would be interpreted
+the exact same. So the order that
+you select the rows or the columns of a
+contingency table aren't necessarily
+crucially important to differentiate
+between when you're trying to make the selection. That is how you make contingency tables
+using spreadsheets.

@@ -1,0 +1,39 @@
+What is segmentation?
+Segmentation is a great tool for marketing analysts because it is a way for you to find your audience and speak to them with the most relevant message possible. Marketers will often rely on analysts to help with using segmentation to the fullest. Segmentation is a way to sort people into groups based on shared characteristics, which can help you create marketing messages tailored to them and those characteristics as well as where those messages can appear, such as Facebook and Google. There are a couple of different approaches to segmentation to potentially employ, which we’ll explore in the next section
+
+What are some of the approaches to segmentation?
+Data-based segmentation
+In this module, we distinguished between two different categories of segmentation: segmentation developed from a persona and segmentation based on data analysis.  We focused on one very commonly used data analysis technique, but there are many more that can be used to guide your definition of segments.  
+
+K-means clustering
+The most common form of segmentation is developed from data analysis, usually via k-means clustering, but other statistical analyses work here as well. Most of the lessons in this module focus on this approach because of how commonly used it is. Essentially, k-means clustering focuses on finding similarities in the data you’ve collected and grouping that data based on those similarities. This is a predictive approach to segmentation because it allows you to identify patterns, habits and other key data points in order to anticipate what customers are most likely to do in the future. 
+
+The key is finding a balance between the number of clusters and how actionable their insights are for your marketing purposes. Too many clusters isn’t practical.  You would have different segments with very specific attributes and you’d miss commonalities among the groups.  Too few clusters would make customers who might be significantly different from one another part of the same segments, and you’d miss an opportunity to tailor your message. This can feel a bit random because you’re choosing data points to center a cluster around then testing how good your random choice was then improving from there, but this method is also very in-depth and relatively fast to execute.
+
+Latent Class Analysis
+Another commonly used method is Latent Class Analysis.  Rather than relying on an arbitrary number of clusters determined by the researcher, Latent Class Analysis lets the data speak and finds a model of an underlying (latent) structure in the data.  The goal in Latent Class Analysis is to find a model  whose patterns closely match with your data. If the model can match closely with your data, then it’s more likely that the latent structure of the model matches the reality of your data.  The model’s underlying structure can then be used to define clusters within the data. Then, every subject in your dataset is assigned a probability of belonging to the identified clusters.  
+
+In a way, Latent Class Analysis is a closer representation of reality.  Consumers can indeed belong to different segments, but they will ‘best fit’ with a certain segment.  In other words, consumers may have characteristics in common with many different groups, but they are characterized most by one segment.  
+
+Latent Class Analysis is commonly used in machine learning and targeting algorithms, but it tends to be more complex to execute on large datasets. 
+
+Persona-based segmentation
+Segmentation based on a persona is developed from a fictional profile of a person that you feel represents your audience. This persona can be created based on quantitative or qualitative data that you’ve gathered from surveys, focus groups or simply talking with your clients. 
+
+Once you’ve created your persona, you can then choose characteristics about that persona that will matter to your marketing efforts. Essentially, ask yourself what elements make up this persona and which ones are most relevant to my campaign? Sometimes, elements will really matter, sometimes they won’t. For example, age is one of the most common and easy-to-collect elements of a persona, but it might or might not be relevant to your particular campaign based on your product, service or brand. 
+
+Elements of segmentation
+As the previous section outlined, there are two different types of segmentation that you can utilize to organize your audience and better market your business. In either method, you’re using various characteristics to define and therefore send the best message to your target audience. These characteristics are defined using the following variables: 
+
+Demographic, including factors such as age, gender, education level and income
+
+Psychographic, which are values, motivations and beliefs
+
+Geographic, which considers not just physical location but also factors such as climate and population density
+
+Behavioral, encompassing patterns such as product usage and spending habits or even the actual behaviors themselves
+
+Of course not every single characteristic is valuable as a variable, and some are harder to define than others. Still, it’s helpful to keep these in mind, parse and define them for your target audience in order to create messages that really attract their attention and encourage the behaviors you’re aiming for. 
+
+Describing and using segments
+Once you have your segments, you’ll want to describe them in a way that makes the people in each segment or cluster similar to each other but different from the other segments you’ve created. This is called profiling. For example, age is not only a characteristic that can be used to segment your audience, but also a great descriptor because it is a unique enough variable to describe that group. That being said, a segment might also be described with a couple different characteristics within that group. For example, in lesson two, we took Calla & Ivi as our segmentation model. Imra was able to sort her audience into three different groups, each with an age range and geographic location. By sorting her audience in this manner, Imra was able to pinpoint more information about her clients that was valuable in creating a few different personas for people to market to: urban design enthusiasts, efficient suburban families and rural traditionalists. Once she had these profiles, she was able to create marketing messages that would appeal to each one. Like Imra, you can use segmentation to better understand your audience, organize them into useful profiles and create marketing campaigns that will reach them the best. 

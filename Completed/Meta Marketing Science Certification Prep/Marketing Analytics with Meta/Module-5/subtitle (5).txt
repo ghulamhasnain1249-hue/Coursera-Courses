@@ -1,0 +1,27 @@
+The Facebook Marketing Science Study Guide
+0:01
+/
+2:21
+So far you’ve learned quite a bit in this course! We’ve explored Facebook’s Ads Manager and how you can use it to manage your ad campaigns. You’ve learned the ins and outs of lift testing, as well as A/B testing to evaluate the effectiveness of your campaigns and adjust them accordingly. You’ve even learned some basic data analysis methods such as SQL and Python. You’re well on your way to start an entry-level role as a marketing analyst, so remember that Facebook offers several certificates, including the Facebook Marketing Science Certification. After you’ve completed the five courses in this program, you’re well prepared to take the exam and get certified. We will cover all the practical information around taking the exam in the next course.
+
+Let’s first take some time to review some key concepts and skills! In fact, Facebook offers its own 
+study guide
+, upon which this lesson is based. Below are some of the main elements you can review using this study guide. 
+
+Skills you’ll need for the exam
+Assess your data and hypothesize
+There are two things you’ll need to assess before starting any analytics task: 
+
+The goals of the analysis and what KPIs will be used to measure them
+
+The data you have access to and its source
+
+You can use the SMART goal template to help you with the first point. You’ll use your own judgement and the parameters of the project at hand to decide which data to use and from what sources for the second point. From here, you’ll come up with a hypothesis about a behavior or other element of your campaign.
+
+Recommend measurement solutions and perform an analysis
+In this step of the marketing process, you’ll ask yourself what methods you’ll use to confirm or reject your hypothesis from the previous step. There are several tools and techniques you can use to choose your measurement methods, which can include cross-channel reach reports, attribution or marketing mix modeling. 
+
+Generate insights and make data-driven recommendations
+In this final step, you’ll be asked to generate some insights based on the data you’ve collected and organized. This will usually look like a visualization of some kind. Then, you’ll make recommendations on campaigns and other marketing activities that are driven by that data. 
+
+Check out the study guide for more information!

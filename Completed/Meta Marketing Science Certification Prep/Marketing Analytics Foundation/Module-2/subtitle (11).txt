@@ -1,0 +1,64 @@
+We've gone through many different
+methods that help marketing analysts collect data
+related to online behavior. And before we look at an example of
+how all these different methods can be applied, there's one more concept I
+would like to cover, that is the UID. UID stands for Unique User ID. It is a unique text or
+number string that identifies a person and it is created when the user logs in. So there are Facebook UIDs,
+Google UIDs and many others. There are also device IDs associating a
+unique person with a device like a phone, for instance. When you create an account
+on an online platform like Facebook, Google, Amazon and so on. You provide them with some information and you create a log in, a user ID, and
+a password. Let's say you create an account
+with Google for example. Google will create a text or number string
+to associate with your unique account and link that string to
+the information you provided. This text or number string is your unique
+ID, in this case your Google ID and it will help the company
+associate data with your account. Now, no matter through which browser or
+device you access Google, all your behavior can be associated with that
+ID as long as you're logged in. That's super helpful as it enables
+the platform, in this case Google, to connect what you do on your computer
+with your usage on mobile for instance. So anywhere you use your Google log in, your behavior can be stored and
+linked to your Google ID. For publishers or
+platforms that use UIDs, it helps them to overcome some of
+the challenges they face when they use cookies. Remember that cookies are stored in the
+browser but sometimes people use different browsers or they access a site on a computer
+and later again on a mobile phone, for instance. The UID makes it possible for publishers to link behavior from
+a person on different browsers and on apps so
+that it's possible to get a clearer and more complete picture of
+the users across platforms. With a UID, interests, behaviors,
+demographics and other information can be stored. Anytime a person logs in,
+behaviors can be associated with them. In the introduction to this video,
+I also refer to device IDs. These are also important for
+marketers. In both iOS and android, an ID is stored in
+the settings of the device and that ID can be accessed by
+advertisers if the user allows it. When users interact with
+advertising in an app and they have opted in to share their
+device ID with advertisers, it makes it possible for the advertisers
+to advertise to you across different apps. That way, they can show ads and track behavior on one app, like
+Instagram for instance, and then use that information to advertise to
+you while you're using a different app. This type of tracking used to be
+a default setting in most phones. Nowadays, apps on Apple devices have
+to prompt their users to ask for permission to track their behavior and
+use that data across apps. You may have seen this message pop up on
+your phone when you are opening an app. It specifically asks you whether you
+are okay with this app tracking you and sharing your data with advertisers. This is a recent effort by
+Apple to protect users' privacy. It's important to note that UIDs
+use a number or text file, but they don't store personally
+identifiable information. Personally identifiable information
+is any information that would help someone to identify a person,
+like your name for instance. You will hear marketers
+also refer to this as PII. Actually these days, most companies go through a lot of
+efforts to protect your personal data. Companies that work with online data
+will often use data hashing for that. In data hashing, the original
+data item gets translated into a hashed data item by applying
+an algorithm. As a result, what's stored is unrecognizable unless
+you have the hashing key, another algorithm that lets you reverse
+the data back to its original form. This is an extra safety measure to
+help keep people's privacy intact. Now you know the main ways in which
+behavioral data is collected online. We looked at web server logs, cookies,
+pixels or tags, SDKs and APIs. And now you also understand what UIDs are. That was a lot to cover, and these
+concepts can be a bit confusing at times. Don't worry. We'll repeat them again in
+other parts of the program and gradually their different applications
+will become increasingly clear. In the next lesson, we'll go through
+an example of how a company might use all of these different
+ways to collect data. It's a good opportunity to
+further practice these concepts. I'll see you there.

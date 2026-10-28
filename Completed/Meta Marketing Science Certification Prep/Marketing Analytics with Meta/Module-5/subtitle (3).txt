@@ -1,0 +1,48 @@
+Once you have a clear idea of the business
+goal and the KPIs you will use to measure whether the goal is achieved and
+you've assessed the data. It's time to think about how you
+will approach your analysis. Researchers often do this by
+formulating a hypothesis in which they specify which variables they
+believe will affect the outcomes. A hypothesis can then guide the analysis
+and help explore and model the data. Formulating a hypothesis, especially important if you
+plan to run an experiment. In that case the hypothesis will make
+it crystal clear what your treatment variable is going to be in which outcomes
+you will focus on in your measurement. A hypothesis is a statement or a proposed
+explanation as a starting point for further investigation. It's an idea or an explanation that you
+can test through study of your data or to experimentation. A strong hypothesis includes
+the following elements. Who or the audience on the study. What or the behavior of that
+audience that you are evaluating. Where, the location you're
+evaluating this behavior in. When, in what time frame you're
+looking at the behavior. And why, the rationale for
+the anticipated audience behavior. Let's look at an example
+of a strong hypothesis. For that, let's go back to Calla and
+Ivy, the flower store in Amsterdam. Imra plans to run an advertising campaign
+to increase the traffic to her website, her hypothesis is as follows. Ads targeted to women
+between the ages of 35 and 64 who are interested in interior design
+and live in cities in the Netherlands will increase visits to the website
+during the month of August. In this hypothesis, the who is
+women between the ages of 35 and 64 interested in interior design. The what is website visits. The where is cities in the Netherlands. And when is during the month of August. If you plan to run an experiment,
+you will want to further fine tune your hypothesis and formulate what we
+refer to as a test hypothesis. A test hypothesis is
+a proposed explanation for an observation you can test,
+usually in the form of if/then statement. A test hypothesis includes a null and
+alternative hypothesis. The objective is to test if the null
+hypothesis can be rejected and the alternative can be accepted. Let's go back to our hypothesis
+Imra formulated for Calla and Ivy. A test hypothesis for
+Imra could look like this. The null hypothesis would be that
+advertising on Facebook does not increase website visits. And the alternative hypothesis would
+be that advertising on Facebook does increase website visits. And Imra plans to set up an experiment
+where she will test whether advertising on Facebook increases website visits to
+try to reject the null hypothesis and accept her alternative hypothesis. A test hypothesis also
+specifies an anticipated relationship between an independent and
+independent variable. In other words, you specify the affect
+an independent variable will have on an outcome, the dependent variable. In our example, the independent
+variable is advertising on Facebook and the dependent variable is website visits. And the hypothesis specifies
+a relationship between advertising on Facebook and website visits. In this case, Imra plans to use her
+experiments to evaluate the effect of this one variable,
+advertising on Facebook on website visits. It is possible to test the effect
+of more than one variable, but it makes for a more complex test. Formulating your hypothesis
+will make it clear for you what data you need and
+what you will need to look for. This information will also help you
+determine which measurement methods you should use. Let's look at how you can use your
+hypothesis to select your measurement method in our next video.

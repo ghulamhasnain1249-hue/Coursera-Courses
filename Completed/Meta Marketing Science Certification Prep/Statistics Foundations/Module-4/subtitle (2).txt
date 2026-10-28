@@ -1,0 +1,47 @@
+Data shapes our day from our morning
+routine to our evening wind down. It helps us find patterns like
+the link between coffee and work performance, or
+steps taken in overall well-being. In the commercial world,
+sales data sharpens business tactics and patient data refines care
+approaches in healthcare. Statistical models are key tools
+that convert this information into actionable insights, guiding decisions
+in everyday life and critical sectors. In this video, we will explore
+examples of common statistical models. First, let's review the definition
+of linear regression. Simple linear regression
+is a versatile model for measuring the relationship
+between two variables. In data analytics,
+it is usually used as a predictive model. For example, Carlos, at Enu and
+Neko, has a record of how much they have spent on Facebook ads and how many
+times the ad banners were clicked. A simple linear regression tells you
+the past data to predict future outcomes. Using a simple linear regression,
+Carlos can see that if he spends a certain amount of money on Facebook
+ads next month, he can expect to get around a certain number of clicks
+based on data he has from the past. In this way, he can determine
+precisely how much he wants to spend on advertising to
+achieve his desired results. Another common model used in data
+analysis that we're going to explore is cluster analysis. A cluster analysis is a common
+statistical model that groups similar items into clusters
+based on shared characteristics. Essentially, it identifies patterns and data by organizing items with
+similar characteristics together, which can reveal natural groupings and
+trends, or classified data points into different
+categories based on their attributes. Let's look at an example
+of a cluster model. Amara, from Cala & Ivy, wants to
+better understand her customer base so she can target her marketing efforts to
+groups with specific interests or needs. However, plotting data on their
+customer base might result in a scatter plot that doesn't tell
+them much about their customers. Clustering will mathematically break
+this plot down into groups or clusters. Amara can then see specific
+subsets of her customer base so she knows how to target her
+next advertising campaign. The last model we will explore
+is a time series model. The time series model uses
+a time series analysis, a statistical technique that
+analyzes a sequence of data points, typically measured at successive points, to identify trends, cycles, and patterns. This analysis helps forecast future
+values based on historical data. It is often used in economics,
+weather forecasting, and investing. Lets revisit Enu and Neko for
+an example of this model. Carlos, from Enu and Neko, has kept track of his sales every day for
+the last three years. Time series analysis will
+allow him to forecast or predict his sales for the next month. With these projections,
+he can plan accordingly. These statistical models are going
+to help you confidently approach data as you'll be able to use the right
+analysis to give you the insights you need to make more informed
+data-driven decisions.

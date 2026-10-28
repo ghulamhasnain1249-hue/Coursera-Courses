@@ -1,0 +1,21 @@
+No one can be correct all the time,
+this is even true in statistics. Statistical tests are not infallible and
+can be incorrect. In this video, we will explore
+the two types of errors that can happen in a statistical test,
+type I and type II errors. The first error type is type I, using the roman numeral for
+one and capital letter I. This error happens when you wrongly
+reject the null hypothesis, believing there's a significant difference
+between groups when there isn't. In other words, the results of your
+analysis tell you that there is a significant difference between
+the groups when there is not. For example,
+incorrectly concluding that one website color leads to
+more sales than another. The second type of error
+is a type II error. A type II error happens when you
+accept the null hypothesis and reject the alternate
+hypothesis when you shouldn't. A type II error happens when
+you incorrectly accept the null hypothesis, missing a real
+difference between groups. An example is concluding that
+all tulip colors sell equally, when in fact, one color sells better. Most statistics are based on probability,
+which means at some level you're guessing. Sometimes you will get it wrong, and
+that's okay, all you can do is minimize the chance of being wrong by following
+the lessons we teach you in this course.

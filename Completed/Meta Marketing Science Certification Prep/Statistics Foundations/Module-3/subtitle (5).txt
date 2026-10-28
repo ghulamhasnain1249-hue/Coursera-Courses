@@ -1,0 +1,12 @@
+In the last lesson, you got
+an introduction to experimental design and hypothesis. In this lesson,
+you'll learn about hypothesis testing and AB testing and how they're necessary
+tools in any data analyst toolkit. First, you'll get an introduction
+to hypothesis testing, an AB testing, and
+the fundamental concepts behind them. Next, you'll learn about P-values,
+what they are, and why they are important. After that, you'll learn what
+confidence intervals are and how they can affect your conclusions. Finally, you'll learn how to actually
+run a simple hypothesis test using a spreadsheet. These are concepts that you need to
+understand in order to do your job as a data analyst on a practical level. A thorough understanding of these
+concepts will help you interpret your results correctly and
+take action on your findings.

@@ -1,0 +1,15 @@
+In any type of analytics, making a simple mistake that will
+invalidate all of your results is easy. Most of the time, people don't even
+know that a mistake was made, and important decisions are based
+on bad information. In this lesson, you're going to be introduced to some
+of the common mistakes in statistics. First, you will learn about bias,
+what it is, how it can appear when giving a survey
+outside of a familiar place or culture, how it can affect your results,
+and how to avoid it. Then you'll learn about false
+positives and negatives that may appear in your data, otherwise
+known as Type I and Type II errors. Finally, youll learn about assumptions. You'll learn the four types of assumptions
+typically made about an analysis and why it's important to ensure that
+the assumptions the analysis makes about your data are true. This lesson is not as technical as some
+others, but it is no less critical. Learning these lessons now, and
+learning them well will save you a lot of wasted effort when working
+with statistics as a data analyst.

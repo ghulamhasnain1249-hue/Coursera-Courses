@@ -1,0 +1,71 @@
+The real world is often messy because things do not fit
+neatly into categories. The same thing can
+be said about data. It doesn't always fit perfectly into the common
+distributions we expect. A dataset may resemble
+a normal distribution, but not exactly match it. In this video, we'll explore different data shapes
+you might encounter, such as skewness, kurtosis,
+and transformations. Let's start with a skew. Skew is when a distribution is leaning one way or the other. In other words, skewness refers to the asymmetry
+and a distribution. A distribution without
+skew is symmetrical. For example, in
+normal distribution, both sides are symmetrical. However, if your data
+has a positive skew, it means the bulk
+of data falls to the left trailing
+over to the right. It's called a positive skew
+because you end up with a long tail on the
+right or positive side. For example, a graph of puppy weights from a
+puppy food provider, survey might show most puppies
+are on the lighter side. Puppies are young and
+generally weigh less, so most of the
+weight will be low. However, some people
+may not switch to other dog foods until their
+pets are fully grown. You will still have
+a few dogs with much higher weights that will be part of the
+tail to the right. If your data has
+a negative skew, it means the majority of
+your data is on the right, with the long tail stretching in the negative direction
+or to the left. Returning to that
+previous example, this would be a dog food
+formulated for older dogs. Most of them will be heavier
+because they're adults. But you will still
+have a few dogs starting on adult food
+at a younger age or some that are just
+naturally tiny won't weigh any more than
+when they were puppies. Their lighter weights will
+form the tail to the left. Just as skew is the data
+being pulled left or right, kurtosis is when a distribution
+is pulled up or down. Positive kurtosis would make the graph look tall and sharp, like survey results showing most pets get neutered
+at a specific age range, with only a few
+outside that range. Negative kurtosis flattens
+the distribution, shown in a graph of dogs'
+ages at a grooming service, with nearly equal
+representation across all ages. There will be slightly
+fewer, very young, or very old pets, as pets need to be groomed
+throughout their lives. So they constantly
+get dogs of all ages. The odds of the next
+dog being groomed, being a specific age, are almost the same as the odds for any other age in
+the distribution. These are guidelines. Some equations will calculate the exact amount of
+skew and kurtosis, but you won't need to know
+those for your everyday work. We have previously
+mentioned that many statistical analyses
+require a normal distribution, but there is some wiggle room. If there is a little bit
+of skew or kurtosis, it can be considered normal
+enough to run analyses on. The question is, what can you do when you have
+an obvious skew? That brings us to
+transformations. Transformations are ways
+in which you can try to normalize your data
+or remove a skew. To transform data, you apply a simple mathematical
+equation to every value so that the data shifts and the numbers become a
+bit more normalized. You'll learn more about
+specific transformations and how to do them
+in a future reading. That said, sometimes
+transformations don't work. In addition, a transformation
+cannot fix kurtosis at all. In these situations, you
+can look for outliers. Outliers are data values more than three standard
+deviations away from your mean, which may skew your data
+to the right or left. Removing outliers has a chance
+of normalizing your data. Remember to check
+for these patterns before running analyses, now that you've seen
+how different shapes can occur in the data. If your data shape is
+too far from normal, or if transformations and
+outlier removals don't work, consider using
+statistical methods designed for non-normal data.

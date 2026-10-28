@@ -1,0 +1,108 @@
+Earlier, we went through getting survey
+data on our customers and creating clusters that can be used for a marketing
+campaign fine tuning for each group. Although, we have clusters created, it'd be helpful to better understand how
+each cluster differs from other clusters. If you recall from earlier, this process
+is called profiling the clusters. This is where we can think of the persona
+of a cluster based on the variables and features of individual
+data points in a cluster. Let's take a closer look again in
+the summary table that we've seen before. We go to Clusters and
+click Describe Clusters, and here we can see our summary table. Looking at the clusters, we can see
+the number of items, or I should say, number of data points
+that are in each cluster. And you can see for Cluster 3,
+it is definitely the most at 536. The next highest is Cluster 2, 389. You might also see that the age median is
+pretty close to each other for Clusters 1, Cluster 3, and Cluster 4,
+though Cluster 4 is the youngest. Cluster 2, however,
+is almost age median 40, so they tend to be the oldest in this group. We can also see that the two groups that
+spend the largest, at least on average, are Cluster 1 and Cluster 2 at 25,000 and
+20,000 respectively. We also see that the closest convenience
+store for Cluster 2 is about 10 miles away, and that's pretty far
+away when you think about it. These other ones, 3 miles,
+that's arguably still a decent ways away, but probably easy to do on a lunch break. And finally, we can also see that for
+Clusters 1 and Clusters 4 that the employer
+tends to provide lunch. And again, this is average,
+the most common. So not everyone in Cluster 1 is
+provided lunch, but most are. And then you can see for Cluster 2 and
+Cluster 3, they are not provided lunch. Looking at these values can be helpful,
+but it can be a little tough to decide
+exactly what you should do with it. Then that's where personas
+really can come in. In the case for marketing,
+you might consider Clusters 3 and Clusters 2 since they're
+relatively largest groups. You can especially see for Cluster 2, they're already spending quite a lot on
+snack wall for 20,000 dollars a year. We see that they tend to be a little bit
+on the older age compared to our other customers, and that they have
+a pretty far way to go to get lunch. Also, most of them don't
+have lunch provided at work. So you might think of Cluster 2 as
+an older group that has been spending a lot and it's not really convenient for
+them to get lunch. You might give this a special name just
+to kind of qualify a little bit more. You might look deeper into Cluster 2
+to see what other attributes in here. But based on this, you can kind of get a
+feel for what kind of customers these are. On the other end of the spectrum,
+we have Cluster 4 here, so there's about half as many in Cluster
+4 as there were in Cluster 3. So relatively smaller group compared
+to the rest, but still not too small. We can see they spend the least
+on snack wallet this past year. They tend to be the youngest, and then also they are the closest
+to a convenience store. And they are also more likely to be
+provided lunch by their employers. So you can probably get a feel for
+what this cluster is like. They're relatively young, they haven't
+been spending much money on snackwall, but also they have the most
+convenient ways to get lunch. Hopefully at this point,
+you can get a feel for how you might adjust your marketing
+campaign between just these two clusters. When doing this, we might give descriptive
+names to each cluster to remind us about how each cluster differs. We can do this by first
+closing this window, and then going up to our Clusters up here and
+clicking Edit Group. Assuming you already know
+the personas that you want to identify with these different clusters,
+we can go ahead and put those personas as the names themselves
+versus just Cluster 3, Cluster 2. To make it a little bit easier for us to
+work with those groups, we'll go ahead and click on a Cluster, rename, and
+then I'll rename it to its persona's name. And this might be over time
+deciding what you want, but here I'm just going to put some
+names that we've decided before. So we'll have Young and Hungry. And then for Cluster 2,
+we will have Season Spenders. Then for Cluster 4,
+we'll go ahead and have Fed Walkers. Then for Cluster 1, we'll go ahead and
+name them Always Hungry. Okay, and this is a little bit easier now
+assuming that you've already agreed on the names and personas for
+these different groups, but a little bit easier to understand when
+you're doing some more visualizations. With all of this, we can now take a closer
+look at the data using these clusters. Here's a quick visualization I cooked up
+in Tableau to help us visualize these different groups. So I went ahead and separated out if
+the business provides lunch or not. So if provided lunch,
+they're down on this row, and then if they didn't provide lunch,
+they are on this row here. And then you can see on the y-axis
+is the spent the past year, and you can see on the x-axis age median so
+as they get older in the age median, you can move across the x-axis. Closest convenience store moving
+across the x-axis and business size. So really, these are just six different
+plots, but I put them all together so we can kind of look at them all together. Now, you can already see there's kind of
+these different groupings and stuff, and that's something that we might
+notice as making segments and stuff. But since we use Tableau to create our
+clustering, we can actually use clustering to better understand where our clusters
+fit on these different graphs. So what I'll go ahead and
+do is grab clusters up here, and then drag it over to Color. And now, you can see here,
+we can see the different groups. And it's really obvious now is that,
+for example, our Seasoned Spenders and our Young and Hungry groups tend
+to be in this grouping right here, which basically doesn't provide lunch. So the employers don't provide lunch and you can see how they're
+different from each other even. So for example, the Young and
+Hungry tend to be younger, which is kind of what we expected. The Seasoned Spenders, we can see that
+they tend to spend a little bit more, because they're kind of up higher on
+this y-axis compared to our Young and Hungry groups. And then you can also see, for example,
+the closest convenience store, the Young and Hungry tend to be very close
+to a convenience store compared to our Seasoned Spenders clustering. And then also, looking at our other
+two clusters, we have the Fed Walkers. You can see the Fed Walkers down
+here seem not to spend too much. I can see on the lower
+end on the y-axis here, they are provided lunch from their
+employers, as well as the Always Hungry. And you can see Always Hungry, even
+though they are provided lunch, some of them are relatively close to a convenience
+store, some are not so much, but they still tend to spend the most compared
+to at least the Fed Walkers over here. So this hopefully can give you an idea
+of how you might use clusterings in your visualizations
+to better understand how you might approach marketing
+towards different groups. So at this point, hopefully, you can see
+the power of Tableau and how you can use it to better identify different segments
+in your data to do better marketing. We also saw that clustering was
+relatively straightforward. There's always some fine tuning and
+adjusting and stuff for your use case, but you can see that we didn't really have
+to think too much about the algorithm. Though, of course, it's kind of helpful to
+think about how this algorithm works so we can better understand what
+things we need to adjust. And I hope that this scenario
+has helped you understand and think about ways that you might use
+clustering in your future work.

@@ -1,0 +1,91 @@
+You may recall from earlier lessons how marketing analytics relies almost exclusively on sampling. This is because the evaluation questions that drive your marketing studies are typically focused on understanding the interests, behaviors, and purchasing preferences of a specific population—such as a population of typical customers. However, the logistics and cost of understanding the interests, behaviors, and purchasing preferences of a population increases as the size of that population increases and, usually, it’s simply impossible to survey every possible customer who might walk through your door! Luckily, a sound marketing analysis does not require information on every member of the target population. All you need is a sample, which is a carefully selected subset of the population that is intended to represent the whole.
+
+Sample: Carefully selected subset of a population meant to represent the group as a whole
+
+But how carefully you select your sample population is an essential consideration, because your marketing analysis will only be accurate if your sample data accurately represents your whole population. This is where the problem of bias comes into play for every marketing analyst.
+
+Bias refers to a flaw in experimental design or the data collection process, which leads to results that don’t accurately represent your target population. This means bias in your studies leads to inaccurate results in your marketing analyses. It’s important to be aware of the different ways bias may enter your studies, so that you can avoid them. There are many different kinds of bias but, in this lesson, we cover just a few that you are most likely to run into:
+
+Survey bias
+
+Culture bias
+
+Confirmation bias
+
+Observation bias
+
+Selection bias
+
+Let’s have a closer look at these five common biases.
+
+Survey Bias
+Survey bias involves several things you might do, usually by accident, that can skew the results of a survey.
+
+One example of survey bias is order bias. The order in which you give questions or possible answers presents an inherent bias. For example, people are more likely to select the first answer on a list than any other answer. Also, if you ask a question specifically about if they like your company at the start of a survey, it will be fresh in their mind that they just said they liked it, and they will be more likely to select your company over other companies in later questions. Luckily, most survey software today knows about this bias and has options to deal with it, like randomizing the order of questions or answers.
+
+Another type of survey bias involves leading questions. Leading questions are exactly what they sound like: they are questions worded in a way that leads people to a desired answer. An easy example is asking someone to compare two products. Imagine someone asking you: “Would you prefer this delightful product A or that disgusting product B?” The wording of the question clearly tries to influence the outcome. (Of course I will prefer something “delightful” over something “disgusting!”) This kind of bias can be avoided by reading through your questions carefully to make sure you aren’t accidentally leading the reader to a specific outcome.
+
+Also consider the survey bias known as recall bias. Recall bias happens due to the fact that people often can’t remember events from the past or they’ll omit details upon recall. This means that they may report events or memories incorrectly when asked on a survey. The occurrence of recall bias depends a lot on your participant’s ability and willingness to report accurately about past experiences. There isn’t a lot you can do to correct for their inability or unwillingness to do so. However, you can avoid questions that ask your survey participant to write down something they remember from the past. If you must ask questions about the past, keep them short, specific, and multiple choice.
+
+Culture Bias
+We all look at the world using the standards that we were taught in our own culture. This may not be an issue if you are only advertising locally, and appealing to people who share your own cultural perspective. But when you start to advertise to other cities, states, or countries, cultural bias quickly becomes a problem. To accurately represent your target population, you need to “meet them where they are,” and present your survey in a way that appeals to the cultural perspective you are surveying. There are a couple of things you can do to adjust for this, including:
+
+Making sure the people giving the surveys are from the local culture, or are at least very familiar with it.
+
+Making sure the tests are translated for intent and not just a direct translation.
+
+Using localization groups to make sure the data is appropriate for that area.
+
+Confirmation Bias
+Humans are wired to believe the things they expect to be true, even if their expectation may not be accurate. Put another way, the human brain seems to actively seek out things that prove its hypotheses right. Even subconsciously, your brain will pay more attention to things that fit your expectations and interpret your results in a more favorable light, and ignore things that don’t agree with your viewpoint. This natural tendency leads to the phenomenon we know as confirmation bias. For example, if you go out looking specifically for evidence that your company is the best in the world, you will probably find something that “proves” it, whether it’s actually true or not. Confirmation bias is a problem for analysts in any field and there is no easy way around it, since your brain is actively trying to “help” you prove what you want to be true. That said, try to be as objective as possible when you conduct a survey. Never go into your survey with a mindset that you are trying to prove one side or another. Keep an open mind and approach your work with curiosity and a healthy skepticism.
+
+Observation Bias
+People tend to act differently when they know they are being watched. This fact creates a problem for survey-takers known as observation bias. Obvious signs of being observed, like setting up a tripod in the room to record everything or having people in the back of the room writing things on clipboards, will make your participant feel self-conscious and often will skew your results. For example, if someone is being watched, they may give answers they think they should give, and not their true answers. To avoid this, try taking a less formal approach. Also, if you have any sensitive information to ask, let participants fill out a form in private and let them know that their data will be anonymized. By taking steps like these, your participant will feel more comfortable expressing their true feelings and opinions.
+
+Selection Bias
+As we noted above, the goal in sampling is to collect a sample that is a good representation of the general population. This means that the way you select your sample of survey participants is very important. You always need to ensure that you are not accidentally favoring some subsets of the general population over other subsets. When your selection of participants does favor subsets of the population, this leads to a survey bias known as selection bias. Selection bias happens when the sample is selected in such a way that it no longer represents the whole target population. The best way to avoid this is to make sure you use the random sampling techniques we learned earlier in this course, when we looked at the various forms of good sampling techniques.
+
+You now have a better idea of what bias is in general, as well as a few common biases to watch out for. We’ve also suggested some ways to avoid these biases in your surveys. That said, there are literally dozens of different kinds of bias, so if you are looking at your data and suspect that you have introduced bias somewhere, double check your work and consider having someone else look it over for you. Remember, results run on a biased dataset are worse than no results at all. 
+
+For a more extensive list of common statistical biases, we encourage you to look over the Centre for Evidence-Based Medicine’s “
+Catalogue of Bias
+”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We’ve reviewed a variety of considerations for how best to ensure that your marketing analyses yield accurate results. These considerations range from the steps involved in sound experimental design to ways you can avoid bias in your studies. Nevertheless, even when you are careful in gathering and analyzing your marketing data, possibilities will remain for occasional errors in your results. For one thing, you should remember that statistical analyses are ultimately based on probability, which means you are often working with educated predictions that assume a perfectly randomized population. But, as we’ve also noted in earlier lessons, the world does not always conform to such ideal conditions like perfect randomization. This means that there is always a small chance that your analysis of data may yield an error when determining whether your hypothesis is confirmed by that data.
+
+When you are testing a hypothesis, there are two ways your analysis could go wrong. On the one hand, you might determine that your hypothesis is confirmed by the data when, in fact, it is not. On the other hand, you might determine that your hypothesis is not confirmed by the data when, in fact, it is.
+
+When data seems to confirm something is true and, in fact, it is false, we call this situation a “false positive.” One of the errors you may encounter when testing a hypothesis is a false positive. But recall from our discussion of hypothesis testing and A/B tests how we usually frame our hypothesis tests in terms of the question: “Is there a difference?” So, in an A/B test, we are asking: “Is there a difference in results between option A and option B?” This question actually implies two possible answers, or two hypotheses:
+
+
+As explained in earlier lessons, we typically refer to the first hypothesis (H0) as the “null hypothesis.” We refer to the second hypothesis (H1) as the “alternative hypothesis.” Now, when we describe the type of errors we might encounter in hypothesis testing, we can explain them in terms of the null hypothesis and the alternative hypothesis. Specifically, for the first type of error we want to look at, a mistake occurs when our analysis leads us to mistakenly reject the null hypothesis and accept the alternative hypothesis, when in fact the null hypothesis is true. Put another way, we conclude that there is a difference (H1) between the options studied in our analysis when really there is no difference (H0). This kind of error is referred to as a Type I Error. 
+
+For example, if we think back on our simple study of the influence website color has on sales, which we considered in our lesson on experimental design, we suggested a hypothesis that said a blue website would generate more sales than a red one. We run our analysis and determine that the data says, yes, the blue site does generate more sales than the red one; but it turns out that the color does not really end up making a difference in sales (as revealed by other studies or future data). This would be a time that our analysis yielded a Type I error. We determined there was a difference between the options when, really, there was no difference. There could be a variety of reasons for the error. Maybe we misinterpreted the data, or maybe there was another factor besides color that led to a difference in sales. Whatever the reason, our study has yielded a false positive!
+
+False Negatives – Type II Errors
+When data seems to show that something is false but, in fact, it is true, this situation is known as a “false negative.” A false negative is another error you may encounter when testing a hypothesis. In terms of the null hypothesis (H0) and the alternative hypothesis (H1), this kind of error occurs when our analysis leads us to mistakenly accept the null hypothesis and reject the alternative hypothesis, when in fact the alternative hypothesis is true. Put another way, we claim that there is no difference (H0) when really there is a difference (H1) between the options studied in our analysis. Errors like these are referred to as Type II Errors.
+
+Let’s again take as an example our study of the influence of website color on sales. This time, we run our analysis and find the data suggests color does not make a difference in sales. But then we find that another study or new data reveals that, in fact, the blue website does tend to generate more sales than the red one. This would be a time our analysis yielded a Type II error. Our analysis suggested to us that there was no difference between the options when, really, there was a difference. In this case, our analysis led us to a false negative.
+
+
+
+
+
+

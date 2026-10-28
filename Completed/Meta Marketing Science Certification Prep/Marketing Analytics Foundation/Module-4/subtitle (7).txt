@@ -1,0 +1,14 @@
+Now we're going to wrap up
+our exploration of data and privacy in the data
+based advertising world. So far, we've taken a look at data and privacy from the perspective of
+a consumer and an advertiser. We discussed an advertiser's
+responsible use of personal data, the advertising ecosystem, and
+ownership of collected data. We also pointed out that regulators have
+stepped in to help protect consumers data. In this lesson we'll explore
+this in a little more depth. And we will look at a different laws and
+regulations that are in place, and that advertisers and analysts who deal
+with personal data, need to be aware of. We will start by reiterating the need for
+protection of user data. Then we'll look at some examples of
+regulations to protect consumers and their data. And we'll also highlight how advertisers
+and marketers have organized to help implementation of regulations,
+and to maintain the users trust. So let's get started.

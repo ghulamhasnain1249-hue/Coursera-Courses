@@ -1,0 +1,31 @@
+One of the crucial skills of a data analyst is understanding trends
+and patterns over time, such as fluctuations and stock prices or changes
+in weather patterns. In this video, we will explore
+how time series analysis helps us recognize
+these trends and cycles and data collected
+over time intervals, enabling us to make informed predictions and
+strategic decisions. Let's start by defining what
+time series analysis is. Time series analysis
+examines how quantitative variables
+change over time, often to forecast future values. Like the other models
+you have learned, time series analysis describes a broad category of analyses, but they all share a few things. First, they all need to use time as one of
+their variables. That said, time can be
+written in terms of days, weeks, months, or any
+other unit of time. As a best practice, you should gather data in
+the smallest unit you can. Next, we will discuss the most common assumptions used for time series analysis. First, we need to talk about
+the minimum amount of time. In time series analysis, it's assumed that
+the data covers a sufficiently long period to capture underlying patterns, trends, and seasonal variations, ensuring the model accounts for typical fluctuations
+and cyclical changes. The next assumption
+is dependence, and to meet this assumption, all observations
+should originate from the same source with new values recorded
+sequentially over time. Some time series analyses
+require stationarity, meaning the mean value should
+remain constant over time. For example, if
+financial data is analyzed over a period
+affected by inflation, the increasing mean
+could skew the analysis. If a plot of your data
+trends upward or downward, indicating a changing mean, this assumption isn't met. However, there are methods
+to adjust for this. Now, you should be able to describe the assumptions
+for a time series, which you can apply using statistical software to discover trends or patterns over time. Get ready for the next steps
+and start leveraging and analyzing real-world situations
+using this analysis.

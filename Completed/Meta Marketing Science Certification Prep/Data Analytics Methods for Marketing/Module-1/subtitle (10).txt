@@ -1,0 +1,90 @@
+Now that we've learned about clustering, we'll dive into a specific form
+of clustering called K-means. Let's start with what
+K-means is meant to do. K-means clustering groups
+similar data points and attempts to find underlying patterns. The starting point is a set of data
+points defined by the variables you're interested in. For example, variables here could be
+things like location and demographics. K-means is an iterative approach,
+where you start by randomly selecting K data points in your data set and defining
+each as the center of the cluster. Then you revaluate how good your
+random choice was and improve it. And the K-means clustering approach,
+you keep improving until you have found the center's the best
+split up your data in K clusters. So how does it work? First we need to define K. K is the number of clusters
+the algorithms should make, we'll discuss in depth how to
+determine K in a later video. For now let's say K equals four, meaning
+we will have four clusters for our data. Second, we need to establish four
+centroids at random in the data. This basically means that four data
+points will be randomly chosen and be assigned as cluster centroids. A centroid is the center of a data set. Once we've established these centroids,
+the third step we need to do is calculate the Euclidean distance
+between each point and each centroid. This will help us determine which cluster
+each data point should be assigned to. Euclidean distance Is the shortest
+distance between two points, in order to calculate Euclidean distance
+we will use the formula shown here. Given two vectors x and y,
+we take a square root of the sum of squared differences in their elements. Let's walk through it together. Say we have two data points,
+one at 3 and five and 1 at two and 2. First, we subtract X two from X one and Y two from Y one, so
+3 -2 and five minus two, giving us one and 3 respectively. From there,
+we need to square each of these so three squared becomes nine and
+one squared stays one. Then we need to add these two numbers
+together, so nine plus one equals 10. Finally we need to take the square root of
+10 giving us a Euclidean distance of 3.16. Going back to our example for step three, we need to calculate Euclidean distance
+between each point and each centroid. A data point will be grouped
+with the closest centroid or the one it has the shortest Euclidean
+distance to create a cluster. Once we've established these
+clusters then we come step five, we need to find the mean of each new
+cluster to establish a new centroid. In order to do that, calculate a mean
+of all X values in your cluster and the means of all Y values in your cluster. To calculate your new centroid, take the
+mean of all X values in your cluster and the mean of all Y values in your cluster
+that will give you your new X and Y coordinates. Once you've established a new center for
+your cluster, go back through steps three and five
+again until there are no more changes or less likely you from the maximum
+number of iterations. Now you have a set of clusters, great job. However, we have another step before we're
+done with this K-means cluster analysis. Step seven,
+we need to validate the data or in other words we need to evaluate
+how good our cluster analysis is. There are a couple of
+different ways to do this. First, we can look at the inside
+of the clusters to see how close together the data points are. This is called variance,
+variance tells you the degree of spread in your data set ideally the variance
+is low meaning that clusters you defined are tight and
+the data points are close together. There are two different variance formulas. When you have collected data from every
+member of the population that you're interested in, you can use the population
+variance formula as shown, you may recognize this formula. It basically looks at
+every data point XI and subtracts the population mean from it and
+squares that value. That calculates how removed that data
+point is from the mean you sum those values and divide them by the number
+of data points and that gives you the population variance but you may not
+have all the data for the population. Rather you may only have data for
+a sample. In that case you can calculate the sample
+variance, you can use the sample variance formula to create estimates or
+inferences about your population. Of course the formula is very similar
+you're just calculating it for less data points. Let's look at an example,
+say I have a sample of six random Numbers, 1, 3, 6, 8, 10 and 14. First, I need to find a mean of these
+numbers which I can do by adding all of the numbers together and
+dividing by the number of data points for our data set,
+we find out the mean is seven. From there, step two, we need to
+subtract the mean from each of our original numbers as shown here and then
+step three square each of those numbers. Once we square each of these numbers, we need to do step four where
+we add up all of those numbers. Finally, we need to divide by
+the number of data points in our case. Six to get the variance for your cluster. In this example, the variance for
+this number cluster is 18.67. Once we calculate the variance for each
+cluster, we need to go and add those up. Our variance goal is always to
+have the lowest total variance for all clusters as that tells us,
+that is the most compact clusters can get. Let's take a look at this image,
+here we have four clusters the bars represent the sum of
+the variance for each of the clusters. The cluster analysis was run twice and the second analysis came up with a cluster
+solution that has a lower total variance. So that would be the preferred solution. There are many different ways to
+validate a cluster analysis commonly used way to validate clusters
+is through the dunn index. Dunn index measures both
+the tightness of the clusters, but also how far apart clusters are ideally
+you want to maximize your Dunn index for any cluster analysis. This means that you found tight clusters with little variance inside
+a cluster that are also far apart, leaving little confusion as to which
+cluster a data point falls into. The formula for the dunn index
+is the minimum inter cluster distance divided by the maximum
+cluster size as shown on screen. Don't worry about the formula so
+much, but for now just remember that the higher the dunn index,
+the stronger your K-means clusters are. I've shown you many manual
+calculations here, but don't worry. When you run K-means you
+will use analysis tools, you can execute a K-means clustering
+in Tableau for instance, but it's good to know how it works as it will
+make it easier to understand the results. Now that we know how to create a K-means
+cluster analysis in theory we'll be moving on to practice more with
+K-means including determining how many clusters we should have in our design and
+naming our segments.

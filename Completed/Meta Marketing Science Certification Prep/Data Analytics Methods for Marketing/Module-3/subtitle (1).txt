@@ -1,0 +1,68 @@
+A lot of money is spent on advertising,
+in fact, eMarketer, a prominent research firm,
+estimates that the total global ad media spending in 2021 will reach
+more than $747 billion. But if you've already
+worked in marketing or have read some things about advertising,
+you may have come across this famous quote, half the money I spent
+on advertising is wasted. The trouble is, I don't know which half,
+John Wanamaker a department store Merchant and advertising
+pioneer set this in the 1,800s. But he also described two advertising
+challenges that still persists today. It's hard to know whether you've
+spent your money well and whether your ads have worked. In other words, measuring whether
+you're advertising is effective, isn't all that easy. But given how much money
+flows into advertising, it's important that we approach
+this question, with a lot of rigor. First, I think it's really important
+that we ask ourselves what we're really trying to measure here, and what do we
+mean with advertising effectiveness? Of course we need to go back
+to our objectives or goals, you may remember how in previous
+scores in this program, we defined smart goals for
+our marketing efforts. And how we decided on ways to
+measure whether we're making progress through key
+performance indicators or KPIs. Let's look at an example,
+remember Calla and Ivy the flower business in
+Amsterdam owned by Imra? The business started with a flower
+boutique in Amsterdam but now Imra has created a website, and is planning on
+selling her famed bookcase online as well. Imra established this smart goal to
+help her kick start that initiative get 10,000 website visits,
+during the month of May. This goal is specific, measurable,
+achievable, realistic, and it is time bound hence, a smart goal. Imra decided that she could evaluate
+whether she's making progress towards her goal, by measuring
+the number of monthly website visits, so that is her key performance indicators or
+KPI. Imra is running an advertising campaign
+to make people aware of her site and to encourage them to visit. To evaluate the effectiveness of this
+campaign, Imra would like to see whether the campaign has an effect on
+the number of monthly website visits. I could argue that I could
+count the number of clicks Imra gets on her ads a majority of people
+who click will land on her website so, that will tell me something about
+whether the campaign is effective. That seems very logical however,
+it would make us forget a few things. First, how about those
+people that saw the ad, but did not click at that time because
+they were busy reading an article. They did remember the name and
+the ad though, and later went to check out the website
+by searching for it on Google. Their visit is an effective
+of the ad however, I would not have captured that effect
+if I only counted the clicks on the ad. So using clicks alone,
+would underestimate the effect of my ads. When measuring ad effectiveness, you want
+to understand how much of your results was an effect of your advertising campaign,
+underestimating can be problematic. Often the results of a campaign
+drive decisions to spend more or less on the campaign in the future and you don't want to make those
+decisions off of a misleading result. Second, Imra may see someone's visit after they clicked on the ad
+as a result of seeing her ad. But what if that person already
+knew of her website, and would have visited the site even
+if they had not seen the ad? There's a chance that this person
+didn't need to see the ad and Imra's money was wasted on them. So in this case,
+I'm overestimating the effect of the ad. Measuring ad effectiveness also means
+evaluating whether your money was well spent. To prove that, you need to take into
+account what would have happened had you not advertised at all. Would people have come
+to the site anyways, maybe as a result of a previous
+campaign or a press article? So you see that we are immediately
+confronted with a few questions here. It's definitely true
+that digital advertising, has made measurement a lot easier as I
+can evaluate clicks purchases and so on, that resulted from an ad, but
+I still have to be very careful. As you saw from these two examples,
+relying on clicks alone can be very deceiving and
+it may lead us to the wrong conclusions. Digital advertising measurement is about
+more than counting clicks from ads. In what follows, we're going to
+explore different methods that will help us take these
+concerns into account. And we will describe ways in which
+advertising effectiveness measurement, can lead us to conclusive results.

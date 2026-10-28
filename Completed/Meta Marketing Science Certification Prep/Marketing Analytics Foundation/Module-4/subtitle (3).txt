@@ -1,0 +1,12 @@
+We're continuing to explore
+personal data and privacy. In the previous lesson,
+we started with the consumer perspective, we took a look at what data
+consumers frequently provide and how they can take ownership
+of this information. Now we'll take a look at the advertiser
+side of the equation and what advertisers need to keep in mind when
+working with data consumers have shared. First we'll look at what it means
+to be a responsible advertiser. Then we'll explore
+the advertising ecosystem and all the different parties that will touch
+user data and carry some responsibility. And finally, we'll talk a bit more
+about who owns and manages the data. I'm excited to get started so
+see you in the next video.

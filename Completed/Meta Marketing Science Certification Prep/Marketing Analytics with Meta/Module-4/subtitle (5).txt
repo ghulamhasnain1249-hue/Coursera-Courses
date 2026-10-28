@@ -1,0 +1,68 @@
+You now know what A/B tests are, when you can use them, how to create them on Facebook, and you can interpret
+your results. I would like to
+conclude this lesson by telling you a little
+bit more about A/B tests on Facebook and the methodology that
+is used to run them. A/B tests are a
+form of experiment. So far we've seen two other
+types of experiments you can run on Facebook: conversion lift tests and brand lift tests. We saw that conversion
+and brand lift tests can be used to evaluate the effectiveness of
+your advertising. A/B tests however are used for quick tactical decisions regarding your
+advertising strategy. They're also quite
+a bit cheaper to execute as you don't need to set aside as large of a budget as is required for
+the lift tests. Both conversion lift and brand lift tests use a control group. People are randomly assigned to either your test
+or control group, and after the test
+you can evaluate the difference in results
+between both groups. A/B tests do not use
+a control group. In other words, there is no group that does not
+get to see your ad. Instead, people are
+randomly assigned to two different groups:
+the A and the B group. The A group sees a
+different version of your ads than the B group
+and the difference in results between group A and B leads us to conclude
+which ad is the winner. But it's important to realize
+that people are assigned to the A and the B
+group in random way, and once assigned to one of
+these groups they will only see the version of the ad
+associated with their group. Just as with the other
+experiments on Facebook, an A/B test is carefully
+planned ahead of time. You have to set it up before your campaign
+starts running. Now you might wonder why would
+you set up an A/B test and why you wouldn't just set up different campaigns
+in ads manager. See how they perform and
+then manually switch off the campaign that is
+performing the worst. Switching campaigns of
+manually in Facebook before a campaign
+has ended may lead to inefficient delivery
+and unreliable results as it won't let the Facebook optimization algorithms
+run their course, hence you may end a campaign that might have
+performed better after all. Also A/B testing helps
+ensure your audience will be evenly split and
+statistically comparable, while in formal testing can lead to overlapping audiences. Let's run to a quick
+checklist that can help you prepare for an
+A/B test on Facebook. Facebook advise us to
+run the A/B test for 1-2 conversion cycles
+or at least two weeks. Before deciding on a winner, makes sure the test has ended. You should also make
+sure that the budget for both campaigns you test
+is exactly the same, and it should be high enough so that tests
+can be conclusive. Facebook advise us a minimum
+weekly ad set budget that's equal to 50 times the
+one-day cost per action, and a conservative minimum
+weekly ad set budget must be equal to 100
+times the average CPA. When it comes to the
+creative you're testing, it's good practice
+to always include prominent branding and
+a clear call-to-action. That will give you most results and that will make
+for a better test. As with other
+experiments on Facebook, you should minimize
+the overlap of the audience included
+in your test with audiences for other
+campaigns you maybe running as that may
+contaminate your results. For similar reasons, you should also consider
+a dark period pre and post your A/B test where
+you don't run any ads. That way, results
+from either your A or B group won't be influenced
+by other campaigns. Keep those best
+practices in mind and you can run a
+successful A/B test. I encourage you to
+use this test it really helps to improve
+your ad campaigns.

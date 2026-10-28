@@ -1,0 +1,35 @@
+In this video, we're
+going to create a frequency table
+using a spreadsheet. You'll notice that in our
+home selling prices dataset, we have added a
+column titled Status. This column indicates
+the current status of the home that is for sale. The current status
+choices are pending sale, meaning that someone has
+put in an offer, for sale, meaning that there
+have been no offers, or sold, which indicates it's been sold in
+the past 30 days. We want to create a frequency
+table to understand how many houses in this
+neighborhood are pending sale, for sale, or sold recently. To do so, you're going to
+go to the Insert menu, and you're going to
+select "Pivot table". You're going to notice that it automatically populates
+the data range. Here, it's looking at all
+data between column A, row 1 and column D, row 22. However, I only wanted to
+look at the status column, which is column B. So I'm going to edit
+these to represent column B. Insert to new sheet
+is a best practice. Leave that selected at New
+sheet and click "Create". It is now taking
+you to a new sheet with a blank frequency
+table to be populated. You're going to want to go
+to Rows and select "Add". You'll notice at Add, we can see the
+correct variable we wanted to create the
+frequency table using. Select "Status". You'll notice that that
+populates the left-hand side of the frequency table with the different status
+choices in the column. Then you're going to
+want to go to Values, and we're going to want to add the status into the values. What this does is it
+counts up how many for sales statuses are in the column B for status,
+and there are 14. There are five pending status
+and two that are sold, giving us our grand
+total of 21 total homes, which matches the data in that column showing that
+there are 21 homes. You have now created a
+frequency table that makes it easy to identify the status of different homes
+within your dataset.

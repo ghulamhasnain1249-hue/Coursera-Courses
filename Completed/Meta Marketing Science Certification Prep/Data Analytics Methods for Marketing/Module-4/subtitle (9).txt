@@ -1,0 +1,25 @@
+So far this week, we focused on optimizing
+your marketing mix using marketing mix
+modeling and attribution. Both of these methods
+help us to adjust where we spend budget to have the
+most impact on results. But as you go through deciding
+where to spend more money, it's also important
+to understand how people move through
+your sales funnel and whether there's anything
+you need to keep in mind as you think about how people go from being aware of your product to
+actually purchasing it. In this lesson, we'll take a closer look at how
+you can evaluate your sales funnel
+and how that may influence some of the
+decisions you make. We've previously
+discussed sales funnels where we looked at ROI, ROAS, and customer profit. As a refresher, a sales funnel, also called a purchase
+funnel or revenue funnel, is a way to visualize
+your potential customers first interaction
+with your brand all the way through
+to repeat purchase. Remember, the marketer's goal in using a sales funnel is twofold. On a micro level, moving an individual user
+from one stage to the next, and on a macro level, moving as many people
+as possible through the funnel by increasing
+conversion rates at each step. Next, let's deep dive
+into sales funnels and discuss how to examine
+drop-off in the sales funnel. We'll also focus on sales funnel shapes and what they mean. We'll look at how
+you can analyze and visualize sales funnels in
+Tableau. Let's take a look.

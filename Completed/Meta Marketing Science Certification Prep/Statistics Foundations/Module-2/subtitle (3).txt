@@ -1,0 +1,61 @@
+Choosing the right sample is crucial for
+accurately representing a population, if you were interested in knowing what
+soda brand sells the best, you would want to sample people who drink soda and not
+people who drink tea or coffee primarily. How you select your sample is important to
+make sure you have people with the right qualities, and that they accurately
+represent the population as a whole. In this video, we will explore
+the different ways to select your sample, the sampling method falls into two main
+probability and non-probability sampling. Probability Sampling is a branch
+of sample selection that uses random ways to select a group of
+people to participate in research. The idea of random refers to making
+a choice of selection by chance without any specific pattern,
+purpose, bias, or method, in other words, every option has
+an equal likelihood of being chosen. In statistics, this often means using
+a random number generator to select people from a list, non probability sampling
+is a branch of sample selection that uses non random ways to select a group
+of people to participate in research. This means participants are chosen
+based on specific criteria rather than by chance for this course, we'll be
+focusing mainly on probability sampling. The first type of probability
+sampling is a simple random sample, a simple random sample is a subset
+of a statistical population in which each member of the subset has
+an equal probability of being chosen. For example, suppose a gem wants
+to survey current members, since they already have the information
+for the entire population, selecting a few names using a random number generator
+would represent their gem members. If you want to learn more about
+the use of random number generators, try checking out the website
+random.org dot or searching Google using the keywords
+random number generators. The second type of probability
+sampling is systematic sampling, a systematic sample is a subset
+of a statistical population in which each member is selected
+using a fixed periodic interval. Systematic sampling involves selecting
+participants from a sequence in a consistent pattern,
+such as every fifth or 10th person, it doesn't matter what number
+you choose for the interval, but you must stick to it to
+achieve a randomized sampling. This method is useful for
+populations presented sequentially, for instance, you might survey every
+fourth person entering the gym to gauge interest in a weekday
+event among Saturday gym goers, ensuring the sampling remains
+consistent for randomness. The third type of probability
+sampling is stratified sampling, stratified sampling is when the population
+is divided into smaller groups, known as strata that share
+similar characteristics, then a random sample is taken from
+each stratum to ensure the sample accurately reflects
+the population's diversity. This method is useful to ensure your
+sample reflects the population's makeup, it is used when demographic
+proportions are known and you want all groups fairly represented for
+instance, if a gems protein powder buyers are 90% male, they're
+surveying interest in a new flavor. They risk missing female perspectives
+with random sampling due to their smaller numbers, by stratifying they'd sample
+90 men and ten women from their buyers, matching the populations gender ratio,
+ensuring no group is overlooked. The last type of probability sampling
+is cluster sampling, cluster sampling is a method where the population
+is divided into separate groups, known as clusters randomly selected
+to be included in the study. This method is useful when you're
+interested in surveying certain groups, for instance, a gem wants feedback on special deals
+from their exercise class participants. Since classes vary,
+each acts as a distinct subgroup, in cluster sampling, you'd randomly
+select entire classes to survey, Choosing the right sampling method
+will depend on the population and the information you want to study. To determine a strong sampling method,
+complete a thought exercise on how much each method would work and
+how feasible it is. This exercise will help you
+select the right sampling method.

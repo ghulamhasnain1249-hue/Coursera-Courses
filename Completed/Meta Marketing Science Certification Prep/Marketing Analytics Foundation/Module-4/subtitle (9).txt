@@ -1,0 +1,106 @@
+Around the globe, governments
+are taking on a role in regulating how personal
+data is gathered and used. In this video, we'll take a high-level look at the
+most prominent laws, GDPR, CCPA, and COPPA. It's important for marketing
+analysts to know about these laws as they regulate
+how user data can be used, and of course, as a consumer, it's also good to know
+what your rights are. All three of these regulations
+affect how much and what type of data
+an advertiser can use for data-based advertising. Let's begin with GDPR. GDPR stands for the General
+Data Protection Regulation. It's a law that
+protects data and online privacy in
+the European Union. GDPR is a very detailed
+and pretty complex law. At a high level, we can group some of
+its key requirements in two buckets: European citizen data rights and data protection obligations
+for companies who collected the data. The law specifies that
+people have the right to access the personal information
+received about them, they have the right to
+correct that information, the right to have all
+the information that was collected and saved
+about them erased, and they have the right
+to data portability. In other words, they have
+the rights to get a file of their personal information and pass it on to another party. As for the data
+protection obligations, the law specifies how companies must protect the
+information they receive. It also specifies that
+companies must alert people within 72 hours if their
+personal data was leaked, and companies must
+designate people whose job it will be to protect
+the data they received. The law also says that
+companies should limit their data collection and that certain data categories
+are prohibited, for instance, ethnicity
+and sexual orientation. Before receiving any data, companies should
+ask for permission. This is the right
+to prior consent. GDPR was developed and is
+managed by the European Union. Any company that works
+with the personal data of EU residents must comply no matter where the
+business is based. In practice, this means that most digital businesses have
+to comply with this law. The different EU
+countries each have their own supervisory
+authorities that monitor compliance. Fines related to GDPR
+can be substantial, up to four percent of the
+annual revenue of a company. In October 2020, clothing
+retailer H&M was issued of $41 million GDPR fine after several hundred employees were found to be illegally
+under surveillance. The company kept extensive
+profiles of employees, families, illnesses,
+and religious beliefs. The Data Protection
+Authority of Hamburg, Germany found that
+this case showed a disregard for GDPR
+data protection rules. Laws like this and fines of this magnitude have
+reinforced how seriously the European Union is taking personal data privacy. Next, let's look at the CCPA. In 2019, the Governor
+of California signed into law the California
+Consumer Privacy Act. Enforcement of the
+last started in 2020. The strictest of any consumer
+privacy laws in the US, this law aims to
+give residents of California more privacy
+and protection. This law is not
+dissimilar from the GDPR, the law wants to give consumers more insight into what
+data is collected about them and say whether or not they want
+their data collected. There are five distinct rights the CCPA gives to consumers. The right to know what information is
+collected about them, the right to know
+whether they're data is sold and to whom, and the right to opt
+out of that sale, the right to access to personal information that
+was collected about them, the right to require
+the business to delete their personal
+information, and finally, the right to not be
+discriminated against for exercising their
+rights under the act. The CCPA falls under
+the responsibility of the California State
+Attorney General's office. Any business that collects and controls the
+personal information of California residents
+should comply with the CCPA. The California Attorney
+General and residents of California can
+initiate lawsuits. Fines under the CCPA
+can be up to 7500 for intentional violations and $2500 for unintentional
+violations. The law went into
+effect in January 2020. It's still a bit too early for any high-profile
+lawsuits under this law. Another important law to be aware of as a
+marketing analyst is COPPA or the Children's Online
+Privacy Protection Act. This US law took effect in 2000, and limits the
+collection and use of personal information of
+people under the age of 13. COPPA was specifically
+designed to protect children. It requires that notice be
+given and parental consent is obtained before any
+personal information is collected from children. It also requires
+that companies have a clear and comprehensive
+privacy policy, and companies that
+collect data from minors need to keep that data
+confidential and secure. COPPA is managed by the US Federal Trade
+Commission or the FTC. All companies that interact with children under the age of 13 in the US must
+comply with COPPA. The FTC relies on people to
+alert them to violations of COPPA and those complaints can prompt an investigation. Fines related to COPPA can
+be fairly substantial, up to $40,000 per violation. Here's one example of a high profile case
+that violated COPPA. In 2019, Google was
+find $170 million for collecting and saving
+personal information from children and using it for
+advertising on YouTube. Needless to say,
+violations can be costly, not only in terms of the fines, but also in terms of the
+consumer trust that is lost. This was just a
+high-level overview of the most prominent laws governments have established to regulate the collection
+and use of personal data. There may be other
+local regulations, so depending on the
+region you work in, it's worth checking
+which laws are in place. Next, you'll find
+an overview of how advertising groups have
+organized to make sure these regulations
+are understood and implemented across the
+entire advertising industry.

@@ -1,0 +1,82 @@
+Now that you have your
+evaluation question and your hypothesis set, how do you get the information needed to give you an answer? You would conduct
+a study, survey, experiment, or test to
+discover your answer. In this video, we will
+examine the two main types of studies experimental
+and observational. No matter how complicated, all studies fall into one of two categories, observational
+or experimental. Simply put, observational
+studies are where you look at or observe what is happening naturally without
+trying to influence it. There are many different types
+of observational studies. Let's explore a couple
+of the most common ones. Cohort studies track a
+group of people over time. Researchers identify
+a group with a common characteristic and
+observe them over time to see if exposure to a factor
+like smoking is linked to an outcome like lung cancer without
+assigning any interventions. Another type of observational
+study is a case study. In case studies, researchers compare people with
+a specific outcome, cases to those
+without it controls, looking back to identify
+differences and exposures or risk factors
+between the groups. For a study on workplace
+productivity, for example, researchers could
+compare employees who use standing desks, cases with those who use
+traditional desks controls. Examining past performance
+records to see if desk type influences
+productivity. Another common form of observational study
+is data mining. Data mining is the process of extracting insights
+from a large database. The idea is that you
+already have all the data collected and stored and are just trying to
+find meaning in it. For data mining, a
+company might analyze transaction records to
+identify buying patterns, trying to reveal which products customers frequently
+purchase together. Let's now explore
+the other category of studies, the
+experimental study. An experimental study is a
+study in which a treatment, procedure or program
+is intentionally introduced and a result
+or outcome is observed. In other words, an
+experimental study, you change something,
+the treatment to see if it influences
+the results. There are countless types
+of experimental studies, but here are a few of
+the most common ones. Repeated measures
+involves taking multiple measurements
+in a study. For instance, if
+you give a survey, show a participant a video and then give them
+a survey again, you can see if the video
+changed their opinion. This type of study has many
+different forms and names, but it all amounts to the same basic
+concept of measuring, influencing, and then
+measuring again. AB testing is also a type
+of experimental study. AB testing splits
+participants into two random groups to
+compare treatments A and B. For example, with two
+online ad versions, A and B, you can
+observe and track how reactions differ
+between the two groups exposed to each version. One of the most common
+experimental study types is the randomized control trial where participants are
+divided into two groups. One receives a treatment, and the other, known as the
+control group, does not. This control group serves as
+the baseline for comparison. For instance, in a study, you might have two groups. One simply takes a
+survey, the control, while the other
+watches an ad before taking the same survey,
+the treatment group. Comparing the two allows you to assess the ads
+impact on opinions. Let's use the
+cardiovascular exercise and blood pressure example
+from earlier in the course. If you recall, we questioned if incorporating 30 minutes of daily cardio could reduce blood
+pressure over six months. Our hypothesis suggested that daily cardio would
+lower blood pressure. To examine this hypothesis, participants would adopt a
+30 minute cardio routine or maintain their
+usual activities without any added exercise. To test whether
+cardiovascular exercise lowers blood pressure, we'd conduct an experimental
+study by introducing a daily exercise routine
+and observing its impact. This method is similar
+to AB testing, but it focuses on
+health changes. Now you know the
+difference between an observational study and
+an experimental study, and you have learned
+a few types of studies that fall
+into each category. There is a time and a place
+for every kind of study, but it is important to determine the right type of study
+for the study's goal.

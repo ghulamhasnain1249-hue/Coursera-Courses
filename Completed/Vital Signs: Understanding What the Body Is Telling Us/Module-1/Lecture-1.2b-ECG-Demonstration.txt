@@ -1,0 +1,98 @@
+Well we're in here in the Sim Lab today and we've been joined by Sim Man who you haven't met before.
+But we're going to use Sim Man to do some demonstrations of what happens when a clinician collects Electrocardiogram, or ECG data.
+This week in lecture I talked about the fact that, we have a conduction system in the heart.
+And the cells that make up the conduction system are able to self-excite and stimulate, or excite other parts of the heart after they are their excitation has begun.
+So we talked about the SA node, which is the first portion of the conduction system to normally get activated.
+And the SA node gets activated and it causes, causes an excitation signal to spread across the atrium.
+That signal is then conducted to the AV node, where there is a delay in impulse conduction for a short period of time, tenth of a second, is the exact period of time we normally expect to see.
+Then the signal gets passed into the AV bundle, which is in the intraventricular septum.
+The signal goes from the AV bundle into the left and right bundle branches.
+The bundle branches continue down the intraventricular septum.
+And, down at the apex of the heart, the bundle branches branch a lot, to form small Purkinje fibers that pass into the free walls of the ventricles.
+And we're here to talk about the ECG's, because ECG's are devices that we use to actually detect.
+The electrical activity that's going on in the heart.
+When we set up an ECG, what you'll see happening is that electrodes, and there are many types of electrodes.
+But electrodes of one type or another will be positioned on the body.
+Megan. [LAUGH] Where? Well, we need ten if we're going to do a 12-lead EKG, or ECG, which is typically what will be done in a practitioner's office.
+So you're going to have two limb leads.
+And those are either kind of here on the upper chest or on the arms.
+Even down as far as the wrist, right? Right.
+And then two lower leads.
+One on each leg or, or down at the foot.
+And then you're going to have six precordial leads.
+Which go across the chest starting at about the sternum and kind of down around the left side of the heart.
+And so these electrodes are sometimes called leads, but the electrodes will actually have wires attached to them, that are also called leads.
+So this can be a very confusing kind of terminology for lay people to, to get a handle on.
+Why do we need 12, Megan? Well, if you do a 12 lead EKG, that means that you have 12 different views of the heart.
+So, basically we're able to look at the electrical activity of the heart from 12 different angles.
+And that gives us, 12 different pictures of different sections of the heart, basically.
+So the basic electrical activity is the same, but if there is some problem in a particular portion of the heart.
+With if the heart muscle is damaged and there's a problem with the ability of that muscle to conduct the electricity.
+Then we can pinpoint when we have twelve leads, which area that is happening in.
+So, the, the basic theory of using these electrodes is that when cardiac muscle cells are excited, there is an electrical current that passes along the membrane of the cell.
+And that electrical current not only passes along the membrane.
+But it also passes through the body fluids, and can actually pass to the body surface.
+And so we put electrodes on the body surface so that they will be able to detect that electric current when it arrives at the body's surface.
+And then the leads.
+Conduct that current into a machine that has to boost or amplify the current.
+So that we can actually raise it up to a level that's detectable by our machinery.
+One thing that I didn't talk about in lecture this week but I think I should mention now is that when the SA node gets excited.
+And passes that excitation signal across the atrial walls.
+That excitation is really associated with a positive current, and so the positive current passes across the atrial walls.
+And then after that positive current passes across the atrial walls there's a negative current that restores the electrical potential of the atrium back to normal.
+So this positive current that spreads out across the atrium is called a depolarization.
+And then, the restoring of the walls back to their normal resting point is repolarization.
+And those are important terms to remember as we think about what the ECG is really going to tell us when, when we look at it.
+Great.
+So today, Megan, what are we looking at? So today, we're just going to look at one lead, lead two.
+And so, we are going to put on the, limb leads, the upper and the lower limb leads.
+And sim, sim Man actually is able to, show us a heart rate, which is really neat an, an actual EKG.
+Here's the picture.
+And, the first thing that you'll see, the first wave is called the P wave, and that represents atrial depolarization.
+And the second thing that you see is actually a couple waves and so this is called the QRS complex.
+And it's got the Q, the R, and the S wave.
+And this represents ventricular depolarization.
+And Now, I, It might be important to know that the reason that wave has such a funny shape is that it's showing us.
+The depolarization of the intraventricular septum, which kind of is oriented in one direction in the body.
+And it's also showing us the free walls of the ventricles, which have a different kind of spatial orientation.
+So that causes the QRS complex to have a really.
+It's a much, you know, more complex shape than the P-wave is.
+Mm-hm.
+Great that's.
+Yeah.
+Thank you for adding that.
+Yep.
+And then the next thing that you'll notice is the T-wave.
+Which is a representation of ventricular repolarization.
+So, you mentioned ventricular repolarization being the T wave, but is there, an atrical repolarization, and if so, like, when slash where does that occur? That's a great question.
+The atrium does repolarize, but it occurs, at the same time that ventricular depolarization is occurring, so you can't see it on this wave because it's lost.
+By the more prominent, thing that's oc, occurring at that time, which is ventricular depolarization.
+I see, because remember that the atrial, you know, the atrial walls are thinner, so there's less atrial muscle.
+The ventricular walls are thicker, there's more muscle there and so, the electrical currents in the ventricles are just so much higher than they kind of hide the.
+Atrial Repolarization.
+So, now, I have a question for you.
+In between these waves forms there are flat lines and we call those Isoelectric lines.
+So in between the P wave.
+And the beginning of the QRS complex, there is one of those flatlines or iso electric lines, what do you think is happening in the heart during the period that iso electric line is being recorded? Well, if it's isoelectric, could it mean that there's no activity? There's, like, not any new activity going on, right? Mm-hm.
+So, the P wave, if it represents atrial depolarization, the P wave is telling us that the SA node.
+Self excited and then the depolarization spread across the atrium right? And then what happens after the SA node? The AV node Mm-hm and what is the significant functional thing that goes on in the AV node? Stacy.
+Mm, it regulates.
+It does, but remember that 10th of a second when there is a.
+It gives time for the heart to.
+Exactly Depolarize. because there is a delay in the signal, right.
+So it gives time.
+For the, Atrial contraction to occur before- The ventricle- the ventricles get activated right, okay, so that's what's happening during that first first iso-electric line.
+And,.
+And during the second one, I see an isoelectric line between, the QRS complex where it ends and the T wave begins.
+That's a time when there's just no new electrical activity being generated, right? The ventricles have already depolarized and that we're waiting for them to begin to repolarize.
+Okay.
+Do you feel like you understand? I think I understand a lot more than I did before definitely.
+Good.
+That's what it's all about.
+So, would this be normal sinus rhythm? Right.
+This is normal sinus rhythm.
+So these are the components of normal sinus rhythm and if somebody had an abnormal heart rhythm.
+Then you would see different waves and we won't really get into what that is.
+But yes, this is normal sinus rhythm.
+Great.
+Great. 

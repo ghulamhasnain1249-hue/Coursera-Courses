@@ -1,0 +1,42 @@
+Every day you're faced with countless
+possibilities and decisions from work attendance to the weather to
+learning new skills like juggling. Your brain filters and makes assumptions
+to help you focus on what it deems important, such as assuming you
+wouldn't be paid if you don't work or that the sky will be blue tomorrow. These assumptions guide your decisions,
+but if they're incorrect,
+your choices will be too. In this video we will examine what
+assumptions are made when using statistical methods and
+how they influence the outcome of a test. Lets start by defining what
+a statistical assumption is. Statistical assumptions are a list
+of facts that an analysis requires to be true in order
+to give valid results. Statistical assumptions
+are conditions assumed to be true so that analysis results can be accurate. These assumptions help avoid creating
+a new formula for every data situation. Different analyses have
+their own assumptions, which we'll cover later as we
+examine specific analyses and the assumptions that need to be made for
+each one. Some assumptions are more
+common than others, lets explore some of
+the most common assumptions. First, we might need to assume that
+the data fits a normal distribution, the normality assumption means expecting
+data to follow a bell curve distribution. For example,
+assuming students test scores are normally distributed helps apply
+certain statistical tests, making this assumption key for
+analyzing data correctly. Second, we might need to assume
+there is a linear relationship, a linear relationship is a steady
+relationship between independent and dependent variables. For instance, assuming that
+study time consistently affects test scores dependent variable allows for
+accurate predictions. You can see this in the graph,
+as study hours increase, the test scores also
+increase at a steady rate. This assumption is vital for
+correctly modeling and understanding relationships within data. Third, we might need to assume
+homogeneity of variance, the homogeneity of variance
+assumption means that different groups being compared should have
+similar levels of variability. For instance, comparing test
+scores from two teaching methods requires both groups to have similar
+score spreads to compare them fairly. This assumption helps to make sure
+comparisons are valid and reliable. Everyday, our assumptions
+help simplify decisions from believing we wont be paid if we
+skip work to expecting blue skies. However, questioning these assumptions
+is key to making better choices, especially in statistics. Being aware and critical of our
+assumptions enhances the quality of our decisions when using
+statistical tests.

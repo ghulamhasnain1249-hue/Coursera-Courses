@@ -1,0 +1,64 @@
+Now that we've learned
+about optimizing sales funnels on
+a tactical level, let's zoom out to think more strategically about
+sales funnel shapes. Visualizing the funnel
+is a great way to understand where
+your opportunities are with your customers, too many people
+staying in awareness or too few customers
+in conversion. Visualizing the funnel
+will let you know where customers are and what
+messaging they may need. A healthy funnel is sometimes
+called the classic funnel. This funnel has people
+continually coming into the awareness phase with some customers going
+down into consideration, then fewer going
+into evaluation, then even fewer going
+into conversion. If you see this funnel
+shape, congratulations. Your funnel is very
+likely healthy. To stay healthy, this funnel should
+be continually refreshed with new users
+in the awareness stage. Keep an eye on your funnel shape to ensure it stays the same. It's very common to see the classic funnel shape narrow considerably
+at the bottom. In that case, people come
+in at the awareness stage, and they may show some
+level of interest, but they don't make it all
+the way through to purchase. That's when you should go
+back to your checklist and explore what's happening
+during the checkout process. Is there anything in
+your website that's blocking people
+from checking out? Are they leaving when you require them to give their
+personal information? Maybe you're asking
+them to sign in, and that complicates things. Are the costs too high? Maybe shipping is
+an issue and so on. In a case like this, it may be worth considering a conversion campaign where you specifically target
+people who have had an interaction with
+your brand already, and encourage them to convert, for instance, better promotion. As you examine
+your sales funnel, you may run into another shape, sometimes called the blockage. This is where a
+majority of users are stuck into consideration
+or evaluation stage, but your awareness and
+conversion numbers are low. If you see this, consider why consumers may
+be staying in that phase. If you're B2C, take a look at your
+product detail pages and check out flow. Is it easy for
+people to go through the conversion phase or
+are there obstacles? If you're B2B, take a look
+at your lead gen process. Perhaps you're selling
+too soon or haven't provided enough information
+for users to convert, and you may be attracting
+the wrong audience. In a situation like this, you may need to consider another awareness campaign so you can attract more people
+to the top of the funnel. But you should pay special attention to
+your target audience. It may be a good idea to get more insight into the
+people who do convert and try to mimic their
+characteristics in your target audience for
+your awareness campaign. You could combine this with
+a conversion campaign, targeting people
+who have interacted with your brand to
+try to convert them. The last shape we can look for is the reverse funnel shape. This reverse funnel has very little activity in the
+awareness, consideration, and evaluation stages, and large swaths of users
+in the conversion stage. While this may seem
+great at first, a reverse funnel can lead to a lack of customers
+down the road. If you see this shape, whether you are a B2B or B2C, you'll want to focus on
+your awareness tactics to bring more users into
+your sales process. Analyzing your sales funnel
+shape can be a great way to develop a holistic strategy towards your media campaigns, and help you understand where you should be
+focusing your time. Once you have the shape down, you'll be able to deep dive
+into the questions previously discussed in order to optimize your sales
+funnel for success. Next, let's take a
+look at how you can visualize your sales
+funnel using Tableau.

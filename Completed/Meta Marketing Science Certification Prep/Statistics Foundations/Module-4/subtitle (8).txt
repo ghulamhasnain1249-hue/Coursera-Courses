@@ -1,0 +1,39 @@
+Although we won't cover specific classification
+analyses in detail in this course, it's crucial to grasp
+their importance. For example,
+classification models are integral in
+medical diagnostics, where they help
+distinguish between benign and malignant tumors
+based on patient data. Understanding these
+models allows for the practical
+application of data to predict categories and make informed decisions
+in various fields. In this video, we will review the most common classification
+models and their use. A classification model
+uses one or more variables to predict a categorical or
+discrete dependent variable. In other words, it is a lot
+like a regression model, which uses an
+independent variable to predict a dependent variable. The main difference is the
+variable type they predict. While a regression model predicts a
+quantitative variable, a classification model predicts
+a qualitative variable. A few popular
+classification models include K-nearest neighbors, random forest, logistic
+regression or binary regression, Naive Bayes, or support
+vector machines. Each of these analyses take
+a very different approach, but all attempt to predict a categorical
+dependent variable. There are many uses for
+classification analysis. Let's explore a few. Classification models help
+in diagnosing diseases by analyzing patient data and symptoms to predict
+health conditions. In addition, financial
+institutions use classification to assess the credit-worthiness
+of individuals to determine things
+like eligibility for credit cards and loans. Another use is when businesses
+apply classification to group customers
+based on purchasing behavior or preferences to
+tailor marketing strategies. Last, these models
+are used in analyzing public sentiment from
+text and reviews, social media and more, classifying them as positive,
+negative, or neutral. Now, we have talked about what
+classification models do. We listed a few of the more popular analyses and went over how they are
+used in data analytics. As you grow your skills
+and data analysis, you'll begin to learn more about classification analysis and how you can use it to
+your advantage.

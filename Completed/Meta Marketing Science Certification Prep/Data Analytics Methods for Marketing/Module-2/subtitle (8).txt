@@ -1,0 +1,58 @@
+Now that we've learned how to calculate
+customer lifetime value in theory, it's time to apply it. We'll be looking at Calla & Ivy
+a small florist to see how they might calculate CLTV. Remember, CLTV is the average value
+of a sale x the average number of transactions x to customer retention
+period x the profit margin. First, Calla & Ivy decides to calculate
+the customer retention period. In order to do that, they'll need
+to follow the formula seen here. So as you may have guessed the first
+thing they need to do is find their churn rate percentage. Churn rate is defined as
+the number of customers or subscribers who cut ties with your service
+or company during a given time period. Put more simply, churn rate looks at
+how many customers a business has lost during a given time period. Churn rate is generally
+calculated on a monthly or annual basis depending on sales volume. Churn rate is calculated
+by the formula seen here. Calla & Ivy pulled all of their
+customer data from their last 2, 4 years of business and find that
+in 2019 they had 791 customers and in 2020 702 of those customers remained. There are three steps
+to finding churn rate. First, we have to subtract the most recent
+number of customers from the previous in order to get a number
+of lost customers. So in this case we subtract
+702 from 791 to get 89. Second, we divide a number of
+lost customers by the users at the beginning of the period,
+so 89 divided by 791 to get 0.11. Lastly, since we wanted to be
+a percentage we multiply by a 100 to get 11% churn rate. This is the churn rate
+over the period of a year. For Calla & Ivy, this means that
+11% of the customers they had in 2019 are no longer customers in 2020,
+they have churned. Now how does churn rate fit into
+the average lifetime of a customer? Going back to our average
+lifetime formula, we then divide 1 by the churn rate,
+in this case 1 divided by 11% to get 9. Therefore, Calla & Ivy's average
+customer lifetime is about 9 months. To translate that to years we divide
+9 by 12 to get 3/4 or 0.75 years. Great, we have the first
+piece of data we need, next we need to calculate
+the average value of a transaction. Calla & Ivy decides to look at 2020
+data since that last complete data set they have for the year and
+they already know they had 702 customers. They find that total
+sales came to $ 32,994. They then divide total sales
+by the number of sales to get an average order value of $47. Great, we have two parts of the puzzle. Next we need to figure out
+the average number of transactions. Calla & Ivy returned to the 2020 data and
+see that there were 2106 transactions. Next they divide 2106,
+the number of transactions by 702, the number of customers in 2020
+to get 3 average transactions. It's important to note average number
+of transactions can be a decimal, in this case it's just
+a nice round number. So now we have the average value
+of a sale $47, the average number of transactions 3 and
+the customer retention period at 0.75. The last piece Calla & Ivy need to
+calculate is the profit margin for 2020. They decide to use gross profit margin
+to simplify their CLTV calculation. Remember, in order to calculate gross
+profit margin we need revenue and cost of goods sold. We know total sales came to 32,994,
+Calla & Ivy spent 17,781 to acquire their flowers,
+visas and decorative items. When we use the formula seen here,
+we find that the profit margin is 46%. Great, now we have all the four pieces
+of the puzzle, let's calculate our CLTV. When we multiply all of
+our inputs together, the average CLTV for
+Calla & Ivy customer is $48.65. From here they may want to start
+segmenting out at high, medium and low CLTV customers in order to
+provide different offers, products or even services. This is just one way to calculate
+customer lifetime value. In our next reading, we'll talk
+about some of the limitations and other ways customer lifetime
+value can be calculated.

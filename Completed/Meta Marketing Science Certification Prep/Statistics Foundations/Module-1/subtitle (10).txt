@@ -1,0 +1,55 @@
+Variance plays a role in
+rapidly changing markets like real estate and helps people who use statistics to
+measure uncertainty. In this video, we will continue to explore the
+prices of homes in a neighborhood to understand better how to find the
+variance in prices. Variance is a number that
+explains how spread out the data points are from the
+datasets mean or average. The idea of spread out data might seem hard to
+follow right now. Let's look at an example to help make sense of what
+this definition means. Picture yourself searching for a home in a particular
+neighborhood. Your budget is set
+200,000 and 250,000. Ideally, you'd expect
+the average home price to match this range. However, variance
+comes into play, potentially affecting
+how many homes fall within your budget due to fluctuations in
+the average price. Let's explore this. In the case of low variance, home prices in the
+neighborhood tend to group closely
+around the average. For buyers, this implies that if the average selling prices
+align with their budget, they can expect a
+broader array of homes within their
+200,000-$250,000 range. With prices remaining
+steady near the average, buyers can anticipate more consistent and
+predictable options that fit within their
+budget constraints. If there's a high variance, it means home prices
+differ largely from the average and
+are more spread out. This suggests that even if average home prices
+fit their budget, buyers might find
+fewer options in their 200,000-$250,000
+range because prices spread further from the average. With prices fluctuating
+widely around the average, buyers may face more uncertainty and fewer choices
+within their budget. In many professions, variance is calculated
+using technology. Later, you will see how to use spreadsheets to
+calculate variance. Now, let's look at
+another calculation measuring the spread
+out of data, the range. The range measures how
+far your data is spread out between the highest
+and lowest values. In our home buyer example, the range shows the gap between the highest and lowest priced
+homes in the neighborhood. Knowing this can help
+buyers negotiate and understand how their budget fits the market and therefore, help them make informed decisions
+about their investment. A high range might
+mean the potential for overpaying while a low range suggests stable prices
+in the neighborhood. While variance is often
+calculated using technology, the range is a much simpler
+calculation that is often done by hand or
+using a basic calculator. For example, if the
+highest selling price of a home is 350,000, and the lowest is 150,000, the range would be $200,000. We know the range is 200,000
+because we subtracted the lowest price of 150,000 from the highest
+price of 350,000. If we were given a dataset
+of values to find the range, then we would simply subtract the lowest number from
+the highest number. For example, if the
+prices for current for sale homes included: 240,000, 350,000, 185,000, and 130,000. Then we would find the range by subtracting the
+lowest number, 130,000 from the highest number, 350,000 to get 220,000 as the range of prices
+in the neighborhood. So whether you're shopping
+for your dream home or comparing furniture
+prices at different stores, the spread of data can help
+you make informed decisions.

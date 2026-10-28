@@ -1,0 +1,55 @@
+You probably gathered from the previous videos
+that often, the data gathering we go through as marketing analysts has to do
+with connecting systems. That's because we want to
+measure the effectiveness of advertising along the customer journey
+and across platforms. Marketers want to
+influence behavior, but the data related to
+the marketing and the data related to the behavior aren't
+always easily connected. The marketing takes
+place using one system, like advertising using
+Google for instance. But behavior we want to
+influence takes place on other, a purchase on a website, an app download, a purchase
+in a store, and so on. Many of the systems
+we talked about so far will help marketers
+to make connections. But these systems often have dependencies that are a
+bit out of our control. We already saw how users can delete or block
+cookies, for instance. Or how browsers may prevent
+certain data collection. That's why we'll
+often rely on making more direct connections
+through the use of APIs. Let's explore what those are. An API or an Application
+Programming Interface is a tool that establishes a connection between
+two pieces of software. An API allows two applications
+to talk to each other. The API is a little bit like a courier who
+transports information, requests and so on from
+one system to another. Think of something as simple as sharing a news article
+on your Twitter feed. You are on the news article and you would like to
+share it on Twitter. An API will ensure that your request to share
+goes to Twitter, who will then in turn make sure the article appears
+on your Twitter feed. APIs really fuel our
+online experience today. Loads of connections are
+being made constantly between different websites
+and different systems online. How exactly does the API play a role when
+it comes to data? Well, APIs make it
+possible to share data directly with certain marketing
+or advertising platforms. For instance, I can use
+the Facebook API to directly provide Facebook with data about what
+happened on my website, on my app, in my
+stores, and so on. Why does that matter?
+Well, I can send data to Facebook about
+purchases for instance. Facebook can then help
+me figure out whether the ads I ran on their platform
+led to those purchases. I can use the API to pass on information about
+website purchases, but I can also pass on information from
+in-store purchases. Through an API, I can establish a connection and send the data that's relevant over
+that connection. Later in this program, we will dig deeper to see how APIs are relevant for marketers. To use an API, you would usually
+involve a developer who can help make the
+connection between your software and
+the software of the platform or tool you
+would like to connect with. Platforms like Facebook, Google, Twitter, and so on, will provide a developer
+with all the information and code needed to
+integrate the API. APIs are an excellent tool for marketers to connect information from different platforms. They are especially powerful
+because they establish a direct connection between the publisher of a site or app, and the platform it wants
+to connect to without depending on other tools like browsers or operating systems. As a marketing analyst, using APIs to connect information from different
+platforms will give you more reliable
+information and prevent broken
+data connections.

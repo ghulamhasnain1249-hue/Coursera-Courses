@@ -1,0 +1,30 @@
+Have you ever seen potential
+storm models and forecasts? These forecasts are a great
+example of statistical modeling. Storm tracking systems use years of
+weather data to predict a storm's path. In this video, we will define statistical
+modeling and explore its use. Statistical modeling is the act of
+taking a statistical analysis method and applying it to our data to create
+a mathematical representation or a model. Essentially, statistical modeling
+is the process of creating a simplified mathematical formula
+based on real world data to predict or explain patterns and relationships. Lets continue to use our weather example. A meteorologist or meteorological
+software would need to follow several steps to create a statistical
+model to predict storms track. First, meteorologists gather years
+of weather data such as storm paths, wind speeds, and atmospheric pressures. They then apply statistical
+analysis methods to this data. For our storm prediction, they might
+use regression analysis, which helps in understanding how the path of a storm
+relates to various weather factors. They also may adopt a term
+like regression model, since often the name of a model is
+reflected by the analysis it uses. The analysis leads to the creation
+of a mathematical model, essentially a formula that
+summarizes these complex relationships that can
+be represented visually. With this model, meteorologists input
+current data like wind speed and direction into the formula
+when a new storm forms. The model then predicts the storms future
+path based on historical patterns. This image shows a hurricane as
+it's approaching the east coast of the United States. Each line that curves along
+the coast is a different predicted track based on various statistical and
+computational models. These paths illustrate the possible
+routes the storm might take, each informed by a unique
+combination of data, assumptions, and analytical calculations. Statistical models aren't
+just about predictions, they're about potential realities. Statistical models offer insights
+that drive proactive measures and inform decision making.

@@ -1,0 +1,111 @@
+Let's revisit the
+real estate example of home prices in
+a neighborhood. We know we can find
+the average cost of a home based on other prices. The next thought might be
+to determine if there's a relationship between
+a house's pricing and its square footage. In this video, we will
+discover how scatter plots and correlations describe
+relationships between quantitative data. A scatter plot is a
+visualization that compares two variables
+which are numbers. One variable is on
+the horizontal axis, and one is on the vertical axis. Each data point is plotted using the
+location on the axis. Basic scatter plots
+are great for visualizing the relationship
+between two variables. They are commonly used
+to explore connections between variables such
+as age or location, and outcomes like sales
+volume or expenditure. The relationship between
+these two variables is called a correlation. A correlation measures
+the degree to which two numerical variables move
+in relation to each other. For instance, when
+evaluating real estate, you might investigate whether a house's size relates
+to its selling price. Does higher square
+footage lead to a higher price or are there other factors
+more influential? Understanding this
+correlation helps in setting accurate price points and expectations for both
+sellers and buyers. In a scatter plot analyzing
+the housing market, each dot represents a home sale, plotting the square footage
+against the sale price. Typically, we might
+see a trend where larger homes tend to have
+higher sales prices. While this doesn't
+imply causation, which means that one
+event causes another, it does suggest a relationship. As house size increases, so does sales price. There are three general types of correlation relationships that you will find as you begin to work with
+scatter plots. The first type you'll learn about is a negative correlation. In a negative correlation, the dots move down from
+left to right because as one variable increases,
+the other decreases. If there's a
+negative correlation between house prices
+and square footage, it would mean that as the
+price of the house increases, its price tends to decrease. This could imply
+that larger homes in the dataset may be selling
+for less than smaller ones. Possibly due to location, condition, market trends or other factors
+affecting home values. The second type is a
+positive correlation, and a positive correlation, the dots move up
+from left to right because as one variable
+increases, so does the other. If there's a
+positive correlation between house prices
+and square footage, we'd observe that as
+houses become larger, their prices generally increase. This suggests a
+direct relationship where larger homes
+demand higher prices, perhaps due to greater
+demand for space, more luxurious features, or
+a more desirable location. Third, there is no correlation. When there is no correlation, there is no relationship
+between the two variables, so there is no
+observable line on the chart and the dots
+are scattered randomly. Now, let's say you want to understand how related
+these variables are. In this case, you will want to find the correlation
+coefficient. The correlation coefficient
+is a number between -1 and +1 that defines
+how strong or weak the correlation is for
+a set of data points. There are equations
+and tests you can use to find the
+correlation coefficient. Still, essentially,
+the correlation coefficient looks
+at the slope of the line and determines whether it's positive,
+negative, or neutral. You have a strong
+positive correlation if your correlation
+coefficient is near 1. If your correlation
+is closer to -1, you have a strong
+negative correlation. If your correlation
+coefficient is close to 0, this means the two
+variables are not related. That said, you will rarely get
+perfect values of 1 or -1. Most will fall
+somewhere in between. There are many
+different scales you can use to rate correlation, but a safe guide is to consider any correlation
+coefficient below -0.7 or above +0.7 as
+having a high correlation. Any correlation
+coefficient below -0.5 or above 0.5 has
+a medium correlation. Any correlation
+coefficient below -0.3 or above +0.3 has
+a low correlation. Finally, any correlation
+coefficient between -0.3 and +0.3 does
+not correlate. Whenever you think
+about correlation, there is one thing that you
+should always remember, correlation is not causation. This means that just
+because there's a strong correlation
+between two variables, does not mean one is
+influencing the other. In a similar scenario involving house prices
+in square footage, a negative correlation
+might indicate that larger homes don't always
+demand higher prices, possibly influenced
+by other factors such as location or
+market conditions. For example, if proximity
+to the city center makes smaller properties
+more desirable and expensive due
+to convenience, larger homes further away might sell for less
+despite their size. This suggests that while
+size impacts price, external variables like location can significantly influence
+the relationship. This can even be taken to extremes called
+spurious correlations, or two variables that have a strong correlation
+coefficient, but are not related. Let's illustrate these extremes with an exaggerated scenario. This is the example of the
+divorce rate in Maine compared to the per capita consumption of margarine in
+the United States. You will notice a downward
+trend in the data. Does butter cause divorce or
+does divorce cause butter? Neither, but the correlation
+coefficient is 0.99. Most likely, they're
+both being influenced by another variable
+like economic factor, but this may be
+pure coincidence. As you work with data more and use scatter plots
+in your analysis, you'll learn more about
+the relationship between different variables
+and be able to translate those findings
+into decisions.

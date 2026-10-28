@@ -1,0 +1,73 @@
+Where does the data
+marketers use come from? Since we're such a digital world, you may
+think collecting data only happens online, and we'll talk about online
+data in our next video. But there's plenty of useful customer data
+that can be found offline too which can help give you a complete picture of who
+your customers are and how they behave. While the customer journey is shifting
+more and more online, there's still a significant part of that journey
+that happens in a physical location, whether it be a store purchase or
+engaging in a service. In fact, according to Statista, only 14.1%
+of retail sales in 2019 were made online, which means that 86% of customer purchases
+are happening in a physical location. Additionally, a report by Google
+shows that very few people do their purchasing wholly online or
+wholly offline, but use a mix of both. They either do research online and
+buy offline, or do research offline and buy online. This is why it's crucial to
+engage with both offline data and online data to truly understand
+customer behavior and use those insights to influence
+your marketing approach. What do we mean when we say offline data? It's simply data you gather about
+a customer that isn't through an online channel. This could be information collected
+through a physical contact form, signing up for a loyalty program, filling
+out a survey, or giving customer feedback. Offline data can also be tracked
+through point of sale information, when your customers make a purchase. You learn what product they bought,
+the date, any amount they spent. Point of sales data is
+often referred to as POS. Offline data can also include
+call center tracking or focus group participation as well. You can also track in-store visits and
+behavior through Wi-Fi logins, app usage in the store, and Beacons,
+which are little devices placed in the store that communicate with
+smartphones through Bluetooth signals. Let's look at an example of a bookstore. On a Wednesday afternoon,
+a customer stops by, browses around and comes to the counter with two
+bestsellers they want to purchase. The bookseller asks if they want to
+sign up for a frequent buyer card and the customer gives their name and address to the bookseller who enters
+them into their POS database. They also give their email address
+to sign up for the newsletter. The customer pays for
+their books and is on their way. This is the type of transaction
+that happens all the time. But now, the bookstore has all of this
+new data to help them better understand who's shopping at their store, not just
+a name but where their customer lives, their shopping habits, and
+sometimes age and gender. Offline data is typically rich with
+demographic information about customers, and it's often information that you
+may not be able to collect online. Offline data can also show how
+much each customer purchased, which can help determine their lifetime
+value, what they purchased, and when. The bookstore can now better
+understand its customer demographic, which will help with marketing efforts. The bookstore can also understand
+what times of the week are busiest, which will help them at staffing. It will also help them understand what
+inventory to keep in stock in order to increase sales. Now, because they have a name and
+email address attached to the purchase, they can target customers
+with book recommendations. And since they've collected this
+information directly from their customer, they can ensure that it's accurate and
+represents their current customer base. Since it was given directly to them,
+it mitigates any privacy concerns as well. All of the insights you can gather from
+this offline data can help you tailor your marketing strategy,
+better target your customer base, and see the context of your customers journey. But collecting offline data at point of
+sale isn't the only place where you can obtain it. Businesses can purchase third party
+data from companies who collect offline insights. This could include demographic
+information, purchasing behavior, and even information on offline
+media consumption that can help businesses gain further insights
+into their customers' behaviors. You've probably heard of
+the Nielsen TV ratings or heard of someone who has a Nielsen box. Nielsen is a company that monitors media
+consumption across a variety of devices, including TVs and smartphones. Comscore is a similar company that also
+tracks media consumption across devices. This is another type of offline behavior. Businesses can then purchase their data
+to better understand customer behavior around media engagement, including
+when they watch and what they watch. The better you can
+understand your customer, the better you can target them with
+advertising for your product or service. There are many other third
+party data sets you can buy. There are data from supermarket loyalty
+cards and credit card transactions, for instance, that provide information on
+the purchases of different products and brands. There are industry specific data like
+data for the pharmaceutical sector or
+data on car sales, etcetera. While most brands have access
+to their own sales data, these third party datasets help them
+with competitive analysis as they give them some insights into the sales for
+other brands as well. Now that we've gone over offline data,
+in our next video, we'll talk about online data, how to collect it and
+what insights you can get from it.

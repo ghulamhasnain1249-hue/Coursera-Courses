@@ -1,0 +1,59 @@
+We've seen that from a
+consumer perspective, it is important that there are some protections around the
+use of their personal data. Advertisers embrace
+regulations as well because they
+understand that it's crucial for consumers to trust that their data is
+being used responsibly. Without that trust,
+consumers may go out of their way to prevent
+the use of their data. They could do that by using ad blockers or blocking cookies, or maybe by using less content online and that would
+be bad for advertisers. There are different
+forms of regulations that advertisers
+and publishers put in place to help
+maintain the trust and to help guarantee
+responsible use of data. On the one hand,
+there are data and privacy policies
+that you'll find on most sites you access online, and there are also
+industry groups where advertisers agree on regulations
+they can put in place. Most large platforms and
+websites have a data policy, often part of the
+privacy policy, in which they explain
+what data they receive, what they use it for, and how people can
+control what they share. For instance, in
+its data policy, Facebook clearly states what
+information it received, how that information is used, and how people can manage
+and delete their data. It also provides
+contact information for people who have questions. These are good baseline
+considerations for any data policy. Beyond these
+company-by-company policies, industry groups can set
+standards to self-regulate. In digital advertising, one of the most
+prominent examples of self-regulation is the digital advertising
+alliance, or the DAA. The DAA is an alliance of different industry bodies
+that came together to establish and enforce responsible privacy practices
+in digital advertising. For example, the Your
+AdChoices program we touched on earlier was
+established by the DAA. In this program, they
+encourage advertisers who use data-based advertising
+to clearly inform people about the data that led them to see a particular ad. In Europe, one of the best-known self-regulatory
+initiatives in the digital advertising
+space is the EDAA. EDAA is short for European Interactive Digital
+Advertising Alliance. The EDAA was developed by leading European advertisers
+and publishers to introduce Europe-wide standards to enhance transparency and
+user control over data used for
+interest-based advertising. The EDAA also educates consumers about how
+their data is being used and provides them with additional tools to
+control their data usage. One of these tools is the
+AdChoices icon we just saw, which the EDAA also
+provides to its members involved in data-driven
+advertising across Europe. All solutions offered
+by the DAA and the EDAA to their
+member companies are self-regulatory in nature. It's important to note that
+following guidelines of industry bodies is different from following
+legal regulations. But it's a way in which
+the advertising industry itself is trying to make sure they keep the
+trust of consumers. These are just two
+examples of ways in which advertisers
+have come together to highlight their
+responsible use of personal data and to inform consumers about how
+their data is used. In the next video, we'll look at
+government regulations that aim to do this too.
+I'll see you there.

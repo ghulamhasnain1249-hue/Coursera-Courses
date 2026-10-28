@@ -1,0 +1,94 @@
+Once you've created your
+audience the next section at the ads set level is
+placements where you'll determine where your
+ads will appear. You can manually decide not
+only on which platforms they'll appear but can also
+adjust where they'll appear. On the Placements, you'll find just two options, Automatic Placements
+and Manual Placements. Automatic Placements is
+the default where you let ads manager decide
+where to show your ads, whether it be on Facebook, Instagram, Messenger, or the Audience Network all of which are
+Facebook properties. Using this option
+the delivery system will automatically allocate
+your budget as well. Because Facebook can choose from the widest range of advertising
+opportunities possible, automatic placements
+are typically the most efficient
+use of your budget. Facebook's targeting works the same across all
+available placements, so including more
+placements often helps you find a wider audience
+and reach more people. Let's hear directly
+from Facebook how automatic placements work. Now you can share your ad beyond Facebook with
+automatic placements. With automatic placements, your ad is shown across
+the Facebook family of apps and services
+and we optimize performance in real-time
+so that your ad has the opportunity to appear in more places at the
+same cost to you. For example with
+a $10 budget and advertising only on Facebook
+you get four results. When you select
+automatic placements there are more places
+to show your ad. Now a $10 budget
+gets seven results, the lower cost
+placements are filled first giving you more results
+for your same budget. Reach more people select automatic placements when
+creating an ad today Let's now talk about
+manual placements, there can be times
+when you might want to decide where your ad is placed for reasons that may
+align better with your objectives or your
+audience's behaviors. In that case, you choose
+manual placements. Once you do select
+Manual Placements in Ads Manager you will be shown a long list of options
+you can choose from. You can choose which devices you want your ads placed on, which platform Facebook, Instagram, Audience
+Network, or Messenger, and which specific type
+of placement you want. As you go through
+these options in Ads Manager you can
+see examples of what your ad placement will
+look like and you'll also get some information on the
+creative assets you'll need. Once you've picked
+all the placements you want your ads to appear in or decided to go with
+automatic placements instead, you are ready to optimize
+your ad sets delivery. Optimization for ad delivery is where you will
+indicate to Facebook what results you want from
+your ads so they can find the people in your
+audience who are most likely to fulfill
+that result for you. For example, if you
+optimize for link clicks, your ads are targeted
+to people in your audience who are most
+likely to click the ads links. If you optimize for video views, Facebook will target people most likely to view your video. Depending on the objectives
+you set for your campaign, Facebook will let
+you select between different ad delivery
+optimization options. We're back in Ads Manager and our campaign objective
+is set to Traffic, to drive relevant
+people to our website. Now at the Ad Set Level, we will go to the Optimization
+and Delivery section, here you'll find Optimization for Ad Delivery and you'll see a drop-down of options which change depending on your
+campaign objective. Based on Facebook's
+understanding of its users and your pixel data, it knows when certain
+people are more likely to take a specific
+action than others. If we want our audience
+to visit a landing page, we'll choose to optimize
+for Landing Page Views. Facebook will then
+show our ads to users who are likely
+to click on the link and load to page which
+if we're looking for more traffic to our
+website is what we want. There are many more
+optimization options, so choose the action that is closest aligned with the
+result you want to achieve. Now it's time to
+schedule our ad set. You may be tempted to just
+turn it on and let it run and that may be
+fine for your campaign, but if your ad is
+time-sensitive, for example, it promotes an event
+on a certain date or a limited time offer
+or if you want to optimize for when your
+audience is online you want to be strategic in
+how you set your schedule. While you will set
+your schedule for your ads at the Ad Set level, the options you have
+are determined by what type of budget you
+choose at the campaign level. If you choose to set a daily
+budget you can begin running your ad set right after it
+was approved by Facebook, or you can set it to start in the future and for a
+certain period of time. If you choose a lifetime budget, then you have more specific
+ad schedule options for the specific days and
+times you want your ad to run. Once you run a few ad sets
+you'll be able to track their performance
+and optimize in the future for the best
+times to run them. Now you've set all
+the parameters for your ads so what's left is
+to create the ad itself. Let's do that in the next video

@@ -1,0 +1,984 @@
+
+
+--- [FILE START: subtitle.txt] ---
+
+Hello and welcome to this Meta marketing
+analytics program. My name is Anke Audenaert and
+I'm one of your instructors. In today's digital
+age the saying, knowledge is power has evolved to data driven
+knowledge is power. Every click, every view, and every purchase in the
+digital world leaves a trace, a piece of data
+that holds a story. Behind every successful
+digital marketing campaign, there is a master storyteller
+who understands this data. Marketing analytics
+is a crucial part of every marketer's job. Digital marketing budgets
+run into billions globally, and behind every dollar spent, there's an expectation
+of return. But how do you ensure that your hard earned money is
+being put to good use? How do you know which part of your campaign was
+the most effective? Enter the fascinating realm of data and marketing analytics. This program is not
+just about numbers, it's about making sense
+of those numbers. We've designed this program together with our
+colleagues at Meta to introduce you to the world of data and marketing analytics. To help you prepare for the fascinating world
+of marketing analytics, we created a total
+of eight courses. Depending on the
+program you selected, you will go through
+all eight courses or a subset of
+five courses only. If you haven't worked
+much with data yet, our eight course program starts
+from the very beginning. If you already have foundational
+data analysis knowledge, the five course specialization
+program gets you up to speed on all things
+marketing analytics, or in other words, how data analytics can be specifically
+applied to marketing. Let's take a look at
+the eight courses. In the first course, we lay the foundation for
+marketing analytics. From how analytics
+fits into marketing, to how and where data is collected for
+marketing purposes. If you don't have
+marketing experience yet, this course will catch you up on the major concepts that
+guide marketing decisions. The second course introduces
+you to data analytics and a framework we like
+to use to approach data analytics challenges
+from obtaining, to scrubbing data, exploring the data and
+the stories they tell, to modeling data to help you
+predict future outcomes. We'll also look at
+how you can create powerful insights and present the results of your analysis. This course is all
+about giving you the building blocks
+for data analytics. The next courses will
+give you the tools to actually execute
+analysis projects. In Course 3, we will focus on spreadsheets as a powerful tool in any
+analyst's toolbox. You learn how spreadsheets and SQL can help you in
+your data cleaning and exploration and how building models can
+predict what lies ahead. We'll cover data
+visualization as well, and you'll learn how to create images to help tell
+your data stories. In the next course, you'll
+be introduced to Python, a powerful coding
+language that's used by data analysts
+and data scientists. While you can get very
+far with spreadsheets, Python lets you go
+a step further. By the end of this course, you'll know the most important
+Python concepts and how to approach the key steps in a data analysis
+project using Python. Don't worry if you're
+new to coding. This course is built
+for beginners. Course 5 focuses on statistics and its
+application in marketing. We will cover all
+the basic principles and we'll walk you through some foundational
+methods marketing analysts use on a regular basis. In our sixth course,
+we'll focus on specific analysis models and methods often used in marketing. From segmenting audiences, planning and
+forecasting budgets, and evaluating the effectiveness of advertising campaigns. Marketers rely on
+data analytics, and in this course, you'll learn the common ways in which they approach data
+analytics challenges. In the seventh course, we covered the Meta
+marketing analytics tools. Meta offers a sophisticated
+marketing platform for advertisers and that includes several analysis tools that can help marketers
+optimize their advertising. Understanding how these tools
+work and being able to use them effectively can have a huge impact on your
+marketing success. Then you'll be ready to take the Meta Marketing Science
+Certification exam. In the final course, we don't cover new content, but we will give you
+all the information you need if you would like to take the test for the Meta Marketing Science
+Professional Certification, proving your skills
+in the application of marketing analytics with the Meta suite of
+analytics tools. For those of you who have a
+data analytics background, you may be enrolled in the five course specialization
+skipping Course 2, 3, and 4. Our courses consist of video lessons with some
+readings along the way. They have a practical focus
+so that you get hands on experience and will
+be prepared for the day to day role of
+a marketing analyst. You'll find many examples
+and case studies throughout our videos, and there are
+quizzes, exercises, and projects to help you
+practice your skills. Marketing analytics
+is close to my heart. In fact, throughout
+my own career, I found that data and
+analytics have given me confidence in my marketing
+and decision making. And more than once has marketing
+analytics helped me to persuade colleagues
+and managers to take certain actions
+that led to success. I really hope that
+with this program, you'll find the same passion
+for marketing analytics, and I hope that this
+program will lead you on a successful and
+exciting career path.
+
+--- [FILE START: subtitle (1).txt] ---
+
+Hello and welcome to this course
+on analytics for marketing. This is the 4th course in the Facebook
+marketing analytics professional certificate program. A program created by Aptly
+with the support of Facebook. Analytics has always been
+essential in marketing. After all, a lot of money flows into
+marketing and analytics can help assess whether the money is well spent
+ways to optimize your campaign, how you fund campaigns across
+marketing channels and more. And with the ever increasing
+use of digital marketing. There's an even bigger
+spotlight on analytics. We can get our hands on so
+much more data nowadays and with the right analytics that
+data can be extremely valuable. We'll start in this first week by looking
+at how segmentation can help you define your target audience. More specifically we'll look at how
+marketers apply K means clustering to find audience segments. Then we'll focus on analytics for
+planning and forecasting. We'll define main outcome variables,
+marketers focus on and we'll learn how they are calculated. We'll pay close attention to customer
+lifetime value and what that means for marketers. And we'll look at how regression
+analysis can help us plan and forecast. Then we'll turn our attention to
+advertising effectiveness measurement. We'll see how both observational and
+experimental methods can help evaluate whether advertising campaigns
+had an effect on results and we'll look at the use of
+experiments in more depth. We'll also see how AB testing is
+used to optimize within a campaign. After that we'll focus on analysis
+techniques marketers use to optimize the marketing channel mix with
+marketing mix modeling and attribution. And we'll also go over
+sales funnel analysis and how you can help identify obstacles
+that may prevent customers from progressing through the funnel
+from awareness to purchase. I'm excited about this course as I think
+it will give you the building blocks you need in your role as a marketing analyst. Well, you may not always be the one
+who executes all the analysis. You may be working with tools or with
+other companies that help you run these different types of analysis, but
+it's crucial to understand how they work. So you'll know which method to use,
+when, which questions to ask and how to help your colleagues understand and
+interpret the results. There's a lot to go through,
+so let's get started.
+
+--- [FILE START: subtitle (2).txt] ---
+
+Hi, I'm Anke Audenaert. I am one of the instructors in the Marketing Analytics Professional
+Certification Program. I love marketing
+and I'm especially passionate about
+digital marketing. I started my digital
+marketing career journey at Yahoo quite a while back. For eight years, I led a global marketing research
+team here in Silicon Valley. As I'm sure you can imagine, marketing analytics
+was a big part of what a research team at
+Yahoo was charged with. I was lucky to have
+a first row seat to the incredible
+evolution of the Internet. This further led
+to open my eyes to the power of digital
+marketing and analytics. I am a trained psychologist and my master's is in Consumer
+Behavior and Marketing. Along with my formal training, I would argue that Yahoo was an equally important
+school to me. After leaving Yahoo,
+I took what I learned about digital
+media, web analytics, and advertising, and started my own company together with a few friends called Jump Time. We focused on advertising and revenue optimization
+for publishers. Building a software company from scratch was a fun
+roller coaster ride. After a few years, we sold the company to open X, an advertising
+technology company, and I worked with them
+to help integrate our software and algorithms
+into their software. While working in
+these companies, I joined the faculty at UCLA Anderson School
+of Management, where I've been teaching
+digital marketing and analytics in
+the MBA program. It's there that I found
+my passion for teaching. Over the past few
+years I've combined my love for teaching,
+digital marketing, and building products
+into creating different online
+courses together with our team here at Aptly. Our team has worked
+extensively with Facebook to help their teams create
+education programs. I am very excited
+about this program. I can't tell you how much of an accelerator
+marketing analytics has been for my career. There's so much opportunity
+in this space and I think that just like
+me, you'll love it.
+
+--- [FILE START: subtitle (3).txt] ---
+
+Given how marketers have an ever increasing amount of
+data at their fingertips, which can help them make
+their campaign successful, it's no surprise that marketing analysts
+are in high demand. Knowing analytics or having
+access to an analyst is a real plus for any
+marketer and as a result, new marketing analyst
+roles keep emerging. We will give you
+more insights into what marketing
+analysts do and how data analysis forms
+an integral part of marketing throughout
+this program. But let me give you
+a sense of the types of roles you will see
+marketing analysts take on. In many advertising agencies, you'll find a
+marketing analytics or marketing science department. Marketing analysts will
+support the teams that managed client accounts by
+providing them with research, evaluate the effectiveness
+of campaigns, advising them on where they
+should place ads, and so on. They will form an essential
+part of creating and managing the marketing strategy
+for the brands the advertising agency
+is responsible for. You'll find that the most successful
+agencies are the ones that blend great creativity with
+excellent data analysis. Large companies, of course, also have their internal
+marketing teams. They may work together
+with agencies to help them execute their
+advertising campaigns, but these marketing teams
+will often determine the overall strategy and will optimize how the marketing money for the company is spent. They rely heavily on marketing analysts to
+help them forecast, plan, optimize, and report
+their marketing performance. Marketing analysts will
+typically hold key roles in the marketing team or in a separate data analysis team that works closely
+with marketing. Then there are those companies
+that focus exclusively on marketing analytics
+and that provide services for marketers who
+would like to measure, optimize, and report their
+marketing performance. But that don't have
+the luxury of being able to rely on an
+internal team or they may want to use
+specific methods for which specific expertise or
+tools are required. They will then turn to these
+marketing measurement firms. You can think of
+these companies as marketing analytics
+agencies for businesses. There are a variety of roles for marketing analysts in
+these types of companies, you can take on a sales
+role where you sell marketing measurement tools to other businesses, or you might work on analyzing data from clients and creating
+reports for them or you may work as an
+account manager helping clients to understand
+the data and reports. In smaller companies,
+you may find that the marketer is expected to
+know marketing analytics. Even in companies that have a marketing analytics or
+marketing science department, marketers benefit a lot from having marketing
+analytic skills, as it will help them understand how to measure and
+optimize their campaigns and what questions to ask from the analysts or the marketing analytics agency they work with. Marketers really
+benefit from having marketing analytics
+tools in their toolbox. No matter which one of these
+roles appeals most to you, after going through
+this program, you'll be well-prepared
+for any of them. Throughout the different
+courses you'll go through, you'll find career
+content that can help you to prepare if you
+apply for a new role.
+
+--- [FILE START: subtitle (4).txt] ---
+
+We are ready to get started with our first lesson in this course on Analytics
+for Marketing. In this lesson, we will take a deep dive into segmentation, focusing on the mathematical
+methods to find our audience and speak to them using the most relevant
+message possible. This will take us
+from the theoretical who to the data-driven who. In Lesson 2, we will talk
+about k-means clustering, the most common statistical approach to developing segments. We will focus on how
+we go from analysis to implementation and how
+this ladders backup into our segmentation strategy. In Lesson 3, we will apply our learnings to
+a company walking through how they can go from analysis to
+segmentation strategy. By the end of this week, you'll be able to develop
+segmentation strategies of your own and apply them
+to your marketing work. Let's get started.
+
+--- [FILE START: subtitle (5).txt] ---
+
+If you completed the previous
+courses in this program, you already know that segmentation is an important
+tool for marketers. As an analyst, you'll
+find that marketers will often rely on you to help
+you with segmentation. In this video, I'll give
+you a short overview of different segmentation
+techniques and how they are important. Let's go back to
+James at SnackWall. You may remember from
+the previous courses in this program that
+James is introducing a new subscription
+products for businesses who would like a convenient
+snack option in the office. With SnackWall companies
+use an app to order snacks and James company
+keeps the snacks coming. James was trying to find the right audience and channels for his
+marketing budgets. Aliyah, his analyst, was
+kind enough to explain segmentation to him and
+help him find his audience. Remember, finding
+your audience's key before you decide on any
+channels or platforms. Segmentation is a way
+to sort people in groups based on characteristics
+they have in common. Segmentation leads to targeting in platforms like
+Facebook and Google. In order to know who
+we want to target, we need to perform a
+segmentation analysis first. Segmentation can
+come in two forms. The first is segmentation
+developed from a persona. Your persona could
+be derived from both quantitative and
+qualitative insights. Once you have your persona, you will then need to parse it out into characteristics
+that matter. Think to yourself what
+elements make up this persona. For example, sometimes age may really matter in a persona, sometimes age doesn't
+matter at all, and occupation is
+much more important. The second form of segmentation is segmentation developed from data analysis. This can
+come in the form of k-means clustering or other
+statistical analysis. We will spend most
+of our time here. This is a much more in-depth way of segmenting our audience. Why practice segmentation? Segmentation helps us reach the right users with our media. Targeting the whole world with ads would lead to waste
+of media dollars. Instead, we want to find our correct audience and reach them with
+the right message. Segmentation helps us
+know our audience better. It also makes it easier
+to set up campaigns in our audience buying
+platforms like Facebook. If we know our
+audience in advance, we can easily look for segments
+that reach that audience. Now that we understand
+what segmentation is and the importance
+of good segmentation, let's move on to some examples
+of segmenting audiences.
+
+--- [FILE START: subtitle (6).txt] ---
+
+Let's go back to Snackwall. James has decided to target the focused tech segment for his campaign. But what does that actually look like from a segmentation perspective? In this case, focused tech is the persona. But we need to begin segmenting this persona in order to eventually find and target this audience. Segmentation variables come in four main forms. Demographic, psychographic, geographic and behavioral. Demographic segmentation includes factors like age, gender, marital status, income and education level. We're trying to reach a younger, more tech-focused audience, so age is a factor here. One segmentation point will be ages 25 to 34. Next, we want to consider psychographic behaviors. These include things like values, motivations and beliefs. These variables are often harder to determine because we don't always know our audience's inner thoughts. James has done some survey research on this tech-savvy audience and knows that they consider the latest and greatest technology to be important in their lives. Great, another segmentation point. We also need to think about geographic considerations. James does not have enough data to know if geography plays a huge factor yet, but he'd like to slightly focus on tech-friendly US cities like San Francisco, New York, Austin and Miami. This will be helpful when he's planning budgets and running campaigns later. Last, we have behavioral variables. Behavioral variables come in two forms. The first is the actual relationship the user has with the product, including usage, spending habits and the perceived benefits of using the product. In our case, this is a new segment for SnackWall, so they do not have that data on this yet. The second form of behavioral variables are the actual behaviors of the user themselves. For instance, you may want to focus on tech usage, media consumption or spending habits. This focused tech audience is tech-savvy. There's another segmentation point. What about their media habits? You decide to do some research and find they are more active on Twitter and LinkedIn. Great, there's another segmentation point. Since we're discussing technology, it's important to keep in mind things like operating systems. Since this audience is tech-minded, they are most likely running the most recent operating systems on Android or iOS, so let's use that in our segmentation too. You can see how we've taken a persona like focused tech and parsed it into segments, so we're then able to find these users in digital marketing. But remember, there's a second way we can segment using clustering in our own data. Let's look at another example from a hypothetical company, FocusVu. FocusVu is a video conferencing company that sells online video conferencing solutions for individuals and businesses. They have three subscription tiers, free, personal, and business. FocusVu wants to get as many users into their business tier pricing as possible. They decide to segment out personal tier brand loyalists who may be interested in switching to the business tier. In order to do this, they segment out the top personal tier users by looking at how long a user has been a FocusVu member and how much they use the platform. Then, FocusVu targets them with an ad campaign on Facebook, urging them to upgrade to the business tier. This is a basic example of segmentation using customer data. We'll get into more complex methods throughout this course. Let's look at a real-life case study from MetLife Insurance written up by Harvard Business School's student, R Waitumbi. MetLife was challenged by technological innovations in the marketplace, and newcomers like Lemonade threatened to steal customers. In addition to outside forces, customers were expecting more from the brand than ever. This combination of factors spurred MetLife to try to find a competitive advantage in this space through the use of segmentation. After interviewing and surveying more than 50,000 customers, MetLife developed five key segments using cluster analysis that went beyond their typical demographic information they had used in the past. As you can see, MetLife focused on demographic insights like age and gender, as well as behavioral factors like tech usage and media consumption. MetLife also looked at psychographic elements, like a segment's price sensitivity and confidence about financial matters. MetLife then used this segmentation strategy to educate their Salesforce and corporate customers, encouraging them to think about their employees through a combination of demographic and psychographic data. Segmentation can be a powerful tool in a marketer's arsenal. Using segmentation helps us better understand our audience and plan our marketing in a smarter way. In our next video, we'll look at how we can begin to go from segmentation to execution using Dynamic Creative.
+
+--- [FILE START: subtitle (7).txt] ---
+
+A strong segmentation strategy is just
+one piece of the marketing puzzle. We can also use statistics and
+algorithms to inform creative decisions. In this video, I will give you an overview
+of the different methods that influence the ads and marketing messages we see. Did you know that according to Infogroup,
+over 90% of consumers say that messages from companies that are not
+personally relevant to them are annoying. Good ads are a huge part
+of that experience. So how do statistics and
+algorithms inform good ads? Personalization enables advertisers to
+reach users based on their interests and demographics. There's no one tactic that
+defines personalization. You may recognize it when a company
+uses your name in the subject line for an email for instance. But personalization goes
+much further than that. There are four key kinds
+of personalization. Wisdom of the crowd,
+semantic understanding, segmentation and targeting and one to one personalization. Wisdom of the crowd is
+focused on finding items and ads you might like if others who
+look like you also like them. This is often how companies begin
+personalization at scale as it moves their advertising from one to many,
+to one to few. So, instead of just targeting
+everyone with a message, only a few people are targeted
+because you have reason to believe that they will be
+more interested in your message. Let's go back to James at SnackWall. Remember, James is trying to sell snack
+subscriptions to businesses who would like a convenient snack option in the office. James creates an app based audience
+list to develop a list of previous purchasers from the SnackWall app for
+Facebook advertising. Facebook that looks at his data for
+correlations and finds users who purchased crackers also more often purchase
+cheese than a typical user. So as a result, the next time a user
+who purchased crackers appears on the Facebook platform,
+they are served an ad for cheese snacks. Semantic understanding is used
+to understand the context behind the words on a page. This is most often used in search but
+it can also be used in contextual advertising to serve a relevant ad to
+a user on a contextually relevant page. For example,
+if James has an ad focused on sports and wants to serve this in sports articles,
+a natural language processing algorithm would parse an article to say
+yes this is contextually relevant and it's about sports and
+serve SnackWall ad. What's important about semantic
+understanding is that if given enough data and algorithm will be able
+to tell the difference between polar bears versus the Chicago
+bears football team for instance. Segmentation and targeting is the backbone
+of many algorithmic optimization and personalization techniques. Say SnackWall has three Facebook
+campaigns running each targeted to a different snack segment. One campaign is targeted to focus tech
+audiences want to sports enthusiasts and want to healthy foods audiences. While James has creative themes for each, he decides to run all creative for
+each audience to let the Facebook algorithm decides to show which
+creative is performing best. To his surprise,
+the Facebook algorithm is serving more sports creative to
+the healthy foods audience. This is the power of segmentation and
+targeting. While James assumed healthy food
+creative would work best for the healthy foods audience. The Facebook algorithm notices that users
+who fit the segment profile of a healthy food consumers are more likely to purchase
+after seeing a sports creative message. Last but certainly not least
+is one to one personalization. This approach looks at individual
+characteristics to deliver a unique experience to a user. This could be the way
+a website is laid out and ad you are served or
+even your search results. While many companies strive for one to one personalization can
+be very hard to do it at scale. One to one personalization looks at
+everything an algorithm knows about you to predict your behavior and serve you the most ideal
+experience to drive that behavior. As an example, if you head to search
+engine and look up baseball tickets while you are in New York, you may receive
+search results for New York teams. If you do the exact same
+search in san Francisco, you may receive different search results. Further, you may receive different
+search results if you've previously shown an interest in baseball
+versus someone who never has. One to one personalization looks at
+all of the elements a company knows about a consumer in order to provide
+the best experience possible. To really up your personalization game, the four types of personalization
+can feed into dynamic creative. Dynamic creative can change
+elements including, but not limited to the primary text,
+image, headline and description in real time given what we know about to
+use it and the context on the page. Dynamic creative is available for
+many creative types, including social posts,
+display banners and video. Let's go back to James at SnackWall. Remember he saw that the sports
+themed creative performs best for his healthy foods audience. James decides to expand his creative
+strategy to run dynamic creative on Facebook. Each ad has three different
+forms of primary text available, one with buy one get one free,
+one with no offer and one with 50% off. Facebook then looks at each user
+individually within their segments to decide what image and
+primary text they would serve. With their dynamic creative
+optimization to our sales, SnackWall sees their subscriptions
+increase 77% over the next two months. Personalization in advertising
+is very important. It is what makes digital advertising
+more effective and it allows us to put the right message in front of
+the right audience at the right time. Personalization is data-driven. So it's important to have a structured
+way to keep and access your data. Let's look at that in our next video.
+
+--- [FILE START: subtitle (8).txt] ---
+
+In this lesson, we've looked at
+segmentation and the important role it plays in personalizing and
+optimizing advertising messages. And we also looked at other methods often
+used in marketing to customize ads. Before we delve deeper into segmentation
+techniques in the next lesson, I want to talk about ways in which
+companies store all the data they use for their advertising customization. Tools like a customer data platform or CDP can help organize our data to serve
+more relevant experiences to users. CDP is a database that builds a complete picture of your customers
+on an individual level, using transactional behavioral and
+demographic data. Different data options might include
+events, customer attributes, transactional data campaign metrics and
+customer service data. CDP as where we combine everything we know
+about the user in order to segment and eventually target them. This data can then be used with third
+party providers like Facebook or Google in order to better reach
+users with relevant messaging. Once data is in the CDP were able
+to execute segmentation strategies based on calculations including
+lifetime value prediction, cluster analysis, predictive
+customer scoring and lookalikes. We'll talk more about these
+strategies in our time together. Personalization is a key tool
+in the market or stool kit. As you've learned, there are many forms
+of personalization to choose from. Keeping data organized is essential to
+deliver on the promise of personalization. And as you'll see in our next lesson, there are even more ways to segment our
+users in order to deliver the right message at the right
+time to the right person.
+
+--- [FILE START: subtitle (9).txt] ---
+
+We've talked a lot about
+segmentation strategies and how to effectively reach your consumer. Now, we want to dive into a specific
+type of segmentation called clustering. Analyst Nikita Sharma defined clustering
+in a blog post she wrote on Heartbeat. Clustering is the process of dividing the
+data space or data points into a number of groups, such that data points in the
+same groups are more similar to other data points in the same group, and dissimilar
+to the data points in other groups. But, more simply, it's about finding
+similarities in the data and grouping data points
+by these similarities. Clustering is a predictive
+form of segmentation. Clustering identifies what
+people do most of the time, in order to predict what customers
+are most likely to do, moving forward. It finds the similarities so
+they can then be segmented. For example, let's say SnackWall,
+our snack subscription service has purchased their data on business size and
+dollar amount of orders per year. They then use clustering to look
+through the data for clusters, grouping these data points together. James at SnackWall is surprised to
+find a cluster of small businesses who ordered very often and decides to segment them out into their own
+campaign of high lifetime value users. Well this may be easy to spot by looking
+at the data plot in this example, clustering can find the patterns in the
+data that we might not see on the surface. It's important to test
+different numbers of clusters, to see the similarity among them. Too few clusters can mean
+you're being too general, but too many clusters can
+cause too much noise. Think of it this way, if you take 100
+people and ask them to choose between two numbers, 1 and 2, you'll wind up
+with two large audiences that may not share many things in common, and
+in turn, may not be very effective. On the other hand, if you ask those 100
+people to pick their favorite number, without limiting their options, you may end up with a bunch of very small
+audiences that may not be very useful. The key is to figure out how many
+clusters give you enough granularity while still being actionable. We'll discuss this more as we move
+forward and dive into k-means clustering. Let's take a look at a real-life
+application of clustering. For that, we're going to turn to football
+or soccer, whichever you prefer. Daniel Rascher, an economics professor
+at UC Berkeley wrote about this example in an article on the UK
+publication FC Business. In it, he describes a study to help
+a football team that was limited by COVID protocols and needed to decide who to
+invite back to their stadium, first. Should it be season ticket holders, at the risk of alienating
+fans who don't have one? Should it be at random, through a lottery? Should it be based on total purchases
+through tickets and stadiums? Here's the sample data before clustering,
+comparing age and number of matches visited. From here, a clustering analysis
+finds cohorts with similarities across these two variables
+with two total clusters. As you can see, the clusters are big and contain a lot of variability in terms
+of total matches visited and age. So, let's add in another variable. If we add the number of home games
+as a variable and set the number of clusters to three, we can now see
+three different smaller clusters. Finally, adding a fourth
+variable of years as a customer, and a fourth cluster,
+creates this cluster analysis. As you can see, Cluster 2 is spread
+out among the other three clusters, making for a pretty messy dataset. In this case,
+we've decided to go with three clusters, to ideally find the right balance
+of granularity and usability. From there, looking at the purchasing
+power of each cluster, as well as the number of home games
+visited, we can easily see that not inviting Cluster 1, would spell
+disaster for this football team. So, what do we do once we've
+created audience clusters? Well, as we've seen from
+our previous examples, we may use clustering to target certain
+users with a marketing campaign. We can tailor our advertising messages
+to appeal to a particular segment, based on some of the characteristics that
+distinguish the segment from other people. This is where a customer data platform or
+CDP comes into play. The data we use for clustering
+can come from a CDP, but clusters can also be segmented and uploaded
+into a CDP for targeting purposes. We can also use clustering for
+a variety of real-world applications. Anything from real-time costs to product
+recommendations, and all the way to, who we should invite
+to our football games. In our next few lessons, we' ll take
+a deep dive into k-means clustering, determining the number of clusters,
+and defining segments.
+
+--- [FILE START: subtitle (10).txt] ---
+
+Now that we've learned about clustering, we'll dive into a specific form
+of clustering called K-means. Let's start with what
+K-means is meant to do. K-means clustering groups
+similar data points and attempts to find underlying patterns. The starting point is a set of data
+points defined by the variables you're interested in. For example, variables here could be
+things like location and demographics. K-means is an iterative approach,
+where you start by randomly selecting K data points in your data set and defining
+each as the center of the cluster. Then you revaluate how good your
+random choice was and improve it. And the K-means clustering approach,
+you keep improving until you have found the center's the best
+split up your data in K clusters. So how does it work? First we need to define K. K is the number of clusters
+the algorithms should make, we'll discuss in depth how to
+determine K in a later video. For now let's say K equals four, meaning
+we will have four clusters for our data. Second, we need to establish four
+centroids at random in the data. This basically means that four data
+points will be randomly chosen and be assigned as cluster centroids. A centroid is the center of a data set. Once we've established these centroids,
+the third step we need to do is calculate the Euclidean distance
+between each point and each centroid. This will help us determine which cluster
+each data point should be assigned to. Euclidean distance Is the shortest
+distance between two points, in order to calculate Euclidean distance
+we will use the formula shown here. Given two vectors x and y,
+we take a square root of the sum of squared differences in their elements. Let's walk through it together. Say we have two data points,
+one at 3 and five and 1 at two and 2. First, we subtract X two from X one and Y two from Y one, so
+3 -2 and five minus two, giving us one and 3 respectively. From there,
+we need to square each of these so three squared becomes nine and
+one squared stays one. Then we need to add these two numbers
+together, so nine plus one equals 10. Finally we need to take the square root of
+10 giving us a Euclidean distance of 3.16. Going back to our example for step three, we need to calculate Euclidean distance
+between each point and each centroid. A data point will be grouped
+with the closest centroid or the one it has the shortest Euclidean
+distance to create a cluster. Once we've established these
+clusters then we come step five, we need to find the mean of each new
+cluster to establish a new centroid. In order to do that, calculate a mean
+of all X values in your cluster and the means of all Y values in your cluster. To calculate your new centroid, take the
+mean of all X values in your cluster and the mean of all Y values in your cluster
+that will give you your new X and Y coordinates. Once you've established a new center for
+your cluster, go back through steps three and five
+again until there are no more changes or less likely you from the maximum
+number of iterations. Now you have a set of clusters, great job. However, we have another step before we're
+done with this K-means cluster analysis. Step seven,
+we need to validate the data or in other words we need to evaluate
+how good our cluster analysis is. There are a couple of
+different ways to do this. First, we can look at the inside
+of the clusters to see how close together the data points are. This is called variance,
+variance tells you the degree of spread in your data set ideally the variance
+is low meaning that clusters you defined are tight and
+the data points are close together. There are two different variance formulas. When you have collected data from every
+member of the population that you're interested in, you can use the population
+variance formula as shown, you may recognize this formula. It basically looks at
+every data point XI and subtracts the population mean from it and
+squares that value. That calculates how removed that data
+point is from the mean you sum those values and divide them by the number
+of data points and that gives you the population variance but you may not
+have all the data for the population. Rather you may only have data for
+a sample. In that case you can calculate the sample
+variance, you can use the sample variance formula to create estimates or
+inferences about your population. Of course the formula is very similar
+you're just calculating it for less data points. Let's look at an example,
+say I have a sample of six random Numbers, 1, 3, 6, 8, 10 and 14. First, I need to find a mean of these
+numbers which I can do by adding all of the numbers together and
+dividing by the number of data points for our data set,
+we find out the mean is seven. From there, step two, we need to
+subtract the mean from each of our original numbers as shown here and then
+step three square each of those numbers. Once we square each of these numbers, we need to do step four where
+we add up all of those numbers. Finally, we need to divide by
+the number of data points in our case. Six to get the variance for your cluster. In this example, the variance for
+this number cluster is 18.67. Once we calculate the variance for each
+cluster, we need to go and add those up. Our variance goal is always to
+have the lowest total variance for all clusters as that tells us,
+that is the most compact clusters can get. Let's take a look at this image,
+here we have four clusters the bars represent the sum of
+the variance for each of the clusters. The cluster analysis was run twice and the second analysis came up with a cluster
+solution that has a lower total variance. So that would be the preferred solution. There are many different ways to
+validate a cluster analysis commonly used way to validate clusters
+is through the dunn index. Dunn index measures both
+the tightness of the clusters, but also how far apart clusters are ideally
+you want to maximize your Dunn index for any cluster analysis. This means that you found tight clusters with little variance inside
+a cluster that are also far apart, leaving little confusion as to which
+cluster a data point falls into. The formula for the dunn index
+is the minimum inter cluster distance divided by the maximum
+cluster size as shown on screen. Don't worry about the formula so
+much, but for now just remember that the higher the dunn index,
+the stronger your K-means clusters are. I've shown you many manual
+calculations here, but don't worry. When you run K-means you
+will use analysis tools, you can execute a K-means clustering
+in Tableau for instance, but it's good to know how it works as it will
+make it easier to understand the results. Now that we know how to create a K-means
+cluster analysis in theory we'll be moving on to practice more with
+K-means including determining how many clusters we should have in our design and
+naming our segments.
+
+--- [FILE START: subtitle (11).txt] ---
+
+In our previous video, we learned about
+k-means clustering. We talked about how
+k-means clustering works, and we talked a bit
+about how you can validate the results from
+your cluster analysis. As you probably remember, we also saw how to start a
+k-means cluster analysis. You have to decide
+on the number of clusters you would like
+your analysis to show. There may be instances
+where you know how many segments or
+clusters you can handle, and you may thus have an idea of how many clusters you
+would like to see. But more often than not, you won't really know how many different segments you should divide
+your data into. Ideally, you would have the data speak for itself and
+guide you on the number of different groups
+that can be identified in your datasets in
+a meaningful way. How can you do that with
+k-means clustering? You could use what we
+call the elbow criterion. The elbow criterion helps you to find the number
+of clusters for which adding an extra cluster would not add
+sufficient information, or in other words, it finds the number of
+clusters that's ideal because adding another
+cluster does not give you a sufficiently
+better result. How does that work? Remember that in the
+last video we talked about validating our
+cluster solution. A good solution has
+low variance within a cluster and high-variance
+between clusters. In the elbow criterion, you plot the ratio of the
+within cluster variance to the between cluster variance against the number of
+clusters in your solution. Remember, you want the ratio of the within cluster variance to the between cluster
+variance to be low. When you increase the
+number of clusters, this ratio will start to drop. But there will come
+a point where it does not drop very much
+by adding a new cluster. In other words, your solution is not getting much better, and it may not be
+worth it anymore to add any more clusters,
+which adds complexity. The point where you don't
+gain much by adding a new cluster is referred
+to as the elbow, and that elbow point is considered the ideal
+number of clusters. In this plot, the point
+is at four clusters. That would be the ideal number of clusters in this analysis. Of course, this still
+means that you need to run the cluster
+analysis several times, plot your solutions, and then find the elbow
+in your plot. Fortunately, software
+like Tableau lets you run this
+automatically using an algorithm that will test several solutions and come back to you with
+the best solution. You could still
+decide to do this manually even with the software, but it's easier to
+let Tableau use its algorithm to decide on the number of
+clusters for you. The algorithm uses the
+principle we just described. It finds the number of clusters for which
+the variance within the clusters is as low as possible and the variance
+between the clusters is high. Hence, it's a solution
+where the clusters are tight and ideally far apart. When you think of this from an audience segmentation point
+of view, that makes sense. You would like people to fall into a segment because
+they are very similar to other people in
+that segment on the variables you're
+interested in. But you want them
+to be as different as possible from people
+in the other segments. If these conditions are met, you can feel confident you assigned them to
+the right segment. In our next lesson, we'll see how you can make use of this automatic
+algorithm in Tableau. But before we get into that, let's talk about how we best name and describe our clusters. That's what we'll cover
+in our next video.
+
+--- [FILE START: subtitle (12).txt] ---
+
+So we now know how K-means
+clustering works and how to determine the number of
+clusters for your analysis. So you can run your analysis but
+now imagine your analysis returns three clusters in other words, you found three
+distinct segments in your audience. That's great but in order to communicate
+something interesting about these clusters, you'll need to describe
+the clusters or segments. You'll need to find a way to describe what
+makes the people in the clusters similar to each other and what makes them different from other
+people in other clusters or segments. We refer to this process
+as profiling clusters and that's what we will discuss in this video. Once you've found your clusters, it's good to think back of the variables
+that defined your initial data points. For instance you may have plotted data
+based on people's location and age. You can use those variables
+to describe your clusters. Let's look at an example. Remember CALLA and
+IVY the flower store in Amsterdam. Imra the owner worked with her team to segment
+the data from a survey she ran to evaluate interest in buying flowers
+online among people in the Netherlands. They ran a K-means clustering on
+the dataset using the variables location and age. They found three distinct clusters
+of respondents by looking at the data in each cluster, they found that people in the first
+cluster live in urban areas or cities. And they fall in the 25-44 age
+range people in second cluster live in more suburban areas and
+their age range is between 35-54. People in the third cluster are in
+rural areas and they're a bit older. This gives us a good idea of who
+the people in the clusters are, but we may want to look for
+more information to really understand him. Imra's team does that by looking at
+additional variables for the data points. So they go back to the survey and look
+at how respondents in each cluster score on other variables, primarily their
+interest in buying flowers online. They find that people in cluster
+one are most interested, then people in cluster two and
+finally people in cluster three, they are the least interested
+digging deeper into the data. They also find that people in cluster one
+are more likely to spend money on interior design than people in the other clusters. After having looked at a few more
+variables to find characteristics that define the segments. The team uses this information to describe
+their clusters and give them a name. They choose to name the first
+cluster urban design enthusiasts. The second segment is named efficient
+suburban families to reflect their finding that this segment is
+especially focused on saving time. And the third segment is called rural
+traditionalists after they found that group would rather go to a florist
+and isn't inclined to buy online. As you can see from this example
+profiling your segments, takes a bit of digging into the data. It's good to come up with a name
+that describes your segment using the characteristics that
+matter most to you and try to make the name
+somewhat self explanatory. So it's easy for other team members to get
+a sense of who's part of the segments. Marketers will often create a persona for
+each cluster. That's a more elaborate description
+of a person that may represent your segment well. The segments and their descriptions are
+the final result of your cluster analysis. In our next lesson, we'll take a look at how cluster analysis
+works in practice using Tableau.
+
+--- [FILE START: subtitle (13).txt] ---
+
+Hi, I'm Victor Geislinger, and in these next set of videos, we're going to go over
+how you might use clustering techniques
+on data with Tableau. Recall the Snackwall Company. Snackwall wants to use different marketing
+campaigns to better reach its existing customers, already using Snackwalls
+installed at their workplaces. Campaigns can be very expensive to launch since a lot
+can go into them. We would like to make
+sure our marketing resonates with its
+audience and is effective. We can learn about our
+audience with survey data. Thankfully, we already have
+this data available to us. This includes information
+about the business Snackwall would provide
+their service to. Features include data about their employees like
+the average age. There's also information about the business's sales
+history with Snackwall. This will help us group individual businesses into meaningful segments
+known as clusters. Members of each cluster
+will be more similar to one another than with individuals
+outside of a cluster. Remember, there's
+a cost in creating a new campaign for each group so we don't want to target
+too fine and be too specific. If we did this, we
+could end up with too many groups to market to, making it overall
+more expensive. We also don't want
+campaigns that are so broad that
+they're non effective. This means that there are two
+conflicting considerations to keep in mind when
+creating our segments. We'll be using Tableau today
+as our tool of choice in creating cluster since it
+makes the process simple. Tableau uses the k-means
+clustering algorithm, so it can be helpful to keep in mind the algorithm
+when using the tool. But you'll see that
+you won't have to worry about using it directly, to use tables
+clustering effectively. Now, let's take a
+look at the data so we can consider the features. We've already launched Tableau
+so we'll first need to load the data from
+a CSV into Tableau. We click "Connect to Data",
+we'll go to text file. In this case it's
+this file right here, Snackwall_data.csv. From this point, we
+could explore and learn more about the details
+of the data itself. But today we'll instead
+focus on just clustering. The next step will
+be to consider what features we want
+to use when clustering. It helps to review
+whether it would logically make sense to
+use certain features. For example, it's unlikely
+we'll use the phone number. Note however, it
+could be useful to do some feature engineering such as getting the area code
+from the phone number, but we'll ignore that here, since we have some location
+information if we wanted. We'll go ahead and
+open up a sheet now. Now, you can see all of our features listed on
+the left bar right here. We'll go ahead and pass the features that we care
+about under the mark section. These will be used to
+determine clusters. Let's go ahead and drag
+things like the age. How far the closest
+convenience store is, how much was spent last year, and whether or not the company provides lunch to
+their employees. Now, that we've decided on
+what features to consider, in the next video, we'll
+start creating our clusters.
+
+--- [FILE START: subtitle (14).txt] ---
+
+Earlier we loaded data about
+our customers in Tableau. We already decided
+which features we should use to create
+these clusters. We now want to use Tableau to
+create the clusters for us. In Tableau, we'll go
+to the Analytics tab, and we should see Cluster. We'll go ahead and
+double click "Cluster", which will open up a window. In this window, you'll
+see variables and these are the variables
+that will be used to create the clusters. You can see that some variables
+have already been added. To add more, we
+just simply have to drag them over to the
+variables window. We can drag variables
+from right here, but we could also go back
+to our data and look for specific variables
+that we haven't included and drag them
+directly into here. In this case I'll drag in Spent Past Years and
+that wasn't included. Then also drag Provides Lunch, that was one that
+we cared about. Recall that some
+variables might need be adjusted to a different
+type like an attribute. For example, this
+sum of age median, we're going to change
+that to a attribute. We'll click on this, click "Attribute" and you
+can see that's changed, and we'll do the same thing for closest convenience store. There we go. Also
+in this window, we can go ahead and specify the number of clusters
+that we want. If we leave it blank
+it will be automatic, and Tableau will pick for us. For now, we'll use the default, which we can adjust
+later if we want. We can now go ahead
+and close this window, and you can see Clusters appears here under the
+Marks card section. We can go ahead and
+look more closely at these generated
+clusters by clicking on the clusters field and
+choosing described clusters. This table shows us how
+many clusters there are, how many individuals there
+are in each of the clusters, and the average values for the individuals in
+each of the clusters. Note, the individuals
+in the tables tool can be labeled as not clustered. This is to prevent outliers, individual points that are
+significantly different from other individuals from
+affecting the clusters. In this case, you might
+decide that we could afford to have more
+than two clusters. We can do the clustering over again and specify the
+number of clusters. Let's go ahead and do that now. I can go back to Clusters
+and hit "Edit Clusters". Now you can see that
+window is back. In this case, I
+think four clusters might actually be more accurate. Now that we've redone
+the clustering, we can go back to the
+summary of clusters. Again clicking here, then
+clicking "Describe Clusters". Now we're back to the summary. Now we can see if this
+looks good for our goals. If this isn't what we wanted, we could adjust the
+number of clusters again and add or remove
+features or variables. Since I think this looks good, we'll keep the clustering
+as it is right now. We can now use this clustering
+as a variable in Tableau. We can do that by closing
+this window and then simply dragging this
+clusters off to left here. You can see it's
+added right here. In this case, I'm just
+going to call it Cluster. By doing this, this
+allows us to use the clusters in our
+visualizations in Tableau. In the next video,
+we'll go over how you might want to
+observe the clusters and then build personas
+for those clusters to better understand your segments for your marketing campaign.
+
+--- [FILE START: subtitle (15).txt] ---
+
+Earlier, we went through getting survey
+data on our customers and creating clusters that can be used for a marketing
+campaign fine tuning for each group. Although, we have clusters created, it'd be helpful to better understand how
+each cluster differs from other clusters. If you recall from earlier, this process
+is called profiling the clusters. This is where we can think of the persona
+of a cluster based on the variables and features of individual
+data points in a cluster. Let's take a closer look again in
+the summary table that we've seen before. We go to Clusters and
+click Describe Clusters, and here we can see our summary table. Looking at the clusters, we can see
+the number of items, or I should say, number of data points
+that are in each cluster. And you can see for Cluster 3,
+it is definitely the most at 536. The next highest is Cluster 2, 389. You might also see that the age median is
+pretty close to each other for Clusters 1, Cluster 3, and Cluster 4,
+though Cluster 4 is the youngest. Cluster 2, however,
+is almost age median 40, so they tend to be the oldest in this group. We can also see that the two groups that
+spend the largest, at least on average, are Cluster 1 and Cluster 2 at 25,000 and
+20,000 respectively. We also see that the closest convenience
+store for Cluster 2 is about 10 miles away, and that's pretty far
+away when you think about it. These other ones, 3 miles,
+that's arguably still a decent ways away, but probably easy to do on a lunch break. And finally, we can also see that for
+Clusters 1 and Clusters 4 that the employer
+tends to provide lunch. And again, this is average,
+the most common. So not everyone in Cluster 1 is
+provided lunch, but most are. And then you can see for Cluster 2 and
+Cluster 3, they are not provided lunch. Looking at these values can be helpful,
+but it can be a little tough to decide
+exactly what you should do with it. Then that's where personas
+really can come in. In the case for marketing,
+you might consider Clusters 3 and Clusters 2 since they're
+relatively largest groups. You can especially see for Cluster 2, they're already spending quite a lot on
+snack wall for 20,000 dollars a year. We see that they tend to be a little bit
+on the older age compared to our other customers, and that they have
+a pretty far way to go to get lunch. Also, most of them don't
+have lunch provided at work. So you might think of Cluster 2 as
+an older group that has been spending a lot and it's not really convenient for
+them to get lunch. You might give this a special name just
+to kind of qualify a little bit more. You might look deeper into Cluster 2
+to see what other attributes in here. But based on this, you can kind of get a
+feel for what kind of customers these are. On the other end of the spectrum,
+we have Cluster 4 here, so there's about half as many in Cluster
+4 as there were in Cluster 3. So relatively smaller group compared
+to the rest, but still not too small. We can see they spend the least
+on snack wallet this past year. They tend to be the youngest, and then also they are the closest
+to a convenience store. And they are also more likely to be
+provided lunch by their employers. So you can probably get a feel for
+what this cluster is like. They're relatively young, they haven't
+been spending much money on snackwall, but also they have the most
+convenient ways to get lunch. Hopefully at this point,
+you can get a feel for how you might adjust your marketing
+campaign between just these two clusters. When doing this, we might give descriptive
+names to each cluster to remind us about how each cluster differs. We can do this by first
+closing this window, and then going up to our Clusters up here and
+clicking Edit Group. Assuming you already know
+the personas that you want to identify with these different clusters,
+we can go ahead and put those personas as the names themselves
+versus just Cluster 3, Cluster 2. To make it a little bit easier for us to
+work with those groups, we'll go ahead and click on a Cluster, rename, and
+then I'll rename it to its persona's name. And this might be over time
+deciding what you want, but here I'm just going to put some
+names that we've decided before. So we'll have Young and Hungry. And then for Cluster 2,
+we will have Season Spenders. Then for Cluster 4,
+we'll go ahead and have Fed Walkers. Then for Cluster 1, we'll go ahead and
+name them Always Hungry. Okay, and this is a little bit easier now
+assuming that you've already agreed on the names and personas for
+these different groups, but a little bit easier to understand when
+you're doing some more visualizations. With all of this, we can now take a closer
+look at the data using these clusters. Here's a quick visualization I cooked up
+in Tableau to help us visualize these different groups. So I went ahead and separated out if
+the business provides lunch or not. So if provided lunch,
+they're down on this row, and then if they didn't provide lunch,
+they are on this row here. And then you can see on the y-axis
+is the spent the past year, and you can see on the x-axis age median so
+as they get older in the age median, you can move across the x-axis. Closest convenience store moving
+across the x-axis and business size. So really, these are just six different
+plots, but I put them all together so we can kind of look at them all together. Now, you can already see there's kind of
+these different groupings and stuff, and that's something that we might
+notice as making segments and stuff. But since we use Tableau to create our
+clustering, we can actually use clustering to better understand where our clusters
+fit on these different graphs. So what I'll go ahead and
+do is grab clusters up here, and then drag it over to Color. And now, you can see here,
+we can see the different groups. And it's really obvious now is that,
+for example, our Seasoned Spenders and our Young and Hungry groups tend
+to be in this grouping right here, which basically doesn't provide lunch. So the employers don't provide lunch and you can see how they're
+different from each other even. So for example, the Young and
+Hungry tend to be younger, which is kind of what we expected. The Seasoned Spenders, we can see that
+they tend to spend a little bit more, because they're kind of up higher on
+this y-axis compared to our Young and Hungry groups. And then you can also see, for example,
+the closest convenience store, the Young and Hungry tend to be very close
+to a convenience store compared to our Seasoned Spenders clustering. And then also, looking at our other
+two clusters, we have the Fed Walkers. You can see the Fed Walkers down
+here seem not to spend too much. I can see on the lower
+end on the y-axis here, they are provided lunch from their
+employers, as well as the Always Hungry. And you can see Always Hungry, even
+though they are provided lunch, some of them are relatively close to a convenience
+store, some are not so much, but they still tend to spend the most compared
+to at least the Fed Walkers over here. So this hopefully can give you an idea
+of how you might use clusterings in your visualizations
+to better understand how you might approach marketing
+towards different groups. So at this point, hopefully, you can see
+the power of Tableau and how you can use it to better identify different segments
+in your data to do better marketing. We also saw that clustering was
+relatively straightforward. There's always some fine tuning and
+adjusting and stuff for your use case, but you can see that we didn't really have
+to think too much about the algorithm. Though, of course, it's kind of helpful to
+think about how this algorithm works so we can better understand what
+things we need to adjust. And I hope that this scenario
+has helped you understand and think about ways that you might use
+clustering in your future work.
+
+--- [FILE START: subtitle (16).txt] ---
+
+Finding your target audience is a very important
+part of marketing. If you can use data to
+define the segments that may have the most
+interest in your product, chances are, your marketing will be
+a lot more successful. Now you know how to approach
+a segmentation analysis. You know how personas are used and how
+segmentation naturally leads into fine-tuning your advertising campaigns
+with targeting solutions. You also saw how
+k-means clustering is a great way to find
+segments in your data, and you understand how to decide on the number of clusters to use and how to profile
+the resulting segments. Finally, you know how to execute a k-means clustering
+analysis in Tableau. With these new skills, you are in a great
+position to help your company and
+marketing team identify the audience that's right
+for their marketing message.
+
+--- [FILE START: Different Approaches to Segmentation.txt] ---
+
+What is segmentation?
+Segmentation is a great tool for marketing analysts because it is a way for you to find your audience and speak to them with the most relevant message possible. Marketers will often rely on analysts to help with using segmentation to the fullest. Segmentation is a way to sort people into groups based on shared characteristics, which can help you create marketing messages tailored to them and those characteristics as well as where those messages can appear, such as Facebook and Google. There are a couple of different approaches to segmentation to potentially employ, which we’ll explore in the next section
+
+What are some of the approaches to segmentation?
+Data-based segmentation
+In this module, we distinguished between two different categories of segmentation: segmentation developed from a persona and segmentation based on data analysis.  We focused on one very commonly used data analysis technique, but there are many more that can be used to guide your definition of segments.  
+
+K-means clustering
+The most common form of segmentation is developed from data analysis, usually via k-means clustering, but other statistical analyses work here as well. Most of the lessons in this module focus on this approach because of how commonly used it is. Essentially, k-means clustering focuses on finding similarities in the data you’ve collected and grouping that data based on those similarities. This is a predictive approach to segmentation because it allows you to identify patterns, habits and other key data points in order to anticipate what customers are most likely to do in the future. 
+
+The key is finding a balance between the number of clusters and how actionable their insights are for your marketing purposes. Too many clusters isn’t practical.  You would have different segments with very specific attributes and you’d miss commonalities among the groups.  Too few clusters would make customers who might be significantly different from one another part of the same segments, and you’d miss an opportunity to tailor your message. This can feel a bit random because you’re choosing data points to center a cluster around then testing how good your random choice was then improving from there, but this method is also very in-depth and relatively fast to execute.
+
+Latent Class Analysis
+Another commonly used method is Latent Class Analysis.  Rather than relying on an arbitrary number of clusters determined by the researcher, Latent Class Analysis lets the data speak and finds a model of an underlying (latent) structure in the data.  The goal in Latent Class Analysis is to find a model  whose patterns closely match with your data. If the model can match closely with your data, then it’s more likely that the latent structure of the model matches the reality of your data.  The model’s underlying structure can then be used to define clusters within the data. Then, every subject in your dataset is assigned a probability of belonging to the identified clusters.  
+
+In a way, Latent Class Analysis is a closer representation of reality.  Consumers can indeed belong to different segments, but they will ‘best fit’ with a certain segment.  In other words, consumers may have characteristics in common with many different groups, but they are characterized most by one segment.  
+
+Latent Class Analysis is commonly used in machine learning and targeting algorithms, but it tends to be more complex to execute on large datasets. 
+
+Persona-based segmentation
+Segmentation based on a persona is developed from a fictional profile of a person that you feel represents your audience. This persona can be created based on quantitative or qualitative data that you’ve gathered from surveys, focus groups or simply talking with your clients. 
+
+Once you’ve created your persona, you can then choose characteristics about that persona that will matter to your marketing efforts. Essentially, ask yourself what elements make up this persona and which ones are most relevant to my campaign? Sometimes, elements will really matter, sometimes they won’t. For example, age is one of the most common and easy-to-collect elements of a persona, but it might or might not be relevant to your particular campaign based on your product, service or brand. 
+
+Elements of segmentation
+As the previous section outlined, there are two different types of segmentation that you can utilize to organize your audience and better market your business. In either method, you’re using various characteristics to define and therefore send the best message to your target audience. These characteristics are defined using the following variables: 
+
+Demographic, including factors such as age, gender, education level and income
+
+Psychographic, which are values, motivations and beliefs
+
+Geographic, which considers not just physical location but also factors such as climate and population density
+
+Behavioral, encompassing patterns such as product usage and spending habits or even the actual behaviors themselves
+
+Of course not every single characteristic is valuable as a variable, and some are harder to define than others. Still, it’s helpful to keep these in mind, parse and define them for your target audience in order to create messages that really attract their attention and encourage the behaviors you’re aiming for. 
+
+Describing and using segments
+Once you have your segments, you’ll want to describe them in a way that makes the people in each segment or cluster similar to each other but different from the other segments you’ve created. This is called profiling. For example, age is not only a characteristic that can be used to segment your audience, but also a great descriptor because it is a unique enough variable to describe that group. That being said, a segment might also be described with a couple different characteristics within that group. For example, in lesson two, we took Calla & Ivi as our segmentation model. Imra was able to sort her audience into three different groups, each with an age range and geographic location. By sorting her audience in this manner, Imra was able to pinpoint more information about her clients that was valuable in creating a few different personas for people to market to: urban design enthusiasts, efficient suburban families and rural traditionalists. Once she had these profiles, she was able to create marketing messages that would appeal to each one. Like Imra, you can use segmentation to better understand your audience, organize them into useful profiles and create marketing campaigns that will reach them the best. 

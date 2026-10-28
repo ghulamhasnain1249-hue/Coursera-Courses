@@ -1,0 +1,21 @@
+In the previous lesson, we identified the
+five main use cases for marketing analytics. In this lesson,
+we're going to take a closer look at
+examples of each. We're going to walk through
+practical use cases to lay the foundation for the
+marketing analytics techniques you'll learn in this program, to showcase how you
+can put them to use. As we go through this lesson, we are going to refer to an imaginary company,
+DCB Cleaning Services. They are a company
+that provides office cleaning services in the
+San Francisco Bay Area. James manages marketing
+for the company. Recently he presented
+an idea for a new product to his
+management, Snackwall. It's a service where the company installs a snack
+wall in an office. Customers subscribe
+to the service and select their snacks and
+refills through an app. Management was
+very excited about his idea and developed
+the product. James was given a
+marketing budget to launch the new service. In this lesson,
+we'll follow James and look at some of the
+decisions he needs to make.

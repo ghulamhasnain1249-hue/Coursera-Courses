@@ -1,0 +1,88 @@
+In our last video, we discussed AB tests. They are used a lot in
+marketing as they can be very helpful to quickly decide between different
+marketing strategies. But as we saw, AB tests don't have a control
+group and therefore, you cannot draw
+conclusions regarding the effectiveness of your
+campaigns using them. Of course, there are situations where you might be
+interested in knowing what the effect is of different strategies on
+your desired outcome. For that, you can set up multi-cell lift tests
+or nested cell tests. That's what we'll look
+at in this video. Before we look at what
+multi-cell tests are, let's go back to our typical randomized
+control trial test or RCT tests. We discussed how in
+a test like that, you could randomly split
+your audience in two groups, test and control group. To test group season ads, to control group doesn't, and you evaluate a difference in results between the groups. The difference you see is the incremental effect
+of your campaign. This type of setup is referred
+to as a single cell test. There's only one cell
+that gets a treatment. In this case, they see an ad. While the single-cell test is the cleanest and most
+straightforward tests design, you could also run
+a multi-cell test.. You can use a
+multi-cell lift test to answer the question, which campaign strategy leads to greater incremental impact? In a way, a multi-cell test is a combination of an
+AB test with an RCT. In other words, it lets you
+test different strategies, strategy A and strategy B, and compare these strategies
+to a control group. Multi-cell tests are
+more complicated, but in their simplest form, you set up your campaigns with different treatment
+variables you want to test. The same way
+single-cell lift tests measure incremental results, multi-cell tests tell you which campaign generated the
+greatest incremental results. Let me give you an example
+of how you might use this. Say, you're planning an
+advertising campaign for Calla and Ivy, the flower business
+in Amsterdam. You would like to test two
+different ads strategies with the goal to increase purchases
+of fall bouquets online. In one strategy, you target
+women between the ages of 35 and 44 who live in
+cities in the Netherlands, and the other strategy, you target women between
+the ages of 45 and 64. You want to make
+sure that you use your advertising budget
+wisely and you want to understand which of
+these strategies gives you the highest incremental
+number of purchases. You decide to also
+include a control group. Sometimes we'll refer to
+this as a holdout group, since these people
+won't see an ad. Now that you have
+a control group, the results of each
+strategy can be compared to the results
+from the control group. Or in other words, you can evaluate the incremental purchases
+from each group. Based on that, you can decide which strategy is your
+winning strategy, and you will know how effective this winning
+strategy really is. There's one more test
+design you may encounter, and that's the
+nested test design. A nested test uses a test design where the
+test or treatment group for one test is divided into a control and test
+group for another test. In other words, it's
+a test within a test. In a nested test, we distinguish between
+the parent level, also called the master test, which is the outer or broader
+test in this illustration, and the child level, also called the nested test, which is the inner test
+contained within the parent. A nest design helps you get a baseline understanding of incremental brand or conversion outcomes for your total
+investment while simultaneously measuring the incremental impact of a subset of that investment. Let's look at an example. Calla and Ivy runs a
+conversion campaign year round where they
+encourage people to check out and buy
+their bouquets online. But they also run seasonal
+campaigns on top of that, for instance, the
+fall bouquet campaign we just talked about. If Imra at Calla and Ivy wants to understand
+the impact of a total advertising
+investment and also understand the
+incremental impact of the seasonal campaign, she could use a nested design. In that case, her parent
+level or master test compares the control group to
+a test group that is exposed to the year-round
+conversion campaign. People in that test group can be randomly split in two groups. Some of them will be exposed to the fall bouquet campaign on top of the general
+conversion campaign, and some of them won't be exposed to the fall
+bouquet campaign, but they will still be exposed to the general
+conversion campaign. Now Imra has all the
+test cells she needs to understand the impact of
+her complete investment. The second test group at the child level will
+let her estimate what the incremental impact is of the fall bouquet
+campaign over and above the impact of the
+general conversion campaign. In some cases, researchers opt for more than one
+child level test, but that can quickly result in very complex test designs and I would not advise to
+use that strategy. In a case like that, it's better to test
+sequentially if you can. Now you know the different types of tests designs you can use. I would advise you to keep
+it simple if you can. Also keep in mind that if you split up your audience
+in more cells, you'll need a larger
+number of people in total, as you need enough
+people in a cell to draw meaningful conclusions
+from your test. In the case of advertising, that means that you
+would need to increase your advertising budgets so you get reliable results
+from your test. Always keep in mind that
+anytime you want to evaluate incremental effect of your
+treatment or your advertising, you need a control group.

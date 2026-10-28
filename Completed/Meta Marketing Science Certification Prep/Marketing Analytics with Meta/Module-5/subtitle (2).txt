@@ -1,0 +1,100 @@
+After you prepare for your analysis by
+clearly formulating your goal and KPIs, it's time to take inventory of
+your data and data sources. What data is available to you and
+what data will you need to collect? A business can receive data
+from many different sources. Here are some examples. You can receive data from tests and
+experiments that you set up, like Facebook brand lift or conversion
+lift tests, for instance, or A/B tests. You can also receive data related to
+marketing performance through Facebook's as manager. Or you may be working with a partner who
+provides you with marketing mix models and their results. You may also have access to data on
+actions people take on a website, in a mobile app, or in stores. That data may have been collected through
+a pixel on a website or through an SDK for mobile apps, or through direct monitoring
+of offline events like purchases. You may also have access to
+data resulting from a survey. As you've seen throughout this program,
+there are many different data sources. We've made a distinction between
+first-party and third-party data. First-party data refers to data resulting
+from a direct relationship between the company that collects the data and
+its customers. So it's data you collect about your
+customers directly from your customers. Third-party data is data collected
+by a third-party that has no direct relationship to users it's
+collecting data about. First-party data are always preferred
+as they are collected under a privacy agreement that you made
+with your customers. With third-party data, it's much less clear to the user
+that data is collected about them. And online, we see that third-party
+data collection is increasingly blocked. Once you decide which data sources you're
+going to work with, it's important to reflect on the data and the limitations
+that some measurement methods may have. Data quality and
+granularity can vary quite a bit, and some collection methods
+are better than others. Let's look at the limitations
+you should keep in mind for some of the measurement methodologies
+we've discussed in this program and that you will often use
+as a marketing analyst. Let's start with A /B tests. Remember that A/B tests are a form of
+experiments that allows you to compare multiple assets by randomly splitting
+up audiences in non-overlapping groups. A/B tests are a great way to optimize and
+fine tune campaigns, but you need to keep in mind that A/B tests do not assess
+incremental impact on business outcomes. For instance, you may find which ad
+is the better ad through an A/B test, but you cannot use the results of
+the test to evaluate how much effect your ads had on sales. To do that, you need a control group,
+a group not exposed to your ad, which A/B tests don't include. Also, for A/B tests to be reliable,
+you need a confidence interval of at least 75%, and ideally,
+your confidence level should be 90%. In other words, you want to have
+a test result that has a 90% chance of being replicated if you were
+to run the exact same test again. Next, let's look at the limitations of
+randomized controlled trials, or RCTs. We looked at two examples, the brand
+lift test and the conversion lift test. RCTs test a hypothesis by
+introducing a treatment and determining the impact of that
+treatment on business outcomes. In brand lift tests, we study the effect
+of advertising on brand metrics, like brand awareness. And in conversion lift studies, we study
+the effect of advertising on conversions. The RCTs use an experimental or treatment
+group that is exposed to your ad and a control group that doesn't see your ad. RCTs can show you a causal relationship
+between your advertising and desired business outcome. Whether that's an increase in brand
+awareness or an increase in conversion. RCTs require larger budgets and
+a longer campaign interval to achieve statistical power, or
+in other words, to be reliable. It can also be a bit harder to control for
+all variables and isolate the treatment variable to make sure that people who are
+in your treatment group see your add, and people in the control group don't. It means you have to control all your
+marketing channels where possible exposure may happen, and
+that isn't always easy to do. So running a clean RCT can
+be a bit of a challenge. Also, it may not always be possible to
+capture all the effects of the treatment. While you may capture their initial
+interactions, like a click on an ad, it's possible that a sale
+happens quite a bit later and maybe even after the end of your test. And you cannot capture the unknown. Some people may buy as a result of
+your ad, but they may do so offline, with cash, for instance, and
+that sale may not be recorded. And, as in any test, your test and
+control groups may have outliers, or people who behave quite atypical and
+therefore skew your results. As a result of all this, the outcomes of these tests may
+sometimes be difficult to replicate. But even with these limitations,
+RCTs are powerful tests and they're a great way to assess the
+effectiveness of advertising campaigns. Finally, we also discussed how
+observational methods can also be used to evaluate advertising effectiveness,
+although they are less powerful and precise. In an observational method,
+you observe the effect of ads on people without changing who
+is exposed to the ads. Observational methods
+are not experimental. You don't have a control group, so it
+makes it harder to make causal inferences. In other words, it's hard to prove that
+any change in behavior that you observe is caused by your ads as you don't know
+what would have happened if people weren't exposed to the ad. What you would otherwise
+evaluate with a control group. And while researchers will try to identify
+natural groups of people who were or were not exposed to their advertising, it's very hard to perform comparisons in
+a controlled way as there are usually too many external variables
+that you can't control. Observational methods often don't take
+other contextual variables into account, variables that may have
+an effect on the outcomes. Say, for instance, you may try to compare
+conversions for people who were exposed to your ads on Facebook with people
+who were not exposed to your ads. But the people who were not exposed to
+your ad may be people that don't use Facebook much at all, and they may
+actually have different buying patterns. Unless you compare two groups where people
+have been randomly assigned to a group, there may be some variables that differ
+between the groups you are comparing, variables you can't control. As a result, we often see biased
+outcomes from observational methods. So it's good to evaluate whether any of
+these limitations affect the data set you are evaluating. If you completed the second course
+in this program, you learned about the OSEMN framework as a methodological
+approach to data analytics. You first obtain data, you scrub the data,
+then you explore and model, and then you interpret. Assessing your data and
+evaluating the quality and limitations is a crucial part of
+the obtain face of this cycle. And once you obtain the data,
+you will scrub or clean them to make sure you have
+no duplicate, missing values, etc. These are important steps
+in your data analysis. Once you've obtained and
+scrubbed the data, it's time to formulate your hypothesis
+that will guide you through your analysis. Let's look at that next.

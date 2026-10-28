@@ -1,0 +1,63 @@
+As we discussed in
+our last video, ads campaigns don't just
+end once they're launched. Part of the job of a marketing analyst is to
+evaluate the results of those campaigns
+and to see if it's getting the return on
+investment you hoped for. Facebook Ads Manager
+is not the only tool that shows you the results of the campaigns you run on it. When you use Google
+Ads, for instance, you'll get a similar
+dashboard giving you metrics in order to understand
+the success of your ads. Like the Facebook Ads Manager, Google Ads will give
+you a number of metrics to help you get
+insights into your campaign. While some of them are the
+same, some are different, but they can all
+add more value and insight into your
+advertising efforts. Let's go through what you can find on the Google
+Ads dashboard. When you open your
+Google Ads account, you get an overview of all your campaigns
+in your dashboard. Here you can view how
+many people have clicked your ad and the total
+impressions of that ad. Or how many people have seen
+your ad surface on Google. You can also see the average cost-per-click or how
+much you're paying for someone to click on your ad and how much you've spent
+on your campaigns. If you want to get a
+more detailed view of how your campaign is doing, you can toggle switch
+view to detailed view. Under campaigns, you can view how your campaign
+is performing, including more metrics
+like the number of impressions to cost per
+conversion and so on. You can also learn more about
+the demographics of who's clicking on your ads,
+including age breakdown, gender, income, and more to help determine if you're hitting the right target
+audience or not. There's a lot more to explore
+in the detail dashboard, and as you start working
+with these data, you'll find similar metrics you find in the Facebook
+Ads Manager dashboard. But one of the unique things
+Google Ads will show you are the results of the keywords you used associated with your ad. These are specific to
+Google Search ads. When you set up your
+Google Search ad, you choose a set
+of keywords that when someone types them
+into Google Search, will pull up your ad. As you look at your
+campaign data, Google will show you how
+well your keywords did. You can track the performance of each keyword like
+you can for ads, and Google will give data on
+how many clicks on your ad occurred as a result of someone searching that
+particular keyword. It'll also show the number of impressions for that keyword. You'll also be able to see the interaction rates
+for each keyword, which tells you how often
+people clicked on your ad, as well as the
+average cost or what you're paying for each
+interaction or click. This information can
+help you understand which keywords give you the
+best return on your ad spend. On the basis of
+that information, you may decide to pass
+certain keywords in your campaign if you
+think they aren't performing as well
+as other keywords. Again, the question you
+always want to ask is, is my campaign worth the
+money I'm spending on it? By using the Google
+Ads dashboard, you can answer that question
+and determine whether your campaign is successful
+enough to keep going as is, or whether you need
+to make changes to your ad copy and
+launch a new campaign. The important thing is
+to keep using data to iterate your advertising
+to find what works.

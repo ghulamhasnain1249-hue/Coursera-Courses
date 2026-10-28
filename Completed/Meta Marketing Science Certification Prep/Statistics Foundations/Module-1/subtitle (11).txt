@@ -1,0 +1,33 @@
+Like its companion, variance,
+the standard deviation is another tool for understanding uncertainty, especially in
+quickly changing markets like real estate. In this video,
+we will explore the standard deviation, which is the last way to
+measure the spread of data. The standard deviation measures
+how much individual data points typically deviate from the mean in
+the same units as the original data. Standard deviation is easier to
+understand because it uses the same units as the original data. In contrast, variance measures the average
+squared deviation from the mean. Let's go back to our neighborhood example. The standard deviation is measured in
+the same units as the original data, such as dollars. For example,
+if the standard deviation of neighborhood house prices is $50,000,
+it means that, on average, individual home prices differ
+from the mean by about $50,000. This means that on one side,
+the mean home prices would be $150,000, which is found from 200,000 -50,000 and on the other side of the mean,
+the home prices would be 250,000, found by taking 200,000 and
+adding 50,000 to it. However, variance is measured in
+squared units of the original data. For instance, if the variance of neighborhood
+house prices is 2,500,000,000, it represents the average squared
+deviation from the mean selling price. While this measure is useful for some
+calculations like statistical analyses, it takes more work to
+understand directly in dollars. For this reason, most people use
+the standard deviation like our example of $50,000 as opposed to
+the variance of 2,500,000,000, which seems astronomical and
+out of place next to the prices of homes. Just like variance, standard deviation is
+most often calculated using technology. You will learn more about that as we
+explore using spreadsheets to find measures of spread. Lastly, the standard deviation has
+the unique quality of telling us the rough percentage of the number
+of homes between two values. If the distribution of home
+prices is what we call normal, then 68% of homes will be
+priced between 150,200 $50,000. This is great news if your
+budget is between those values. The standard deviation is another way
+to make informed decisions based on how spread out the data is to help
+you make everyday decisions.

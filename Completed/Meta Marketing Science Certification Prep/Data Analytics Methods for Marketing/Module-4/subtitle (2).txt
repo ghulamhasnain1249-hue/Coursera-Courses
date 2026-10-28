@@ -1,0 +1,126 @@
+In our last video,
+we learned that Imra at Calla and Ivy is looking to better understand where
+her marketing dollars are going and if her efforts are truly
+making an impact on her sales. She has been able to study the impact
+of individual market efforts, but she wants a more comprehensive
+look at how all of her marketing efforts are impacting her sales. In order to do that, she's going
+to use a marketing mixed model. Let's look at what marketing mix
+modeling is, how it works and how this can help Imra in this video. Marketing mix modeling, sometimes also
+referred to as media mix modeling or just MMM is a data driven
+statistical analysis that quantifies the incremental sales impact in
+ROI of marketing activities. It's an established measurement
+solution for holistic cross channel sales measurement that can take both
+offline and online data into account. MMM uses historical data to
+quantify the impact of a large set of variables on sales. These variables can be marketing or
+non marketing related. Like for
+instance the opening of a new store or the season during which
+you are evaluating data. The result is a model that helps marketers
+understand what influenced past sales and predict what might happen as
+a result of future marketing action. Let's look at the different
+steps involved in MMM. In most cases,
+marketing analysts will work with a research provider who
+does the actual modeling. But you need to understand the steps,
+so you can fully support this process. First, you start by identifying all
+the different variables that could impact sales, again this can be
+marketing and non marketing variables. As I'm sure you can imagine there can
+be a very large number of variables. This is an example of what a variable
+landscape could look like for an airline, the red variables directly
+related to marketing campaigns. You see things like TV ads,
+social media ads, PPC display and so on. The blue variables are other variables
+that may affect sales like seasonality, loyalty program membership and so forth. Once you have identified
+all the variables, data collection begins a good time
+to think of the osemn model again. Which you will remember if you completed
+the second course in this program. You'll have to identify how you can
+obtain the data for each one of these variables and you'll have to scrub them,
+make sure that they're clean. This may already be a large amount of data
+for any given month, but for a marketing mixed model to really understand
+the environment of your business. The general rule is to have at
+least two years worth of data. With two years of data, you know that you're not only
+capturing a solid sample size. But that you're accurately capturing
+large factors like seasonality and market conditions that may
+impact your sales as well. Even if you work with a vendor,
+you'll have to assist in this process. Later we'll also see how
+platforms like Facebook for instance may provide you with direct
+access to the data you need via an API. Then it's time for modeling,
+MMM uses a form of multi variant linear regression analysis to quantify
+the impact of all the different variables on the outcome or
+your key performance indicator. All the variables that may impact your
+KPI are considered independent variables. A marketing mixed model is a long
+mathematical equation which shows the statistical relationship between
+all the independent variables and your outcome variable. At high level The equation looks
+like this, KPIt stands for the key performance indicator
+at time T you want to model. Beta refers to the coefficients or
+what changed in the variable means for the KPI similar to the regression
+coefficients we talked about earlier. Beta zero refers to
+the base performance or what performance would look like if
+all the other variables were zero. So no media, no marketing,
+no promotions, no seasonality and so on. the goal for the modeler is to come up with
+the model that best fits your data and explains as much as
+possible of the outcome variable with the combination
+of independent variables. So the model should be giving us the
+closest possible prediction of the KPI. Based on the modeled
+combination of the independent variables while keeping the error
+in our model as small as possible. The closer the model predicts
+the KPI the smaller the error. Marketing mix models are never perfect,
+but they're very useful and the smaller the errors the more
+useful your model will be. As we said, MMM uses multi
+variant linear regression, but it's a rather complex form
+of multivariate regression. As you can imagine, it has to take
+into account a very large number of variables as well as
+the possible correlation between these variables as they don't
+all move independently. No need for you to learn those models
+as that is where you will get to help from data scientists and vendors. What you'll find when working on marketing
+mix modeling is that there's quite a bit of interaction that will happen between
+you and the modeling team you work with. You'll decide together
+on the variables and you will discuss the best ways
+in which you can get the data. Then the modeling team will come
+up with the actual statistical model that involves calculating
+the beta coefficients. Even in that modeling step,
+there will be some back and forth between the teams to come up
+with the best fit for your data. Once you have the model you can use
+it to predict what your KPI value would be based on the models coefficients. So you can evaluate what would happen if
+you distributed your spending differently across your marketing campaigns or
+your marketing variables in this model. Let's take a look at how this may work for
+Imra at Calla and Ivy. Remember Imra is looking to see
+which marketing efforts had an impact on her sales. And more specifically which marketing
+efforts in combination had an impact on her sales. The goal is to gain more transparency
+into what's working and what isn't. As a first step, Imra needs to decide which variables
+may have an influence on her sales. While she's interested in understanding
+how her marketing action influence sales, she should still take into account other
+non marketing related variables as they may have had an influence too. Let's first look at
+the marketing variables. Since Calla and Ivy is a small flower shop, we wouldn't have as many marketing efforts
+to include as a large company would. But Imra has tried a number of
+different marketing tactics over the past two years and so
+we want to include all of them. Every Facebook ad campaign she ran,
+every google ad campaign, she ran every print ad she took out. Every email newsletter she sent every
+organic engagement on social media, her in-shop promotions and
+each paid search ad. When thinking about these variables, Imra needs to further specify what about
+these campaigns will have influenced sales. She may add how much she spent
+in each of these channels, but she should also add things like the number
+of impressions in a campaign for instance. Then Imra thinks about the non marketing
+variables she needs to include. She decides to include
+the launch of her website, the price changes she made over the years,
+the opening of a new store in Amsterdam, the addition of the Belgian market for
+online sales. Now, Imra needs to collect data for
+all these variables. This may seem like a lot of data and
+it is, one thing to keep in mind as you anticipate using marketing mix modeling
+in the future is data collection. Are you or those you work with actively
+collecting data on your marketing efforts? Models are only as good as the data
+you put in, so be sure to make data collection of priority,
+Imra won't do the analysis herself. She hired the vendor to help and their team of statisticians is
+helping her define variables and the exact data she needs to collect and
+they help her clean the data too. Then they're ready to
+start the modeling work. We won't get into the details of how the
+exact analysis works for Imra, essentially the modelers run a very complex regression
+on all the data Imra and team provided. After several iterations, the modelers
+come back to Imra with a model that explains how much influence all the
+variables she defined had on her sales. In a very, very simple form,
+this model could look something like this. If there were only three variables,
+the model tells me that if Imra increases prices with $1,
+her sales units go down by 5000. If Google search ad impressions increase
+with a million, sales units go up by 500. And an increase of Facebook
+ad impressions by a million, increases the sales units by 4000. Of course Imras model looks
+more complex as she had many more variables she was assessing. But now that she has this model, she can use it to start planning
+how to best allocate her budget. As you can see, having a marketing mixed
+model can be very helpful for small and large businesses alike. But as we'll see in the next video, there are some challenges when it comes
+to running this type of analysis.

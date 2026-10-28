@@ -1,0 +1,114 @@
+You know what A/B tests are
+and when you can use them. As is the case for many
+online advertising platforms, Facebook lets you
+execute A/B tests as part of the campaigns
+you run on its platform. In this video, we'll take
+a look at how that works. Let's go back to Calla and Ivy, the flower business
+in Amsterdam. Imra is planning a campaign on Facebook to
+increase traffic to her website so people can become familiar with her online
+purchase options. She had a planning meeting with her team and her
+designer showed her the images from her last
+in-shop photo shoot. There were lots of good
+pictures and the team had a lively discussion about which
+image to use for the ads. The photographer really liked a close-up of a few
+flowers in a bouquet but some other people on the team thought that a full
+bouquet would be more representative of what
+Calla and Ivy actually sells. Imra told her team that rather than guessing at
+what would work best, they should probably
+test it and this is exactly the type of question you can answer with an A/B test. If Imra creates an A
+and a B version of the ad with the image being the only difference
+between the ads, she can get an
+objective answer to the question of which image
+is better in this ad. Here's how you can set up
+an A/B test on Facebook. After Imra setup her campaign, she can indicate
+that she'd like to run an A/B test by selecting the campaign in her
+ads Manager dashboard and clicking "A/B Testing". This will make the
+selected campaign the A version in the test. It will then prompt you
+to change one variable in your campaign to
+create the B version. Facebook will automatically
+show the variables you can change based on the
+specifics of your campaign. So in our example, Imra would choose to
+change the image. All the other aspects of her campaign will
+remain the same. Facebook then creates
+a new ad set. Imra is then prompted to upload the new image
+for Version B. In this case, that's the
+close-up flower picture. You then have to give your test a name and you can
+adjust the budget. Note that the budget will be split 50/50 over
+the two ad sets. You should make sure
+that the budget is big enough to see
+meaningful results. You then also tell Facebook how you will
+determine the winner. This will depend on your goal and how you are
+tracking success. For Imra, the campaign is focused on generating traffic to her website and she's optimizing her campaign
+for link clicks. She decides that the
+ultimate test for her should help her understand which image generates
+her most results for the amount she's spending, so cost per result is the right metric to help
+her determine the winner. Note that there's an
+indication here of the estimated power of the test. This is the likelihood
+that this test can detect a difference in your ads if there is actually a
+difference to detect. To have a good test, you should aim for a power
+of 90 percent or above, that way you can be confident in the decisions you make
+as a result of the test. You can increase the power
+of your test by increasing the budget or the time
+you're running the ads. Both will increase the
+number of ad impressions, which will give you more actions to compare in each group. Imra has now completed all the
+steps to create this test. As you've probably seen
+during the test creation, there are other variables
+Imra could have tested. First she could have
+varied other parts of the creative like the text
+or the call to action. She could also have
+kept the ad the same but change the target
+audience which could help understand how
+effective the ads are at reaching different
+audiences or demographics. For example, Imra could add
+or remove certain regions or comparing interest-based
+core audience with a custom audience. You can also vary
+delivery optimization. This allows you to
+compare campaigns with or without campaign
+budget optimization, so it's basically
+comparing whether your manual distribution
+of your budget across ad sets is better than
+letting the machines do the work through the
+campaign budget optimization. Finally, you can vary the placement you
+choose for the ads. For example, you can choose automatic placement and compare it to placements you
+specifically pick. Note that depending on the
+variable you're testing, you will execute the A/B test at the ad or the ad set level. Testing creative would
+happen at the ad level. Testing delivery
+optimization audience or placement would happen
+at the ad set level. It's best practice to only vary one variable at a
+time and you should make sure that your test has enough power so you will
+get a reliable result. To achieve that, you should
+make sure that you have enough budget for the campaign and that you run the
+campaign long enough, ideally two weeks or longer. If you can, it's a good idea to keep testing as you
+build new campaigns. Use the winner of your tests as the new baseline
+and test against another version to see whether you could further
+optimize your campaign. Let's go back to Imra. Her test results came
+back and she learned to the team surprise
+that the ad with the close-up image
+was the winner. In the campaign she
+ran with this test, she had targeted people in
+cities in the Netherlands, but Imra was wondering
+what would happen if she targeted the same ads to
+people in cities in Belgium. Shipping costs to Belgium were
+the same for her so if she got better results
+in Belgium she might spend more of
+her budget there. So Imra decided to run her traffic-focused
+campaign again. She used the image
+with the close-up of the flower for her ad
+and setup an A/B test. This time she chose to vary
+the audience for her ad. She targeted the A ad set
+to people in cities in the Netherlands and the B set to people in cities in Belgium. She kept everything
+else the same. When the results came back, A was the winner with the lowest cost per
+result or in other words, Imra got more traffic to
+her site from people in the Netherlands
+than from people in Belgium for the
+budget she spent. As soon as Imra
+got those results, she decided to keep running the campaign targeting people
+in the Netherlands only. As you can see
+from this example, A/B testing is a
+really great tool to have in your toolbox
+as an advertiser. It helps you to answer
+simple questions you may have and it can take the guesswork out
+of building an ad, and since A/B tests are
+built-in to most ad platforms, it's usually really easy to set them up and make them
+part of your campaign. In our next video, let's take a look
+at what results of an A/B test look like.

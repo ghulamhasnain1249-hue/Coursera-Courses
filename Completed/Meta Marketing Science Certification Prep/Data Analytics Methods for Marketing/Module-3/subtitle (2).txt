@@ -1,0 +1,90 @@
+So far, we established that it's important
+to measure advertising effectiveness. After all,
+we spend a lot of money on advertising, so we do want to know whether
+that money was well spent. And in our previous video, we also learned that when it comes
+to digital advertising, measuring effectiveness goes beyond measuring
+the number of clicks digital ads receive. So what are the ways in which
+we can properly measure how successful our ads were,
+whether digital or not? There are many different measurement
+methods marketing analysts use to answer questions about how marketing and
+advertising campaigns impact sales. These methods fall into two categories,
+experimental and observational. We will cover both methods in more detail,
+but in this video, I want to explain how they differ. Experimental methods are the purest way
+of measuring the effect of advertising. As the name suggests, in these methods,
+you run an experiment. That basically means that you carefully
+plan ahead of time that some people will be exposed to your ads and
+some people won't see your ads at all. At the end of your advertising campaign, you would then measure the results,
+usually sales for each group. The people who did and
+the people who did not see that ad. If all else is equal for both groups,
+then it's fair to say that the difference you see between
+the group that saw your ads and the group that did not see your ads is
+a result of your advertising campaign. Therefore, the incremental result
+in the group that was exposed to your ad is considered a result
+of your advertising and thus shows you
+the effectiveness of your ads. Experiments take careful planning and they have to be entirely set up
+before you start running a campaign. They are used for many different types of
+campaigns, both digital and non digital. But to execute experiments
+correctly is quite complex. In order for you to conclude
+that your ad was responsible for an increase in sales you see in
+the group that was exposed to your ad, you need to control all other variables. So that both groups were
+indifferent in any other way than their exposure to your ad. For instance,
+in traditional TV advertising, you might decide to show an ad for your
+product in one region of the country, but not in another similar region. Then you can evaluate
+the resulting increase in sales for the region where people
+were exposed to your ad. That's a good way to test
+the effect of your ad. But it's not a pure experiment, as there
+may be other factors that may differ for people in the different regions that
+may also have an effect on sales. Pure experimental design
+is hard to achieve, but there are ways to get
+as close as possible. We'll talk more about
+this in the next videos. Often, analysts will find themselves
+in a situation where they can't use experiments to evaluate
+the effectiveness of advertising. They may not have the luxury to isolate
+two different groups in the audience they're targeting because of
+budget constraints, for instance. Or they may be asked to evaluate
+the effectiveness of advertising after the campaigns have already run, so they won't have a chance to
+carefully designed an experiment. That's when analysts will rely on
+observational methods instead. In observational methods,
+researchers collect information based on what they observe and
+infer insights based on that information. The researcher has no control
+over the subjects or variables. In other words,
+the researcher doesn't interfere or plan ahead who will and
+won't be exposed to a campaign. That's how observational methods
+are different from experiments because they observe the impact
+of marketing action or advertisement without controlling
+who is or isn't exposed to it. In observational methods, researchers will also compare exposed and
+non exposed groups. But whereas in the experimental methods
+groups are as alike as possible. For example in age, gender, or other attributes because
+the researcher designed it that way. In the observational methods, there's
+no guarantee that the groups are alike. In observational methods,
+marketers have less control. They have to work with the available
+information to derive insights and guess at causal relationships. After an ad campaign is complete, they
+can attempt to measure a causal effect on the desired results by using information
+collected while the campaign was running. Let's think about an example. Imra, it's Calla & Ivy ran
+an advertising campaign to encourage people to visit her website. Imra did not plan an experiment
+before running her campaign, but she would still like to know
+how effective her campaign was. In the previous video, we discussed how,
+in order to evaluate the effectiveness of her advertising, Imra would
+need to ask herself the question, what would have happened to my website
+visits if I had not advertised? Imra may decides to use an observational
+method to answer this question. She could look at a group of
+people who did see her ad and then try to identify a similar group
+of people who did not see her ad. She can then compare the visit she
+sees from both groups to her website. If the groups are really similar,
+then she can conclude that the difference she sees in
+visitation is a result of her ads. This sounds relatively straightforward,
+but there are a few complications. As I'm sure you can imagine,
+in Imra's case, there are a few questions
+that come to mind. How will Imra know whether the people
+who did not see her ad visited her site? After all, she cannot attach a cookie
+to their browser after the fact. Or how can Imra recreate a group that is as similar as possible to
+the group that saw her ads? These challenges are hard to overcome and
+that's why if you have the opportunity to use experimental methods, they're usually
+preferred over an observational method. If you don't have that luxury, it's good
+to keep these limitations in mind and work with your research partners
+to try to limit complications. I've added a reading to the classroom
+that highlights different methods that researchers use to try to create
+comparable groups in observational methods. For now, just keep in mind that there
+are two different approaches to evaluating advertising effectiveness. You can use experimental or
+observational methods. Both are used in marketing and
+advertising.

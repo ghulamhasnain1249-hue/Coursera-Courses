@@ -1,0 +1,11 @@
+This lesson is all
+about cluster analysis. If you recall from earlier videos, cluster analysis allows you to
+break your data down into groups or subsets so that you can identify
+audiences and populations more easily. Which will help you with
+your marketing efforts. First, you'll learn about
+the concepts behind cluster analysis, and the assumptions you have
+to meet before you can run it. And then you will learn
+how to perform a simple cluster analysis using
+the Tableau software. Cluster analysis, is a useful tool that will
+come in handy as you learn better ways to gain insights into your
+target audience, as a marketing analyst.

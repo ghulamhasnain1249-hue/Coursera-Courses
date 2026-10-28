@@ -1,0 +1,101 @@
+In the previous video, we discussed the responsibility
+an advertiser has to consumers and how advertisers can build and maintain trust. In this video, we're going to explore the four
+major components of the advertising ecosystem and how personal data and consumer
+privacy reef through it. The advertising ecosystem
+can be broken down into four sections: consumers, advertisers, publishers
+and partners, and regulators and gatekeepers. These four groups all interact with each other in
+different ways and they create a complex
+web that's at the core of data-based
+advertising. Let's look at these four
+groups individually and how they influence the ads
+you see as a consumer. First, the consumer
+is the person that's most important
+to a business. We've already covered in previous lessons what a
+consumer is comfortable sharing and how
+an advertiser can responsibly use that
+shared information. Next, on the other side of the advertising ecosystem
+web is the advertisers. We've broken down the many
+ways that data can be useful to advertisers to
+make ads more relevant. After an advertiser has created the ad and determined
+who should see it, it heads to the publishers
+and their partners. Publishers are the
+websites and apps that produce and share
+digital content. This is the content
+that's usually at least partially funded
+by advertisements, which are in turn
+optimized using data provided by consumers to
+those websites and apps. When publishers can
+connect brands and businesses with people likely
+to be interested in them, advertisers are
+willing to invest more on their
+platforms or sites. Data makes this possible. These publishers are the
+most direct connection to a consumer and they're closest to the needs
+and feedback from their readers, viewers,
+and listeners. Publishers are balancing
+their consumers, their personal brand, financial drivers, and
+technical concerns with every ad that shows
+with their content. It's important that they
+make decisions carefully. Publishers will often work
+with partner companies like ad exchanges and measurement
+providers, for instance. These partners improve
+the efficiency and effectiveness of
+advertisements on their sites. Ad exchanges are the systems and intermediaries that
+enable advertisers and publishers to
+come together to buy and sell at inventory
+in an automated way. These systems rely on
+data from publishers, advertisers, and all the
+ad inventory platforms. Measurement providers include
+third-party providers and ad providers that offer
+measurements solutions. This helps the publisher and
+the advertisers evaluate the effectiveness of advertising to further optimize their ads. The final players in the ecosystem are the
+gatekeepers and regulators. This is a broad category of
+companies, industry groups, and government agencies
+that determine how private data can be
+used in advertising. We're going to focus
+on three types of gatekeepers: browsers
+and device platforms, governments, and
+industry organizations. In the digital space, any ads that a
+consumer sees will eventually end up on
+a device or browser. That means that these
+browsers and devices are very important part of
+the advertising ecosystem. Any rules or restrictions that a device or browser
+implements will impact their user base and any advertisers
+trying to reach them. It's more and more common
+for governments to also regulate the collection and
+the use of personal data. Laws like GDPR, CCPA, and COPPA all limits
+the amount of personal data collectors and
+the way that data is used. Later, we'll dig deeper
+into this topic. Finally, industry groups also help steer data
+and privacy rules. These groups can
+include members from all across the
+advertising ecosystem. They are striving for a
+better understanding and adoption of privacy within
+the advertising industry. The digital advertising
+ecosystem is quite complex. Let's look at an example
+to make it come to life. Earlier in this course, we talked about DDC cleaning and there introduction of SnackWall, a subscription snack
+service for businesses. James wants to
+advertise to reach the target audience that he believes will be
+interested in SnackWall. So James is the advertiser and a target audience
+is the consumer. James decided that Facebook is a great platform for his ads. Facebook is the publisher
+James plans to work with. Facebook will use the data and information it has
+about its users to help get James's ads in
+front of the target audience. But James also believes
+that there are some users that may
+not be using Facebook. James works with an
+advertising agency that advises James to use an advertising exchange
+to place ads on a large number of websites to
+reach his target audience. The advertising exchange
+will use data on the browsing behavior
+of a large number of consumers to target the ads. James's agency works with OpenX, which is an example of
+an advertising exchange. We refer to the
+advertising exchange as a publisher's partner, since they help publishers monetize by placing ads
+alongside their content. James' ads won't reach all the customers he
+intends to target. Since the ads will be delivered through browsers and devices, there are certain
+restrictions to how much data the publishers and the publisher partners can collect
+about the consumers, which will affect who in James' target audience
+sees the ads. The publishers and partners James
+works with will also need to follow the laws and regulations regarding the use of
+data in their regions. Now, you have a better
+understanding of the advertising ecosystem and the different ways data
+is managed inside it. In the next video, we're going to dig into data ownership.
+I'll see you there.

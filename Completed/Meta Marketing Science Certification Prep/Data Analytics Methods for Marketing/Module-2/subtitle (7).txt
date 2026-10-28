@@ -1,0 +1,77 @@
+Now that we understand why customer lifetime
+value is so important, let's dive into how
+to calculate it. It's important to
+note that there are multiple formulas for CLTV. In this lesson, we'll deep dive into one of the
+more popular ones. The customer lifetime
+value formula is pretty basic at it's core, but it can become
+more complicated, so what is the formula for
+customer lifetime value? CLTV is the average
+value of a sale times the average number of transactions times the
+customer retention period, times the profit margin. This number can be
+calculated overall for the business for
+different cohorts, and even on the
+individual level. Most businesses will look at CLTV in aggregate
+for the business, but looking at it by cohort
+or at the individual level helps you understand
+how important a customer or set of
+customers is to you. Let's look at calculating CLTV at the individual
+consumer level, since this is the most
+granular and can be applied at either the
+segment or business level. Average value of a
+sale should come from that individual's
+transaction history. The average number of transactions in a
+customer lifetime, customer retention
+period, and profit margin should come from data
+gathered across the business. To calculate the average
+value of a sale, pull transaction history for that user and divide by
+number of transactions. In this case, our
+consumer has spent $120 in three transactions, making their average
+value of a sale $40. Now, we have the average
+value of a sale, and let's say the
+average customer of this business has
+five transactions. For customer retention periods, let's say the average customer stays in this ecosystem
+for one year. In other words, they are loyal customers for
+a year on average. After that, they move on. So far, we have the
+average value of a sale, the number of transactions, and the customer
+retention period. Now, we need to figure
+out the profit margin. We're going to calculate
+the gross profit margin. Note, that you could also use the net or operating
+profit margin. If these don't ring a bell, I've added a reading with more info on how
+they're calculated. For now, let's continue with
+the gross profit margin. Gross profit margin
+is an indicator of profits relative to
+production costs. Basically, looking
+at the total cost of goods sold or COGS, minus the production
+costs for those goods. The formula for gross profit
+margin can be seen here. Let's work through an example. You have sold $1,000
+worth of goods, and you paid $400 to
+acquire those goods. First, you subtract 400
+from 1,000 to get 600. Then you divide the profit
+by the total revenue, in this case, 600 divided
+by 1,000 to get 0.6. From there, your last
+step is to convert this to a percentage
+by multiplying by 100, so we get 60 percent
+gross profit margin. Gross profit margin is the
+easiest way to calculate profit margin and often the most commonly used because
+it is so simple. For most customer lifetime
+value calculations, starting out with
+gross profit margin is just totally fine. As you get more data and make
+your model more advanced, you may want to expand to operating profit margin or
+even net profit margin. Now, heading back
+to our example. Remember, our consumer has made five transactions with
+us totaling $200, making their average
+value of a sale $40. We've also established that
+the average consumer stays in our ecosystem for one year. We've gone ahead and calculated the gross profit
+margin at 60 percent. Multiplying all of
+these together, we find that the CLTV for
+this customer is $120. As we've seen, you can
+calculate individual CLTV, but we more commonly
+create segments or cohorts based on
+customer lifetime data. Segmenting your customers
+out into low, mid, and high CLTV, can be a great way to start working with customer
+lifetime value. Keep in mind, this is the
+most basic calculation. More complex models
+bring in marketing, changes in the marketplace, and changes in
+consumer behavior. Now that we've worked
+through the steps to calculate CLTV, in our next video, we'll apply this formula to a specific business and see
+how they calculate CLTV.

@@ -1,0 +1,62 @@
+When you make a guess or a hypothesis, the next natural step is to determine
+whether your guess is correct. In this video, we will explore
+hypothesis testing in statistics to better understand how to determine
+if your hypothesis is correct. A hypothesis test is a form of
+statistical inference that uses data from a sample to draw
+conclusions about a population. Hypothesis tests are used with questions
+like, is there a difference between demographic groups and how likely
+they are to purchase this product? Can educational interventions enhance
+student learning outcomes more effectively than traditional methods? Does a new health care protocol
+improve patient recovery rates better than existing practices? What do all of these
+questions have in common? They all compare two things to
+determine if there is a difference. When comparing two or
+more things in statistics to determine if there is a difference,
+you use a hypothesis test. Now, there are two or more different
+possible hypotheses for every test. The first hypothesis every test
+will have is the null hypothesis. The null hypothesis,
+which is usually written as H sub zero, is the default hypothesis
+that always says there is no difference between
+the things being compared. The second hypothesis is the alternate
+hypothesis written as H sub one, which always says there is a difference
+between the things being compared. Null and alternate hypotheses
+are two sides of the same coin. If you accept one of them is true,
+you must reject the other one as false. For example, if an analysis
+tells you there is a difference between two groups,
+then you reject the null hypothesis and therefore accept the alternate
+hypothesis as true. If there's no difference,
+you fail to reject the null hypothesis and therefore the alternate
+hypothesis is false. Let's explore a common hypothesis test,
+the AB test, using the null and
+alternate hypotheses in action. An AB hypothesis test is a test
+where the hypothesis is made about the relationship
+between two datasets, and those datasets are then compared
+against each other to determine if there is a statistically
+significant relationship or not. Let's use Calla & Ivy, a small florist,
+to see how an AB hypothesis test works. Calla & Ivy send out a weekly
+newsletter about their promotions with flower facts and other tidbits to
+a fairly large subscriber list. They use a standard
+subject line each week and already have a high open rate, but
+wonder if they should switch their subject line to see if it results
+in more newsletters being opened. Remember, the null hypothesis is that
+there is no difference in the open rate for the weekly newsletter
+between different subject lines. The alternate hypothesis is
+a difference in the open rate for the weekly newsletter between
+different subject lines. Since you think the new
+subject line will do better, you're expecting the null
+hypothesis to be false and therefore the alternate
+hypothesis to be true. You run the study and find the new
+subject line did slightly better, but you aren't sure if there is actually a
+difference or if it's just random chance. You run the AB hypothesis test analysis
+to determine if there is a true statistically significant difference
+that isn't just happenstance. After you run the analysis, it turns
+out that there is no statistically significant difference in the open
+rate between the two subject lines. Unfortunately, we failed to
+reject the null hypothesis. The analysis tells us that the difference
+we saw in the open rate was just random chance and that the two subject lines would
+probably even out with a larger sample. For this particular example, the new
+subject line resulted in 0.5% more opens. However, this might be a fluke. Hypothesis tests look at not only
+the difference between the two groups, but also the variance of the groups. 0.5% could have been significant if
+the variance was small enough, and 20% may not have been significant
+if the variance were huge. This means that it is not only
+the difference between the two groups, but the difference when compared to
+how much the variance groups have.

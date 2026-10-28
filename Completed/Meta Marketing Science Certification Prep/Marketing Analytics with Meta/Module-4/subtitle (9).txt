@@ -1,0 +1,73 @@
+Marketing mix modeling has long
+been used by marketers and analysts to understand how
+marketing tactics impact sales. And it has proven to be an effective
+method to produce accurate insights into the contribution of traditional
+media channels like TV, radio, etc. However, the traditional marketing mix
+modeling approach poses some challenges for today's complex, fast moving and
+ever changing digital marketing channels. That's why when you work with digital
+channels like Facebook for instance, there are a few things you should consider
+to make your marketing mix model give you accurate results. Let's take a look at what that means. Platforms like Facebook offer a very
+dynamic environment for your advertising. They allow you to adapt and optimize
+your ads in real time, and they use sophisticated machine learning to improve
+the results of your ads while they run. As you've probably gathered already,
+Facebook's platform also evolves constantly, allowing advertisers to adapt
+fast to ever changing consumer behavior. All this makes it harder to accurately
+represent the data from a platform like Facebook in a marketing mixed model. However, it's not impossible. Facebook scientists and
+partners have four suggestions for analysts who are integrating
+Facebook data in their model. Let's look at them. The first recommendation is to
+shorten the time frame used to evaluate the effect of your advertising. As we saw, traditionally marketing
+mix modeling has required data from observations made over
+the span of a year or more. But given the fast pace of innovation
+on platforms like Facebook, waiting this long doesn't work as well for
+digital channels. What's happening on these channels and the way consumers behave in
+relation to them changes fast. So Facebook today is already quite
+different from Facebook a year ago and it's definitely different
+from two years ago or longer. While TV and radio maybe more stable,
+digital channels are different. Of course, if you use a smaller time
+interval, you will use less data and therefore the statistical power
+of your model will suffer. Scientists have found ways to overcome
+that door by analyzing several shorter timeframes for instance. So, they shouldn't stop you. And when you work with a partner, you should discuss
+the timeframe they plan to use. Make sure it isn't too long and ask them
+what they can do to increase the power of your test while still working
+with shorter time frames. A second consideration when
+including digital channels in your marketing mixed model is to make
+sure to include the right data. With digital platforms, you get access
+to much more granular insights and a lot more data than you can
+get from traditional channels. It may be tempting to use all the data but
+that's not a great idea. It's key to utilize the right inputs. Those inputs that can function
+as independent variables that are comparable to the variables
+you use for other channels. For instance, in the social media
+marketing platform like Facebook, you get data about a number of likes and
+comments. But the nature of that data is quite
+different from what you get in traditional channels. So it won't be very useful to include
+that in your marketing mix model. You may also be tempted to
+include data about posts that went viral with metrics such
+as the number of shares. But given that you run marketing mix
+models to help you make decisions about future actions, these are not great
+data points to include either. It's hard to make a post go viral so it isn't a strategy you can
+easily repeat in the future. To make it easy for analysts to
+include the right data for Facebook, Facebook partners can access the Facebook
+marketing mix modeling portal, and directly get the data
+that should be included. Having direct access to the staler
+data makes it a lot easier to include the important insights from
+campaigns on Facebook, Instagram and the audience network. When incorporating digital channels
+into the marketing mix models, it's important to remember that not
+all impressions are created equal. Or in other words,
+not all campaigns are equally good. Therefore it's a good idea to include
+some data to give some context around the quality of the campaign. When evaluating results
+of marketing mix models. It's important to put some context around
+the quality of the ads that were used as the quality of the creative used in
+a channel will have an influence on the impact of that channel in the mix. It's also possible for analysts to
+include quality scores in the marketing mix model to properly account for
+the fact that ad quality will vary. Finally, there's one more thing that
+can help to accurately account for the impact of digital channels
+in marketing mix models. And that is using experiments to
+calibrate your marketing mix model. When you run experiments, you get information on actual
+lift caused by your ads. That information is very valuable data
+to help tune the marketing mix model. It's a way for you to check the predictions of your
+model against the actual ground truth. The information you get from your
+experiment can then be used to update your model. Facebook has described its
+recommendations for marketers who work with marketing mix modeling in more
+detail in a report from Facebook IQ. I've included the report as a reading. It summarizes the four recommendations
+to be focused on in this video, and it serves as a good reminder later on. Now let's take a look at some of
+the more recent developments in marketing mix modeling in our next video.

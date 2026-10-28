@@ -1,0 +1,65 @@
+We've talked a lot about
+segmentation strategies and how to effectively reach your consumer. Now, we want to dive into a specific
+type of segmentation called clustering. Analyst Nikita Sharma defined clustering
+in a blog post she wrote on Heartbeat. Clustering is the process of dividing the
+data space or data points into a number of groups, such that data points in the
+same groups are more similar to other data points in the same group, and dissimilar
+to the data points in other groups. But, more simply, it's about finding
+similarities in the data and grouping data points
+by these similarities. Clustering is a predictive
+form of segmentation. Clustering identifies what
+people do most of the time, in order to predict what customers
+are most likely to do, moving forward. It finds the similarities so
+they can then be segmented. For example, let's say SnackWall,
+our snack subscription service has purchased their data on business size and
+dollar amount of orders per year. They then use clustering to look
+through the data for clusters, grouping these data points together. James at SnackWall is surprised to
+find a cluster of small businesses who ordered very often and decides to segment them out into their own
+campaign of high lifetime value users. Well this may be easy to spot by looking
+at the data plot in this example, clustering can find the patterns in the
+data that we might not see on the surface. It's important to test
+different numbers of clusters, to see the similarity among them. Too few clusters can mean
+you're being too general, but too many clusters can
+cause too much noise. Think of it this way, if you take 100
+people and ask them to choose between two numbers, 1 and 2, you'll wind up
+with two large audiences that may not share many things in common, and
+in turn, may not be very effective. On the other hand, if you ask those 100
+people to pick their favorite number, without limiting their options, you may end up with a bunch of very small
+audiences that may not be very useful. The key is to figure out how many
+clusters give you enough granularity while still being actionable. We'll discuss this more as we move
+forward and dive into k-means clustering. Let's take a look at a real-life
+application of clustering. For that, we're going to turn to football
+or soccer, whichever you prefer. Daniel Rascher, an economics professor
+at UC Berkeley wrote about this example in an article on the UK
+publication FC Business. In it, he describes a study to help
+a football team that was limited by COVID protocols and needed to decide who to
+invite back to their stadium, first. Should it be season ticket holders, at the risk of alienating
+fans who don't have one? Should it be at random, through a lottery? Should it be based on total purchases
+through tickets and stadiums? Here's the sample data before clustering,
+comparing age and number of matches visited. From here, a clustering analysis
+finds cohorts with similarities across these two variables
+with two total clusters. As you can see, the clusters are big and contain a lot of variability in terms
+of total matches visited and age. So, let's add in another variable. If we add the number of home games
+as a variable and set the number of clusters to three, we can now see
+three different smaller clusters. Finally, adding a fourth
+variable of years as a customer, and a fourth cluster,
+creates this cluster analysis. As you can see, Cluster 2 is spread
+out among the other three clusters, making for a pretty messy dataset. In this case,
+we've decided to go with three clusters, to ideally find the right balance
+of granularity and usability. From there, looking at the purchasing
+power of each cluster, as well as the number of home games
+visited, we can easily see that not inviting Cluster 1, would spell
+disaster for this football team. So, what do we do once we've
+created audience clusters? Well, as we've seen from
+our previous examples, we may use clustering to target certain
+users with a marketing campaign. We can tailor our advertising messages
+to appeal to a particular segment, based on some of the characteristics that
+distinguish the segment from other people. This is where a customer data platform or
+CDP comes into play. The data we use for clustering
+can come from a CDP, but clusters can also be segmented and uploaded
+into a CDP for targeting purposes. We can also use clustering for
+a variety of real-world applications. Anything from real-time costs to product
+recommendations, and all the way to, who we should invite
+to our football games. In our next few lessons, we' ll take
+a deep dive into k-means clustering, determining the number of clusters,
+and defining segments.

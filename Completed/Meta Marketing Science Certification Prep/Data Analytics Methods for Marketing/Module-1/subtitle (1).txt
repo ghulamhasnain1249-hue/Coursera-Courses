@@ -1,0 +1,35 @@
+Hello and welcome to this course
+on analytics for marketing. This is the 4th course in the Facebook
+marketing analytics professional certificate program. A program created by Aptly
+with the support of Facebook. Analytics has always been
+essential in marketing. After all, a lot of money flows into
+marketing and analytics can help assess whether the money is well spent
+ways to optimize your campaign, how you fund campaigns across
+marketing channels and more. And with the ever increasing
+use of digital marketing. There's an even bigger
+spotlight on analytics. We can get our hands on so
+much more data nowadays and with the right analytics that
+data can be extremely valuable. We'll start in this first week by looking
+at how segmentation can help you define your target audience. More specifically we'll look at how
+marketers apply K means clustering to find audience segments. Then we'll focus on analytics for
+planning and forecasting. We'll define main outcome variables,
+marketers focus on and we'll learn how they are calculated. We'll pay close attention to customer
+lifetime value and what that means for marketers. And we'll look at how regression
+analysis can help us plan and forecast. Then we'll turn our attention to
+advertising effectiveness measurement. We'll see how both observational and
+experimental methods can help evaluate whether advertising campaigns
+had an effect on results and we'll look at the use of
+experiments in more depth. We'll also see how AB testing is
+used to optimize within a campaign. After that we'll focus on analysis
+techniques marketers use to optimize the marketing channel mix with
+marketing mix modeling and attribution. And we'll also go over
+sales funnel analysis and how you can help identify obstacles
+that may prevent customers from progressing through the funnel
+from awareness to purchase. I'm excited about this course as I think
+it will give you the building blocks you need in your role as a marketing analyst. Well, you may not always be the one
+who executes all the analysis. You may be working with tools or with
+other companies that help you run these different types of analysis, but
+it's crucial to understand how they work. So you'll know which method to use,
+when, which questions to ask and how to help your colleagues understand and
+interpret the results. There's a lot to go through,
+so let's get started.

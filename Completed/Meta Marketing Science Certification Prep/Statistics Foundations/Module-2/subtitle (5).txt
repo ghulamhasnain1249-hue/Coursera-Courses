@@ -1,0 +1,43 @@
+Planning a party or navigating
+rush hour traffic involves predicting patterns just like forecasting stock
+trends or energy use. Recognizing these patterns helps us anticipate and
+prepare for the future. Data analytics pinpointing
+the right distribution type is key to understanding and predicting real world phenomena. In this video, we will explore different
+visual features of distributions and how various statistical calculations impact those distributions. A distribution is a
+visual representation of the formula that describes the probability of each outcome. Distributions are created from recorded data and used for
+the purpose of showing the probability of
+any possible outcome occurring within your dataset
+using a distribution curve. We've already been working
+with some calculations that influence a distribution
+like standard deviation. Let's use an example
+to understand how to find a distribution and
+what features it has. A community center is evaluating which fitness classes to offer based on the interest
+of different age groups. You decide to help them by
+creating a visualization that shows the ages of members for everyone
+taking classes. With this visualization, it's easy to see
+that the majority of fitness class attendees are between the ages of 40 and 45. There's still a chance
+class attendees will be younger and a chance class
+attendees will be older. But the odds are that the next attendee to
+enter the class is in the 40-45 age range
+based on how high the distribution is with most of the values falling
+between 40 and 45. This means that the
+community center should offer more
+classes that people between the ages of 40 and 45 would enjoy to reach
+the largest group. If this concept sounds familiar, then you've been
+paying attention. Previously, we discussed
+the concept of variance. Variance measures how spread
+out your distribution is while distribution predicts the specific probability
+of any value, and the two are strongly linked. If you have a high variance, you will have a short
+wide distribution because the probability
+of the value being around the mean is only a little higher than the probability
+of it being anywhere else. If you have a small variance, you will have a tall, narrow distribution
+because there is a high probability that any
+value will be near the mean. More often than not, distributions will be visualized using a chart
+called a histogram. Histograms are a bar chart
+with a curve sketched over the bars showing the frequency of values within certain ranges. These ranges can be called bins, buckets, or brackets, but
+they all mean the same thing. You now know what
+a distribution is, how it relates to variance and how to visualize one
+with a histogram. The distribution of
+your data will become increasingly important the
+further you go in statistics, so getting a firm understanding of it will help you
+in the long run.

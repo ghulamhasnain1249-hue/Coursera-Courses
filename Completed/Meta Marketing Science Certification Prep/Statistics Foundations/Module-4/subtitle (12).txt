@@ -1,0 +1,7 @@
+The last model you will learn
+is a time series analysis. A time series analysis
+charts the numbers over time and allows you to predict what they will
+be in the future, like being able to forecast sales or return on investment. In this lesson, you will
+cover time series analysis, including what they are and the assumptions you have to
+meet in order to run them. Then you will learn
+how to create this new model using Tableau. Time series analysis is a very useful tool that you will use regularly as a data analyst. Let's get started.

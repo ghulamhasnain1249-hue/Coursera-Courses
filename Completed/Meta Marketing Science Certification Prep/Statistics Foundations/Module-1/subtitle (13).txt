@@ -1,0 +1,39 @@
+You already know how
+to find the mean, median, and mode
+in a spreadsheet. In this video, we're going
+to learn how to find the standard deviation and the variance using
+a spreadsheet. These formulas can often
+be complex to do by hand, which is why many people prefer using a spreadsheet to
+complete the calculations. Recall from the
+previous videos that to tell Google sheets
+you're using a formula, you will first use
+an equal sign. To find the standard deviation of the home selling prices, we'll use an equal sign
+and the command STDEV, which is known as the
+standard deviation. Once you select the
+standard deviation command, it's time to tell
+the spreadsheet where it should
+calculate the values. Remember, you can either highlight the first
+cell by selecting it, holding shift to the last cell, and selecting it, or by simply typing
+in the values. To close the command out, you're going to close
+the parentheses and simply hit "Enter." Here, we can see that our standard deviation
+is $105,790.11. Next, let's find variance, which is another difficult
+and complex formula to calculate by hand, so utilizing a spreadsheet
+is often the preference. We're once again going
+to use the equal sign to indicate to the spreadsheet that we're going
+to use a formula, and we're going to
+use the command, VAR, which is the
+variance command. Once I've selected that command, I can then type in the values to find
+the variance between. I can close my command with
+the closed parentheses. Once I hit "Enter," I can see
+the variance that's found, which is quite a large number. Recall that standard
+deviation is often easier to understand in the context of the
+problem because it's in the same units
+as the original data, as well as the mean, the
+median, and the mode, whereas the variance
+is the squared value, which is often
+difficult to interpret in the context of
+a given dataset. This is why the variance looks out of place
+in the spreadsheet, not because the calculation
+was completed incorrectly. You can now use a
+spreadsheet to find standard deviation and
+variance of a dataset.

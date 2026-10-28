@@ -1,0 +1,77 @@
+Marketers use different channels to achieve their
+marketing goals. For instance, they may
+advertise on Facebook, YouTube, LinkedIn, and
+add Google Search Ads. While they want an
+overview of how all these channels perform and contribute to overall success, they will also want
+to understand how each specific
+campaign performed. For that, they'll usually turn to the reporting tools that are embedded in most large
+advertising platforms. Let's look at data
+you can get about advertising campaigns on the Facebook platform
+in this video. If you're running Facebook Ads, Facebook Ads Manager provides all the data you need in order
+to analyze your campaigns, determine what's working
+and what needs changing. When evaluating your
+campaign results, you're seeking to answer
+one major question, is my campaign worth the
+money I'm spending on it? The only way to
+ensure that you're not spending too much on leads, sticking to your
+campaign budget, and not wasting money
+on ads that aren't working is by looking at
+your campaign results. You'll hear this referred to as ROAS or return on ads spend. Later in this program, we'll look into reporting on Facebook in a lot more detail. But let's head over to Facebook Ads Manager to
+get an initial overview here so you get a sense
+of the data that's available and how marketers
+can make use of it. When you're running campaigns on Facebook using Ads Manager, you'll find the results for your campaigns right when
+you access your account. Facebook will show you the results for each
+one of your campaigns and also show you totals from all your campaigns
+at the bottom. Facebook will default to
+showing you a certain set of metrics under the
+performance grouping. But they have a number of other metrics available
+for you to see. If you go to Columns, you can change the type
+of metrics shown to you. For example, you may just
+want to focus on engagement, so you would change the
+metrics to engagement. We'll be going
+over metrics under the performance and
+clicks grouping. You can also further
+segment your data by time, delivery, or action. Facebook Ads Manager tracks
+all the data you'll need for each campaign and offers different metrics to help you determine your campaign success. With all of these options, it can be hard to decide
+what metrics matter most. Let's go over a few key
+metrics you'll want to look when evaluating the
+results of a campaign. Start with impressions. This is how many times your ad is getting in
+front of eyes on Facebook. CPM or cost per mil
+or 1,000 impressions, will show you how much Facebook charges you
+for those impressions. This number will
+vary depending on many factors like industry, target audience,
+location and so on. But tracking this can tell
+you whether you're spending too much on impressions or whether you're
+happy with the budget. Next, take a look at your CTR, which stands for
+click-through rate, or how many times
+someone who sees your ad is clicking on the
+link to go to a landing page. Next, you can look at
+your results to see how many people are taking the action you want
+people to take. If you have a
+conversion campaign, it could be signing
+up for a newsletter, creating an account,
+or making a purchase, which will be tracked as a direct result of
+that specific ad. If you're seeing a high
+number of people getting to your site but not
+taking any action, that's a sign to check your web copy or call
+to action on your site. Something's preventing
+them from taking the final step to
+sign up or purchase. You'll also be able to
+learn the cost per result, which is how much
+you're spending for each conversion or action. This will also give
+you a sense of how cost effective your campaign is. For example, if you find
+that your cost per result is 80 cents and a typical customer
+purchase is five dollars, then that's worthwhile for you. But if you find
+that you're paying four dollars per conversion and the average purchase
+is five dollars, you're likely spending too much. Facebook has a number of
+other metrics you can look at to help evaluate
+your campaigns, like metrics related
+to your bid strategy, app installs, video
+engagement and more. As you use the tool, you'll find which metrics
+are going to be the most helpful to you in order
+to evaluate your ROAS. Evaluating the data
+in Ads Manager will help you identify what
+might not be working, whether it be the ad creative, the web copy, or
+the call to action. Marketers can use
+this information to make adjustments and then we evaluate a campaign
+in a few weeks to see if the numbers have changed.

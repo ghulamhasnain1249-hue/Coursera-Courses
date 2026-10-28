@@ -1,0 +1,71 @@
+We just saw how in attribution we use a
+data input and apply a model to that data. The model we use is determined
+before we run the analysis. There are two different types of models
+that are commonly used single-touch and multi-touch models. Will explain the most common
+single-touch models in this video. In single-touch attribution
+models the assumption is that there is a single ad that is
+responsible for the results you observe. So even if a person is exposed to
+many ads for a particular product or service before they decide to take action,
+the action like a purchase for instance is attributed to
+just one of those ads. The most commonly used model is
+the last click attribution model. It gives 100% credit to the last click
+from a person before a conversion took place. Even if a person saw and clicked on many
+ads before that the model still assumes that the last add the person clicked
+on is solely responsible for the sale. Let's think about an example,
+remember Kathy from our last video, she was looking for a mattress. And on her journey before
+buying the mattress, she was exposed to many different ads. If we were to use the last
+click attribution model, we would assume that the last ad,
+Kathy clicked on was 100% responsible for the mattress purchase she made. So even though Kathy saw and maybe
+even interacted with some ads before, only last ad she clicked on would be
+considered to be the reason she purchased. In this case,
+that was an ad she saw on her computer. Another single-touch attribution
+model is the last touch model. Like last click models, this model
+also takes only one touch point into consideration, but in this case,
+there is no need for a click. This model gives 100% credit to
+the last ad a person interacted with before a conversion, whether the person
+just saw the ad or clicked on it. So in our example for Kathy the ad that would get the credit
+would be the very last ad Kathy saw or clicked on, which would be the ad
+she saw in the New York Times. Then there's the first click attribution
+model which gives 100% credit for a conversion to the first
+click on the conversion path. So in Kathy's case we would attribute her
+mattress purchase to the first ad she clicked on, which just happens to be
+the same single ad she clicked on. So in this case, the last click or the first click attribution model
+would give us the same result. Finally, the first touch attribution
+model which gives 100% credit for a conversion to the first
+interaction in the conversion path, whether that interaction was a view or
+a click. So basically, all credit goes to
+the first ad the person sees or clicks. In Kathy's case all the credit for her
+purchase would go to the very first ad she saw for a purple mattress
+on her Facebook news feed. So now we know the four single
+touch attribution models. But you may wonder how marketers
+actually use these models or more importantly how they
+decide which model to use. Having an attribution model will help
+marketers decide on how to plan for their marketing mix for
+future campaigns, or how to optimize campaigns
+that are running now. If we think that the last ad
+people interacted with is entirely responsible for their purchase,
+like in the last touch model, and if we see the last ad was most of
+the time a Google search ad for instance, then advertisers may decide to shift
+more of their budget to Google search. As they consider it responsible for
+most actions. So you can see how the type of attribution
+model you choose has a big effect on your budget planning. So how do you choose the type
+of attribution model then? Much depends on the type of business
+you have or your business goal. If you use first touch or first click
+attribution, you put a lot of weight on the beginning of the customer journey or
+the top of the purchase funnel. In fact, you're saying that the ad that
+helped generate awareness was responsible for the purchase you're seeing. With a model like that you would recommend
+to shift more of your marketing budget to advertising, that helps to add
+people to the top of the funnel. Marketers may like that strategy, if it's
+their goal to generate more awareness for a brand or a product, like in the case
+of a new product launch, for instance. With last click or
+last touch attribution models, a lot more weight is given
+to the bottom of the funnel. In other words, you really credit the ad
+that is responsible for closing the deal. In cases where you're eager to
+move more people to conversion, like in direct response campaigns,
+this may be a better strategy to use. But while these single
+touch models are popular, marketers agree that they're not a very
+accurate representation of reality. For the majority of conversions,
+it takes more than one touch point for people to convert. Hence, models that give credit
+to more than one touch points are considered to be more accurate
+when evaluating what made people buy. Models that credit more than one
+touch points are referred to as multi-touch attribution models. Let's look at those in our next video.

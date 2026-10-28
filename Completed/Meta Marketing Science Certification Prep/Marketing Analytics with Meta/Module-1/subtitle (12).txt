@@ -1,0 +1,127 @@
+Campaign Bid Strategy Guide
+0:02
+/
+6:34
+Bid strategies are Facebook’s overall approach to budget spending and getting you the results you want based on the objective and settings you have selected. The long-term success of your campaign relies on keeping it profitable. It's important to never bid more than an action is worth so that you can maintain profitability. For that reason we encourage you to only bid the true value of an action. 
+
+You may prioritize a predictable cost per action over getting the most from your ad spend or vice versa. The campaign bid strategy that is right for you depends on your business needs. Ads Manager offers a number of bid strategies that are designed to maximize your particular cost strategy. 
+
+If you use Campaign Budget Optimization, then you choose your campaign bid strategy at the Campaign level. If you don’t utilize Campaign Budget Optimization, then you select your bid strategy at the Ad set level. 
+
+
+
+
+It is important to note that the more control you maintain over costs, the more constraints you place on Facebook to find lower cost opportunities for your desired outcomes. Unless you need to control cost, we recommend choosing the Lowest cost bid strategy as this will get you the most results for your budget.'
+
+
+Here is an overview of the different campaign bid strategies available to you:
+
+Lowest Cost
+Select the lowest cost bid strategy if you want to spend as much of your budget as possible without having to keep cost within a specific range. With the lowest cost bid strategy you don’t have a specific cost threshold. Instead, you prioritize spending budget over cost control. The lowest cost bid strategy may produce costs that fluctuate more: If auction competition decreases, costs may go down; if auction competition increases, costs may go up. However, Facebook will always get you the most results available for your ad set. 
+
+Available Campaign Objectives: 
+
+Brand Awareness, Reach, Traffic, Engagement (Post Engagement, Page Likes, Event Response), App Installs, Video Views, Lead Generation, Messages (excludes Sponsored Messages), Conversions, Product Catalog Sales.
+
+When to use?
+
+Want to spend full budget 
+
+Need to understand what bid/cost to use for other bid strategies
+
+Benefits:
+
+Hands-off; Facebook manages bidding 
+
+Reach all lowest cost opportunities while spending your budget
+
+Considerations:
+
+No control over your cost
+
+Costs can rise as you exhaust least expensive opportunities or as you increase budget
+
+Cost Cap
+Select the cost cap bid strategy if you want to maximize cost-efficiency and need to keep cost within a specific threshold. This bid strategy allows you to provide Facebook with the cost of the results you care about, called cost control. The cost control you provide is an average amount Facebook tries to stay under by going after the lowest cost events available first. 
+
+
+
+
+Available Campaign Objectives: 
+
+Traffic, App Installs, Event Responses, Lead Gen, Offsite Conversions and Catalogue Sales with the following ad delivery optimisations: landing page view, link clicks, page likes, post engagement, replies, video views, product catalogue sales w/ link click and offsite conversions
+
+When to use?
+
+When you want to maximize cost-efficiency
+
+When you need to keep cost within a specific threshold
+
+Benefits:
+
+Maximize conversion volume within your acceptable Cost per Result 
+
+Minimize your cost when possible without manually adjusting your bids
+
+Considerations:
+
+Cost may rise as you run out of the cheapest opportunities 
+
+Learning phase requires more aggressive exploration 
+
+May not spend full budget once you hit the cap
+
+Bid Cap
+Select the bid cap bid strategy if you want to set a maximum bid across auctions to limit what Facebook bids in every single auction and reach as many users as possible at that bid. This bid strategy maximizes volume at a specified maximum bid, called bid control. If you want to control for the cost of actual results, the cost cap bid strategy can be a good choice. 
+
+
+
+
+Available Campaign Objectives: 
+
+Reach, Traffic, Engagement (Post Engagement, Page Likes, Event Response), App Installs (Installs, Events, Link Clicks, Video Views), Video Views, Lead Generation, Messages, Conversions, Product Catalog Sales.
+
+When to use?
+
+Want to set a maximum bid across auctions to control cost and reach as many users as possible at that bid
+
+Benefits:
+
+Maximize volume at a specified maximum bid 
+
+Can increase competitiveness against other advertisers targeting similar audiences 
+
+Considerations:
+
+Need to spend more time managing bids to control cost 
+
+Costs can rise as you exhaust cheaper opportunities or increase your budget
+
+May not spend full budget 
+
+Bid is not the cost you'll see in reporting
+
+A few bidding tips
+1. If you are not sure what to bid, start with the Lowest cost bid strategy.
+
+If you’re not sure what to set as your cost or your bid cap, use the ‘lowest cost’ strategy to learn how much it costs to achieve your desired results.
+
+2. Avoid making multiple changes to your bid strategy in a short period of time.
+
+When you change an ad set’s bid, Facebook’s system may need time to re-learn how to optimally deliver it. During this time, your ad set may go through a period of sub-optimal delivery as Facebook re-learns who best to show your ads to, including new people being reached because of the new amount.
+
+3. Consider adjusting your bid strategy for different audiences.
+
+Different people bring different levels of value to your business. If you have high-value customers that you particularly want to reach, consider increasing your cost cap or bid cap for those customers. However, always segment your customers carefully, as setting too many constraints could limit your delivery.
+
+4. Your bid is an important factor, but not the only factor that determines how Facebook delivers your ads.
+
+Your ads are ranked based on total value, which maximizes advertiser value and optimizes consumer experience. Your bid is a key driver of total value but your ad quality and the estimated action rate are also important to keep in mind.
+
+5. Consider your customer’s lifetime value to determine your bid.
+
+Interpreting the correct cost per result is critical for determining your cost or bid cap and evaluating costs on Facebook. Weigh more than just the value of someone immediately purchasing one of your products, as long-term growth is what matters most.
+
+
+
+

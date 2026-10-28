@@ -1,0 +1,23 @@
+In this lesson, we've looked at
+segmentation and the important role it plays in personalizing and
+optimizing advertising messages. And we also looked at other methods often
+used in marketing to customize ads. Before we delve deeper into segmentation
+techniques in the next lesson, I want to talk about ways in which
+companies store all the data they use for their advertising customization. Tools like a customer data platform or CDP can help organize our data to serve
+more relevant experiences to users. CDP is a database that builds a complete picture of your customers
+on an individual level, using transactional behavioral and
+demographic data. Different data options might include
+events, customer attributes, transactional data campaign metrics and
+customer service data. CDP as where we combine everything we know
+about the user in order to segment and eventually target them. This data can then be used with third
+party providers like Facebook or Google in order to better reach
+users with relevant messaging. Once data is in the CDP were able
+to execute segmentation strategies based on calculations including
+lifetime value prediction, cluster analysis, predictive
+customer scoring and lookalikes. We'll talk more about these
+strategies in our time together. Personalization is a key tool
+in the market or stool kit. As you've learned, there are many forms
+of personalization to choose from. Keeping data organized is essential to
+deliver on the promise of personalization. And as you'll see in our next lesson, there are even more ways to segment our
+users in order to deliver the right message at the right
+time to the right person.

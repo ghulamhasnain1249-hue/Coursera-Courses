@@ -1,0 +1,79 @@
+How to use Tableau
+Public to complete a time series model and to look at the forecast
+analysis function. First, you're going to need
+to connect to your dataset. For easy portability,
+I already have my datasets as
+Microsoft Excel files. So I'm going to
+simply bring in and connect my Microsoft Excel file into Tableau and it's going to bring me to
+the data source page. The data source page is
+where you can scroll through to see your
+different data values and you'll notice that
+this dataset has historical data for
+monthly sales amounts for a retail company. In order to begin the model, you need to move to
+the worksheet sheet 1. Now, to create the model, you're going to need to
+move your variables into the Rowan column designation
+to create the time series. So you'll see we have our dates, which we can put
+into our column and you're going to notice that
+if I look at the data source, I have monthly dates and yet, when I drug it over,
+it's showing years. What you'll do is hit
+this plus sign icon, and it's going to break the
+years out into quarters. Quarters are still
+not the right unit, so I'm going to push it again, and that's going to
+generate the months. If you wanted days, you would continue
+pushing the button, and now we can't take
+this any further. So we'll want to get rid of the different time units
+that we don't want to use. So I'm going to drag over
+my quarters, my years, and my days until I'm
+left with the months. Now, you'll notice this
+is only 12 months. This is not accounting for the multiple years
+of historical data. That means you need to
+click the down arrow, and you're going to need to
+scroll down to where you see month but you'll see
+on the right-hand side, there's a year that
+goes with the month. That is going to generate
+out what I'm looking for to do where it's showing
+each month of the year. Then we're going to need to drag our sales into the rows and now, you're able to see
+the time series model that Tableau has created. Here, you'll be able to see trends or patterns in
+your historic data. It does look like the sales for this company are
+fairly volatile, meaning that the
+sales go up and down pretty rapidly within a few months, and
+when they go down, they take a pretty steep dive which is going to
+add an extra layer of complication to forecasting future values based
+on this data. If you're wanting to
+forecast future values, you can either choose analysis at the top
+and go to forecast or you can choose analytics on the side and go
+down to forecast. We'll move it from analytics
+to try something different. You'll notice that the
+forecast is rather flat. So the data that it's having here is it's trying
+not to really estimate fluctuations that
+would happen because of how volatile these fluctuations
+are occurring over time. Now, you can investigate
+this a little bit further by doing
+a couple of things. You could work to
+expand it out to try and see if adding multiple
+years to it would change, you could try adding
+some additional months, so perhaps 18 months and
+what we're seeing is it's just really not able to give
+us a forecast and again, that's going back
+to the fact that this data is very
+volatile in fluctuation. What we would need is more historic data
+than we have than just a couple of
+years in order for Tableau to feel confident
+that it can forecast, or we would simply need less volatile data like the
+example that you see here. In this example, you'll
+see that the peaks and valleys are
+much less volatile. They're not going up as
+sharply or down as steeply, and they're happening
+over quarters and not just month to month,
+very large variations. This is the forecast
+window that you'll see And so you are seeing
+where this mouse is placed. It is able to forecast the sales during the quarter
+or the profit during the quarter for this section
+because we are seeing a decrease in profit according to what we
+have on our axis, and then it is going back up. So time series
+models can forecast. They are a little bit tricky in the sense
+that you're going to need an adequate length of
+time for historical data, and you're also going to need
+to ensure the volatility of this very steep quick
+fluctuations from month to month isn't happening in order for
+the forecast to work.

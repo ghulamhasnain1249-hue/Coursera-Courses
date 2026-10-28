@@ -1,0 +1,62 @@
+We've looked at linear regression as
+a predictive modeling technique that lets you analyze and predict the relationship
+between one independent and the dependent variable. Linear regression is one of many
+types of regression analysis. And the type of model that
+an analyst chooses for regression is based on the nature of
+the variables you're dealing with, and the relationship you expect between them. In linear regression, we expect there
+to be a linear relationship between the independent and dependent variable. So, if the independent variable changes
+with a certain amount, we expect that to have a constant effect on how
+much the dependent variable changes. For instance,
+if I spent $1000 more on advertising, I expect $6,000 more in sales. No matter how much I was already spending
+on advertising when I decided to increase my investment. But as we know from experience,
+that isn't always the case. So there are situations in which linear
+regression may not be the best choice. Scientists will rely on other models and machine learning to better
+predict outcomes over time. And while linear regression
+is a great starting point, sometimes more complex
+models are necessary. We won't go into those here, but I added a reference to a reading
+with more information. When we looked at linear regression so
+far, we showed how it can help us understand the relationship between one
+independent and one dependent variable. We refer to this as
+univariate linear regression, referring to the fact that we are only
+considering one independent variable. But you can also use linear regression
+to evaluate the effect of multiple independent variables on
+the dependent variable. In that case, we're talking about
+multivariate linear regression. For instance, you might want to evaluate
+data of advertising you ran on Google and on Facebook and
+look at the effect on sales. In that case the ad spent on Google and
+the ad spent on Facebook would both be independent variables, and your sales
+volume would be your dependent variable. The formula for multiple regression with three
+independent variables looks like this. Just as with linear regression,
+y is our dependent variable x1, x2, x3 are the different
+independent variables. And b1, b2, and b3 represent
+the slope of the regression line for each of the variables, assuming you
+keep the other variables constant. In other words, b tells you what
+happens to your dependent variable if this independent variable changes. We also refer to this as
+the regression coefficient. And a is your intercept. Say for my example with Google and
+Facebook advertising, I might find this regression formula. x1 is my advertising spend on Google and
+x2 is my advertising spend on Facebook. In this case, I can see that
+the influence of my ad spent on Google is bigger than the influence
+of my ad spend on Facebook. In other words, spending more on Google will have a bigger
+effect than spending more on Facebook ads. Multivariate regression is
+used a lot in marketing. Later in this course, we'll talk about
+marketing mix modeling, a technique used to optimize the marketing mix, which
+relies heavily on multivariate regression. One other important form of
+regression is logistic regression. In the linear regression models,
+we've talked about so far are dependent variable
+was a continuous variable. In logistic regression,
+the dependent variable is discreet. Or in other words,
+the dependent variable can only have one of two values like yes or no,
+for instance or true or false. Let's think about an example. You know how credit card companies
+are constantly on the lookout for fraudulent use of credit cards. They want to protect themselves as
+they don't want to be on the hook for payments on a stolen card, for instance. They'll constantly track different data
+points around the purchases that happen on the credit card. For instance, what's the type of purchase? What was the amount? What was the location of the purpose? What was the time interval
+between purchases? And so on. They will then use all that
+data to decide on whether or not a purchase was fraudulent. So the dependent variable in
+this case is the evaluation of the purchase as a fraud,
+with only two answers yes or no. The logistic regression model can help
+them evaluate how all the variables for which they have collected data
+influence this dependent variable. As we indicated before,
+there are many more regression models, but they go beyond the scope of this course. With the univariate and
+multivariate linear regression models, and your understanding of what
+logistic regression is used for, you now know the main models that
+are commonly used in marketing.

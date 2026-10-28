@@ -1,0 +1,59 @@
+Sometimes data will simply get handed to you, but sometimes you will have to perform a study to gather data that answers specific business questions you have been given. The process of designing a study is a little less technical and more conceptual than many of the topics covered so far in this course, but let’s frame things as a set of practical skills and knowledge that can help you on your journey to becoming a marketing analyst.
+
+Experimental Design is the process of planning out your study and must be done before doing anything else. This reading walks you through five basic steps, which you can apply to the design of any kind of study. The five steps involve:
+
+Questioning
+
+Hypothesis
+
+Required Variables
+
+Choosing a Measurement Approach
+
+Selecting an Analysis
+
+Questioning
+All studies start with a question! We study things to find answers to questions that interest us. In this course, we’ve referred to the questions that interest marketing analysts as “evaluation questions.”
+
+
+Evaluation questions come from many sources. Sometimes you get these questions from your manager or directors as they evaluate business needs, or even from a board. Occasionally you will get a question directly from a stakeholder or client. You may notice an anomaly in the data you are using for something else, which may cause you to want to know more about the data. Finally, as a marketer, you’re probably  already thinking of every possible question you could ask about your marketing efforts and audience to help your company.
+
+But what makes a good evaluation question? First of all, it helps to be as specific as possible. Big questions are okay as a start, but you should break them down into smaller specific questions that you can actually answer. “Big picture” questions are hard to answer. For example, asking “Will business be good next year?” is a very difficult question to answer.  By contrast, the following questions lead to similar insights but are answered much more feasibly: “How many new customers will our Facebook ads bring in next year, based on projections from this year?” Or, “Is our conversion rate better this year than last year?” The more specific the question, the easier it is to find an answer.
+
+It’s also important to keep your marketing goals in focus. If your manager or a stakeholder asks a question, you should always do your best to answer it. Take time to listen and understand what kinds of questions your manager, directors,  or clients care about and focus on those. Also, be proactive to ask your own evaluation questions when you want to discover more information about your data.
+
+When thinking up an evaluation question, you should also remain clear about what data you have access to. Know whether you can gather more information, or if your company wants you to stick strictly with a single dataset. If you can gather information, find out what kind. If you are using a pre-made data set, know what variables you have. There is nothing to be gained from asking questions that your data can’t answer.
+
+To summarize: When formulating the question to be answered by your study, remember to be specific, keep the goal in mind, and know your resources.
+
+Hypothesis
+Once you have a specific idea of the question you want your study to answer, you will formulate a hypothesis for your study to test. A hypothesis is a proposed explanation based on the limited information you have already as a starting point for further investigation. This doesn’t have to be a formal research hypothesis, but there are a few tips that will help you write a clear hypothesis.
+
+A clear hypothesis will have three parts that address three specific questions your tests will answer:
+
+Three Parts of a Clear Hypothesis:
+
+What will change?
+
+How will it change?
+
+What will cause the change?
+
+For example, we might form a hypothesis that says: “Sales will increase with a higher marketing budget.” In this case, sales are the variable we have identified as “what is going to change.” Our hypothesis also addresses “how sales change” by anticipating that sales will increase. Finally, our hypothesis addresses the question of “what will cause sales to increase?”: a higher marketing budget.
+
+Remember: When forming the hypothesis of your study, state what will change, how it will change, and what will cause that change.
+
+Required Variables
+Determining required variables is the step in the experimental design process where you sit down and figure out exactly what information you will need to answer your question and test your hypothesis. First and foremost, you will need to determine the independent and dependentvariables in your study. Recall from previous lessons how, when you conduct an experiment or test, you will typically manipulate one set of variables to see how changes in those variables influence changes measured in some other set of variables. To take an example from our earlier lessons, we might test whether the color scheme of a website influences the number of sales completed on the site. In that case, we might create two versions of our website—a version with one color scheme and a second version with another color—then count the number of completed sales for each version. So, to test whether color influences sales, we are manipulating color and measuring the effect on sales. In a test like this, we call the variable that we manipulate an independent variable. The variable whose effect we measure is called a dependent variable. In our color influence test, the independent variable would be the website’s color scheme and the dependent variable would be the number of sales.
+
+Besides independent and dependent variables, you may need to record data for some other variables that help provide context for your study. For example, you might also need to know the day, the time, or some other variable, if you think that additional information might impact your results or your ability to analyze those results. Required variables can take some thought. Before you start running your study, you want to make sure you’ve anticipated what data will be needed to fully understand and analyze your results.
+
+Choosing a Measurement Approach
+Once you’ve determined what variables you require data for, you next will need to determine how to acquire that data! There are many different types of experimental set-ups, or measurement approaches, you might choose from, but usually you want to keep things as simple as possible. The approach described above, for our study of color influence on sales, is a good example of a simple measurement approach (often called an “A/B Test”) where we just present our independent variable in two options (options A and B) and measure the difference in the dependent variable between those two options.
+
+The more complicated an experiment is, the greater the chance that something will go wrong. This is why simpler is usually better. That said, most companies will have a few different kinds of studies they already do, which give you possibilities to choose from. If you are in doubt about what type of measurement approach to use, don’t hesitate to ask another marketing analyst which type of study they think would be most appropriate for acquiring your required variables!
+
+Selecting an Analysis
+Understanding the different types of analyses you might perform with your marketing data, once you’ve gathered it, is a more technical aspect of marketing analytics that we will delve into later in this course. But, when it comes to experimental design, it’s important to recognize that each analysis has specific requirements, and you need to make sure you will have all the data you need to meet those requirements. This means the desired analysis may affect what you determine to be your required variables and what measurement approach you choose. You will learn about specific analyses and their requirements in later lessons. For now, be aware that your familiarity with those different analyses will be an important factor in how you design your studies!
+
+

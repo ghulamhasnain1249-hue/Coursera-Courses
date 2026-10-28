@@ -1,0 +1,94 @@
+So we've been talking about glycolysis like, we start at glucose and we go through this glycolysis pathway and we end up at pyruvic acid, but you can see in this illustration that, there are actually two things that can happen at the end of the glycolytic pathway.
+If enough oxygen is present, notice at the end of glycolysis is pyruvic acid.
+And the pyruvic acid gets funneled into the Krebs cycle, right? But if there's not enough ac, ox, oxygen present, what happens? Andre? Lactic acid is produced.
+Yeah, so the end product, then, becomes lactic acid.
+Or maybe there's just a small deficiency of oxygen.
+And we would be funneling some of the end product into the Krebs cycle, but we could still be generating a little bit of lactic acid, right? Dr.
+Scanga, so when I go for a run and my muscles get tired and use a lot of oxygen, do we form lactic acid-.
+Yes. afterwards? Yeah, yeah, and you'll here a lot people in, you know, people who are doing sprints when they run, they're running really fast for short periods of time, they'll talk about lactic acid building up too, right.
+And lactic acid will, will accumulate in the muscle cells, it'll because it's being formed more rapidly because there is a relative insufficiency of oxygen, right, and we need oxygen to keep cellular respiration going, okay.
+So is that lactic acid just a useless waste product? [LAUGH] Is it just a poison that builds up in your body, Mia? Can it be cycled back through and used for energy? It can.
+You know, actually, we talk about cardiac muscle beating 70 times a minute.
+Cardiac muscle cells are doing a lot of work and they can use lactic acid as a fuel.
+They take it up convert it back to pyruvic acid and use it in the Krebs cycle.
+So it's not a total waste product.
+And the liver can do something with lactic acid.
+What, what can it do with it? It's the liver that can do what your talking about, Mia.
+Which is? Turn it back into glucose? Yeah.
+Yeah.
+So the liver can use it to build new glucose molecules.
+That can then be released into the blood and become part of the nutrient pool again.
+So lactic acid is not just a total waste product.
+Your body tends not to waste things that are, you know, that have some value and use left in them.
+So so, that's what's going to happen at the end of glycolysis.
+We'll either have sufficient oxygen and all of the py, pyruvic acid will end up getting funneled into the Krebs cycle or we might have a little bit of a relative deficiency of oxygen because glycolysis is moving along so quickly.
+And if there's a relative insufficiency, then we would tend to see more lactic acid produced in the cells, right.
+And it can get released back into the blood.
+The liver can build new glucose with it.
+Maybe the cardiac muscle cells will use it.
+Okay.
+That's cool.
+Now, there is a chemical formula that describes what happens in cellular respiration.
+And we start out, in this chemical formula, we start out with, the molecular formula for glucose, C6H12O6.
+Yes, you remember that? Okay.
+So, if we want to describe in a chemical formula what's happening in cellular respiration, we would say C6H12O6, glucose, plus what? Lauren.
+Water? No. [LAUGH] No.
+What do we need if, if cellular respiration is going to happen? What must we have? Steph.
+ATP? No.
+No, what must we have? Okay, here's a hint, why do you think we breath? C6H12O6 plus? Oxygen? Yes. [LAUGH].
+Plus oxygen and the molecular formula for oxygen is? Lindsey.
+O2.
+O2.
+So C6H12O6, plus how many oxygens are used to complete the cellular respiration of that one glucose? Two? No. [LAUGH] Steph.
+Six.
+Six, yes, six are used.
+So now we're building our formula for this reaction, and it's C6H12O6 plus six oxygen, six O2s.
+What it going to give us in the end? Who wants to take a guess? Oh, everybody wants to take a guess.
+Lauren.
+Water and carbon dioxide? Water and carbon dioxide, yes.
+So, after we break down that glucose in cellular respiration, we're going to be left with water and carbon dioxide.
+So, water, H2O.
+How many of them are going to be kind of evolved during this cellular respiration process? Any ideas, hm? Amia.
+Is it six? Yes it is.
+Good job.
+And how many CO2s? Remember that in the original glucose we had C6H12O6.
+So how many CO2s are going to be created by cellular respiration of one glucose molecule? Also six.
+Yes, yes, exactly, so what's going to happen on the right side of the equation is that we're going to be left with six carbon dioxides and six waters at the end of cellular respiration.
+And if we go the whole way through, all three stages of metabolism with that one glucose molecule, we'll be left with about 30 ATPs that can do work in the cell.
+Right.
+Now if for some reason there's insufficient oxygen and your cells are relying on glycolysis only to produce ATP, it means your cells are going to break down glucose into pyruvic acid, which will then get converted to lactic acid, right.
+And at the end of glycolysis, that glucose is going to yield us lactic acid and two ATPs, which is not a lot, right? So cellular respiration.
+When we can take that original glucose through all three stages of metabolism.
+The complete process gives us all a pretty high energy.
+Okay.
+So, let's think about ATP, it's the last thing we haven't really, that we've talked about how we get it, where it comes from, but we haven't talked about, really, what the cell needs ATP for, right.
+So, if we take a look at the, at this figure, we'll see that ATP is really this adenosine molecule with phosphate groups attached to it and notice this curved or wavy line that attaches the last two phosphates to the molecule.
+Those are called high-energy phosphate bonds.
+They're created when we form ATP during cellular respiration, right.
+Now, do you have any idea why a high energy phosphate bond is valuable? Lauren.
+Because when it's broken it can release a lot of energy.
+It can release a lot, you know maybe by cellular standards-.
+Yeah. [LAUGH]. right? [LAUGH] Yeah, yeah, yeah.
+So it can release, and specifically, when it's broken it can release energy in just the right amount for getting work done in the cell.
+Okay.
+It can, it's, it's a, an efficient energy package for the cell.
+Often, people speculate that if your cells had to actually try to use a glucose molecule to perform work, the glucose molecule, if it were broken down all at once, would release so much energy that it would kind of cause yourselves to spontaneously combust.
+And so we break glucose down in a series of tiny little steps in glycolysis, and then the Krebs cycle, and then finally in oxidative phosphorylation, so by breaking it down in small steps, we release the energy gradually, and can capture some of it in these high energy phosphate bonds.
+Yeah.
+And so, then, we have an energy packet in the phosphate bond that is usable by the cell, and won't damage it, because there's so much energy released.
+So, when something combusts, when you burn lipids, what do you think of as being the major evidence of the combustion? Andre.
+Heat.
+Heat, exactly.
+Exactly, and so when we are going through cellular respiration and we're gradually breaking down fuels in the body so that we can package some of the energy in ATP bonds, we don't package it all.
+What happens to a lot of it? It releases heat, right? And the reason that we are warm blooded creatures is because our cells are not totally efficient at packaging the energy that's present in cellular fuels.
+Okay.
+They're pretty efficient and pretty effective, because they keep us going.
+But they are inefficient enough that there's a substantial amount of energy that just gets lost as heat, or just gets released as heat in the body.
+And so when we think about body temperature, it's just an index of a metabolic rate in the body, right.
+When we think about your body needing oxygen, it needs it because of cellular respiration, right.
+And without respiration we wouldn't have ATP and then cells couldn't do their work.
+When we think about breathing we also think about exhaling carbon dioxide from the body.
+It's another index for us of what's happening in terms of cellular respiration, CO2 is being produced.
+We have to get it out of the body, right.
+So, that's it.
+That's why we care about metabolism, because it's going to directly affect the vital signs that we see when we look at temperature and respiration rate. 

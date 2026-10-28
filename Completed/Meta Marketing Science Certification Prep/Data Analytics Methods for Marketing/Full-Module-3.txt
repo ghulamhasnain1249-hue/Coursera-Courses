@@ -1,0 +1,590 @@
+
+
+--- [FILE START: subtitle.txt] ---
+
+As a marketing analyst, one of the most common
+questions you'll try to answer with data analysis is, did our advertising
+campaign work? This may seem like an
+obvious question and we can intuitively think of
+different ways to answer it. However, getting
+the answer right isn't as straightforward
+as it may seem. This week we will walk through different methods you could use to help answer this question. First, in this lesson, we'll take a look at what advertising effectiveness really means and which
+different approaches exist to measuring it. Then we'll dive deeper
+into the use of experiments for advertising
+effectiveness measurement. In the third lesson we'll
+look at how you can optimize ads and make them
+more effective with AB tests. By the end of this
+week you'll have a few more tools in your
+marketing analyst toolkit. Let's get started.
+
+--- [FILE START: subtitle (1).txt] ---
+
+A lot of money is spent on advertising,
+in fact, eMarketer, a prominent research firm,
+estimates that the total global ad media spending in 2021 will reach
+more than $747 billion. But if you've already
+worked in marketing or have read some things about advertising,
+you may have come across this famous quote, half the money I spent
+on advertising is wasted. The trouble is, I don't know which half,
+John Wanamaker a department store Merchant and advertising
+pioneer set this in the 1,800s. But he also described two advertising
+challenges that still persists today. It's hard to know whether you've
+spent your money well and whether your ads have worked. In other words, measuring whether
+you're advertising is effective, isn't all that easy. But given how much money
+flows into advertising, it's important that we approach
+this question, with a lot of rigor. First, I think it's really important
+that we ask ourselves what we're really trying to measure here, and what do we
+mean with advertising effectiveness? Of course we need to go back
+to our objectives or goals, you may remember how in previous
+scores in this program, we defined smart goals for
+our marketing efforts. And how we decided on ways to
+measure whether we're making progress through key
+performance indicators or KPIs. Let's look at an example,
+remember Calla and Ivy the flower business in
+Amsterdam owned by Imra? The business started with a flower
+boutique in Amsterdam but now Imra has created a website, and is planning on
+selling her famed bookcase online as well. Imra established this smart goal to
+help her kick start that initiative get 10,000 website visits,
+during the month of May. This goal is specific, measurable,
+achievable, realistic, and it is time bound hence, a smart goal. Imra decided that she could evaluate
+whether she's making progress towards her goal, by measuring
+the number of monthly website visits, so that is her key performance indicators or
+KPI. Imra is running an advertising campaign
+to make people aware of her site and to encourage them to visit. To evaluate the effectiveness of this
+campaign, Imra would like to see whether the campaign has an effect on
+the number of monthly website visits. I could argue that I could
+count the number of clicks Imra gets on her ads a majority of people
+who click will land on her website so, that will tell me something about
+whether the campaign is effective. That seems very logical however,
+it would make us forget a few things. First, how about those
+people that saw the ad, but did not click at that time because
+they were busy reading an article. They did remember the name and
+the ad though, and later went to check out the website
+by searching for it on Google. Their visit is an effective
+of the ad however, I would not have captured that effect
+if I only counted the clicks on the ad. So using clicks alone,
+would underestimate the effect of my ads. When measuring ad effectiveness, you want
+to understand how much of your results was an effect of your advertising campaign,
+underestimating can be problematic. Often the results of a campaign
+drive decisions to spend more or less on the campaign in the future and you don't want to make those
+decisions off of a misleading result. Second, Imra may see someone's visit after they clicked on the ad
+as a result of seeing her ad. But what if that person already
+knew of her website, and would have visited the site even
+if they had not seen the ad? There's a chance that this person
+didn't need to see the ad and Imra's money was wasted on them. So in this case,
+I'm overestimating the effect of the ad. Measuring ad effectiveness also means
+evaluating whether your money was well spent. To prove that, you need to take into
+account what would have happened had you not advertised at all. Would people have come
+to the site anyways, maybe as a result of a previous
+campaign or a press article? So you see that we are immediately
+confronted with a few questions here. It's definitely true
+that digital advertising, has made measurement a lot easier as I
+can evaluate clicks purchases and so on, that resulted from an ad, but
+I still have to be very careful. As you saw from these two examples,
+relying on clicks alone can be very deceiving and
+it may lead us to the wrong conclusions. Digital advertising measurement is about
+more than counting clicks from ads. In what follows, we're going to
+explore different methods that will help us take these
+concerns into account. And we will describe ways in which
+advertising effectiveness measurement, can lead us to conclusive results.
+
+--- [FILE START: subtitle (2).txt] ---
+
+So far, we established that it's important
+to measure advertising effectiveness. After all,
+we spend a lot of money on advertising, so we do want to know whether
+that money was well spent. And in our previous video, we also learned that when it comes
+to digital advertising, measuring effectiveness goes beyond measuring
+the number of clicks digital ads receive. So what are the ways in which
+we can properly measure how successful our ads were,
+whether digital or not? There are many different measurement
+methods marketing analysts use to answer questions about how marketing and
+advertising campaigns impact sales. These methods fall into two categories,
+experimental and observational. We will cover both methods in more detail,
+but in this video, I want to explain how they differ. Experimental methods are the purest way
+of measuring the effect of advertising. As the name suggests, in these methods,
+you run an experiment. That basically means that you carefully
+plan ahead of time that some people will be exposed to your ads and
+some people won't see your ads at all. At the end of your advertising campaign, you would then measure the results,
+usually sales for each group. The people who did and
+the people who did not see that ad. If all else is equal for both groups,
+then it's fair to say that the difference you see between
+the group that saw your ads and the group that did not see your ads is
+a result of your advertising campaign. Therefore, the incremental result
+in the group that was exposed to your ad is considered a result
+of your advertising and thus shows you
+the effectiveness of your ads. Experiments take careful planning and they have to be entirely set up
+before you start running a campaign. They are used for many different types of
+campaigns, both digital and non digital. But to execute experiments
+correctly is quite complex. In order for you to conclude
+that your ad was responsible for an increase in sales you see in
+the group that was exposed to your ad, you need to control all other variables. So that both groups were
+indifferent in any other way than their exposure to your ad. For instance,
+in traditional TV advertising, you might decide to show an ad for your
+product in one region of the country, but not in another similar region. Then you can evaluate
+the resulting increase in sales for the region where people
+were exposed to your ad. That's a good way to test
+the effect of your ad. But it's not a pure experiment, as there
+may be other factors that may differ for people in the different regions that
+may also have an effect on sales. Pure experimental design
+is hard to achieve, but there are ways to get
+as close as possible. We'll talk more about
+this in the next videos. Often, analysts will find themselves
+in a situation where they can't use experiments to evaluate
+the effectiveness of advertising. They may not have the luxury to isolate
+two different groups in the audience they're targeting because of
+budget constraints, for instance. Or they may be asked to evaluate
+the effectiveness of advertising after the campaigns have already run, so they won't have a chance to
+carefully designed an experiment. That's when analysts will rely on
+observational methods instead. In observational methods,
+researchers collect information based on what they observe and
+infer insights based on that information. The researcher has no control
+over the subjects or variables. In other words,
+the researcher doesn't interfere or plan ahead who will and
+won't be exposed to a campaign. That's how observational methods
+are different from experiments because they observe the impact
+of marketing action or advertisement without controlling
+who is or isn't exposed to it. In observational methods, researchers will also compare exposed and
+non exposed groups. But whereas in the experimental methods
+groups are as alike as possible. For example in age, gender, or other attributes because
+the researcher designed it that way. In the observational methods, there's
+no guarantee that the groups are alike. In observational methods,
+marketers have less control. They have to work with the available
+information to derive insights and guess at causal relationships. After an ad campaign is complete, they
+can attempt to measure a causal effect on the desired results by using information
+collected while the campaign was running. Let's think about an example. Imra, it's Calla & Ivy ran
+an advertising campaign to encourage people to visit her website. Imra did not plan an experiment
+before running her campaign, but she would still like to know
+how effective her campaign was. In the previous video, we discussed how,
+in order to evaluate the effectiveness of her advertising, Imra would
+need to ask herself the question, what would have happened to my website
+visits if I had not advertised? Imra may decides to use an observational
+method to answer this question. She could look at a group of
+people who did see her ad and then try to identify a similar group
+of people who did not see her ad. She can then compare the visit she
+sees from both groups to her website. If the groups are really similar,
+then she can conclude that the difference she sees in
+visitation is a result of her ads. This sounds relatively straightforward,
+but there are a few complications. As I'm sure you can imagine,
+in Imra's case, there are a few questions
+that come to mind. How will Imra know whether the people
+who did not see her ad visited her site? After all, she cannot attach a cookie
+to their browser after the fact. Or how can Imra recreate a group that is as similar as possible to
+the group that saw her ads? These challenges are hard to overcome and
+that's why if you have the opportunity to use experimental methods, they're usually
+preferred over an observational method. If you don't have that luxury, it's good
+to keep these limitations in mind and work with your research partners
+to try to limit complications. I've added a reading to the classroom
+that highlights different methods that researchers use to try to create
+comparable groups in observational methods. For now, just keep in mind that there
+are two different approaches to evaluating advertising effectiveness. You can use experimental or
+observational methods. Both are used in marketing and
+advertising.
+
+--- [FILE START: subtitle (3).txt] ---
+
+Deciding on the Use of Experimental or Observational Methods
+0:01
+/
+4:28
+Experiments and Marketing
+You might not have thought you’d get quite so scientific when it came to coming up with marketing strategies and campaigns for your business, but brushing up on one skill from your old science class can actually come in handy here: conducting an experiment. Don’t worry, it’s a lot easier than you might think.
+
+Observational and Experimental Methods
+Ok, so it won’t all be experiments when exploring the results of your marketing activities. As we learned in the previous videos, there are a few different methods for analyzing the effects your marketing campaigns have had on your target audience. Let’s look at a couple. 
+
+Experimental
+As the name suggests, this method involves a bit of experimentation. In order to successfully utilize this approach, you’ll have to carefully plan your experiment in advance of actually executing your marketing campaign. This will help you not only organize the experiment itself, but will help it be as accurate as possible. Usually, an experiment involves planning for one group of people to be exposed to an ad and another group to not be exposed to the ad. Then, you run your campaign, whether it’s TV, digital or another form. Once the campaign is over, you’ll then look at your results, usually sales, to see how the ad did. If you’ve made all variables except for exposure to your ad equal for both groups of people, you can make a few conclusions from these results. For example, if the group that did see the ad saw more sales than the group that did not, chances are your ad made a difference. 
+
+Observational
+Let’s say, however, that you don’t have the budget or resources to conduct an experiment as described above. Or maybe you have already completed a campaign and are trying to assess your ad after the fact. This is where observational methods come into play. Essentially, this method uses observations based on the information you are given to infer the impact of a campaign, without being able to control any of the variables. For researchers in general, this means they’re comparing the two groups without the guarantee that they are alike in every way, as with a controlled experiment. For marketers, this means they have to make educated guesses about causal relationships between the ads and sales, just by going off the insights derived from the given information. 
+
+So, you may wonder, why use observational methods at all if you can rely on experiments?  Well, there are cases where it is just not feasible to run an experiment.  You may not be able to control who does or doesn’t see your ad as tightly as you may want to.  Or, you may not have the budget to isolate the required groups of people. In that case, you will try to define groups of people who were and weren’t exposed after the fact. 
+
+There is a large body of research that studies how to best find ‘naturally occuring experiments’ or how to isolate groups that are as similar as possible except for the variable you are interested in.  If you can do that successfully, you can still infer causal relationships between the treatment variable and the results you are interested in, like sales for instance.   In fact,
+ researchers David Card, Joshua Angrist and Guido Imbens won the 2021 Nobel Prize in economics
+ for their contributions to this field.  
+
+In the video linked below, Guido Imbens explains to his kids what his research involves.  From this video, you’ll learn that mimicking experiments through observational methods has far reaching applications in many different fields. 
+
+Stanford economist and Nobel laureate Guido Imbens discusses his work with his kids
+How Does This Help My Business?
+Over the  course of this lesson, we’ve learned that measuring the effectiveness of your advertisements is a key part of successful marketing your business. Not only does it help you decide whether a particular campaign was effective, it could help you make further marketing decisions. Although it can be a little tricky gauging the effectiveness, it’s worth exploring the effectiveness of your advertising campaigns using quantifiable measurements. These methods give you different options, depending on where you are in your marketing strategy, what budget you have available and what sort of information you are looking for or already have. 
+
+
+
+
+--- [FILE START: subtitle (4).txt] ---
+
+In our last lesson,
+you saw how the methods for evaluating advertising effectiveness
+fall into two categories. Experimental and observational methods. In this lesson, we'll cover
+the experimental methods in more depth. But before we do so I want to go
+through an important preparation step to formulation of a hypothesis. If you went through the previous
+courses in this program. You already learned about the importance
+of formulating a specific hypothesis. Before embarking on an experiment,
+let's look at it again. In the context of advertising
+effectiveness testing, we've already seen how
+before diving into analysis. You should make sure to formulate the
+business goal, your analysis relates to. Once you have your smart goal formulated, you can isolate what you will
+focus on in your analysis. And that's where your hypothesis comes in. Your hypothesis should relate
+to your primary business goal. And it pays off to put some
+effort into formulating it. A strong hypothesis will
+inform your analysis and make its results more meaningful. So what is a strong hypothesis? A hypothesis is a proposed explanation for
+an observation. Your analysis will then help you accept or
+reject your proposed explanation. In marketing and advertising. A strong hypothesis is
+an explanation that includes some information on who,
+what, where, when and why. Let's start with whom. It tells us something about the audience. This explanation relates to what
+it explains something about the behavior of that audience. Where it specifies a location
+when it tells us something about the time frame of our observations. And why it gives an explanation for the anticipated audience behavior or
+perspective. If you include all these
+elements in your hypothesis, you'll find that it's easier to focus
+your experiment or your analysis. And get stronger and actionable results. When you develop your strong hypothesis,
+you can start with a basic one. And then build on it until
+you have a really strong one. Let's look at an example
+of how that could work. Irma at Calla and Ivy, the flower
+store in Amsterdam has the following business goal Increase online
+sales with 20% over the next year. You're working with the marketing team
+that's drafting a campaign to help them achieve this. The marketing team wants to make
+sure that it's very clear to you what will need to be measured to determine
+whether the campaign was successful. So you're working with them
+to formulate a hypothesis. They first come up with
+a basic hypothesis. Women ages 35 to 44 are more likely to
+respond to our conversion campaign. This hypothesis answers to who and
+what question or the behavior we expect from there. You help them refine their hypothesis by
+asking them to wear and when question. This will help you to understand
+which data to focus on. They revised the hypothesis and
+now it reads women ages 35 to 44. Who live in cities in the Netherlands are
+more likely to respond to our conversion campaign that runs during the Christmas
+and spring holiday season. Your hypothesis has gotten better. But you would like to push
+the team a little bit more. You ask them whether they can come up with
+why they believe this will be the case. The team reflects on that and they come up with women ages 35 to 44 who
+live in cities in the Netherlands are more likely to respond to our conversion
+campaign that runs during the Christmas and spring holidays because our creative
+highlights the choice of giving flowers, which appeals to this group. Now, you have a strong hypothesis. This hypothesis can guide your
+research what data to look for. And you also have some clues as
+to what you may want to test or what to explore in more depth. Once you have a strong hypothesis,
+you can develop your test hypothesis. While the strong hypothesis you just
+developed could be a subjective assumption. A test hypothesis specifically focuses on
+what you want to prove in your research. A test hypothesis includes a no and
+an alternative hypothesis. The null hypothesis reflects the default. It is the assumption that your treatment,
+in our case the campaign, does not make a significant difference. The alternative hypothesis
+is the assumption that your treatment did make a difference. The objective is to test if you
+can reject the null hypothesis and accept the alternative. In other words, the objective is to prove that your
+treatment had a significant effect. In our example,
+the test hypothesis could look like this. We expect a significant incremental lift
+in conversions from women between 35 and 44 who live in cities in the Netherlands as a result of the Christmas and Spring
+holiday advertising campaigns on Facebook. The null hypothesis would be there is
+no incremental lift in conversions. And the alternative would be that there is a significant incremental lift
+in conversions among this group. A test hypothesis should
+specify an independent and the dependent variable where you
+expect the independent variable. To have a significant effect
+on the dependent variable. The independent variable is also
+referred to as the treatment variable. It reflects your action or treatment. The dependent variable is also
+known as the outcome variable and it specifies the results. So in our example,
+the independent variable is the Christmas and spring holiday advertising campaign
+on Facebook thats our treatment. And the dependence or outcome variable
+is the number of conversions. The hypothesis states that we expect
+a significant effect of the independent variable on the dependent variable. In other words, we expect the campaign
+to significantly lift conversions. Now, let's see how hypothesis will
+help us when we design experiments, we'll look at that in our next video.
+
+--- [FILE START: subtitle (5).txt] ---
+
+Once you have your hypothesis formulated,
+you can use an experiment to test it. We saw in the previous lessons that
+experiments are often used in marketing to evaluate the effectiveness
+of advertising campaigns. Before we go into detail on the specific
+experiments used to do that, let me walk you through
+the basics of experiments. Experiments have been around for
+a long time and they're used in many different fields. The roots of experiments stem from
+agriculture, over centuries farmers learned what makes their crops grow
+through the use of countless experiments. By keeping almost all things the same, changing just one thing at
+a time called a variable, the farmers were able to pinpoint which
+factor yielded the largest benefit. Imagine you have two plants and
+your goal is to increase planned growth. You want to test the hypothesis that
+giving plants fertilizer increases growth. In other words growth is the dependent
+variable you're interested in and fertilizer is the independent variable or the variable you believe
+will affect growth. You can call one of your plans plant A and
+the other one is plant B. You give fertilizer to plan B and
+not to plant A. A few weeks later you
+measure your plants and you see that plant be
+grew more than plant A. Since the conditions your plants grew
+in where otherwise exactly the same, you know that fertilizer must
+have cost plan B's growth. This is the foundation of
+experimental design methodology, you treat one group of subjects and
+you don't treat the other group. You measure the differences in results
+between both groups after treatment and learn about the effect of your treatment. If you keep the conditions for
+both groups exactly the same and only vary one factor or variable
+like the fertilizer in our example, you can assign the results you're
+seeing to that one variable. We call the group that received
+the treatment the treatment or test group, and the group that you didn't
+treat the control group. The one variable that differs between
+the groups is often referred to as the treatment or
+the treatment variable. So how do experimental design
+principles apply to measuring advertising effectiveness? In advertising your treatment could be
+exposing someone to a particular ad, so you can use experiments to measure
+the effects of your ad on the results you're hoping to achieve. For example,
+if one group sees your ads and another group doesn't see your ads,
+you can measure how many results or sales you achieve from the group that saw
+your ads and compare that to the number of results or sales you see from
+the group that didn't see your ads. The difference in results or sales can then be considered
+the results of your advertising. But as I'm sure you can imagine creating
+a controlled experiment to measure your advertising effects is a bit more
+complex than comparing what happens to two identical plants when you
+give one of them fertilizer. Later in this lesson we'll go through
+exactly how these experiments are set up, but before we do that
+there's one really important thing you should remember
+about experiments. Experiments are carefully planned ahead
+of time, that's because they involve creating groups of subjects that
+received different treatments. So if you want to run an experiment to
+test your advertising effectiveness, you have to plan it before you create or
+run your advertising campaign. While there are different ways to
+evaluate your advertising effectiveness, experiments are the best way to answer
+the most important question you'll get as a marketer. Was your advertising worth the money? Did it generate results you wanted like
+sales, traffic leads and other types? But in order for an experiment to
+give you all the answers you need, there are a few things you need to
+keep in mind as you design your study. Let's cover those in our next videos.
+
+--- [FILE START: subtitle (6).txt] ---
+
+Now that we know that
+experiments are the best way to evaluate the effectiveness
+of your advertising, let's talk about how they work. In the previous video, we learned how
+experiments are setup. Experiments are a comparison
+between two groups, a control group that didn't
+receive a treatment, and a treatment group that did. The treatment involves
+one variable that you change while otherwise keeping everything in the
+two groups the same. We use the example of two plants that were
+treated exactly the same, except for one variable. One got fertilizer and
+the other one didn't. When we test the
+effect of advertising, being exposed to an ad
+becomes the treatment. One group of people
+is exposed to ads and the other group isn't. But people aren't plants. You can't neatly control
+them and make sure nothing in their experience is different beyond
+the ad exposure. That makes setting up an
+experiment a bit more complex. How do we deal with
+human variation and still setup
+experiments that work? That is where
+randomization comes in. In order to compare
+the effect of changing one variable between
+two groups of people, it's important that
+the two groups of people be as similar
+as possible. In order to create
+two similar groups, you can use randomization. Randomization is the process
+of assigning people to different groups by
+chance or randomly. By doing that, you
+distribute people with certain characteristics
+equally over the groups. That way, you create groups that are as similar as possible. Experiments in advertising
+use randomization to assign people to a control group or
+a treatment or a test group. Studies that use this type of experiments are referred to as randomized controlled
+trials or RCTs. Let's take a closer look
+at what it takes to design a good randomized
+controlled trial to assess the effect
+of advertising. Let's go back to Calla and Ivy, a flower business in Amsterdam. Imra the owner
+plans a campaign to drive sales of the new
+flower bouquets she created. She is interested in
+knowing whether it's really worth it to spend
+money on advertising, so she plans to
+run an experiment. Here's what would need to
+happen in order for the experiment to really prove to her what the effect
+of the campaign was. First, you'd identify a group of people you'd like to
+show the campaign to. In other words, the
+target audience. Out of this target audience, people will be
+randomly assigned to either the test group
+or the control group. People who were assigned to the test group may be
+exposed to a treatment. In other words, they
+may see Imra's ad. People in the control group
+don't receive that treatment. They won't see the ad. After the campaign runs, Imra can
+compare the results between the control group, and the test group. In this case, she'll look
+at the difference in conversions or sales of the flower bouquets
+in the test group, the group that saw the ad
+compared to the control group, the group that
+didn't see the ad. If there are significantly
+more conversions or sales from the test group
+than from the control group, we can confidently say that the advertising campaign
+worked and had a real impact. Well-designed RCTs can show an ad campaign's true impacts. Any difference between
+the groups is likely to have been caused by
+the ad or campaign. This is also referred to as the campaign's
+incremental impact. Randomization is crucial
+to run a valid experiment. But there's one more
+thing we should keep in mind when
+running experiments. We'll discuss that
+in our next video.
+
+--- [FILE START: subtitle (7).txt] ---
+
+There's one more thing to consider when
+thinking about randomized control trials in advertising. An RCT is set up so people will
+have the experience intended for whichever group they've
+been randomly assigned to. They see the ad in the test group or they
+don't see the ad in the control group. However, it's not that easy to
+achieve this in advertising. This is because it's
+not always possible for the researcher to make sure everyone in
+the test group receives the treatment. I may intend to show you
+an ad on Facebook but what if you don't use Facebook
+while my test is running? This could mean that you're not getting
+the treatment I intended for you. Should you then move over
+to the control group? Well, actually no that's not a great idea
+because then my groups would no longer be random. If I send over all the people that weren't
+using Facebook while my ad was running my control group won't be as similar as
+possible to my test group any longer. That's why well designed tests
+use intention to treat or ITT. ITT keeps all experiment
+participants in the group they were originally assigned to regardless
+of what they see or do. This minimizes the effect
+of potential bias. Let's talk about ITT with an example. Imagine the medical community
+is testing a new drug and you're placed in the test group. You're given the drug to take but
+the people conducting the experiment can't always control whether
+you actually take it. You may forget or
+you may decide you don't want to take it. In an ITT setting however,
+your outcome will be measured as part of the test group regardless of whether
+you actually took the medicine. It's the same with advertising, whether or
+not you actually received the treatment you will remain in the test group and your
+results will be part of the test group. When you use intention to treat or ITT, it reduces the effects of
+the treatment which makes it a bit harder to achieve significant
+results but it keeps the bias out. So, experiments are a powerful way
+to measure the effect of a campaign. But, if you plan to use experiments
+in your role as an advertiser, make sure that these
+two conditions are met. The experiments should use a randomized
+controlled trial design and adhere to ITT or
+intention to treat for the test group. This way you can be reassured
+that your test is not biased and that you can be confident in your results.
+
+--- [FILE START: subtitle (8).txt] ---
+
+In our last video, we saw what it takes to
+run a good experiment. Now, let's look at the
+nature of the results that come out of an experiment and
+how you can interpret them. Remember that we run experiments to try to prove a hypothesis. In advertising, this hypothesis usually is an expected
+effect of our advertising. For instance, the Carousel
+ad campaign I run on Facebook will significantly lift the number of purchases
+of my product. The results of your
+experiments will help you to accept or reject
+that hypothesis. In fact, your
+experiment will let you conclude without a doubt
+that your treatment, the advertising campaign, is responsible for the lift
+in sales you're seeing. Results from an experiment
+consist of two parts. First, you will get a number of incremental results
+caused by your treatment. In our example, the number of extra sales as a result
+of our advertising. You get this number by
+looking at the conversions in both the control and
+the experimental group. The difference in
+the conversions you see in the experimental and the control group is your lift and is a result
+of your treatment. The second part of the
+results is an evaluation of how powerful your experiment
+and its result is. Depending on the size of
+your test and control group, you will get a measure
+of how confident you can be in the results
+of your experiments. This measure is expressed as a confidence or
+power percentage. It's a measure of the likelihood of causal results of your test. It represents the
+likelihood that a test's outcome would be the same if the test was repeated again under the same condition. For instance, the results of
+your experiment might show a 10 percent lift in results and a 90 percent
+confidence interval. That means that
+the likelihood of you seeing the same
+result when you repeat the tests again under the same conditions
+is 90 percent. A confidence interval
+of 90 percent or higher is considered good to be confident in a
+causal relationship between your ads and the
+lift you are observing. Lift tests can help a marketer evaluate a campaign's
+effectiveness and they can also be helpful in making strategic decisions about
+how to use budgets. By running multiple experiments, you could evaluate two
+conflicting strategies and decide on which one results in a higher increase in
+sales, for instance. That concludes our
+lesson on experiments used to test the
+effectiveness of advertising. The type of experiments
+we explored are referred to as random control
+experiments or RCT, and they use a control group. In our next lesson, we'll discuss another form
+of experiments, AB tests. It's a form of experiment that does not use a control group, but that can be super
+helpful as a tool to optimize campaigns.
+I'll see you there.
+
+--- [FILE START: subtitle (9).txt] ---
+
+In our last video, we discussed AB tests. They are used a lot in
+marketing as they can be very helpful to quickly decide between different
+marketing strategies. But as we saw, AB tests don't have a control
+group and therefore, you cannot draw
+conclusions regarding the effectiveness of your
+campaigns using them. Of course, there are situations where you might be
+interested in knowing what the effect is of different strategies on
+your desired outcome. For that, you can set up multi-cell lift tests
+or nested cell tests. That's what we'll look
+at in this video. Before we look at what
+multi-cell tests are, let's go back to our typical randomized
+control trial test or RCT tests. We discussed how in
+a test like that, you could randomly split
+your audience in two groups, test and control group. To test group season ads, to control group doesn't, and you evaluate a difference in results between the groups. The difference you see is the incremental effect
+of your campaign. This type of setup is referred
+to as a single cell test. There's only one cell
+that gets a treatment. In this case, they see an ad. While the single-cell test is the cleanest and most
+straightforward tests design, you could also run
+a multi-cell test.. You can use a
+multi-cell lift test to answer the question, which campaign strategy leads to greater incremental impact? In a way, a multi-cell test is a combination of an
+AB test with an RCT. In other words, it lets you
+test different strategies, strategy A and strategy B, and compare these strategies
+to a control group. Multi-cell tests are
+more complicated, but in their simplest form, you set up your campaigns with different treatment
+variables you want to test. The same way
+single-cell lift tests measure incremental results, multi-cell tests tell you which campaign generated the
+greatest incremental results. Let me give you an example
+of how you might use this. Say, you're planning an
+advertising campaign for Calla and Ivy, the flower business
+in Amsterdam. You would like to test two
+different ads strategies with the goal to increase purchases
+of fall bouquets online. In one strategy, you target
+women between the ages of 35 and 44 who live in
+cities in the Netherlands, and the other strategy, you target women between
+the ages of 45 and 64. You want to make
+sure that you use your advertising budget
+wisely and you want to understand which of
+these strategies gives you the highest incremental
+number of purchases. You decide to also
+include a control group. Sometimes we'll refer to
+this as a holdout group, since these people
+won't see an ad. Now that you have
+a control group, the results of each
+strategy can be compared to the results
+from the control group. Or in other words, you can evaluate the incremental purchases
+from each group. Based on that, you can decide which strategy is your
+winning strategy, and you will know how effective this winning
+strategy really is. There's one more test
+design you may encounter, and that's the
+nested test design. A nested test uses a test design where the
+test or treatment group for one test is divided into a control and test
+group for another test. In other words, it's
+a test within a test. In a nested test, we distinguish between
+the parent level, also called the master test, which is the outer or broader
+test in this illustration, and the child level, also called the nested test, which is the inner test
+contained within the parent. A nest design helps you get a baseline understanding of incremental brand or conversion outcomes for your total
+investment while simultaneously measuring the incremental impact of a subset of that investment. Let's look at an example. Calla and Ivy runs a
+conversion campaign year round where they
+encourage people to check out and buy
+their bouquets online. But they also run seasonal
+campaigns on top of that, for instance, the
+fall bouquet campaign we just talked about. If Imra at Calla and Ivy wants to understand
+the impact of a total advertising
+investment and also understand the
+incremental impact of the seasonal campaign, she could use a nested design. In that case, her parent
+level or master test compares the control group to
+a test group that is exposed to the year-round
+conversion campaign. People in that test group can be randomly split in two groups. Some of them will be exposed to the fall bouquet campaign on top of the general
+conversion campaign, and some of them won't be exposed to the fall
+bouquet campaign, but they will still be exposed to the general
+conversion campaign. Now Imra has all the
+test cells she needs to understand the impact of
+her complete investment. The second test group at the child level will
+let her estimate what the incremental impact is of the fall bouquet
+campaign over and above the impact of the
+general conversion campaign. In some cases, researchers opt for more than one
+child level test, but that can quickly result in very complex test designs and I would not advise to
+use that strategy. In a case like that, it's better to test
+sequentially if you can. Now you know the different types of tests designs you can use. I would advise you to keep
+it simple if you can. Also keep in mind that if you split up your audience
+in more cells, you'll need a larger
+number of people in total, as you need enough
+people in a cell to draw meaningful conclusions
+from your test. In the case of advertising, that means that you
+would need to increase your advertising budgets so you get reliable results
+from your test. Always keep in mind that
+anytime you want to evaluate incremental effect of your
+treatment or your advertising, you need a control group.

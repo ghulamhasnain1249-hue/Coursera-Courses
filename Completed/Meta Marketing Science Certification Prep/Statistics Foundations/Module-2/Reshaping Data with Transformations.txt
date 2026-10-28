@@ -1,0 +1,173 @@
+We have mentioned before that many statistical analyses require you to have a normal distribution. This is because many statistical tests rely on something called “the assumption of normality.” That assumption says that if we collect many independent random samples from a population and calculate some value of interest, then when we create a histogram to visualize the distribution of those values, we should get a perfect bell curve.
+
+In the real world, your data may not always fit so perfectly. For times when your analysis depends on a normal distribution, you may find that the distribution of your data is sometimes close to a normal distribution, but not quite there. There are two common ways that your data may fall short of a perfectly normal distribution: it may be skewed, or it may show kurtosis. Recall the main characteristics of the ideal normal distribution curve: normal distribution is supposed to be symmetrical and bell-shaped, so that the curve below the mean looks the same as the curve above the mean. Skew and kurtosis just describe two ways that real-world distributions fail to be symmetrical and bell-shaped. 
+
+Skew
+While symmetrical distribution will be the same on each side of the mean, skewed distribution will “pull” to one side of the mean or the other. If your data has a positive skew, it means that the majority of your data is on the left and something is pulling the distribution to the positive side, so you end up with a long leg on the right. If your data has a negative skew, it means the majority of your data is on the right with a long tail stretching in the negative direction, or left.
+
+
+
+Kurtosis
+While skew describes how data is “pulled” to the left or right compared to the perfect symmetry of normal distribution, kurtosis describes how data may be pulled up or down, compared to the perfect bell-shape of normal distribution. Positive kurtosis pulls the distribution up into a tall, narrow shape so that the distribution curve ends up with a sharper peak at the mean. This would indicate that most of your data is more tightly clustered around the mean of your dataset (low data variance). Negative kurtosis pulls the distribution down at the mean, so that the curve flattens out into a low, wide shape. Negative kurtosis would indicate that your data is more widely spread out from the mean of your dataset (high data variance). 
+
+
+
+Four Normalizing Transformations
+When your data shows too much skew or kurtosis, you will not be able to run analyses that require a normal distribution. However, there are certain transformations that you can apply to your data that may correct for a skewed distribution. Transformations are ways you can try to normalize your data, or remove a skew. To transform data, you apply a simple mathematical equation to every value in your dataset. Sometimes the transformed data will show a new distribution that removes the skew of the original data. You then can run your analyses that require normal distribution.
+
+There are four common transformations you can try when you have an obvious skew that needs to be corrected for. They are:
+
+Logarithmic Transformation
+
+Cube Root Transformation
+
+Square Root Transformation
+
+Square Transformation
+
+For a logarithmic transformation, you find the log of every value in your dataset and find the distribution for those transformed values. For a cube root transformation, you find the cube root of every value and find the distribution for those transformed values. Likewise for the square root and square transformations, you would find the square root of every value in the first case, find the square of every value in the second.
+
+In Excel and Google Sheets spreadsheets, the following formulas will allow you to find the values for each of these transformations.
+
+Logarithmic Transformation: To find the logarithmic transformation for a numeric dataset, apply this formula to every value n in the set: =LOG10(n). You can then create a histogram for all these logarithmic values.
+
+Cube Root Transformation: The formula for the cube root, in Excel and Google Sheets, is =n^(1/3). To find the cube root transformation, apply this cube root formula to every value n in your dataset and create a histogram for all these cube root values.
+
+Square Root Transformation: Likewise, the formula for the square root is =SQRT(n). To find the square root transformation, apply the square root formula to every value n in your dataset and create a histogram for all these square root values.
+
+Square Transformation: Finally, the formula for the square of a number is =n^2. To find the square transformation, apply the squaring formula to every value n in your dataset and create a histogram for all these squared values.
+
+
+
+To do one of these transformations, apply the appropriate formula to every value, n, in your dataset and create a histogram to determine the distribution for those transformed values.
+
+Here are some examples: 
+
+In this first example, we have a dataset that shows a severe positive skew before we applied the logarithmic transformation, =LOG10(n), to it. But, the set of transformed values gives us a normal distribution.
+
+
+
+In this case, the logarithmic transformation set is better suited for our analyses that require a normal distribution!
+
+Similarly, here is another dataset that shows a severe positive skew before we applied the cube root transformation, =n^(1/3), to it. Again the set of transformed values gives us a normal distribution.
+
+
+
+Next, here’s another dataset that shows a positive skew before we applied the square root transformation, =SQRT(n), to it. But, after the transformation, we get a set of values that gives us a normal distribution.
+
+
+
+Finally, here’s a dataset that shows a negative skew before we applied the square transformation, =n^2, to it. After the transformation, we have a set of values that gives us a normal distribution. 
+
+
+
+
+Some of these transformations are better for some situations than others, so if one transformation does not normalize your data, try another. 
+
+Transformations are only used to fix skewed distributions. Transformations cannot fix kurtosis. In situations of kurtosis, you can look for outliers that pull your data one way or another. Removing outliers from your dataset is likely to help normalize your data. So, if kurtosis is your problem, try removing outliers. If that doesn’t work, then there are certain analyses that you just won’t be able to run on your data!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A distribution shows the probability of possible outcomes occurring within your dataset. Distributions are represented by a distribution curve. We’ve already been working with this in our past lessons, where we used a normal distribution curve, or bell curve, to explain standard deviation.
+
+Previously, we discussed the concept of variance as a way to talk about how much a dataset “spreads out” from its mean value. This concept is strongly linked to the concept of distribution. Variance measures how spread out your distribution is, while distribution expresses the specific probability of any value occurring. If you have a high variance, you will have a short, wide distribution curve, because the probability of the value being around the mean is only a little higher than the probability of it being anywhere else. If you have a small variance, you will have a tall, narrow distribution, because there is a high probability that any value will be near the mean. Let’s have a closer look at how to visualize the distribution of a dataset.
+
+Histograms
+Distributions often will be visualized using a chart called a histogram. Histograms are a type of bar chart, where each bar represents a value range and the number of data values that fall into that range. These ranges may be called “bins,” “buckets,” or “brackets,” but they are all the same thing. The height of each bar in your histogram will be determined by the number of data values that fall into each “bucket.” So, the bars in your histogram just represent the frequency for each value or value range in your chart. Technically, the distribution for a dataset is the formula that defines a curved line showing the area on a graph that contains all the frequency values for your data (i.e., all the bars in your histogram will fall under the distribution curve).
+
+
+Here is a histogram that shows a normal distribution curve, which is a very common distribution shape that we will look at more closely below. The distribution curve for this dataset would be the formula that defines the red line drawn over the right-hand version of the histogram. Note the familiar bell shape of that curved line, typical of a normal distribution!
+
+To create a histogram in Excel or Google Sheets, follow these steps:
+
+Highlight the data you want to chart.
+
+Click the Insert menu.
+
+Click the Chart button to create a chart out of the highlighted data.
+
+You can also create a chart by clicking on the chart icon in the editing menu. In Google Sheets, if your chart doesn’t default to a histogram, you can change it under the “Setup” menu in the Chart Editor, and find the histogram option under the “Other” section in the “Chart Type” dropdown. See the short video, below, for a demonstration of these steps.
+
+You will notice that Google Sheets automatically generates ranges for your bars. However, these may not be exactly what you want. If you want to change them, click on the “Customize” tab, then click on the arrow next to “Histogram” to expand the options list. Here, “Bucket size” describes the range for each bar. You can select any size for your buckets (in the video, we chose a bucket size of 10). In the same menu, you can also select an “Outlier percentile,” which will allow you to adjust the ranges specifically on the first bar and the last bar of your histogram. You may recall from earlier lessons how anything outside of three standard deviations is considered an outlier. That accounts for 0.3% of the data. Since 0.3% is not an option, you can select 1% from the dropdown list as the closest thing. This allows you to ignore any outliers that fall into the outside buckets of your histogram.Four Common Distributions
+
+Your distribution may take any shape, depending on your data, but here are four distribution curves that you are most likely to come across while working as a marketing analyst:
+
+1. Normal distributions
+
+Normal distributions are the most common shape of distribution curves because they occur naturally all the time. Sometimes a normal distribution is called a “bell curve,” because it is shaped like a bell and has two important characteristics that distinguish it: 
+
+The mean, median and mode all have the same value in a normal distribution.
+
+Also, the curve that distinguishes a normal distribution is symmetrical, so the curve below the mean looks the same as the curve above the mean. 
+
+For example, let’s say you are looking at how much a customer spends per purchase and discover that their spending falls into a normal distribution. That indicates that a majority of your sales will be around the mean, with an equal number of people spending less and more than the mean. The distribution for such an example would look something like this:
+
+
+2. Uniform distributions
+
+A uniform distribution, sometimes called a rectangular distribution, is a flat line that occurs when all values in your dataset occur with the same frequency. Each value has an equal chance of happening. For example, you might see this type of distribution if you have three stores in similar locations and you find that they all have roughly the same number of sales after a specific advertising campaign. In that case, the distribution would look something like this:
+
+
+3. Poisson distributions
+
+A Poisson distribution is a little different from the others. It represents the probability of something happening based on the number of times that something else also has happened. For example, if you want to know the probability of making a sale, based on how many people click on your ad banner, you will want to look at the Poisson distribution for your clicks per sale data. The visualization for a Poisson distribution may take a variety of shapes, so no single type of curve will define it. Here are three examples of what such a distribution might look like:
+
+
+4. Exponential distributions
+
+An exponential distribution is similar to a Poisson distribution, but it is used specifically for data recorded across time. The shape of an exponential distribution will show a sharp curve that may be oriented in any direction: it may curve sharply upward across time, or it may curve sharply downward across time. What matters is the sharp, one-sided curve. That is the distinctive characteristic of an exponential distribution curve.
+
+
+The distinctive exponential distribution curve may even be “flipped,” showing how data “plateaus” over time. For example, if you are looking at how many minutes a person is on a website to determine how likely they are to make a purchase, you might find that, for the first few minutes, there is a sharp increase in the likelihood of the customer making a purchase, but it levels out as time goes on. This reflects a clear exponential distribution, and it suggests how there may be a huge difference between people who stay on your website for five minutes instead of one minute, but very little difference between those who stay on the website for one hour instead of 45 minutes.
+
+
+“Normalizing” Your Data
+In an earlier reading on transformations we explained how many statistical analyses require you to have a normal distribution. In our discussion above, we have described the four common types of distributions in ideal terms, for data that falls perfectly within those distribution curves. In the real world, the data may not always fit so perfectly. For those times when your analysis depends on a normal distribution, you may find that the distribution of your data is sometimes close to the ideal normal distribution, but not quite there. There are two common ways that your data may fall short of a perfectly normal distribution: it may be skewed, or it may show kurtosis.
+
+Recall the main characteristics of the ideal normal distribution curve. We said above that normal distribution is supposed to be symmetrical and bell-shaped, so that the curve below the mean looks the same as the curve above the mean. Skew and kurtosis just describe two ways that real-world distributions fail to be symmetrical and bell-shaped. 
+
+Skew
+While symmetrical distribution will be the same on each side of the mean, skewed distribution will “pull” to one side of the mean or the other. If your data has a positive skew, the majority of your data is on the left and something is pulling the distribution to the positive side, so you end up with a long leg on the right. If your data has a negative skew, the majority of your data is in the right with a long tail stretching in the negative direction, or left.
+
+
+Kurtosis
+While skew describes how data is “pulled” to the left or right compared to the perfect symmetry of normal distribution, kurtosis describes how data may be pulled up or down, compared to the perfect bell shape of normal distribution. Positive kurtosis pulls the distribution up into a tall, narrow shape so that the distribution curve ends up with a sharper peak at the mean. This would indicate that most of your data is more tightly clustered around the mean of your dataset (low data variance). Negative kurtosis pulls the distribution down at the mean, so that the curve flattens out into a low, wide shape. Negative kurtosis would indicate that your data is more widely “spread out” from the mean of your dataset (high data variance). 
+
+
+Transformations and outliers
+We’ve suggested above how if your data shows too much skew or kurtosis, you will not be able to run analyses that require a normal distribution. However, there are certain “transformations” that you can apply to your data that may correct for a skewed distribution. Transformations are ways you can try to “normalize” your data, or remove a skew. To transform data, you apply a simple mathematical equation to every value in your dataset. Sometimes the transformed data will show a new distribution that removes the skew of the original data. You then can run an analysis that requires normal distribution.
+
+Here are the four most common transformations you can try when you have an obvious skew that needs to be corrected for, along with the spreadsheet formulas that you can use to apply each of these transformations.
+
+
+To do one of these transformations, apply the appropriate formula to every value, n, in your dataset and create a histogram to determine the distribution for those transformed values.
+
+As noted in our earlier reading on transformations, transformations are only used to fix skewed distributions; they cannot fix kurtosis. In situations of kurtosis, you can look for outliers that pull your data one way or another. Removing outliers from your dataset may normalize your data. So, if kurtosis is your problem, try removing outliers. If that doesn’t work, then there are certain analyses that you just won’t be able to run on your data!
+
+

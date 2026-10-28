@@ -1,0 +1,139 @@
+Now, that we know the
+basics of sales funnels, we're going to dive into how to analyze and optimize
+a sales funnel. First, let's focus on
+the individual level. That helps us evaluate
+whether there's a logical flow to how people
+move through the funnel, and whether there
+are any ways in which we can make this
+process smoother. To keep it simple, we're going to look at an online sales funnel
+through a website. Of course, funnels could include offline
+activities as well, like a phone call
+with a salesperson or a written contract for a
+service, for instance. In order to do a sales
+funnel analysis, we need to understand what
+the steps are in our funnel. For instance, a basic
+e-commerce funnel may look like this: You go from the entry page to
+the category page, product page, checkout page, and finally, to thank you page. Yours may be more or
+less complicated than that depending on how
+your website is set up. Your website design will typically dictate
+a certain flow, but when you analyze the data of how people actually
+navigate your site, you might find that it's a little different from
+what you intended. That's always good
+information to have. For instance, you may
+think that people always start their journey on
+the homepage of your site, but you'd be surprised how
+often that's not the case. Many people find their way to a website through
+search, for instance, and they may just land on
+a product page instead, bypassing the need funnel that you had
+constructed for them. If that is the case, you may need to reflect
+on what you put on that product page since it's the first interaction people
+have with your website. Data will help you
+assess whether your intended funnel
+matches reality. To analyze and
+optimize your funnel, it's good to look
+at each stage of the funnel and ask
+ourselves some questions. Remember that every funnel
+typically consists of roughly four stages:
+the awareness stage, the interest and
+consideration stage, the conversion stage,
+and the retention stage. First, we'll take a look
+at the awareness stage. We want to focus
+on questions like, what pages are people
+entering our website on? Is it our homepage? A landing page? Using this
+information will help us optimize our pages and push
+users down the funnel. It's very important to
+evaluate whether people are getting the first impression
+you intended for them. For instance, if they land
+on a product page first, it may be good to add
+some general info about your company and
+a variety of products you offer so people
+who are not super interested in the product
+of focus aren't lost. How long are people spending
+on their first page? Using this information will help us understand
+if our content is interesting to our consumers and if we are attracting
+the right consumers. If we see a high bounce rate, perhaps we need to look at
+where people are coming from. If they came in through
+one of our ads, but they don't stay, we should look at that
+campaign and evaluate whether our message was right and whether it was targeted
+at the right people. Attracting traffic
+to a website without seeing real engagement is
+a real waste of money, so definitely worth
+another look. What channel are
+people coming from? This will help us narrow in
+on what's working and what's not from both an organic
+and paid media perspective, could also point to additional
+marketing opportunities. For instance, if many users are coming in from a blog post, we could expand that out
+to a white paper and collect email addresses to
+generate leads, for instance. Where do users go after
+their first page? Do they head straight to
+a category page search, bounce off the page? All of these are insights that can help us optimize our funnel. If you see people go to search after their first
+page, for instance, it may mean that people did not get what they
+were looking for in the first place so you may
+want to try and remedy that. As you can see from this list of questions in the
+awareness stage, it's all about attracting the right audience and making
+a good first impression. Then, at the interesting
+consideration stages, you'll want to ask your
+data questions like, what are people searching
+for on my site? Is it a specific
+item or category? What category and product
+pages drive the most traffic? Where does that traffic
+go from those pages? This information can help you evaluate whether
+you are promoting the right products and
+it may also help you prioritize which pages
+to polish first. You also want to understand
+what the drop-off is between browsing and getting to the first step
+of your purchase. It's important during this
+stage that people research your product and get all the information
+they need to purchase, but you also want to know whether there's anything
+that keeps people from taking the next step and actually converting or buying. It may give you clues as to whether you are
+actually giving people the most crucial
+information or whether you're making it easy for
+them to make their decision. Then at the conversion stage, you'll want to really dive into the purchase process to understand where
+do users drop-off? Do they get through the full
+checkout process easily? If not, what makes them leave? For instance, do they get blocked filling out information? Maybe you're asking
+them for too much or do they drop off when you
+calculate the shipping costs? That might be a sign
+that you should re-evaluate when you
+provide shipping costs, or maybe even consider free shipping and
+increase your price. Do users go backwards
+at any given time? If you see users clicking backwards or returning
+to their cart, this may be an indication
+your checkout is too complicated or confusing
+for your users. How long does it take
+your users to check out? This will help you
+understand what the average experience is like
+and optimize accordingly. Lastly, at the retention stage, you'll want to look at
+questions including how many of your visitors
+are returning users? If the number is low, it may be worth it to invest in a customer retention program, like an email newsletter,
+or promotions. Remember that
+retaining users helps to increase your
+customer lifetime value. You'll also want to understand what pages you're
+returning users visit. This may give you clues
+for products you can promote to keep users
+coming back and of course, you don't just want to check whether visitors returned
+to your website. You also want to know what the repurchase rate is
+for returning visitors. You can also check where
+returning users enter from, especially if you have
+a retention program, you want to assess
+whether it works, but it can also help
+to understand what triggers users to come
+and visit you again. Asking these questions
+will help you understand where users are
+dropping off in your funnel, as well as how to optimize your site experience
+for success. But how exactly do you perform
+an analysis like that? This is where your site
+analytics tool comes in. A tool like Google Analytics, for instance, helps you
+evaluate these questions. It is an exploratory process and you should let this list of questions guide your exploration and find the answer in the
+Google Analytics data. It's a bit like detective work
+and it takes some digging, analyzing, following clues, but if you keep this
+checklist in mind, you should find the main areas where you can optimize
+your sales funnel. These questions will
+help you understand how individual users
+navigate through your sales funnel and
+what may hinder them to advance from awareness to
+conversion and retention. But remember that
+you may also want to use your sales funnel to
+get a better sense of how your customer base on
+aggregate flows through the process to help you make strategic decisions related
+to marketing action. That is what we'll look at in our next video as we explore how to optimize using different
+sales funnel shapes.

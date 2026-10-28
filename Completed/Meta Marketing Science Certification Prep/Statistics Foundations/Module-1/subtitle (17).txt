@@ -1,0 +1,61 @@
+Imagine you're trying to
+predict tomorrow's weather. You have a forecast based
+on historical data, but then you notice clouds
+gathering in the sky, so you decide to adjust
+your prediction. This revision based on new
+evidence is an example of Bayesian statistics because you change your prediction in
+response to new information. In this video, we will explore Bayesian statistics and how they apply to
+different fields from medical diagnoses to
+financial markets. Bayesian statistics is a branch of statistics that interprets probability as a measure of belief or certainty
+rather than frequency. It uses Bayes' theorem to
+update the probability of a hypothesis as more evidence or information
+becomes available. This approach allows for
+continuously updating predictions or hypotheses based on incorporating new data, so what is Bayes' theorem? Bayes' theorem is a formula
+that effectively asks, assuming A is true, which is the condition, what is the probability
+of B being true? The formula for Bayes' theorem
+is read as the probability of A given B on the
+left-hand side equals the probability of B given A times the probability
+of A all divided by the probability of
+B. Bayes' theorem is important because
+it allows us to refine predictions based
+on new information. For example, if a patient
+tests positive for a disease, Bayes' theorem can combine the initial likelihood
+of the disease with the test accuracy to give a more accurate assessment
+of the patient's condition. In the field of statistics, there are two main approaches, frequent test and Bayesian. Frequent test attempt to be
+as objective as possible. When they look at
+a frequency table, they only use the numbers
+to predict an outcome. Bayesian thinkers, however, are subjective and
+make assumptions. When they look at
+a frequency table, they make educated
+guesses called assumptions to try and
+frame the data in context. Let's look at an example. We rolled a six-sided
+die 12 times. In a perfect world, we would have rolled each number twice but that is not how
+actual randomness works. What if we wanted to know the probability
+of rolling a six? First, let's create a table with a column for
+each possibility, 1, 2, 3, 4, 5, and 6. Then let's fill
+in the second row with data from an experiment
+rolling the dice. Let's enter one time
+for rolling a 1, three times for rolling a 2, two times for rolling a 3, zero times for rolling a 4, two times for rolling a 5, and four times rolling a 6. This makes 12 total
+rolls for our table. A frequentist would
+look at this table and say that based purely on
+the data in the table, the probability of
+rolling a 6 is 4 out of 12 total rolls or 1
+and 3 and conclude the die must be improperly balanced while a
+Bayesian thinker would look at this
+table and say that if a game company made
+poorly balanced dice, it would probably go out of business, which
+is an assumption. Despite what the numbers
+in the table say, the probability of rolling
+a 6 is still 1 and 6. If you rolled enough times, the numbers would
+eventually even out. Bayesian thinkers would assume that the sample size was too small to be accurate because it was not the
+outcome they expected. Both frequentist and
+Bayesian approaches have their benefits
+and limitations, and data analysts often use both depending
+on the situation. Frequentist methods
+are preferred with full datasets as in predicting the weather
+with historical patterns. Bayesian models are valuable
+when data is lacking like updating a weather forecast with the latest
+cloud observations. Like many other
+concepts in statistics, choosing the best method
+really depends on your data and which method best fits your
+statistical design.

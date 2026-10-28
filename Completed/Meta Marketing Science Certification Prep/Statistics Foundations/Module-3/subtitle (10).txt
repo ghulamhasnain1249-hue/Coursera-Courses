@@ -1,0 +1,39 @@
+In this video, we are going to complete
+a hypothesis test using a spreadsheet. First, you're going to enter the data for
+your two samples into your spreadsheet. I've entered performance scores for group a as well as performance scores for
+group b. Before I actually complete
+the hypothesis test in the spreadsheet, first I need to write out my null and
+my alternate hypothesis. Your null hypothesis is always
+going to be a negative implication. So for this example,
+my null hypothesis would be that there is no significant difference in performance
+scores between group a and group b. This means that my alternate hypothesis is
+going to be that there is a significant difference in the performance
+scores between group a and group b. Now that I know my null and my alternate
+hypothesis, I have to find my alpha value. Remember that 95% confident
+is the most common confidence level used in statistics. If you are 95% confident,
+then your alpha value corresponds to that extra 5% which we convert
+to a decimal to get zero five. So I know that once I complete
+my hypothesis test and I have a p value, I am going to
+compare that p value to the alpha of zero five to interpret my
+hypothesis test findings. Now let's use the spreadsheet
+to calculate that p-value. I'm going to use the equal sign
+to signal to the spreadsheet that I want it to use a formula and I am going to use the function TTEST
+which will run a t-test hypothesis test. Next, I'm going to tell it which rows and
+columns to look at. In the first group,
+I want it to look at column a, row two to column a, row 39. My other sample, Group B,
+is located in Column B, Row 2 to Column B, Row 39. We're going to use a one tail test
+that's going to be fairly common in most hypothesis tests. And for the type, we would enter a type two because these
+are considered independent samples. I'm going to close the parentheses and
+hit Enter to get it to return the p-value of 0.44585, which if I rounded that
+would be roughly 0.45. Remember that I need to compare my p-value of 0.45 to my alpha value of 0.050. 0.45 is greater than 0.05, which means that I fail to
+reject the null hypothesis. This tells me that there is
+no significant difference between the performance
+score of Group A and Group B because I failed to
+reject the null that I wrote. This means that I've successfully
+conducted my hypothesis test to find my p value of 0.45. I've used that p value to
+compare it to the alpha value. I've determined that I should
+fail to reject the null and that I have finally interpreted
+that to mean that there is no difference in the performance
+score between group A and group B. Now that you've watched this video,
+you should be able to complete all of those steps to do
+a hypothesis test utilizing a spreadsheet.

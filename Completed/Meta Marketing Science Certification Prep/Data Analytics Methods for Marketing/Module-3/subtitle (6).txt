@@ -1,0 +1,63 @@
+Now that we know that
+experiments are the best way to evaluate the effectiveness
+of your advertising, let's talk about how they work. In the previous video, we learned how
+experiments are setup. Experiments are a comparison
+between two groups, a control group that didn't
+receive a treatment, and a treatment group that did. The treatment involves
+one variable that you change while otherwise keeping everything in the
+two groups the same. We use the example of two plants that were
+treated exactly the same, except for one variable. One got fertilizer and
+the other one didn't. When we test the
+effect of advertising, being exposed to an ad
+becomes the treatment. One group of people
+is exposed to ads and the other group isn't. But people aren't plants. You can't neatly control
+them and make sure nothing in their experience is different beyond
+the ad exposure. That makes setting up an
+experiment a bit more complex. How do we deal with
+human variation and still setup
+experiments that work? That is where
+randomization comes in. In order to compare
+the effect of changing one variable between
+two groups of people, it's important that
+the two groups of people be as similar
+as possible. In order to create
+two similar groups, you can use randomization. Randomization is the process
+of assigning people to different groups by
+chance or randomly. By doing that, you
+distribute people with certain characteristics
+equally over the groups. That way, you create groups that are as similar as possible. Experiments in advertising
+use randomization to assign people to a control group or
+a treatment or a test group. Studies that use this type of experiments are referred to as randomized controlled
+trials or RCTs. Let's take a closer look
+at what it takes to design a good randomized
+controlled trial to assess the effect
+of advertising. Let's go back to Calla and Ivy, a flower business in Amsterdam. Imra the owner
+plans a campaign to drive sales of the new
+flower bouquets she created. She is interested in
+knowing whether it's really worth it to spend
+money on advertising, so she plans to
+run an experiment. Here's what would need to
+happen in order for the experiment to really prove to her what the effect
+of the campaign was. First, you'd identify a group of people you'd like to
+show the campaign to. In other words, the
+target audience. Out of this target audience, people will be
+randomly assigned to either the test group
+or the control group. People who were assigned to the test group may be
+exposed to a treatment. In other words, they
+may see Imra's ad. People in the control group
+don't receive that treatment. They won't see the ad. After the campaign runs, Imra can
+compare the results between the control group, and the test group. In this case, she'll look
+at the difference in conversions or sales of the flower bouquets
+in the test group, the group that saw the ad
+compared to the control group, the group that
+didn't see the ad. If there are significantly
+more conversions or sales from the test group
+than from the control group, we can confidently say that the advertising campaign
+worked and had a real impact. Well-designed RCTs can show an ad campaign's true impacts. Any difference between
+the groups is likely to have been caused by
+the ad or campaign. This is also referred to as the campaign's
+incremental impact. Randomization is crucial
+to run a valid experiment. But there's one more
+thing we should keep in mind when
+running experiments. We'll discuss that
+in our next video.

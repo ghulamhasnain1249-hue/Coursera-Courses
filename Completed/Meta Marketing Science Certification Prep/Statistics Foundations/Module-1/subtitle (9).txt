@@ -1,0 +1,12 @@
+Statistics is really all about
+describing the world around us and making sense of it. Measures of spread allow us
+to think about how varied or similar the data points in a set are,
+giving us insights into the diversity or uniformity of the information
+we're analyzing. In this lesson, we will learn some ways to measure
+the spreadsheet spread of a data set. First, we will explore variance and
+range and how they help to describe
+the spread of our data set. Next, we will explore what
+standard deviation is and how it provides insights
+into how the data is spread. And well also review how we
+can use spreadsheets to find the standard deviation. Theres no need to worry. These concepts are simpler than they seem,
+so keep that in mind as we get started.

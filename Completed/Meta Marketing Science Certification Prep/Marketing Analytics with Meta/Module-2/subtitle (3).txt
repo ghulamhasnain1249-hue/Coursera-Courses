@@ -1,0 +1,47 @@
+Navigating Ads Manager Reports
+0:01
+/
+3:12
+Ads Manager so far 
+So far, we’ve learned about how campaigns and ads are managed in Ads Manager. This will help you analyze a campaign’s results once it’s finished, the first step of which is understanding these results by using the performance reports that are part of Ads Manager. This reading dives more deeply into Ads Manager reports and how to navigate them. Let’s get to it! 
+
+Performance metrics and results
+If you open the Campaigns Dashboard in Ads Manager, you’ll see something like the below: 
+
+
+Although, as you can see, there are a number of columns with potentially useful information, we’ll just focus on a few of the most key ones: status and campaign information, results metrics and cost metrics. 
+
+Status and campaign information
+
+In the first two columns, you’ll see the name of the campaign and the delivery, which give you information about whether your campaign is active or not. 
+
+
+You’ll also see the bid strategy column, which is the bid strategy you’ve chosen for your campaign. In the image above for example, you’ll see that a lowest-cost campaign is currently running. 
+
+
+Next, you’ll see a column for the budget, which is the maximum amount you’re willing to spend on that campaign or ad set. Essentially, this is some of the basic information about your campaign in an easy-to-read place.
+
+Results
+
+The next column, the results column, gets us into actual performance metrics for your campaign. This column measures the number of outcomes you have achieved with your campaign based on the ad objective or optimization you selected when first creating your campaign. For example, if you selected Conversions, the results column will show how many purchases happened as a result of seeing your ad. The metric shown in the Dashboard image above happens to be optimized for traffic, so the metric we see is the number of link clicks.
+
+
+Next, we see the reach a campaign has achieved, which is the number of people who have seen your ad at least once. This is not to be confused with the next column’s metric, which is impressions. 
+
+
+Impressions indicate the number of times your ad was shown on screen, including being displayed multiple times to the same people.  
+
+Cost
+
+The first cost-related metric we see in our Dashboard is cost per result, which is the average amount it costs to achieve your key result, in our case click a link. Ads Manager calculates this for you by dividing the number in the amount spent column, which we can see on the right, by the number in the Results column. 
+
+
+The amount spent column gives you the estimated total amount of money you’ve spent on your ad campaign, ad set or ad during its schedule. For a currently running campaign, this metric might take 48 hours to be processed. 
+
+
+Next, we have the ends column, which is where you’ll find the date your campaign ends based on the schedule you set when creating your campaign. 
+
+
+Finally, if you look at the bottom row of the campaign tab, you’ll see a summary of all the metrics of all campaigns you’re working on so you can see the totals, but only if all your campaigns are optimized for the same results. 
+
+Completed

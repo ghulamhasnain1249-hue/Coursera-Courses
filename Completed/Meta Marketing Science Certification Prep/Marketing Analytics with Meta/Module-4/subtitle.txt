@@ -1,0 +1,26 @@
+Welcome to the fourth week of the marketing analytics
+with Facebook course. So far we've looked at the metrics you can
+use to evaluate the success of
+your campaign from a cost versus return
+point of view, and how you can use Facebook's ads manager
+reports to do this. We also looked at how
+experiments can help you to prove that your campaigns were responsible for the
+results you're seeing, and you learned about conversion lift and brand
+lift tests on Facebook. This week we're going
+to ask ourselves, how can I make my
+campaigns better? Is there something
+that data can tell me that can help me
+optimize my campaigns? Can I better spent my budget
+now and in the future? In our first lesson we'll
+look at how you can optimize individual
+campaigns with A B testing. Then in our second lesson we'll look at how you can
+use marketing mix modeling to optimize your budget across different campaigns
+on different platforms. As we discussed before, digital marketing has the
+advantage that you can get information on the
+performance of your campaigns in real time, being able to use
+that information to optimize campaigns while
+they are still running, and using performance results to make strategic
+decisions on how to best spend your budget in the future is key for
+marketing analyst. It is what makes the role of a marketing analyst so
+crucial and powerful. I hope you'll enjoy learning
+all about it this week. Let's get started

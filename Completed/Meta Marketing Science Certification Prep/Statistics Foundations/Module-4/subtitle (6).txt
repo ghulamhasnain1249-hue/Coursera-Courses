@@ -1,0 +1,23 @@
+Now that you know what
+simple linear regression is, let's see how to
+do it in Tableau. We'll start with a blank sheet where we have already
+connected our data. First, we'll drag our
+independent variable spent on ads to the
+column section, which will populate
+it on the x-axis. Then we click on the drop-down
+and select "Dimension". This will report all
+the individual values instead of just the sum. Next we will drag our dependent variable website
+visits to the row section, which will add it to the y-axis. Let's go ahead and change this
+into a dimension as well. Now that our data is plotted, we will click on
+the Analytics tab, find the trend line. If we drag this to the chart, it will give us different
+options for how we want to add a trend line. Since this is linear regression, we want a linear line. You can see that the
+line that's going to be so key in our analysis appears. If we hover over the line, it will give us
+some information, including the
+equation of the line, the R-squared, and a P-value. To learn more information
+about this model, we can click on the line, click "Edit" and select, "Show Confidence
+Bands," which will illustrate the confidence
+intervals for this data. The simple linear regression
+is a very useful analysis, and Tableau is a great
+visualization tool. Practicing both will only be
+to your benefit as you learn how to analyze your data and use it for your
+marketing efforts.

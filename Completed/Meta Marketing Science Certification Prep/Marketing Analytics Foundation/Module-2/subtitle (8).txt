@@ -1,0 +1,73 @@
+There are different ways in which data
+is generated when people interact with content online. So far we looked at web server logs and
+cookies. Now, we're going to take a look at pixels which
+are sometimes also referred to as tags. Pixels and tags are used for
+tracking, measurement and advertising. Let's take a look. When you have a website,
+you will often work with different companies to help you manage and monetize
+your site as well as understanding how people navigate your site. You may work with a company that helps
+you track user behavior on your site for instance, or companies that help
+you advertise your products. In order for these companies to help you,
+you need to pass some information or data to them about what's
+happening on your site. You, as a publisher, can see all
+the information in your server logs but since these other companies that help
+you don't have access to your servers, you need another way to give them
+information. That's where pixels or tags come in. That sounds a bit like
+cookies...how is this different? Remember that cookies are added to
+the user's browser after an interaction has been established. So, if I go to my
+favorite news site, I create a connection with them. Their servers send me some
+information and in the process of sending me that info they store some
+information in my browser via cookie. Advertisers that show ads on that news
+site can follow a similar process since their ad server
+will send me the ad so an interaction between my browser and
+the ad server is established. But if my favorite news site uses
+Google Analytics to help them track and measure behavior on the site, there
+isn't really any interaction that's automatically established between
+my browser and Google Analytics. Google Analytics is not sending the
+content or the ads, so there isn't anything I need from its servers to browse
+around on my favorite news site. If the news site wants to send
+information about my browsing, it needs to add some extra code to its site that
+sends data to google analytics. That extra code that will be integrated in the site
+is referred to as a pixel or a tag. A pixel or tag is a small piece of
+code, often Javascript, that instructs the website to send some
+information to an identified 3rd party. As you know, a website is made
+up of lines of code; pixels and tags are integrated inside that code.
+Here is what a pixel may look like. This example is the pixel from Facebook.
+From the user point, this code doesn't really do anything. You don't
+see the pixel, in fact, it literally is a super tiny transparent
+square, hence it's called a pixel. When you visit a website, all the website
+code loads and when this piece of code loads, the transparent pixel is
+displayed, and the pixel is loaded. It will collect some information
+about the page you are on and the actions you take and send that
+information back to the server of the party identified in the pixel.
+In our example, that party would be Facebook. The information will then
+be used to help the website owner. In the case of the Facebook pixel,
+the information is used to help connect advertising on Facebook
+with actions taken on the site. The website owner can then check
+how effective advertising on Facebook was to encourage certain
+behaviors like purchasing or subscribing, for instance. Code
+in a pixel can also be used to store a cookie in
+the browser of the user. Pixels and tags are primarily used for
+tracking, measurement, and advertising purposes. Some very common
+examples are the Google Analytics tag, which tracks user behavior on
+the website and uses the data to provide publishers with insightful reports
+of the number of visitors, the content that's most popular,
+the actions taken on the site, and so on. The Facebook pixel we just referred to is
+another popular example. Websites that advertise on Facebook will use it to
+evaluate whether they're advertising results in the desired actions.
+They also use it to create custom target audiences: groups of people that have
+engaged with the website and that the publisher would like to target
+with very specific advertising messages. The Google Ads remarketing tag is
+another example. It functions similarly to the Facebook pixel and is used by
+advertisers to advertise to people who previously interacted with their
+site. If you are the website owner, you can integrate these pixels or
+tags on your webpages. The code is provided to you by the company
+whose pixel you are installing, so you can get a code for the Facebook
+pixel from Facebook. Similarly, other companies,
+like Google, for instance, will provide anyone who wants to install
+their pixels or tags with a code to do so. Usually, you can find that code
+in their help documentation or other help tools for
+developers. As a marketing analyst, you may not be the person who will be
+adding the pixel called to a web page, but it really helps to understand
+how pixels and tags work. That way you can ask
+the developers of the website for some help when you have data needs
+that require pixels or tags.

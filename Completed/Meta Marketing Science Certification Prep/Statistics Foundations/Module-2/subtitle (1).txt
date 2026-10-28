@@ -1,0 +1,49 @@
+There are roughly 7.7 billion people on the
+planet right now. The logistics and cost of understanding the
+interests, behaviors, and purchasing preference of the world's population
+are astronomical. Even if you could, the data would have changed by the time you finish
+gathering it. Luckily, you don't
+need information on every living human for
+an accurate analysis. All you need is a sample. This video will explore
+why samples are used in many fields to understand
+large groups of people better. Sampling is a basic
+statistical method for choosing a small, manageable group from
+a larger population. This allows us to estimate
+the characteristics of the whole population without the need to study every
+one or every thing, saving time,
+resources, and effort. All you need is a sample, a carefully selected subset of the population intended
+to represent the whole. Let's use an example of
+a marketing firm that wants to know why people
+bought a certain car model. Surveying all drivers of a
+specific car model and style is challenging due to the large number of
+global and local drivers. To reach each car owner, you must find
+contact and confirm that each driver owns
+and uses that car model. This process involves
+significant time, effort, and financial resources, and due to the dynamic nature
+of car ownership and usage, a comprehensive dataset
+is not guaranteed. This is why we use sampling. Sampling helps by choosing a smaller representative
+group of drivers to study. This enables us to learn about the wider populations traits and preferences without having to survey a very large
+group of drivers, making research
+doable and efficient. As this example shows, sampling has several benefits. One benefit of sampling
+is that it saves time. Surveying an entire
+population is time consuming with inevitable non responses requiring follow up efforts. By carefully selecting a
+representative sample, you can significantly save time and effort and
+contacting participants. Another benefit of
+sampling is that it saves money by reducing
+research costs while still enabling
+researchers to obtain the same insights from a smaller group as they would
+from the entire population. Because you're gathering data
+from fewer participants, you have an opportunity to ask more questions
+of each of them, getting more points of
+data per participant. Research aims vary. Sometimes they involve
+gathering brief data from many like surveys on a receipt
+while other times, they involve gathering
+more detailed data from a few like focus groups. Sampling enables you to
+ask more questions and gather richer data than
+using an entire population. Using sampling, researchers
+can efficiently gather precise data on specific
+groups like car owners, despite the challenges of
+collecting large scale data. In future videos, we
+will discuss choosing the right sample size
+and other factors to enhance sampling in
+different research areas.

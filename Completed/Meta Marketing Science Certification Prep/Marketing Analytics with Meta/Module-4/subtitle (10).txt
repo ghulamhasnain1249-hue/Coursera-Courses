@@ -1,0 +1,77 @@
+Marketing mix modeling has
+been around for a long time, and traditionally
+it's been used by consumer packaged
+goods companies, car brands, and other
+consumer goods, where large budgets are spent on advertising spread across
+different channels. Marketing mix modeling
+is expensive, and as we learned from
+the previous lessons, it can often take a year
+to develop a stable model, and use the insights
+to optimize. Newer brands that rely on
+direct response marketing, or brands that have relied on digital channels to build
+up their user base, have found marketing
+mix modeling harder to use and implement, because it was just too slow in giving them Insights
+they could use. But with an increased focus
+in the industry on privacy, and changing expectations
+among consumers regarding the use of
+their behavioral data, brands are looking at newbies to implement marketing
+mix modeling, since it is a privacy
+friendly measurement method. After all, the data
+that is used as an input to marketing mix
+modeling is aggregated, and it does not
+rely on connections between add exposure,
+and individual action. Marketing mix modeling
+is attractive, but it needs to overcome some of its challenges
+related to its costs, and it's time to execute, and that's exactly
+where we are seeing quite a bit of
+innovation these days. There are two key
+innovations that are helping to overcome
+these challenges, and that will result in a new modern day version
+of marketing mix modeling, that will deliver insights
+much more quickly, and with granularity
+allowing for better optimization
+even within channels. The first innovation relates
+to how data is collected. Traditionally marketing
+mix modeling has relied on manually collecting
+and cleaning data. Data would often be pulled
+from different systems, your sales data, your customer relationship
+management system data, advertising data, and so on. Massive Databases were
+built on the basis of that, and would then form the
+input for your analysis. All these data points were
+collected after the fact, so you may collect data from
+the past year for instance. Nowadays, we're seeing
+an increased focus from research providers to collect
+data in real time via APIs. APIs for the different
+data systems, your sales data, your advertising
+data, and so on, send data in real-time
+directly to the MMM provider, building complete
+dashboards in real-time. A second innovation
+that is driving changes in the marketing
+mix modeling field, is the use of machine learning. We've seen how MMM uses
+statistical models, and traditionally, it rates
+on the model solutions, to achieve stable models. But machine learning, this process can
+happen in real-time, and at a much higher level
+of complexity and accuracy. These innovations
+are resulting in much faster turnaround times
+for marketing mix modeling. Sometimes, providing you with the first model in
+less than 30 days. The granularity in
+the Insights you get is much higher to
+a point where it provides you insights
+in how to optimize your advertising strategy
+within a channel. For instance, it could give you insights into how
+you're spending on your different
+Instagram campaigns contributed to your results, while taking into
+account the effect of campaigns you're running
+in other channels. The efficiencies in data
+collection and analysis, will result in lower costs especially for those advertisers that want to rely on marketing mix modeling
+on an ongoing basis. The different providers of
+marketing mix modeling, are all working on
+these innovations, and you will find that
+marketing mixed modeling may be much faster and affordable
+than you might think. In the near future, we will see software emerge that will let you run MMM with the
+push of a few buttons. I suggest you keep an eye
+out for these developments, as you assess how
+marketing mix modeling can help you with your optimization
+challenges in the future. Next, I've attached a
+reading from the work Facebook's marketing science
+team is doing in this field. Definitely worth exploring.

@@ -1,0 +1,17 @@
+In this video, we're going to take a look at how to
+find distributions in spreadsheets. You'll notice we're in our home
+selling prices spreadsheet and we want to look at the distribution
+of the selling prices. To do so, we first need to select
+the column that the data is in that you want to find the distribution for. From there, you're going to go to data and
+column starts, and you'll be able to toggle
+between counts and distributions. In order to find the distribution, you'll definitely want to be in
+the distribution toggle menu. Now, remember that histograms can be
+drawn as a part of a distribution. If you imagine the curve as curving
+over the top of the distribution, in this way,
+you can see that the data stacks up. If you follow my mouse on
+the left hand side of the screen, giving it a skewed distribution,
+you'll also notice that there are two peaks here,
+which imply that it is also bimodal. The key piece, though,
+is that if you imagine the line going from the tip of each histogram piece,
+then you're able to imagine what the distribution looks like
+utilizing a spreadsheet.

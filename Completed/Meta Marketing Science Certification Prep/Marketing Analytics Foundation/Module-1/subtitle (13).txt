@@ -1,0 +1,61 @@
+A second crucial task
+where marketing analytics supports marketing is in the planning and
+forecasting phase. James has a budget that he
+can use to market Snackwall. He has identified
+a target audience, but now he needs to come
+up with a marketing plan. He needs to make sure that he makes the best possible
+use of his budget. On top of that, his
+management would like to get a sense of
+the expected sales. There are a few things James needs to consider in his plan. First, he needs to select the platforms he will
+use to advertise. James believes that social
+media would be great, but he needs to decide
+which platforms to include. Alia, who runs
+marketing analytics for DCB cleaning and the
+Snack Wall product, has access to comScore data, a database with
+information about the different online
+media people use, people's browsing behavior
+and demographics. Alia shows James how
+the age group of the focused tech segment he is targeting uses Facebook
+and LinkedIn a lot, more so than Instagram,
+for instance. James agrees that these would be good platforms for his ads. Now he needs to decide how much of his money should be
+spent in each platform, should it be 50-50? Alia advises against that. She shows James how based on the company's
+advertising experience, they found that
+Facebook tends to be cheaper if you target
+your ads well, or in other words, if you put the right message in front of the right people. But she has also
+found that LinkedIn helps to generate awareness
+among professionals. Even if they see less sales
+coming from the ads directly, they tend to create good leads. Based on this
+historical information, Alia has created a
+formula that she can use to help James
+divide up his budget. James ends up putting
+70 percent of his ad budget in Facebook
+and 30 percent in LinkedIn. Now, James has one
+more step to take. He needs to present his
+plan to his management and his boss expects to see
+a forecast of the sales. Alia suggests that James rely on the historical
+data they have about the results
+of the campaigns the company ran for
+its cleaning services. They both know that this
+product is different, but since the product is new, this is the best data they have. Alia shows James how
+she can use the data to predict the number
+of people that will click on his ads in Facebook, and how many of
+those people will then go on to subscribe
+to the service. She can do the
+same for LinkedIn. This sounds simple
+enough, but in fact, the model Alia uses to forecast
+is a bit more complex. It also involves factors like the types of ads James
+is planning to use, how many video ads, single image ads, etc. The time of year when the
+campaign will run to people, James will target and so on. All of this information
+helps Alia build a better model to help James forecast the sales
+for Snack Wall. As you can see
+from this example, data and analytics play an important role into planning
+and forecasting phase. Of course, James
+could decide how to spend his budget
+without using analytics, but the more data and
+information James uses to plan, the better his strategy will be. Alia used what a company
+learned from the past, and that helps James to build his marketing approach
+and forecast sales. If you don't have data from the past that can
+help guide you, marketing analytics will often use data they can purchase, like the comScore data about browsing behavior
+we referred to. In any case, using
+marketing analytics will make your strategy
+and forecasts better.

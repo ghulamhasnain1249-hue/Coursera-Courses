@@ -1,0 +1,17 @@
+Frequency is a fundamental part
+of descriptive statistics and is one of the tools you will use
+regularly as a data analyst. Frequency, or the amount of time
+a value occurs in a data set, can give you quick and actionable insights into
+how your data is divided into categories. In this lesson, we will start by
+describing what a frequency table is and what they're used for. Then well introduce you to contingency
+tables, a kind of frequency table that will help you gain more insight
+into the relationships in your data. Next, we will examine the relationship
+between frequency and probability, which can help you
+predict the likelihood that an event will occur like
+a company's future sales. We'll also discuss the concept of
+conditional probability as well. Finally, you will learn about
+what scatter plots are and how to make them, and
+the concept of correlation, which will give you some understanding of
+the relationship between two variables. I am excited about this lesson as it
+contains a lot of practical information that will help you gain a better
+understanding of statistics. Let's get started.

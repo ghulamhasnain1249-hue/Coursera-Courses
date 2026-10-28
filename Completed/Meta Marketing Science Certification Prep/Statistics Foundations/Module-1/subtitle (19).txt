@@ -1,0 +1,20 @@
+Congratulations. You've
+completed the first week of this course on
+statistics foundations. You now know all about the fundamentals of measures
+of central tendency, measures of spread,
+and frequency tables. Let's take a moment
+to recap what we learned this week and
+what is coming in Week 2. In the first lesson, you learned how to
+use measures of central tendency to
+find the middle, when to use different
+measures of central tendency, and how to find the
+middle with spreadsheets. In the second lesson, you learned about measures of spread like variance, range, and standard deviation, and how to use standard
+deviation and spreadsheets. In the last lesson, you learned about
+frequency tables and data analytics and how to
+use contingency tables. You also learned about
+conditional probability or Bayesian statistics and examine scatter plots and
+correlation. Great work. Now that you're familiar with these descriptive
+statistics, get ready for Week 2, where we will
+explore how to make predictions with
+inferential statistics. Keep up the excellent work, and I can't wait to see
+you in the next week.

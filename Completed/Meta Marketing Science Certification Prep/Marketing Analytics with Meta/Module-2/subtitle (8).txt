@@ -1,0 +1,115 @@
+Now that you've
+learned basics of your campaign results
+in Ads Manager, let's walk through
+an example campaign. By the end of this video, you should have a better
+understanding of how to evaluate and analyze your campaign results
+in Ads Manager. Before we have a closer
+look at campaign results, let's first get to know the actual campaign that
+produced these results. Inu and Neko, a pet food
+and grooming company, have been running a conversion
+campaign for about a week. Their goal was to get people in their target audience to request their latest catalog
+on their website that features all of their new
+products for pet lovers. Their campaign consists of two
+ad sets with two ads each. The first ad set targets cat
+owners between the ages of 20 and 49 and living
+in the United States. The second ad sets
+targets dog owners also between the ages of 20 and 49 and living in
+the United States. Each ad set consists
+of two image ads, each showing a different
+image of cats or dogs. The conversion campaign
+utilizes the Facebook pixel to optimize for the
+catalog request event they placed on their website, telling Facebook to get them as many catalog requests
+as possible. The pixel sends a signal to Ads Manager when
+someone completes the request form on
+their landing page so we can see how many
+conversions we've received. This campaign was active
+for about a week. Let's now have a look
+at results it brought. We start at the campaign level. Here we can see
+our campaign named Inu and Neko Catalog Requests. The Delivery column tells us that this campaign
+is still active. The data we're looking at, indicated by the date range
+filter in the top right, is from a seven-day period, September 4 to September 10. We could also pick a different time period using this filter. The budget for this campaign
+was set as a daily budget of $300 and throughout
+the seven days, a total of $1,954.58 was spent, which can be seen in the
+amount spent column. You might be wondering
+why this is not 2,100, because that's what seven
+times 300 would get us. It's likely that Inu
+and Neko started to run this campaign
+midday on September 4, so for the first
+of the seven days, Facebook didn't
+spend a full budget. Let's now understand
+what results Inu and Neko got for the
+amount they've spent. In the Results column, we can see that they
+received a total of 233 catalog requests. If we have a look at the
+cost per result column, we learn that each of these
+catalog requests cost Inu and Neko $8.39. You also get to these $8.39 by dividing the amount spent
+by the number of results. Whether paying $8.39 per catalog requests is a good or not so good
+investment for Inu and Neko depends on a few factors: how many of these catalog
+requests turn into purchases? How much does one buyer
+purchase on average and how much profit do Inu and Neko make on an average purchase? Then they can calculate whether this campaign brought them
+additional revenue and, more importantly, profit. Also, at the campaign level, we can see how many people Inu and Neko have reached
+with their campaign, about 103,000, and
+how many impressions their campaign has
+received, about 176,000. We can also learn that
+their campaign has received about 1,631 link clicks
+for the amount spent. Given Inu and Neko's primary
+objective were conversions, these metrics are
+somewhat secondary. They can help you evaluate
+campaign performance and health over
+time [inaudible]. Let's dive one level deeper into the ad sets for this campaign. Here we can see the two ad
+sets we outlined earlier. The first targeting cat owners and the second one dog owners. In the third row, you can see the results from both of these ad sets combined. In other words, these are our campaign results
+we've seen earlier: 233 catalog requests
+at $8.39 each. If we now compare
+these two ad sets, we can see some
+interesting differences. First of all, we can see that the amount spent wasn't
+distributed equally. Facebook has spent more money on the ad sets targeting
+cat owners. This is because the
+campaign was set up using campaign
+budget optimization. As you might recall, with campaign budget
+optimization, Facebook will
+distribute a budget across ad sets to
+get more results. If we now compare how both
+of these ad sets performed, we can see that the ad sets targeting cat owners performed better than the one
+targeting dog owners. While the cat owner
+ad set brought in 156 catalog requests
+at $7.52 each, the dog owner ad
+set only brought in 77 catalog requests at
+$10.15 per request. The blend of the two
+got us to an average of $8.39 per request. Does this mean that
+going forward Inu and Neko should only be
+targeting cat owners? Well, not necessarily if dog owners who request
+the catalog end up becoming buyers more frequently or spent more with Inu
+and Neko on average, they might even be a more profitable
+target audience for Inu and Neko
+than cat owners. It's important to understand how someone behaves and
+what results they generate for your business after they've completed
+the campaign objective. Also there's a limit
+to the number of cat owners that engage
+with Inu and Neko's ads. If the business wants to
+continuously grow over time, it's a good idea to expand their target audience
+to keep growing. Let's now take our analysis
+one level deeper by having a look at the ads that were
+part of the cat owner ad set. Each of the first two rows, shows the results for
+the individual ads. The first one using an image of a single cat is the creative, the second one an image
+of a group of cats. In the third row, you can see the results from
+both of these ads combined. In other words, these are the results of the ad set targeting cat
+owners we've seen earlier, 156 catalog requests
+at $7.52 each. If we now compare these two ads, we can see that they
+performed a bit differently. While the ad with a group
+of cats creative brought in 94 catalog requests
+at $7.04 per request, the single cat ad
+only brought in 62 catalog requests
+at $8.25 per request. The blend of the two
+got us to an average of $7.52 per catalog request. Given that one of the ads performed better than the other, Facebook shifted more budget
+to the better-performing one resulting in a higher
+amount spent for that ad. While we don't know exactly why one image performed
+better than the other, in their next campaign, Inu and Neko could try other variations
+of the winning ad. They could try other images
+of groups of cats or try other images showing
+cats of the same cat breed, or they keep doing an
+image the same and try different copy variations to further optimize ad performance. In this video, we've evaluated the campaign
+performance based on the specific results Inu
+and Neko were going after : catalog request and
+price per request. But what if you have a
+different business goal? In our next lesson, we will take a closer
+look at how you can align your report with
+your campaign goals.

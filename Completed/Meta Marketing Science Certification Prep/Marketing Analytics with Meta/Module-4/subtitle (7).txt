@@ -1,0 +1,26 @@
+As a marketing analyst, you will help the marketing team find ways
+to optimize their advertising campaigns. So far, we've learned that you can
+use A/B testing to fine tune and optimize a campaign or a specific ad. It's a great technique to evaluate
+the performance of your ads on one advertising platform. But a marketing strategy usually calls for
+advertising on different platforms. For instance, the marketing team may
+decide to market on Facebook as well as Youtube, and
+they may even throw in a TV ad. When you're evaluating the results and
+looking for ways to optimize, this will bring up an extra challenge. How do you know which of these campaigns
+had the most impact on the results? Did people buy the product that was
+advertised because they saw the TV ad or because they saw an ad on Facebook? You could of course argue that it doesn't
+matter as long as you see good results, but that's a bit shortsighted. Of course, you would like to be able
+to improve and optimize the campaign. If some of the money that is spent is
+not really contributing to results, you would like to know that, so
+you can advise to stop spending. And if something works particularly well,
+you'd probably want to see that repeated in the future, and reduce spend on
+the platforms that did not work as well. Marketing mix modeling is a method
+that focuses on evaluating the contribution of different
+marketing channels to your end result. If you completed the other
+courses in this program, you already know how
+marketing mix modeling works. I will give you a quick recap and
+we'll look at how you can best integrate the data resulting from your
+Facebook campaigns in this analysis. And what to keep in mind to make sure you
+get an accurate read on the contribution of your digital marketing channels. We'll also touch on some exciting
+new developments in marketing mix modeling that promise to make this
+method even more useful in the future. Let's start with a recap of how marketing
+mix modeling works in our next video.

@@ -1,0 +1,82 @@
+Now that we understand
+the difference between ROI and ROEs, let's discuss customer
+profitability or CP. Customer profitability
+is a way to track which customers are
+well profitable. CP is often used in B2B
+advertising to manage clients but can also be used
+in B2C to segment customers. You may have heard of the 80/20 rule where
+businesses often find that 20 percent of their customers provide 80 percent of profit. This metric, customer
+profitability, focuses on seeing
+if that's true. Understanding which of
+your customers are good, meaning they require low
+effort and result in high spent and which
+are not so good, meaning high effort and
+low spend in return. The general formula for customer profitability
+can be seen here. It's the revenue earned
+from a customer in one year minus the cost of supporting that
+customer in that year. What are the steps
+to calculate this? First, we want to define
+our customer costs. This can include
+but is not limited to things like marketing costs, customer service cost,
+returns, shipping costs. Next, we want to look at
+our customers' spend. We can do this using your customer relationship
+management system or CRM, or other spent tracking
+software that you may have. Subtract customer
+cost from customer spend and get your
+customer profitability. But that customer profitability doesn't tell you how
+your customers behave, or what is influencing
+their actions. In order to do this, we'll need to segment
+our customers. You may already have a
+segmentation analysis done for your
+customers and if so, feel free to use that. If not, you have a few
+options to segment out your audience depending
+on your business; B2B vs B2C, segmenting out individual
+customers versus businesses. Customer personas, segmenting out the type of buyer
+your customer is. You may have this type
+of segmentation from a cluster analysis
+you ran for instance. Recency, frequency,
+monetary, or RFM analysis. An RFM analysis is one of the most common ways to segment users to gauge
+customer profitability. An RFM analysis explores
+questions like, who are my best customers? Which customers have
+potential to spend more? Which customers should we
+pay less attention to? To answer these questions, RFM looks at recency, how recently someone purchased; frequency, how often they purchase within a
+set time period; monetary, how much they spent
+within a set time period. In order to do an RFM analysis, you'll need to decide your
+segments beforehand and create a scale of one
+to five for each, with five being the greatest. Here you can see an example
+for an established brand. It's important to note
+these may be different for your business and you should
+understand the lifecycle, and average order value
+of your customers in order to assign
+these parameters. From here, analyze
+each customer, and then push their RFM
+numbers together to create a three-digit code which
+tells you their RFM. Generally, your CRM software can run an RFM analysis for you but you can also do
+this in Excel if you're just starting out or
+do not have a CRM. Let's walk through an example. Say you have a customer file with the five customers
+indicated here. In this case,
+recency is in days. Using our segmentation we
+previously determined, we can then assign scores
+to each of these variables. Once we assign scores, we push the three numbers
+together to get an RFM score. Those closest to 555
+are best customers, while those closest to 111
+are lowest scoring customers. If you'd like to plot
+or manipulate the data, you can also take the average of the three numbers to get
+a simplified RFM score. When doing this, you
+also may decide that you want to rank one factor more than another
+in your formula, so you may multiply that
+to give it more weight. In this example, we've given
+more weight to recency and multiplied it times 1.5 in order to weight
+that factor higher. Once you've done
+your RFM scoring, you'll want to plot them
+out and name your segments. Some common segments
+include champions. These are our 555s that you'll want to segment out and
+target with specific offers. New customers, those with a high RFM score
+but low frequency. You may also want to target
+them with a special offer. At-risk customers, those who rank highly for
+monetary and frequency, but low for recency. Remind them of previous purchases or
+encourage subscription. A marketer will want to tailor their messaging and offers to
+each one of these segments. While customer profitability is often used by product
+or finance teams, CP is another excellent tool
+in a marketer's toolbox to determine what messages may resonate with
+their consumers.

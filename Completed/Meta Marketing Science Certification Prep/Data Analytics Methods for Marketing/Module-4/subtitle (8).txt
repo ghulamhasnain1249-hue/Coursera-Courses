@@ -1,0 +1,93 @@
+When advertising
+first with digital, there was incredible
+excitement around the measurement opportunities
+associated with it. When people click on an ad or interact in any way
+with content online, their actions are registered
+and resulting data allow for the granular reporting and analysis we've discussed
+in this course so far. But by now, you probably also read between the lines
+that data collection, measurement, and analysis online isn't always as easy
+as it may seem. It comes with a few challenges. While we have some ways to
+overcome these challenges, it's good to be aware of them, especially when you're
+measuring across platforms like we discussed
+in the previous videos. In this video we'll
+take another look at the challenges you
+should be aware of. For the sake of this video, I'm going to categorize the challenges into
+two different themes. First, to get a good read into what happens along
+the customer journey, you need to be able to
+measure behavior and ad exposure on different
+platforms and devices. Second, you have to
+connect the behavior you see to one individual and
+their customer journey. Let's talk about the
+different platforms and devices first. When we want to track
+advertising effectiveness across the whole
+customer journey, we need to be able
+to monitor behavior on the different platforms
+where people can convert. For instance, if you sell
+a product on a mobile app, on the web and in your store, you want to make sure you have a way to capture all the sales. If you're trying to
+evaluate the effect of your advertising on all sales, you'll have to make sure that all sales are indeed included, which also means including
+the offline sales. Let's think about
+what that means for a business like Calla & Ivy. For instance, if Imra
+wants to understand the effect of her
+advertising for the fall reeds she sells, she would have to monitor
+how many reeds people bought online through her
+website and her mobile app, and how many she
+sold in the store. In order to do this, Imra will need to make
+sure that her team can collect all the
+data for every sale. To track the sales
+on the website, she could use the Facebook or the Google Analytics
+Pixel, for instance. Depending on which tool she plans to use to
+analyze her data, the Pixel would send
+information back to Facebook or Google on every sale through a Pixel event on
+the Thank You page. To track the sales
+through the app, Imra would need to make
+sure the Facebook or Google Analytics SDK is
+integrated in her mobile app. The SDK will then allow her
+to track the app sales. For the offline sales, Imra could integrate
+her offline sale system or the system she uses
+to track sales in her store with Facebook
+or Google Analytics through the respective
+offline convergence APIs. That's an automated
+way to integrate the offline events into the
+Facebook or Google platform. To get this to work, she needs the help of
+software developer. But once it's set up, Imra will see information on the offline sales in her Facebook or Google
+Analytics reports. This will definitely
+help her track the effectiveness
+of her advertising. The second measurement
+challenge is connecting all the touch
+points to one person. When a person visits
+your website and also visits your app along
+their journey to purchase, you'd want to understand that
+that was the same person. Without that insight, it's
+difficult to understand the contribution of
+different touch points to your results. Historically, advertisers
+have relied on cookies to connect a sequence of touch points to a person. Cookies are pieces of
+codes that get added to a person's web browser
+when they visit your site and when
+they see your ads. The cookie then let's your advertising or
+measurement platform know which ads people
+interacted with or saw. This solution works
+reasonably well if you assume that all interactions
+happen on a computer. But cookies don't work
+well on mobile devices, and they don't work
+in mobile apps. As a result, it's
+challenging for advertisers to
+connect the data from a person's interactions
+with ads on mobile devices with that same person's
+interactions on computers. Platforms like Facebook
+and Google leverage a persistent login and a unique identifier associated with a person's Facebook
+or Google account. When a person sees Facebook or Google ads
+on mobile or on the web, Facebook or Google
+can connect to dots. Together with the Pixel, the SDK, and the
+conversions API, this approach allows you to tie the actions directly
+to real people. Using this approach reduces the chance of missing
+touch points in the conversion path
+and it allows to relate all the touch points
+back to the one person. It's good to keep all these data related challenges
+in mind as you plan how you will measure the effectiveness
+of your campaigns. It will help you make
+sure that you put all the tracking mechanisms in place so you can
+connect to dots later. Of course in some cases, you'll be working with 3rd
+parties to help you measure. Make sure that you discuss these challenges with them
+ahead of time so you're aware of how they can
+help you track across platforms and link to touch
+points back to an individual.

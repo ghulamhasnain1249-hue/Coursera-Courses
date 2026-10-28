@@ -1,0 +1,78 @@
+Context is important
+in statistics. For instance, knowing
+a player's points per game is useful in a
+sport like basketball, but it doesn't directly compare them to
+others in the league. That comparison to others
+in the league who play on teams with different
+dynamics is a key part of understanding whether
+a player is exceptional or not when compared to
+everyone in the league. In this video, we will
+explore Z-scores, which provide us with
+a way of leveraging the standard
+deviation to fill in the context of where it falls
+in reference to the mean. A Z-score explains how
+many standard deviations a value is from the mean. The Z-score is a calculated
+number that corresponds to the number of
+standard deviations a data value is from the mean. In our basketball
+player example, this means Z-scores measure how many standard deviations a player's performance is
+from the league average. This lets us not just
+see how a player scores, but how exceptional
+their scoring is compared to their peers. This provides a clear and comparable measure
+of performance. But how does a Z-score do this? It starts with a normal
+distribution curve or bell curve with the
+mean in the middle. Remember, we will convert
+the actual data value to a Z-score to understand where it falls on
+the distribution. If you have a value
+with a Z-score of zero, the value you're comparing
+is located at your mean, which is the highest part
+of the distribution. The Z-score tells
+us the location of the original value relative
+to all the other data. In this case, the location in the middle at the mean shows the original raw
+score is bigger than 50% of all your data points
+because it is in the middle. It's also smaller than
+50% of your data as well. Let's do another example. Now, the Z-score is
+calculated to equal one, which means the value is one standard deviation away from the mean on the
+right-hand side. We know it is on
+the right-hand side because it is a positive one. If it had been negative one, it would be one standard
+deviation below the mean. The negative would
+indicate below, which is to the
+left of the mean. In order to help you more
+accurately calculate Z-scores, you can use a Z-score table, which is a list of standardized
+calculations to help you understand exactly
+what percentage of your population falls
+below your Z-score. These tables are not
+as common today as statistical software is often used to find a Z-score
+and probability. Let's examine a specific
+example from Inu and Neko to understand how Z-scores can be applied
+to a marketing effort. Carlos at Inu and Neko, would like to launch a product
+targeted at older pets. Carlos already knows that his customer's pets average age or mean age is
+eight years old. But Carlos wants
+to launch products for pets ages 14
+years and older. He's wondering if that
+age is close enough to the mean to keep the
+current market strategy, or if he needs to create a new marketing strategy
+for this new product. Is 14 years too old for the
+current advertising campaign? Let's find out using a Z-score. First, we'll use statistical software to
+find the Z-score of three, which means that it is three standard deviations
+from the mean. We use statistical software
+to find the exact percentage, and the answer is
+0.9987 or 99.87%. That means that 14
+years old is older than 99.87% of Inu and Neko's
+current pet base. It is safe to say that
+a new campaign strategy would be required to market to this group of pets
+and their owners. If the new product were aimed at pets who
+are four years old, the Z-score would be -2. That means that four is two standard deviations
+lower than the mean. If we check this on a Z-score
+in statistics software, we will find a probability
+of 0.0228 or 2.28%. Four years old is only older
+than 2.28% of the pets. Conversely, it means
+it is younger than 97.72% of the customer base. For this pet population, as well as the pets
+over 14 years old, Carlos would likely adopt a new marketing strategy to
+better target this audience. By understanding how Z-scores provide context to raw data, such as the basketball
+players points per game, we can assess their
+performance in relation to the league
+average more effectively. Z-scores give us a way to view individual data points in the context of a
+larger data set. As you continue to learn
+more about statistics, you will learn more
+about the importance of the contexts provided
+by Z-scores.

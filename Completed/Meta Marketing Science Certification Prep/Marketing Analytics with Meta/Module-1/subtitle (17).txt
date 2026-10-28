@@ -1,0 +1,102 @@
+Adhering to Policies in Ads Manager
+0:00
+/
+5:59
+When you create campaigns in Ads Manager, you'll need to keep Facebook's Advertising Policies in mind. In this reading, we’ll cover some common policies that govern the content you can display in your ad. But we also recommend you review the entire Ad Policies before creating your ads.  You can find the full Facebook Ad Policies 
+here
+.   
+
+How Do Ad Policies Work?  
+
+
+
+Facebook’s ad policies provide guidance on what types of ad content are allowed. When you create ads, those ads and their respective landing pages are reviewed to make sure they’re in line with these policies before they’re approved and go live. Ads Manager will put your campaign “In Review” for up to 24 hours before it's published to make sure it adheres to Facebook’s Advertising Policies.
+
+Ads Manager may also reject your campaign if some of your ads violate those policies. But don’t worry—Facebook will give you feedback so you can edit  and resubmit your campaign  for review.  
+
+Let’s go over some of Facebook’s key ad policies.   
+
+Ad Copy Policies  
+Avoid Personal Characteristics 
+
+No Vulgar Language
+
+No Deceptive Claims
+
+Let’s start with the copy of your ads. Your copy is the writing and text that goes into your ads— the primary texts, headlines and link descriptions  as well as any text that is part of your creatives.
+
+First, avoid personal characteristics. Ads can't assert or imply, directly or indirectly, that you know a person's personal characteristics. This includes a person's name, race, ethnic origin, sexual orientation, physical or mental disability or medical condition, financial status and more. You also can't call attention to perceived imperfections. 
+
+Next, no vulgar language. This one is self-explanatory: Don't use vulgar, profane or insulting language. Ad text should never be rude, offensive or bullying.
+
+Finally, no deceptive claims. Your Facebook and Instagram ads can't contain false, fraudulent or misleading claims or content. Any claims that you do make have to be adequately substantiated.  
+
+Ad Creative Policies
+No “Before and After” Images 
+
+No Sexually Suggestive Images
+
+No “Shock and Scare” Images
+
+Be Mindful When Using the Facebook Logo 
+
+No Misleading Buttons
+
+Limit the Amount of Ad Text
+
+Next let’s go over what to avoid when designing your creatives. Your creatives are the images or video that go into your ads. 
+
+First, no “Before and After” images. You can't use "before and after" images or images of unexpected or unlikely results. Ads like this include side-by-side comparisons showing dramatic weight loss or unrealistic skincare treatments. 
+
+Second, no sexually suggestive images. Ads can't be overly sexual, imply nudity, show excessive amounts of skin or focus unnecessarily on body parts. This goes even if they’re portrayed for artistic or educational reasons.
+
+Third, no shock and scare images. Images that are scary, gory or sensationalised aren't allowed. Facebook doesn't allow these images because they may shock or elicit a negative response from your audience.
+
+Fourth, be mindful when using the Facebook logo. Your ad can't contain an altered or outdated version of the Facebook or Instagram logo. It also can't use trademarks, names, domain names, logos or other content that imitates or could be confused with Facebook. Also, by using the Facebook or Instagram logo, you could be implying a partnership with Facebook—which you can only do if you actually have one. 
+
+Fifth, no misleading buttons. Images that mislead a person into thinking your ad features some functionality it doesn't, like a button that would play a video but doesn’t, aren’t allowed. 
+
+Sixth, limit the amount of text in your ad. Facebook found that images that have less than 20% text perform better. All ad creatives are subject to a review process that looks at the amount of image text used in your ads. Based on this review, ads with higher amounts of image text may get less reach or not be shown at all. If you need to include text in your image, use fewer words or reduce the font size of your text. But make sure it’s still readable in smaller placements.  
+
+ Landing Page Do’s and Don’ts
+Do: 
+
+Present your content clearly
+
+Ensure your content is relevant to your ad 
+
+Clearly connect your ad branding with your landing page branding 
+
+Don’t:
+
+Direct ads to landing pages with low-quality content
+
+Have excessive embedded or pop-up ads 
+
+Bait people into clicking on ads with sex or violence
+
+Send people to a page where they have to click through ads to access the site’s content
+
+Finally, let’s talk about landing pages. Your ad may not be approved if your landing page content isn't fully functional, doesn't match the product or service promoted in your ad, or doesn't fully comply with Facebook’s Advertising Policies. Here are some do’s and don’ts:  
+
+Do:
+Present the content up front and clearly. Make sure that the page is easy to navigate.
+
+Ensure that the content on your landing page is relevant to your ad. Directing people to irrelevant content or an unexpected landing page can create a confusing and negative experience.
+
+Clearly connect the branding (the look, feel and style) in your ad with what people will experience when they land on your site.  
+
+Don’t: 
+Don’t direct ads to landing pages with minimal original content, low-quality content or content that is difficult to access.
+
+Don’t distract from your landing page's original content with excessively embedded or pop-up ads.
+
+Don’t bait people into clicking on ads by using overly cropped ad images, or shocking or sexual ad copy.
+
+Don’t attempt to monetize Facebook ad views. For example, Facebook ads shouldn't link to a destination page that requires people to click through other ads to access the site's content.
+
+Following these guidelines and complying with the 
+Facebook Ad Policies
+ can help ensure your ad gets published without issue.    
+
+

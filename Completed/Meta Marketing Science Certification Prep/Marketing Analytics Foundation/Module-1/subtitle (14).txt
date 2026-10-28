@@ -1,0 +1,33 @@
+Marketing analysts play an important
+role in helping to evaluate marketing effectiveness. Or another way to think
+about this is whether or not the marketing budget was spent well. And an important part of that is
+evaluating the effectiveness of advertising. Marketing analysts will try
+to answer the question: did the advertising campaign payoff? A good starting point to answer
+that question is by looking at return on Ad spent or ROAS. ROAS is simply a way to find out
+how much revenue you made on your advertising versus
+what you spent on it. The calculation for
+ROAS is revenue made from the ads divided by advertising costs of those ads. For example,
+if you spent $1 on advertising and made $10 off of that advertising,
+your ROAS as is 10 Or can be expressed as 10-1 or 10 x. So this advertising made 10 times what we
+spent on it, which would be pretty good. Marketing analysts will use ROAS
+to compare how ads on different platforms perform. Or they may use it to compare
+campaigns they ran in the past with new campaigns and so on. All of this will help them evaluate
+whether they are getting the most for the advertising dollars they're spending. Or whether there is room for improvement. Let's go back again to James and
+his campaigns for SnackWall. After is campaign ran for two weeks, he
+finds that ROAS on his facebook ads is 12. This means that for every dollar he
+spends on advertising on Facebook, he sees 12 dollars in revenue for
+the Snack Wall product. That doesn't sound too bad. But James knows that the advertising
+campaigns he ran on facebook in the past for
+the cleaning service had a ROAS of 23. So now James is a bit worried, he doesn't
+think that the product is less attractive, but he thinks he could
+optimize his campaign. He decides to create new
+ads with more images and a clearer explanation of the service. Two weeks later, James sees that ROAS for
+his ads is up to 19. James feels a lot better about that. He thinks there's still some room for
+improvement, but this is definitely going
+in the right direction. Marketing analysts will use different
+data and tools to calculate ROAS. Most advertising platforms
+provide detailed reports to calculate and track the effectiveness of ads. Of course, the example we walked through
+here is a bit simpler than what analysts encounter in real life, as there are a few more
+considerations that go into evaluating the effectiveness of ads. In this program, we will cover several
+techniques that you can use to evaluate whether your campaigns paid off. As you'll find throughout these courses, ad effectiveness evaluation is
+a crucial task for marketing analysts

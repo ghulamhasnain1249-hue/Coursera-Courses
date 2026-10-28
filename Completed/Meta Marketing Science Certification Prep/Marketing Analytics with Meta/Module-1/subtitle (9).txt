@@ -1,0 +1,94 @@
+After determining
+your campaign goal, the next step will involve setting a budget
+for your campaign. But before I show you how to do that in ads managers
+I want to talk about what you
+should consider when deciding on how much to
+spend on a campaign. As an analyst you
+may be asked to come up with a budget suggestion and understanding what goes into
+this decision will also help you to optimize
+campaigns later on. By the end of this video, you'll know how to determine the right budget
+for an ad campaign. The campaign budget is
+the total amount you plan to spend over the
+course of your ad campaign. Sometimes a campaign runs over a long period of time then
+it's usually easier to express the campaign budget
+as the amount you plan to spend per day or per month
+the campaign is live. In some cases, the campaign budget might already be decided
+by another party. For example, if you work on a marketing team
+and a company that allocates a certain
+monthly amounts to social media ad campaigns, that'll determine your
+overall campaign budget. If your company runs different campaigns
+in a given month, you would break down
+that budget into a budget per
+individual campaign. Or if you work for an
+agency your clients might budget a certain amount of money for the campaign
+you're managing. In that case, it's the
+agency's job to get as many results as possible
+while not going over budget. These results might
+be app downloads, item purchases, or
+newsletter sign-ups. Your clients might
+also provide you with a limit on how much
+each result can cost. In other cases, you might determine the campaign
+budget yourself, or you might be asked to
+recommend the campaign budgets to a client so how much
+should you spend in. Your campaign budget
+will ultimately depend on what results you
+or your company are aiming to achieve and
+your realistic estimate of how well your ads will
+drive sales or conversions. We'll talk about
+how to determine each of those things
+in this video. Let's use an example
+company to walk through how we determine
+a campaign budget. We'll start with an online bike parts retailer who's aiming to achieve a result of 50,000
+in revenue per month. Let's say you are an
+analyst at this company, you know that for every
+100 people that land on the website one person
+becomes a buyer and buys $200 bike tires. This means every buyer
+generates $200 in revenue. The company wants to make
+$50,000 in revenue per month. That means you'll
+need 250 buyers. To now determine
+the total number of website visitors you'll need over the course of the month, multiplied 250 buyers with a number of visitors
+needed to get a buyer. 250 buyers times
+a 100 is 25,000. Your ads will need
+to get you 25,000 website visitors per month to
+achieve your revenue goal. How much can you spend
+on advertising to get those 25.000 website visitors? To calculate that we need to compare our revenue and
+our actual profits. Let's say the set of
+two bike tires that the company is selling
+costs $80 to make, and $20 to sell. This means that although the
+revenue is $200 the profit is $100 because you're only making a 100 per
+sale in profits. This means that you
+don't want to spend more than $100 on
+advertising per sale or you'll spend
+more than the profit a company makes per sale
+and thus lose money. If the company makes
+$50,000 in revenue they're going to make
+25,000 dollars in profit. This means you shouldn't
+spend more than 25,000 dollars on
+your advertising. Every dollar you spend less
+than those 25,000 dollars is now your actual profits after reflecting your
+advertising costs. It's good to remember
+to never spent more on advertising than
+the profit you make. Here's another general
+guideline that's good to know the rule of thirds. Many businesses use this
+rule of thumb to decide on how much to spend on ads to keep their
+businesses growing. This rule says to
+spend no more than one-third of your expected
+revenue on advertising. With that in mind if you want
+to see $50,000 in revenue, you shouldn't spend
+more than 1/3 of that or $16,600 on advertising. Now we need to
+calculate how much we can pay per website visitor. You're going to need 25,000 website visitors to
+make 50,000 in revenue. You also know you don't
+want to spend more than about $16,600 on advertising. You may not plan on spending all your advertising dollars
+on one platform though but is spending $16,600 enough to get us 25,000
+website visitors, to figure that out we need
+to test our ad campaign. How do you test
+your ad campaign? Before you put in your full budget on
+day one we recommend starting with a smaller
+test budget and monitoring your
+campaign very closely. Get an idea of how much
+impressions or clicks cost and how well they
+convert into results. With that data in hand
+you can then calculate how much you can spend to
+reach your objectives. In the next video we will
+have a look at how to set your campaign budget
+in Facebook Ads Manager

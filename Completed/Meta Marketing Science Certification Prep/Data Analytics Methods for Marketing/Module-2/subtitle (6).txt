@@ -1,0 +1,42 @@
+You've previously learned
+about customer profitability, the backwards-looking
+model that reviews just how profitable a customer
+has been to a company. Now we want to focus on a forward-looking
+predictive model called Customer Lifetime Value, sometimes abbreviated
+CLTV or just LTV. Customer lifetime value is the expected profitability
+of a consumer and is forward-looking rather
+than just an analysis of the current data to date,
+like customer profitability. Why use CLTV if we've already calculated
+customer profitability? CLTV assumes that customers
+can or will change over time, whereas customer
+profitability only looks at how a customer
+has acted to date. Above all, CLTV incorporates
+forward-looking data to, hopefully, make a more
+accurate prediction of what the customer
+is really worth. We'll talk about
+the actual formula for CLTV in an upcoming video. But first, let's ask ourselves
+why this metric matters. First, having a lifetime
+value of a consumer allows us to focus on not just
+the cheapest acquisition or lowest CAC, and instead focus on acquiring long-term,
+profitable customers. In other words, it may be okay to spend a little more
+money on acquiring a customer that you
+expect to generate a lot of value for the
+company over time. You may know it's more efficient for a
+business to nurture current relationships versus
+acquiring new customers. But did you know
+that research done by Frederick Reichheld
+of Bain & Company, shows that increasing
+customer retention rates by five percent increases
+profits by 25-95 percent? Second, calculating CLTV helps
+our marketing efforts by helping us to segment out in new ways and target
+those customers. Do we want to focus on those
+already with high CLTV? What about those
+that are showing increased propensity to
+buy but moderate CLTV? Finally, having a customer
+lifetime value can also lead to increased
+ROI. How so? By focusing on those customers that are likely to
+purchase again and often versus those who only purchase once or only
+wait for steep discounts. As you can see, there are many reasons to calculate
+customer lifetime value. In our next videos, we'll focus on how to calculate lifetime
+value and apply it to a company so you can
+see CLTV in action.

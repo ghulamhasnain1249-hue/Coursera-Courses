@@ -1,0 +1,28 @@
+Testing Multiple Variables in an A/B Test
+0:00
+/
+3:18
+A/B testing refresher
+As we’ve seen in previous courses in this program, A/B testing is a type of experiment often used in marketing to make optimization decisions. It is the process of comparing two variants of an ad to one another in order to evaluate which one performs better, all while your campaign is running and allowing you to make your campaign better in real-time. A/B testing is quite simple, and you essentially need only remember to only change one variable between version A and version B of the ad you’re trying to test. You can set up an A/B test right in Facebook Ads Manager.
+
+Variables you can test using the A/B method
+You can test several different variables with A/B testing: 
+
+Creative - such as the text or call to action button
+
+Audience - such as region or demographic
+
+Delivery optimization - which helps you see whether the manual distribution of your budget across ad sets is better than letting the machines do that for you
+
+Placement - such as automatic versus self-chosen pick of where your ad will be seen
+
+Testing multiple variables
+
+Although, as the name suggests, you should only test two variables against each other at once in the A/B testing method, you can run multiple tests in order to see which combination of different variables produces the best result. Let’s revisit the example we saw earlier in this lesson. In our campaign to sell jewelry, we’ve created two different ads that we’re going to A/B test. One ad, A, has a ring with a blue stone, and the other ad, B, has another ring with three red stones. Everything else, including text and call to action buttons, are the same. We ran our test and find that the red three-stoned ring is more successful than the blue ring. 
+
+Now that we’ve established one variable, we can test another variable using the “winner” of the first test. For example, let’s say we now want to test the text of the ad for jewelry. We’ll keep the image of the red three-stoned ring and use different text for each ad while keeping every other element of the ad the same. Then, we run the test once more to see which text wins, in this case “Celebrate memorable moments with a special ring.” So now we have a doubly optimized ad: an image of a ring with three red stones with the text “Celebrate memorable moments with a special ring”! 
+
+But we have another variable to test to get the best ad possible. So, once again, we keep all variables the same, including the image of the ring and the text. What we’re testing is the call to action button, so we use two different ones for each ad. Our third and final test reveals that the call to action “Shop now” works best. So we go with that button. 
+
+Why use A/B
+Even though we weren’t testing all of these variables all at once, we can more confidently say that each of these elements that we’ve chosen thanks to the results of the test are the best choice that will get the most actions for the lowest cost. If we had tested all of those variables at once, we would have no way of knowing which variable had been the one that “won” our test. A/B testing is the easiest and most cost-effective way to see how your ads are working--and make adjustments in real-time!

@@ -1,0 +1,14 @@
+As a marketing analyst, one of the most common
+questions you'll try to answer with data analysis is, did our advertising
+campaign work? This may seem like an
+obvious question and we can intuitively think of
+different ways to answer it. However, getting
+the answer right isn't as straightforward
+as it may seem. This week we will walk through different methods you could use to help answer this question. First, in this lesson, we'll take a look at what advertising effectiveness really means and which
+different approaches exist to measuring it. Then we'll dive deeper
+into the use of experiments for advertising
+effectiveness measurement. In the third lesson we'll
+look at how you can optimize ads and make them
+more effective with AB tests. By the end of this
+week you'll have a few more tools in your
+marketing analyst toolkit. Let's get started.

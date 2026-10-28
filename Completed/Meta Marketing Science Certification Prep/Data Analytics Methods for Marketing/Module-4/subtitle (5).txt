@@ -1,0 +1,99 @@
+In the previous lesson, we've looked at one way
+to measure the effect of marketing in different
+channels on results. Marketing mix modeling. We learned how marketing
+mix modeling can give you high-level insights into which channels and marketing actions
+work best for your brand. We also saw how it uses historical data and how the analysis can
+take quite a while. Traditional marketing
+mix modeling isn't exactly a method that delivers
+you immediate results, it's not the ideal approach. If you need to
+quickly adjust and optimize your
+marketing strategy. There is other methods
+that marketers use that gives you
+faster insights and that can even deliver some real-time results to help you adjust
+your marketing mix. That method is called
+attribution modeling. Let's look at how it
+works in this video. Let's imagine a
+woman named Cathy. Cathy is interested in
+buying a new mattress. While she scrolling to
+her Facebook news-feed, she sees an ad for
+a purple mattress. She's never heard
+of the company, but the ad says that it has special technology and
+makes superior mattresses. Later that evening, Cathy's sees another ad for purple
+on her laptop. She clicks on the
+ad to read a bit more about the new
+mattress technology. The next day, Cathy
+sees another ad for purple when she's reading
+news on her phone. She also sees a
+video ad on YouTube. Finally, Cathy is
+reading an article in The New York Times and sees
+yet another purple ad. Two days later, she visits the purple website
+and buys a mattress. As Cathy moves through
+her customer journey, she came into contact
+with many different ads, and most likely all these ads had some effect on
+Cathy's decision. If you're a marketer at purple, you'd like to know which one
+of your ads worked best. How do you answer that question? Attribution is the
+measurement solution that many marketers rely on to
+answer these questions. Attribution is the process
+of assigning credit to touch points along a
+customer's conversion path. By understanding which of your ads deserves the credit for leading a customer to take an action like
+making a purchase, you can better measure the
+effectiveness of your ads and make decisions for future
+planning and optimization. This insight can help
+you understand whether you invested in the right
+advertising channels. By understanding which of
+the channels works best, you can make decisions to redistribute your
+budget in the future. Before digging into
+how attribution works, let's take a closer look
+at what the output of an attribution tool could look like and how results
+are typically used. Here's a hypothetical example. Imagine you're a
+marketer and you ran an advertising campaign on
+these different channels. Google, Google Display Network, Facebook, Tradedoubler,
+and Criteo. Your attribution tool may
+show you that the ads you ran on Google contributed
+most to your results, in this case, a
+weight of 30 percent. Next, our Google Display, which contributed 20 percent, and Facebook also 20
+percent and so on. You also see the ROI or
+return on investment here. Again, Google is highest,
+Facebook is next. Note that the ROI is different
+from the weight since it takes into account how
+much you paid for the ads. The weight of google
+Display may be higher, but the ads were more expensive. That makes the ROI lower than the ROI for the Facebook
+ads in this case. Those were your
+observations for Q1. Now you can use
+this information to inform your marketing
+strategy for Q2. Since you learned that Google
+and Facebook had great ROI, you can increase your
+investment indoors channels. For instance, you could put 40 percent of your
+budget into Google ads, 30 percent into Facebook ads, and less into the
+other channels. Attribution is mostly
+used to evaluate the impact of online media
+channels on a purchase. Of course, you could
+also use it across online and offline channels
+like TV, for instance. But since the data is not
+always as easy to get by, the results from this type
+cross-channel analysis are not as immediate. You can use both paid
+and non-paid media as input for your attribution
+analysis or in other words, you can look at the effect
+of advertising as well as organic social media
+posts, for instance. Well, that sounds a lot like what you do with marketing
+mix modeling, right? But there's a difference, with attribution modeling, you will decide on a model in which you're going to credit the different marketing channels before you start analyzing, you will think about the customer journey and
+make some assumptions about which parts of
+your marketing you believe has the biggest
+effect on the final sale. In our example for Cathy and the purple mattress,
+you might see, I believe that the very first
+ad Cathy saw and the last ad before she decided to buy are the ones that really
+made the sale happened. You're model would be one
+where the first ad and the last ad share all the
+credit for the conversion. The model you decide on
+is the attribution model. Attribution is a method
+with these components; The input data,
+information about the ads a person saw and whether they clicked on them or took action. A model that is used to assign a value to the
+different touch points. The output is a value for
+each touch-point that reflects the impact it
+had on the conversion. The accuracy of
+attribution results depends on the quality
+of the data input, but also the accuracy
+of the model. In other words, how
+closely the model reflects reality and
+that part is key. In our next video, we'll take a closer look at attribution models
+and how they're used.

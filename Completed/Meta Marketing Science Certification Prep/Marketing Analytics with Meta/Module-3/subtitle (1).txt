@@ -1,0 +1,84 @@
+If we want to prove without a doubt that
+our advertising campaigns had a real effect and cost incremental results, well
+designed experiments are the way to go. As we saw experiments let us
+prove a causal relationship, between an adult campaign and
+an increase in results. Facebook offers the option to use
+experiments to evaluate the effectiveness of your campaigns on its platform. And in this video we'll look at
+conversion lift studies one of these experiment based tests. Facebook offers two different types
+of lift tests, conversion lift and brand lift tests. Both of these tests use
+experimental designs, but they differ in the outcomes day measure. Conversion lift tests measure
+the effect of ads on conversions, which could be sales add to card leads and
+so on. Brand lift tests measure the effect of
+ads on changes in brand recall, and other brand related measures. So in other words, conversion lift tests
+are all about actions that people buy, whereas the brand lift test
+is all about attitudes. Did people's attitudes to
+parts of brand change, and do they remember the brand
+after seeing the ad? In this lesson, we'll concentrate
+on conversion lift tests, we'll look at brand lift
+tests in the next lesson. A Facebook conversion lift test is
+used to measure conversion lift, which means they measure whether your campaign
+caused an increase in convergence. As with any test, you start with
+a hypothesis for the conversion lift test your test hypothesis is that your
+advertising campaigns on Facebook, caused a significant lift in conversions. Through the conversion lift text, you can evaluate whether your
+test hypothesis is correct. A conversion lift test begins by randomly
+assigning people from a campaigns target audience,
+to either a test or control group. This type of test is sometimes also
+referred to as a holdout test, since the control group is basically
+held out from being exposed to your ad. People in the test group
+can be exposed to an ad, whereas people in the control
+group won't be exposed to the ad. After that we want to measure
+the influence of the ad on conversions. In other words we'd now like to see
+whether the group that did see the ad took more actions or converted more than
+the group that didn't see the ad. To do that we need to have a way to see
+whether conversions actually happened. These conversions could be sales or other events like adding a product to
+a card, downloading an app or more. For Facebook to detect whether the people
+tested took any of these actions, the advertiser needs to pass
+back some data to Facebook, using the Facebook conversions API. If you took the first
+course in this program, you'll remember that we discussed
+the use of API to pass data related to convergence to an advertising
+platform like Facebook. An API or an application programming
+interface is a tool that establishes a connection
+between two pieces of software. And API allows two applications to
+talk to each other, in this case the Facebook API makes it possible for
+a company to connect its software. That monitors conversions or whether or
+not you bought to Facebook's platform. Facebook in turn can then use that
+information to help evaluate whether advertising on its platform had
+an effect on the conversions. I've added a reading in this lesson
+with more information on the Facebook conversions API. It's an important tool to help you get the
+most out of what the Facebook advertising platform has to offer. For now, it's good to keep in
+mind that if you want to measure the effect advertising
+has on certain actions, you need to be able to monitor
+whether these actions happened or not. The Facebook API allows you
+to do that monitoring, and pass the information back to Facebook. The final step in your conversion lift
+test is measuring the results, and comparing the difference between them. This means you're comparing the actions
+you see in the control group, versus the test group. The lift in conversions you see
+between the test and control group, can be attributed to the ads, that lift
+is the effect of your advertising. Let's look at an example of
+how these tests can help, let's go back to Calla and
+Ivy the flower business in Amsterdam. Imra plans to run a campaign with a goal
+to generate sales during the fall, she specifically wants to sell the foul
+bouquets that are very popular in her physical store in Amsterdam. For this campaign,
+Imra recreates carousel ads with images of the different bouquets, and
+she adds a call to action button shop now. This campaign is focused on conversions, Imra wants to see people buy
+the bouquet on her website. Imra Steam has integrated
+the Facebook conversions API, so the data of the sales that happen
+on the website are sent to Facebook. Every time people buy
+something on the website, data gets sent back to Facebook
+to signal a conversion. Imra wants to test the impact
+of her Facebook campaign, so before starting the campaign,
+she decides to do a conversion lift test. Her hypothesis is that the campaign she
+runs on Facebook will significantly increase the number of
+conversions she sees. Imra targets her campaign to people that
+have visited the website in the past, of this target audience, a group of people will randomly be
+assigned to a holdout or control group. And another group is assigned to
+the test group, to control group doesn't see Imra's add, whereas the test group
+has an opportunity to see the ad. After the campaign stops running,
+Imra gets the results, there's a 13% point
+lift in conversions for people who have seen the ad, and
+Imra decides that is a good result. Later in this lesson we'll take
+a closer look at these results, and look at how to best interpret them. But for now let's agree with Imra that
+her campaign proved to be effective, now you understand how conversion
+lift tests can be used to evaluate the effectiveness of your
+conversion campaigns. In our next video, we'll look at what
+to keep in mind when conducting this type of test, and
+how it works in practice.

@@ -1,0 +1,45 @@
+Measures of dispersion can be important tools for understanding your marketing data. In marketing analytics, we use these tools to describe the variance within a dataset. In this context, variance refers to a number that expresses how “spread out” our data points are from the mean of the dataset. So, measures of dispersion are the tools we use to describe how much the values within our dataset deviate from the mean value of that set.
+
+Variance: The spread of data from the mean
+
+In marketing analytics, variance is used in many different ways. It is an important part of risk analysis because if there is a high degree of variance in your data, you cannot accurately predict an outcome from that data. Consequently, actions based on those predictions pose a higher risk of being wrong. Variance is an important indication of data reliability. In general, it helps you determine how much you can trust what your data seems to say. Additionally, variance can help marketing analysts make decisions about who might be a reasonable target audience, or judge if a targeted campaign was successful in reaching its audience. Simply put, measures of dispersion can help you calibrate marketing efforts to improve your chances of hitting your targets!
+
+Range
+There are several ways to express variance, or how spread out your data is. The simplest way is by calculating the range of your data. Range is just the difference between the highest value in your dataset and the lowest value. You calculate the range of a dataset by subtracting the minimum value in the set from the maximum value:
+
+Range = Max - Min
+
+From this calculation you can see how a large range reflects a higher degree of variance, because it shows a bigger spread between the highest and lowest values in the set. These values will be spread further from the mean than in cases where the range is smaller and less spread out. The degree of variance tells you how accurate the mean value is likely to be as a prediction of future values. So, if your dataset has a small range (with less deviation from the mean), then the mean is probably a good indication of future values for that set. But if the set has a large range, then there’s a greater chance that future values will not be close to the mean.
+
+Recall our sample dataset for customer ages that we used in our earlier reading to calculate a mean:
+
+
+If you look closely at the different ages represented here, you’ll notice that the highest age is 50 and the lowest age is 19. So, the range of ages for this dataset is 50 - 19 = 31 years. What do you think: Does this seem like a high variance or a low one?
+
+Standard Deviation
+While range is a quick and easy way to determine variance in a dataset, standard deviation is a more precise measure of dispersion. It is more precise because it gives you a specific range of values that captures a specific percentage of your dataset. For example, standard deviation can be used to analyze a set of sales figures and tell you that, based on past marketing efforts, 68% of your customers are likely to spend between $18 and $21. Standard deviation does this by breaking your dataset into standardized blocks, based on percent difference from the mean.
+
+The calculation for standard deviation—which we’ll let our spreadsheets do for us—determines what values capture 34% of our dataset, on each side of the mean value. For example, let’s say we have another dataset of customer ages that shows a mean value of 50 years old. Then, let’s say the standard deviation of this set is calculated to be 5 years. This indicates that 34% of our customers are between the ages of 45 and 50 (because 50 - 5 = 45 years), and another 34% of our customers are between the ages of 50 and 55 (because 50 + 5 = 55 years). It also indicates that 68% of our customers (34% + 34%) are between the ages 45 and 55, and that these customers are evenly spread out around the mean of our dataset!
+
+As mentioned, standard deviation is a calculated value that most spreadsheet software will have a formula for. In Excel and Google Sheets, the formula for standard deviation is =STDEV(A1:A2). Simply type the =STDEV(A1:A2) formula into another cell of your spreadsheet and the standard deviation for values in the range of cells will be displayed.
+
+Once you know the standard deviation for your dataset, it can be used to determine variance based on a normal distribution curve, or “bell curve,” which estimates that the next standard deviation (i.e., “two standard deviations”) will capture an additional 13.6% of data values on each side of the mean. This shows that, in normal cases, about 95% of your data (68% for the first standard deviation, plus this additional 27.2% for the second standard deviation) should fall within the range of two standard deviations.
+
+
+Looking at our example dataset of customer ages, where we assumed a standard deviation of 5 years and a mean of 50 years, if we use this measure to evaluate two standard deviations, we can determine that 95% of our customers should fall within the range of ages 40-60 years old. This method can be carried on to show that three standard deviations will cover ages 35-65 years, which the “bell curve” shows us will capture 99% of our typical customers. This also suggests that any customer ages outside of this range would represent a statistical outlier (an unusually high or unusually low age) compared to our set of typical customers.
+
+Z-Scores
+A z-score uses the concept of standard deviation to indicate precisely how far a certain value is from the mean of a dataset and, most importantly, how it compares to the observed distribution of values within that set. Here is the formula for calculating a z-score:
+
+
+“Value,” in this formula, is the value that you are calculating the z-score for and you may notice how the z-score just interprets that value’s distance from the mean as a number of standard deviations. Put another way, the z-score of a value just tells you how many standard deviations away from the mean that value lies. For example, if we go back to the dataset of customer ages in our discussion of standard deviation, we might compute a z-score for the age 37. Recall how we said that the mean value for that set was 50 years old and the standard deviation was determined to be 5 years. With this information we can compute the z-score for age 37:
+
+
+This score tells us that the age 37 lies 2.6 standard deviations away from the mean age of 50, and the fact that it is a negative number just indicates that it lies 2.6 standard deviations below the mean. 
+
+What makes this score valuable is that we can use it to determine precisely what percentage of our typical customers are an age greater than and less than 37! We can find this with the help of a z-score table, like this one:
+
+
+Just look up the z-score value in your z-score table and it will show you a percentage. In our example, we look at the value 2.6 and find the percentage .9953 associated with it. (Note: The numbers across the top of the table just represent additional increments of z-score. For example, the next column over from our circled percentage would be for a z-score of 2.61 instead of 2.6.) This tells us that our value, age 37, is further from the mean age 50 than 99.53% of the typical customer population. And that indicates that a customer aged 37 would be pretty atypical for our population. It also indicates that if I want to attract 37-year-old customers, I will probably want to try something different from what I’ve been doing to attract my current customer population!
+
+Notice how the z-score table only tabulates percentages for scores up to 3.09. That’s because any score beyond that will represent a value further from the mean than 100% of the typical population (since 3.09 already deviates further than 99.99% of that population). This tells you that any value with a z-score higher than 3.09 is a statistical outlier and should occur only rarely in your typical population. Of course, the further beyond 3.09 a value’s z-score goes, the more unusual that value is.

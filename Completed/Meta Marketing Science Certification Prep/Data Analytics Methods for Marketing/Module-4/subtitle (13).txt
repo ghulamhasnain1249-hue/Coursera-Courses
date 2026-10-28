@@ -1,0 +1,81 @@
+In this video, we're
+going to create a sales Funnel Visualization, two different ways
+using Tableau. The first is fast and simple, the second is a
+little more complex but it's more
+visually appealing. You'll probably find
+times in your work as a marketing analyst where both of these will be appropriate. First, make sure you've got your data loaded into Tableau. Our data is just
+called Funnel.csv. I will click on "Text
+File" and open up my data. This is a CSV and we're not
+connecting any other sheets, so we'll just click on "Sheet
+1" down here at the bottom. For the first simpler
+Funnel Visualization, we need to do a few
+things first over in the data pane on the
+left side of the screen. First, I'm going to
+duplicate my KPI data. I'll need two copies
+so that we can miror one to get the Funnel
+Visualization effect. I'll click on this
+downward arrow here and then click "Duplicate". Next I'll drag both KPI measures
+over to the column tray. To show that Funnel
+Visualization, we need to reverse one of these. I'll double-click on the x-axis of the left side of
+the visualization. In this window, I'll
+click on the checkbox labeled reversed under scale, then click out of that window. That reversed the data
+so that the zero for both sets of numbers is in the middle of
+the visualization. Now, to finish off this
+funnel visualization, we need to add the
+stages of our funnel. In this spreadsheet,
+that's just Titled stage. To ensure that this
+shows correctly, we need to convert
+it to a dimension. I will click on the
+downward triangle again and click on
+"Convert to Dimension". Finally, I'll either
+double-click stage or just drag it over
+to the rows tray. There it is, a Funnel
+Visualization. We can customize and polish this so that it
+looks a bit cleaner, but the basic
+structure is there. Let's remove the
+column divider lines. Up in the top toolbar, I'll click on "Format"
+and then "Borders", which opens up a format
+menu over on the left. I'll click on the "Columns"
+tab and then remove the column divider under
+the pane drop-down menu. Now we don't have
+that line running straight down the
+middle of our funnel. For the second Funnel
+Visualization, there are a few more steps, but the finished product
+looks a bit more polished. I'll click new
+sheet down here in the bottom left-hand corner
+so that we can start fresh. I'll need some of
+the same things; two copies of the KPI data and the stages of our funnel
+converted to a dimension. Because we already did that
+for the first visualization, we don't need to repeat it here. To start, we'll drag measure values over to
+the columns tray twice. Next, click on the right-side
+copy of the "Measure Values" data and the
+little downward arrow. Click on "Dual Axis". Like before, this is telling
+Tableau that we're going to use this data twice in
+the same visualization. Under measure values, Tableau automatically
+grabbed the count of items in our CSV, so we can remove that, just pull it out. We'll drag over the stage dimensional data we have
+over to the rows tray. Our first time
+through, we reversed an axis to create
+our funnel shape. This time we're going to use a very simple calculation in Tableau to create the
+shape we're looking for. I'll click on the copy
+I made of our KPI data, then that little
+downward arrow again, then "Edit", and the
+calculation will enter here is simply a subtract
+sign before the brackets. I'll click "Apply", and then "Okay".
+There you have it. That created a set of mirrored opposite
+numbers for our funnel. It's already really starting
+to look like a funnel. Let's customize this from here. Under the first
+measure values menu, drag in the stage and
+measure names data. I'll set the stage as the color and measure name as the
+detail which it already was. We'll change this field
+from automatic to line, and you can see we already have the shape of a funnel in
+a spectrum of colors. Under the second
+measure values menu, I will drag in stage again
+and measure names again. I'll set it to line again and this time I will
+set the stage to color. Down here under measure names, I'm going to set this
+to path instead. That gives us a
+nice outlined shape for our Funnel Visualization. Like last time, you can customize this
+however you'd like, but the basics of your sales funnel are
+right there for you. I hope this was
+helpful walk-through for creating a sales
+funnel visualization. It's something you'll surely use in your career as a
+marketing analyst.

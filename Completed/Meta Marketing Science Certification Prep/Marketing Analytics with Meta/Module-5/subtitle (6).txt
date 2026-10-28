@@ -1,0 +1,82 @@
+In our previous lesson we saw how
+the analysis method you choose will be influenced by the hypothesis
+you want to test. If your hypothesis involves evaluating the
+effect of one variable on your outcomes or evaluating two strategies and
+their results. You may decide to run an experiment. In this video will summarize the different
+experimental methods Facebook offers one more time, highlighting
+how they differ from each other and what you should keep in mind if
+you want to use them successfully. Remember that before you get started
+with an experiment you should have a business goal, KPI,
+hypothesis and a variable to test. There are three different types of
+experiments you can use to test results for your Facebook campaigns. First there's A/B testing a form
+of experiments that lets you compare two strategies
+against one another. Then there's conversion lift testing and
+experiment for which you will have to work together
+with your Facebook account manager and that lets you evaluate the effect of your
+advertising campaign on convergence. And finally there are brand lift tests,
+which you can execute inside the Facebook platform and that let you test the effect
+of your ad campaign on brand metrics. Both conversion lift and
+brand lift tests are also referred to as Randomized Control Tests or are RCTs. That is because in both of
+those types of experiments, people are randomly assigned to
+either a treatment or control group. A/B tests on the contrary do
+not have a control group. You would choose to conduct an ab
+tests if you want to make quick tactical decisions about which
+advertising strategy to use. You can test which creative,
+delivery strategy, placement or audience work best for
+your advertising campaign. To do this Facebook will
+split the budget for your asset evenly between your A and
+B groups. Lift tests, measure the incremental effect
+your ads have on business outcomes. Conversion lift tests
+can help you understand the incremental conversions
+your ads were responsible for. You can also learn the cost
+per incremental conversion or how much you spend to generate
+one additional conversion. In brand lift tests, you evaluate
+incremental affect your ads have on brand equity metrics
+like brand awareness. Let's go back to James and see how he decides to use
+these different experiments. James is working on a new Instagram
+campaign to attract more subscribers for snack wall. Early on, James identified two different
+target audiences for his product. His research indicated that people
+who work in companies that are rather remote or are located in
+an industrial area with few stores or cafes around them may have
+an interest in snack well. But he also found another audience. People who work in companies
+in the tech sector, where the majority of employees
+are engineers and are relatively young. He thinks this group would also
+be interested in snack wall. Regardless of where their
+company is located. James's creative agency came up
+with a beautiful carousel ad for his campaign showcasing all
+the benefits snack wall has to offer. James is now setting up his campaign and
+he wonders whether the two different audiences he wants to target
+would react differently to his ad. He's a bit concerned that the audience
+of people who work in the young tech companies may not have the budget
+to subscribe to his product. Even though his research showed
+they would have an interest. James doesn't know whether
+they will actually convert. James is concerned that he might
+waste some of his ads on them. James decides to create an A/B test for
+this ad. He uses the exact same creative and
+set up for his campaign but his budget is automatically split
+between the two target audiences. To people in companies in
+rather remote locations and the people in younger tech companies. After his campaign ran for a week, James
+got the result of the test, he was right. The conversions for the audience of people
+in remote locations were significantly hired than those for
+people in young tech companies. So there is a clear winner. James decides to shift all his
+budget to the first target group and he no longer targets people
+in young tech companies. James ran the campaign for
+a total of six weeks and in total, he spent $20,000 on
+the Instagram campaign. He's happy with the results though, as he saw 300 new subscriptions for
+snack well during that time. James is now preparing for the management meeting where he
+needs to present a campaign results. His boss told him that she is particularly
+interested in understanding what the effect was of the campaign
+on subscriptions. Luckily James was prepared for
+his bosses question. He knew from his last campaign that she
+would ask to see what the effect of the campaign was. So before James started
+running the campaign, he worked with his Facebook representative
+to set up a conversion leftist. This test randomly split James's
+audience for the campaign in a test and control group and let him compare
+the results for the test group that was exposed to this ad with a control group
+that did not get a chance to see this ad. The results of the conversion
+leftist showed significantly more conversions among the people
+who were exposed to James ad. Because of the nature of the test
+James was certain that the increase in conversions was caused by his campaign. As we saw, you can choose from different
+types of experiments to evaluate results of your campaign. The test you choose will depend on
+the question you want to answer. Next, let's take a look at all the
+analysis methods you'll encounter as you go about your work as a marketing analyst.

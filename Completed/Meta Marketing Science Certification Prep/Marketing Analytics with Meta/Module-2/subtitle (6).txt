@@ -1,0 +1,42 @@
+The Facebook pixel
+0:01
+/
+3:22
+What is the Facebook pixel?
+The Facebook pixel is a piece of code that allows you to measure, optimize and build target audiences for your ad campaign. The pixel allows you to measure cross-device conversions in order to better understand how cross-device ads help influence those conversions. You can also optimize delivery to people who are most likely to take the actions you want, such as making a purchase by ensuring that your ads are shown to those people. You can also create dynamic ads that help you automatically show visitors to your website the products that they viewed there or even related products. This helps you create custom audiences and experiences, as well as learn more about your website and its traffic. 
+
+How the Facebook pixel works
+According to the 
+Facebook pixel website, the pixel works as follows:
+
+When someone visits your website and takes an action (for example, buying something), the Facebook pixel is triggered and reports this action. This way, you'll know when a customer took an action after seeing your Facebook ad. You'll also be able to reach this customer again by using a custom audience. When more and more conversions happen on your website, Facebook gets better at delivering your ads to people who are more likely to take certain actions. This is called conversion optimization.
+
+Setting up Facebook pixel
+Using the Facebook pixel requires a bit of set up, but it’s fairly simple. You’ll first, of course, need your website up and running. Then, you’ll need access to your website’s code or ask your web designer or developer to access the code and install the pixel for you. Once you or our developer have accessed the code, all you have to do is create the pixel on Facebook’s Events Manager page and place the base code on all the pages of your website. You can then customize the pixel by adding standard events to the pixel code on specific pages of your website such as the purchase page. Facebook offers more instructions on how to install the pixel on their 
+Help Center
+ page, as well as a 
+course
+ on Blueprint. Here’s an overview of the basic steps: 
+
+Go to the 
+Events Manager
+ page on Facebook. This will require you to sign in. 
+
+Click on Connect Data Sources, then select Web.
+
+Select Facebook pixel then Connect. 
+
+Add your pixel name. 
+
+Enter your website URL and check for easy setup options. 
+
+Click Continue. 
+
+Put the Facebook pixel in the code on your own website pages. You or your web developer can manually add the code to your website, use a partner integration or get email instructions, which are all detailed on the Facebook Help Center. 
+
+Set up events to measure the actions you’d like to track. Facebook offers an event setup tool, as well as some best practices for setting up your pixel, which are both available via the Help Center. 
+
+Using Facebook pixel for your marketing analytics
+The Facebook pixel is one of many great tools to better collect, track and manage data on your website and whether it’s performing as you desire and in the most efficient way. This is further useful when you consider budgeting and spending as a factor in whether your marketing efforts are being well used. It’s fairly easy to use and free, so it’s an excellent tool to now have at your disposal!
+
+

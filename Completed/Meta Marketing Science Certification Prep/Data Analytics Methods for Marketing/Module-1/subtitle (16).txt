@@ -1,0 +1,15 @@
+Finding your target audience is a very important
+part of marketing. If you can use data to
+define the segments that may have the most
+interest in your product, chances are, your marketing will be
+a lot more successful. Now you know how to approach
+a segmentation analysis. You know how personas are used and how
+segmentation naturally leads into fine-tuning your advertising campaigns
+with targeting solutions. You also saw how
+k-means clustering is a great way to find
+segments in your data, and you understand how to decide on the number of clusters to use and how to profile
+the resulting segments. Finally, you know how to execute a k-means clustering
+analysis in Tableau. With these new skills, you are in a great
+position to help your company and
+marketing team identify the audience that's right
+for their marketing message.

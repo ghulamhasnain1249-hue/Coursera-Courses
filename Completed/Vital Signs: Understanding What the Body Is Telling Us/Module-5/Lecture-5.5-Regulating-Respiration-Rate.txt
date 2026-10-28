@@ -1,0 +1,154 @@
+[BLANK_AUDIO] Week five of Vital Signs has been devoted to the vital sign of, respiration rate.
+And we haven't really talked much about respiration rate.
+So in this final lecture segment, I want to describe how we regulate respiration rate physiologically to help carry CO2 away from the body tissues and supply oxygen.
+At a rate required to sustain metabolism.
+I think it's going to offer you some surprising information.
+Because, you may have lived your life thus far thinking that oxygen needs of the tissues are the primary driving force.
+For stimulating respiration.
+But today we're going to talk about the fact that that is not actually true.
+Well, here we are starting to think about how we regulate respiration rate.
+And if I think about the control of respiration, I think about the fact that we have primary controls.
+And then we have some extraneous controls that we probably won't have time to go into in too much detail but thinking about the primary um,drives for respiration, is going to cause us to focus a lot on.
+Oxygen, obviously.
+Carbon dioxide, and surprisingly pH of different body fluids.
+Okay.
+So I want to begin this whole discussion by calling your attention to this picture that you have opened in front of you.
+That shows you the location, and innervation of peripheral chemoreceptors.
+All of those compounds that I just mentioned that are involved in regulating respiration, oxygen, CO2, hydrogen ions, or pH, those are all.
+Compounds that influence the chemistry of the body fluids and so it's chemoreceptors that respond to changes in the levels of those substances, in the blood and body fluids and causes adjustments in respiration accordingly.
+So you can see that we have peripheral chemoreceptors that are located in what are called corroded and aortic bodies.
+Now, if I look at this illustration, what I can see is the aortic bodies are located in the arch of the aorta, so close to the point where.
+Oxygenated blood is being pumped into the systemic circulation by the left ventricle, right? And the carotid bodies are located high in the neck at the point where the carotid, the common carotid artery branches into an internal and an external carotid artery.
+So those carotid bodies are going to.
+Be able to sample the chemistry of the blood that's flowing toward the brain.
+And you know that the body does a lot to protect the brain and keep it functioning adequately.
+So I don't think it's really surprising that those carotid bodies would be there sampling blood, soon after it leaves the left ventricle.
+So, the carotid body and aortic bodies are peripheral chemoreceptors.
+But we also have very important receptors in the brain stem near the brain stem centers that control respiration.
+And we call those chemoreceptors central chemoreceptors.
+The interesting thing about the central chemoreceptors is that they sample the chemistry of the cerebrospinal fluid, which is the fluid that bathes the brain.
+And spinal cord, and circulates different chemicals around through the neural tissues.
+The cerebrospinal fluid is actually protected to some extent.
+From chemistry changes that happen in the blood or body fluids at large and it's protected by a kind of functional barrier that we call the blood brain barrier.
+Have you heard of that before? What can you tell me about the blood brain barrier? Anybody want to take a stab at it? Stefanie.
+I know that not many things can pass through the barrier.
+Some [INAUDIBLE] medications won't go through the barrier.
+Exactly, so the blood brain barrier is created by cellular membranes, essentially.
+And if a compound is lipid soluble, it can pass through the blood brain barrier.
+So certain drugs and medications are able to pass through that barrier.
+But non-lipid soluble molecules or ions can't easily pass through the blood brain barrier and they have to be you know, passed across the barrier by specialized carriers that move the compound or ion into the brain fluids.
+So the central chemoreceptors are protected from some to some degree from changes that might happen in the body fluids at large.
+Right, the blood brain barrier is protecting them.
+So, Those are the locations of the chemoreceptors and now let's think again about CO2, O2 and hydrogen ions or pH of body fluid.
+It would maybe be a surprise to you to find out that it's the central chemoreceptors that.
+Provide primary control of respiration in someone who's respiratory system is functioning effectively.
+And it's actually the central chemoreceptors will become activated when the partial pressure of CO2 increases in the systemic blood, okay? But it's not CO2 that is going to directly affect the central chemoreceptors.
+It's actually a change in hydrogen ion concentration in the cerebrospinal fluid.
+That activates the central chemoreceptors.
+So now I'm wondering if you have any inkling, do you remember anything that you've learned in the past in anatomy and physiology that might help you relate CO2 and hydrogen ions? Anybody have any sense of? Do you remember a long time ago we talked about this, equation? CO2.
+Carbon dioxide, right, plus H2O.
+Naomi is it coming back? Slightly.
+When carbon dioxide is with water, Dissolved in water.
+Dissolved in water.
+Mm-hm. it creates bicarbonate.
+Well, ultimately, but first what happens? CO2, Carbon dioxide plus H2O react together to produce.
+An acid.
+A weak acid.
+What do we call it? Lauren.
+Oh, I'm actually not sure.
+Okay.
+Anybody else want to take a guess? Do you remember? Carbonic acid? Carbonic acid, exactly.
+Okay, so the the structure or molecular formula for carbonic acid is, see, is H2CO3 right? Carbonic acid is a weak acid.
+Now when we say something is a weak acid we mean it can dissociate a free hydrogen ion, right? And if something is a weak acid it means that there's a slight dissociation of hydrogen ions from the H2CO3 molecules, and the slight dissociation will cause a slight lowering of the pH, correct? Okay.
+So if something were a strong acid, and carbonic acid is not a strong acid, but if something or a strong acid.
+It would easily dissociate free hydrogen ions and it would cause a bigger change in the pH, right? It would cause the solution to become much more acidic.
+But carbonic acid is a weak acid, and so it does dissociate, and when it dissociates, Naomi.
+What? It, it produces a hydrogen ion and a bicarbonate ion.
+Exactly, exactly.
+So now this is how the chemoreceptors in the brain stem get activated.
+Carbon dioxide can diffuse across the blood brain barrier.
+And it gets into the cerebrospinal fluid, and when carbon dioxide is dissolved in waters, the CO2 and water combine to form carbonic acid.
+Carbonic acid dissociates some free hydrogen ions, and it's actually those free hydrogen ions,.
+That stimulate the central chemoreceptors.
+And, this is the surprising thing.
+It's the increase in carbon dioxide concentration in the systemic circulation that is the most potent, or powerful, stimulus for increasing the respiration rate.
+Before I knew anything about physiology, I thought it was oxygen deprivation.
+You know, when our cells needed more oxygen.
+I thought that's what would stimulate respiration.
+Were you the same way? But really it's when the CO2 levels increase in the blood.
+That, that is the most powerful stimulus driving respiration rate 'kay.
+So, under normal circumstances, it's activation of the central chemoreceptors by increased blood, carbon dioxide, that is going to trigger an increase in respiration rate.
+Does oxygen level of the blood have any effect on respiration rate? Yes.
+So how would this work? If somebody let's just say, somebody was not perhaps ventilating the lungs properly or perhaps their oxygen delivery to tissues was not very effective.
+Maybe the partial pressure of oxygen in the blood would fall and, if that decreased concentration of oxygen was severe enough, that could stimulate respiration.
+But usually.
+It is not the change or the decrease in oxygen level that is the most potent stimulus for respiration.
+Megan, have you seen some clinical conditions where oxygen levels fall and have some influence on respiration? yeah, certainly.
+Should we talk about a couple of those? Yeah, we can mention.
+Yeah.
+Okay.
+So different conditions that would cause the oxygen level to go low would include congestive heart failure pneumonia.
+Anything that impairs.
+The gas exchange from taking place in the lungs.
+And so the, the oxygen content would fall, low enough that, that the low oxygen level would actually help to stimulate respiration.
+Which of the chemoreceptors do you think are going to respond to low oxygen levels in the blood? [INAUDIBLE]? The peripheral ones? Exactly.
+It's going to be the peripheral chemoreceptors that will be responding to that condition.
+Cool.
+Okay, now the one other factor that's going to influence the chemoreceptors, and this is, now I'm going to focus on the peripheral chemoreceptors, that is pH,okay? So I, I want to go back to this whole idea of pH.
+Being a measure of the three hydrogen ions in the body fluids.
+Okay? And one of the things that I've seen happen is that after we focus on this CO2 hydration reaction.
+Where we talk about CO2 in water creates carbonic acid and then carbonic acid dissociates these free hydrogen ions.
+Everyone only focuses on those free hydrogen ions, right? But are there other ways that we create acids in the body? Stephanie.
+Don't our kidneys have something to do with acid production? What, Our kidneys? Well, yeah, but how do we generate acids in the body? Lauren? There's lactic acid production when we exercise. [INAUDIBLE] Exactly.
+Exactly.
+So, as a metabolic byproduct we can generate metabolic acids which create, because they disassociate free hydrogen ions, they can cause the blood to become slightly more acidic.
+Right, so lactic acid would be one, ketones or ketoacids would be another one.
+And those acids will cause the blood to become slightly more acidic and the peripheral chemoreceptors will be responsive to that, okay? So, when the chemoreceptors, and this doesn't matter if it's central chemoreceptors or peripheral chemoreceptors, but when chemoreceptors are activated, they will activate respiratory centers in the brain stem, specifically in the medulla.
+And the next thing that happens is that we will have impulses coming out to muscles that control inspiration.
+Okay? So specifically, we would have neural impulses carried on the phrenic nerve, which innervates the diaphragm.
+And then we would have impulses conducted along the intercostal nerves to activate the external and intercostal muscles.
+And when we activate the diaphragm and it contracts, what does it do? Causes us to breathe in? Yes, because the diaphragm will flatten, right? And help provide a big increase in lung volume or relatively large and the external intercostals will help to lift the ribs, causing the, circumference of the lungs to increase.
+So that increase in volume is what will allow air to flow into the lungs, right? When the signals stop firing along those nerves, the inspiratory muscles will relax.
+And then, what happens? Andre? The diaphragm will then sort of come up, and then it will sort of compress the lungs, and then they will become smaller.
+And the volume inside [INAUDIBLE].
+So the muscles will relax.
+They'll return to their resting position, right.
+But what causes the lungs to become smaller normally? When the inspiratory muscles quit contracting, what allows us to passively exhale? Steph.
+Is it the change of pressure? No.
+Naomi.
+Maybe elastic recoil.
+Exactly.
+Exactly.
+Remember when the inspiratory muscles stop contracting.
+The elastic fibers in the lung tissue passively recoil and allow us to just passively exhale, right? Megan, I bet you've seen conditions in which those elastic qualities, are not very pronounced in the lung tissues, as well.
+Yeah.
+Definitely.
+A condition which is common is Chronic obstructive pulmonary disease.
+And that's a condition where people's ability of their, lung tissue to, recoil is impaired.
+Mm-hm, and also in your patients with COPD, or chronic obstructive pulmonary disease, the COPD patients will have some destruction of the alveoli walls.
+Correct, which is also, you know, contributes to the problem, because in addition to the inability to recoil, there's an impaired gas exchange.
+So.
+So, what do you think that's going to do if we think about the effect that that will have on the normal blood CO2 and O2 levels? If somebody has, enlarged air pockets in the lungs.
+Gas exchange is not going to be as effective.
+We call those enlarged air pockets part of the dead space of the lungs.
+So it's space in the lungs, but it's space that doesn't get ventilated effectively and so we think of it as dead space.
+It's not functionally Useful in terms of gas exchange.
+So if somebody has an increased amount of dead space in their lungs, what do we expect is going to happen to CO2 and O2 levels in their blood? Lauren, it looks like you want to say something.
+Well because the diffusion is impaired, there would be lower oxygen levels in the blood and higher carbon dioxide levels in the blood.
+Mm-hm.
+And so what do you expect, how do you expect the respiration rate then to change? I would expect the respiration rate to increase.,. .
+Mm-hm.
+Mm-hm.
+Right.
+Now what do you think? Let me demonstrate to you two ways that you can breathe.
+What if you breathe like this [SOUND] versus this? [SOUND] Which one do you think gets more.
+Fresh gas into the alveoli of the lungs? [SOUND] or [SOUND].
+When you take take deeper breaths. [INAUDIBLE] You're going to get more oxygen to the lungs.
+You'll get a fresher gas mixture deeper into the lungs, right? So, if I'm going to take a deep breath like that, though.
+I’m really dependent on the the recycled gas getting pushed out effectively too, right? Because I can’t get fresh gas in, if I haven’t exhaled effectively.
+So, yes.
+The, it's, more effective to take deeper breath.
+Because you get fresh gas into more of the alveoli when you're breathing as deeper.
+It's not always possible though, is it? No.
+Not if your recoil is, is, affected.
+Yeah, yeah. [BLANK_AUDIO] 

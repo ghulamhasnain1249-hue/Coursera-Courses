@@ -1,0 +1,61 @@
+Earlier we loaded data about
+our customers in Tableau. We already decided
+which features we should use to create
+these clusters. We now want to use Tableau to
+create the clusters for us. In Tableau, we'll go
+to the Analytics tab, and we should see Cluster. We'll go ahead and
+double click "Cluster", which will open up a window. In this window, you'll
+see variables and these are the variables
+that will be used to create the clusters. You can see that some variables
+have already been added. To add more, we
+just simply have to drag them over to the
+variables window. We can drag variables
+from right here, but we could also go back
+to our data and look for specific variables
+that we haven't included and drag them
+directly into here. In this case I'll drag in Spent Past Years and
+that wasn't included. Then also drag Provides Lunch, that was one that
+we cared about. Recall that some
+variables might need be adjusted to a different
+type like an attribute. For example, this
+sum of age median, we're going to change
+that to a attribute. We'll click on this, click "Attribute" and you
+can see that's changed, and we'll do the same thing for closest convenience store. There we go. Also
+in this window, we can go ahead and specify the number of clusters
+that we want. If we leave it blank
+it will be automatic, and Tableau will pick for us. For now, we'll use the default, which we can adjust
+later if we want. We can now go ahead
+and close this window, and you can see Clusters appears here under the
+Marks card section. We can go ahead and
+look more closely at these generated
+clusters by clicking on the clusters field and
+choosing described clusters. This table shows us how
+many clusters there are, how many individuals there
+are in each of the clusters, and the average values for the individuals in
+each of the clusters. Note, the individuals
+in the tables tool can be labeled as not clustered. This is to prevent outliers, individual points that are
+significantly different from other individuals from
+affecting the clusters. In this case, you might
+decide that we could afford to have more
+than two clusters. We can do the clustering over again and specify the
+number of clusters. Let's go ahead and do that now. I can go back to Clusters
+and hit "Edit Clusters". Now you can see that
+window is back. In this case, I
+think four clusters might actually be more accurate. Now that we've redone
+the clustering, we can go back to the
+summary of clusters. Again clicking here, then
+clicking "Describe Clusters". Now we're back to the summary. Now we can see if this
+looks good for our goals. If this isn't what we wanted, we could adjust the
+number of clusters again and add or remove
+features or variables. Since I think this looks good, we'll keep the clustering
+as it is right now. We can now use this clustering
+as a variable in Tableau. We can do that by closing
+this window and then simply dragging this
+clusters off to left here. You can see it's
+added right here. In this case, I'm just
+going to call it Cluster. By doing this, this
+allows us to use the clusters in our
+visualizations in Tableau. In the next video,
+we'll go over how you might want to
+observe the clusters and then build personas
+for those clusters to better understand your segments for your marketing campaign.

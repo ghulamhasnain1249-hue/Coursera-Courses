@@ -1,0 +1,35 @@
+There's one more thing to consider when
+thinking about randomized control trials in advertising. An RCT is set up so people will
+have the experience intended for whichever group they've
+been randomly assigned to. They see the ad in the test group or they
+don't see the ad in the control group. However, it's not that easy to
+achieve this in advertising. This is because it's
+not always possible for the researcher to make sure everyone in
+the test group receives the treatment. I may intend to show you
+an ad on Facebook but what if you don't use Facebook
+while my test is running? This could mean that you're not getting
+the treatment I intended for you. Should you then move over
+to the control group? Well, actually no that's not a great idea
+because then my groups would no longer be random. If I send over all the people that weren't
+using Facebook while my ad was running my control group won't be as similar as
+possible to my test group any longer. That's why well designed tests
+use intention to treat or ITT. ITT keeps all experiment
+participants in the group they were originally assigned to regardless
+of what they see or do. This minimizes the effect
+of potential bias. Let's talk about ITT with an example. Imagine the medical community
+is testing a new drug and you're placed in the test group. You're given the drug to take but
+the people conducting the experiment can't always control whether
+you actually take it. You may forget or
+you may decide you don't want to take it. In an ITT setting however,
+your outcome will be measured as part of the test group regardless of whether
+you actually took the medicine. It's the same with advertising, whether or
+not you actually received the treatment you will remain in the test group and your
+results will be part of the test group. When you use intention to treat or ITT, it reduces the effects of
+the treatment which makes it a bit harder to achieve significant
+results but it keeps the bias out. So, experiments are a powerful way
+to measure the effect of a campaign. But, if you plan to use experiments
+in your role as an advertiser, make sure that these
+two conditions are met. The experiments should use a randomized
+controlled trial design and adhere to ITT or
+intention to treat for the test group. This way you can be reassured
+that your test is not biased and that you can be confident in your results.

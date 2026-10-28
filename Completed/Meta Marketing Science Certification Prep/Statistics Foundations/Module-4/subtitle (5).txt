@@ -1,0 +1,89 @@
+One of the
+foundational skills of a data analyst is the ability
+to find the relationship between two things like exercise and mental health or study
+hours and test scores. In this video, we
+will examine how a simple linear regression
+helps us to see the relationship
+between two variables and use it to make
+data driven decisions. Remember, a regression
+analysis predicts a dependent variable given
+an independent variable. When we refer to something
+as regression analysis, this is an entire group of different analyses that
+all predict relationships. In this course, we will focus on simple linear regression
+which is when a line is used to predict the
+relationship between one independent and
+one dependent variable because there is
+a steady rate of change between the
+two variables. Now that we know what it is, let's review how it works. The first step is to
+gather your data. You will need an
+independent variable and a dependent variable. To review, an
+independent variable is a variable in an experiment
+or test you control. For example, in a plant
+growth experiment, the amount of water
+given to the plants is the independent
+variable because you decide how much water
+each plant receives. While a dependent
+variable is the one that changes based on responses
+to the independent variable. Using our plant example, the dependent variable
+would be the growth of the plants measured in
+terms of height or biomass, because it depends
+on and changes in response to the amount
+of water they receive. Next, you will plot your
+data points on a graph. The independent variable
+will be the x-axis, the horizontal line
+at the bottom, and the dependent variable
+will be the y-axis, the vertical line on the side. Once you plot your data, you draw a line sometimes
+called the line of best fit. This is a straight
+line that most accurately represents
+the layout of the data. Note how the data is
+clustering around the line. Now that you have
+your data plotted out and a line that
+describes your data, you can use it to
+make predictions. There are a few
+different ways to make predictions based on
+how you drew the line. If you created an
+equation for the line, you can plug your
+independent variable into it to calculate
+your dependent variable. If a software application
+draws the line, you can simply
+look at the chart. You can then draw a
+line from that point on the y-axis to find the
+value on that side. In this graph, the value on the x-axis is followed to the
+line on the red path. The green path then goes from that location on the
+line to the y-axis. This way, it predicts a dependent variable from
+an independent variable. Let's explore some
+other common terms associated with a simple
+linear regression. First, there is
+the term residual, which is sometimes
+called the error. A residual is the
+difference between where the data point
+is and where the line expects it to be or simply how far the data
+point is from the line. In this image, every
+data point has its own residual because each point is different
+from the line. Another term used in simple linear regression
+is what's called the R^2. R^2 sometimes called the
+coefficient of determination, is how much of the variance in the dependent variable is explained by the
+independent variable. In other words, is your independent variable good at predicting your
+dependent variable? There are multiple
+ways to calculate R^2. But many software programs will have the option to
+calculate it for you. What are the good or
+bad values for R^2? There isn't really
+any value good or bad because R^2 doesn't have specific cutoff scores since it is used
+to compare models. Last, let's go over the assumptions for
+simple linear regression. The minimum sample size for
+linear regression is 20. This means that you need
+at least 20 data points or separate observations before you can run this analysis. The next assumption
+is linearity. Linearity is the idea that
+there is a relationship between the two variables and plotting them
+will give you a line. Another assumption
+is homogeneity of variance, sometimes
+called homoscedasticity. Homogeneity is ensuring there is roughly the same
+amount of variance in each variable being compared. Next is normality, which is the idea that your data
+creates a normal distribution. Finally, we get to the last
+assumption, independence. This is not an assumption
+we have seen before, but it is not very complicated. Independence means
+every observation is unique and stands alone. Now, you should be able to
+describe the steps to complete a simple linear
+regression which you can start applying using any
+statistical software. Get ready for the next steps
+and start leveraging and analyzing real world situations using this type of analysis.

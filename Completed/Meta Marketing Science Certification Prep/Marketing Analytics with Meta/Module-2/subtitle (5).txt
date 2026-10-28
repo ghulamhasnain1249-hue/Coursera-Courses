@@ -1,0 +1,114 @@
+As you've learned
+in this course, Ads Manager lets you choose from a number of
+campaign objectives. Depending on the objective
+you set for your campaign, Facebook will let
+you select between different ad delivery
+optimization options at the ad set level as
+we've seen earlier. The objective and optimization choice you make while
+you're setting up your campaign will directly influence who will see your ads. You are basically telling
+Facebook to get you as much of the result you choose as
+efficiently as possible. Your campaign objective and
+optimization choices will also directly affect the
+report you see in Ads Manager. That makes sense, of course, as you want to evaluate
+the success of your campaign against what
+you were trying to achieve. As we've seen in the last video, the key metrics to look
+at when evaluating your campaign's success are
+results and cost per result. Results are the number of times that your ad achieved an outcome based on the objective
+and delivery optimization settings
+that you selected. Cost per result
+indicates how cost efficiently you
+achieve the objectives that you set for
+your ad campaign. It is the ratio of total amount spent to
+number of results. In this video, we'll walk you through some of the most common combinations
+of campaign objective and ad delivery
+optimization so you get a better idea of what results
+you would be measuring. Let's begin with the brand
+awareness objective. The brand awareness objective is designed for advertisers who want to find people who are more likely to remember their ads. The ad delivery of brand
+awareness campaigns is always optimized for the
+so-called ad recall lift. In other words, your ads are shown to the
+people Facebook estimates would remember seeing your ad if they were asked
+within two days. If you run a brand
+awareness campaign, the key metric you
+would look at is the estimated ad recall lift, which is the estimated
+number of people likely to remember your ads
+within two days. To evaluate how efficient
+your campaign was, you would look at the cost
+per estimated ad recall lift, which is the average cost for each estimated ad recall lift. If you run multiple ad
+sets and ads in parallel, you can, for example, evaluate which audiences
+are more likely to remember your ads or which creatives
+tend to be more memorable. Next, let's discuss
+the traffic objective. This lets you drive people from Facebook or Instagram to any URL that you choose like your website's landing
+page or a blog post. For traffic campaigns, you have a number of options
+to optimize ad delivery. The two most common ones are link clicks and
+landing page views. If you choose link clicks, then your ad will be shown to the people most likely
+to click on them. If you choose
+landing page views, then your ad will be shown
+to the people most likely to click on it and load
+the landing page. The page view information is provided by the
+Facebook pixel so it needs to be embedded
+in a landing page in order for you to
+use the optimization. We talked about pixels in the first course
+in this program, but I added a reading with
+more information about the Facebook pixel and how
+it works after this video. If you run a traffic campaign, the key metric you
+would look at is either the number of link clicks or the number of
+landing page views. To evaluate how efficient
+your campaign was and which ad set or ad was
+best at driving results, you would analyze the cost per click or the cost per
+landing page view. This is the amount spent
+divided by the number of link clicks or landing page
+views your ad has received. Next, we have the
+engagement objective. You select as objective
+when you want to reach people who are more likely
+to engage with your post, page, or event invitation. There are three
+different types of engagement campaigns
+in Ads Manager, each with their own ad
+delivery optimization and respective key metric. First, if you want to drive engagement on a specific
+post you're promoting, then you would optimize ad
+delivery for post engagement. The key metrics you
+would look at to evaluate your
+campaign success are the number of post
+engagements you have received and the cost
+per post engagement. All reactions, comments, shares, and clicks on your post are
+counted as post engagements. Second, if you want to
+increase the number of likes your Facebook
+business page has, you would optimize ad
+delivery for page likes. The key metrics you would
+analyze when evaluating campaign success
+are the number of page likes and the
+cost per page like. This counts both likes that happened directly on
+the page after seeing your ad and likes
+that happened on the page likes
+button in your ad. Third, if you're
+promoting an event and would like to increase
+the number of responses, you would optimize ad
+delivery for event responses. An event response is defined
+as the number of people who responded interested or going
+to your Facebook event. The key metrics you would look
+at here are the number of event responses you have received and the cost
+per event response. The final objective we will
+briefly cover is conversions. In a conversion-focused
+campaign, the goal is to reach
+people who are more likely to take a certain
+action you define or, in other words,
+people who convert. The campaign we evaluated in an earlier video was a
+conversion campaign. In that example, Inu and
+Neko wanted to drive catalog requests on a specific landing
+page they had set up. To evaluate campaign success, we looked at a number of catalog requests and the
+cost per catalog request. However, business goals for
+conversion campaigns can vary a lot based on what
+pixel event you optimize for. This can range from
+adding items to a basket, registering through a form, or making a purchase. The action you would
+like people to take on your website after
+seeing your ad is called an event that you define in Ads Manager and that is
+tracked by the Facebook pixel. When it comes to evaluating your conversion
+campaign success, you would look at a number of conversion events
+you have received. In Inu and Neko's case, catalog requests and he would analyze the cost
+per conversion event. There are more campaign
+objectives and options for ad delivery
+optimization to choose from than what we've
+covered in this video, but I hope you've got
+the general idea. The one thing to remember is
+that the key metrics to look at are always tied to what
+you would like to achieve, your results, and
+the cost per result.

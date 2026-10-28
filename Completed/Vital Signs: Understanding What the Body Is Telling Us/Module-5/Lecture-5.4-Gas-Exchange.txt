@@ -1,0 +1,88 @@
+[BLANK_AUDIO] So far this week, we've been thinking about ventilating the lungs.
+That ventilation process is a process through which we draw fresh air into the lungs, and expel air that has, picked up additional carbon dioxide as it's been sitting in the lung, air spaces.
+In this lecture we need to start thinking a little bit about the actual process of gas exchange which is the process of moving gases from the blood to the air pockets of the lungs or to the cells of the body so that we can maintain normal tissue levels of oxygen and carbon dioxide.
+So as you remember we have the, the left and right lungs filling most of the thoracic cavity.
+And we've been thinking about the lungs in terms of their larger gross anatomy structure.
+In order to understand gas exchange, we have to get down to the microscopic level of lung tissue, and the best way for us to do that in this class is to take a look at an illustration of the microscopic lung tissue.
+You have that picture in front of you and what you can see is that the lungs are packed with little structures called.
+Lydia.
+Alveoli Alveoli.
+So those alveoli are are just spherical structures that contain gases.
+Each alveolus has a very thin wall and you can see that each alveolus is surrounded by a dense network of capillaries.
+When we think about gas exchange taking place in the lungs, the gas exchange is occurring because gases move between the blood that's flowing through those capillaries and the air pockets inside the alveoli.
+Okay? So, actually gases can move in either direction, either into or out of the blood.
+And each gas that we're going to be looking at today will, will actually move in a different direction when gas exchange occurs.
+So if we look closely at the microscopic structure of the lungs, what we're talking about is that when gas exchange occurs there gas has to move through the thin wall of the alveolus into the blood of the pulmonary capillary, or it moves from the pulmonary capillary blood into the gas mixture in the alveolus.
+So that gas exchange is taking place across what we call a respiratory membrane, and the respiratory membrane consists of the wall of the capillary and the wall of the alveolus, and then the thin little bits of material that hold those two walls in place against each other.
+Okay? Now, let's think about the process that causes those gasses to move across the respiratory membrane.
+What is the process? Who knows? Naomi.
+Diffusion Diffusion.
+Yes.
+Now, tell me about diffusion.
+What do we know about it? Stephanie.
+Things will go from where it's higher in concentration to like a lower concentration.
+Exactly, so when materials or compounds diffuse, they diffuse from, from an area where they're in high concentration to an area where they're in low concentration.
+So we say that they diffuse down their concentration gradient, right? Do they just continue diffusing forever? What do you think, Andre? They diffuse until the concentrations are equal in the two compartments? Right.
+Exactly.
+So what do we call that, state in which the concentrations are equal in two areas, Lydia? Equilibrium? Equilibrium.
+So diffusion will continue until the gases reach equilibrium, which means they're in equal concentrations on each side of the respiratory membrane.
+Cool.
+Now we've been talking about concentration gradient.
+But I should tell you that when we refer to the concentration of gases in a gas mixture, we actually describe their concentration in terms of what we call partial pressure.
+Okay? So you know, for example, that the atmosphere that surrounds us, because we're located close to sea level, you know that this atmosphere exerts a pressure, right? And we measure it in millimeters per mercury.
+What is the pressure at sea level? Is it about 760? Yes, about 760 millimeters of mercury exactly.
+So that's 760 millimeters of mercury worth of pressure is created because each gas in the atmosphere exerts some of that total pressure.
+Right? And it exerts pressure proportional to its concentration.
+So, we describe the concentration of a gas in a gas mixture by referring to its partial pressure, meaning how much does that proportion of gas represent in terms of the total pressure of the gas mixture.
+Okay, so when we talk about gas exchange, we talk about gases diffusing down their partial pressure gradients, if we want to be really precise.
+Okay? Now in the lungs, if we just think about what's going on in terms of the circulation, think about the fact that we have deoxygenated blood coming back to the right atrium.
+Right? And that deoxygenated blood is being carried into the right atrium by what vessels? Stephanie.
+The superior vena cava, the inferior vena cava, and the coronary sinus? Exactly.
+So that deoxygenated blood comes into the right atrium and then flows into the right ventricle.
+And when the ventricles contract that blood gets ejected into what? Lauren? The pulmonary trunk.
+Exactly, the pulmonary trunk.
+And then the pulmonary trunk is going to diverge into a right and left pulmonary artery which will carry blood to the right and left lung, right? And inside the lung the pulmonary artery will divide, and divide, and divide into smaller and smaller vessels until, finally, we reach the level of the pulmonary capillaries where gas exchange occurs.
+Now this blood that's coming into the pulmonary capillaries is deoxygenated blood.
+Does it still contain any oxygen? Yes, Stephanie, you say yes? Yes.
+Yes, it does.
+So when blood makes a circuit through the whole systemic circulation, it does give off some oxygen to the tissues, but it doesn't give up all the oxygen that it contains, right? So it, what we know is that it has a lower oxygen content than it had after it went through the lungs and picked up oxygen, right? So tell me about what other gas we care about in that deoxygenated blood.
+Lauren? Carbon dioxide? Carbon dioxide, and what do we know about its partial pressure? [BLANK_AUDIO] Naomi.
+In deoxygenated blood there's going to be more CO2.
+Yeah.
+We expect it's going to have a higher CO2 partial pressure rate because as the blood has made its circuit through the systemic circulation, it's passed through tissues where metabolism is going on.
+And we know that CO2 is a, you know, it's one of the end products of metabolism in the cells.
+And so the blood will have picked up CO2 and it'll have a higher PCO2.
+Okay.
+So the blood will come into the pulmonary capillaries.
+Gas exchange is going to occur.
+Tell me what that means.
+Andre? In the lungs that means that CO2 will come out of the, of the vessels and enter the lungs, and then oxygen will come from the lungs and enter the vessels.
+Excellent.
+So what we know will happen is in the lungs, oxygen is going to diffuse from the alveoli where its partial pressure is higher, into the blood that's flowing through the pulmonary capillaries.
+And CO2 is going to diffuse from the pulmonary capillary blood into the alveoli, okay? Both gases diffuse down their partial pressure gradient and that means the gases are going to move in different directions across the respiratory membrane, okay? So the blood flows through those pulmonary capillaries, and the pulmonary capillaries converge to form post-capillary venules, and those venules converge to form larger venules.
+The venules converge to form veins.
+And ultimately, what veins carry the newly-oxygenated blood out of the lungs? Naomi.
+The pulmonary veins.
+The pulmonary veins, and those pulmonary veins carry the blood where? Into the left atrium.
+Correct.
+And from the left atrium the blood will flow into the left ventricle.
+The left ventricle, when the ventricles contract, the left ventricle would eject the blood into? Lauren? The aorta.
+The aorta, exactly, and then the blood will flow from the aorta into smaller arteries.
+The arteries will diverge, diverge, branch, diverge.
+Finally the vessels will be so small we'll call them arterioles.
+And finally the vessels will be so small we call them capillaries.
+This time they're systemic capillaries, right? Now gas exchange happens out in the systemic capillaries, too.
+And what do we expect that gas exchange is going to look like, Lydia? Oxygen is going to be moving from the blood into the tissues and carbon dioxide is going to move from the tissues into the blood.
+Exactly, exactly.
+Again, the, the gases are going to diffuse down their partial pressure gradients, but because oxygen is now going to have a higher PO2 in systemic blood, oxygen will diffuse into the cells.
+CO2 is going to diffuse from the cells into the blood of the systemic capillaries.
+Dr.
+Scanga, when you say PO2 does that just mean the pressure gradient? Oh, thank you Lydia.
+That slipped out of my mouth, I didn't mean it to.
+PO2 means partial pressure of oxygen.
+Yes, so the partial pressure of oxygen in the systemic arterial blood is higher than the PO2 in the cells of the tissues.
+Yes, and so that explains why oxygen diffuses in to the cells.
+Exactly.
+Okay, so now we understand a little bit about the mechanism of gas exchange.
+The final topic that we need to deal with, and we'll do it in our next lecture, is going to be how do we regulate respiration so that we breathe at a rate that helps us remove carbon dioxide from the tissues effectively, and also supply oxygen to the tissues.
+So stay tuned. 

@@ -1,0 +1,76 @@
+In the previous video, we focused on linear regression. We ran our regression
+analysis to evaluate the effect of
+advertising on sales. We plotted our trend line
+and found a positive effect, but we're not done yet. There are two questions
+we still need to answer. Let's start with
+the first question. How well does this
+line fit the data? Or in other words, does the data really
+match this trend line? We need to validate our model. In order to answer this, we'll need to
+calculate R-squared. R-squared measures, how
+close the data are to the calculated regression
+line and tells us how likely additional points
+are to fit that line. In other words, it
+shows us how well our regression line
+represents our data points. R-squared varies from 0-1 and a higher R-squared
+indicates a better fit, so how do we
+calculate R squared? R stands for the
+correlation coefficient, so we need to find the correlation coefficient
+and then square it. R is defined by the
+equation you see here. Remember, all those
+sigmas means sum of. We have most of what we need
+to complete this equation, but we do need the
+sum of Y squared. Let's calculate that as 7,225 before we
+input our variables. Keep in mind we need both
+the sum of Y squared, which is 1,071 and the sum of
+Y squared, which is 7,225. Just like we did with A and B, Let's first input our variables. Next, we multiply within our
+numerator and denominator. Now, let's solve within our numerator and
+denominator. Keep solving. Now take the square root of
+52,271,328 and then divide 6,991 by 7,229 to get 0.967. Great. Now we have R, but don't forget, we're
+looking for R-squared, so we need to square
+0.967 to get 0.935. Now that we understand the
+math behind R-squared, let's look at how
+to do it in Excel. We'll return to our dataset
+and click on our trend line. Right on the Display
+Equation on chart, you'll see a button for Display
+R-squared value on chart. Click that and you're all set. What's a good R-squared? Well the higher the better, but there really is no
+one right answer here. In natural sciences
+or engineering, an R-squared should
+be at least 0.9, but in social sciences, R-squared can sometimes
+be as low as 0.2. You'll want to make sure that your R-squared stays similar across experiments to give you an idea of what your
+R-squared should be. Of course, the higher R-squared, the more certainty you have that your linear regression
+model is predictive. Much depends on how much certainty you or
+your company needs. After solving for R-squared, we need to solve
+for our P-value. The P-value is the
+likelihood the data would have occurred if the null
+hypothesis were true. The null hypothesis
+is when there is no significant difference
+between test populations, which generally means
+nothing happening. In our case, a null
+hypothesis would be spending money on Facebook does not have an
+impact on sales. Keep in mind, P-value tells you how likely the null
+hypothesis is to happen, not that our original
+hypothesis is true. P-value is also sometimes called the statistical
+significance of a set of data. Statistical significance
+is another way of saying the P-value of a statistical test
+is small enough to reject the null
+hypothesis of the test. How do we calculate P-value? The easiest way to
+calculate p-value is to use the Analysis
+ToolPak in Excel. If you don't already
+have to ToolPak installed, go to Tools, then Excel Add-ins, then
+click Analysis ToolPak. Once you have it installed, click Tools again, and
+then Data Analysis. Then you'll want to click t-Test: Paired Two
+Sample for Means. Place your range of
+X-variables into your variable 1
+range and range of Y variables into your
+variable 2 range. Leave your Hypothesized
+Mean Difference blank. This will return a list of
+variables in a new sheet, one of which is your P-value
+labeled as P(T is smaller or equal to t) one tail. What makes a good P-value? In general, data is
+considered statistically significant when the
+P-value is less than 0.05. In the case of our data, we can see our P-value is 0.00, so we can say our
+data is significant. Going back to our
+original question, we can now see that
+increasing spent on Facebook increases sales in a statistically significant way. Next, we'll talk about how
+linear regression is used in marketing and we'll
+also take a look at more complex
+forms of regression. Bye, you might need those.

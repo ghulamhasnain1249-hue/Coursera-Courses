@@ -1,0 +1,64 @@
+[BLANK_AUDIO].
+So, we've been spending a little bit of time talking about the general anatomy of blood vessel walls.
+And you have put that information in the context of what you know about the heart as being the pump that forces blood out into the blood vessels.
+We have mentioned the fact that resistance to blood flow creates blood pressure and that we measure blood pressure in clinical settings, and it's one of the vital signs.
+And we also talked a little bit about how blood is always going to flow from a region of high pressure to a region of low pressure.
+We call that difference in pressure, from one part of the vas, vascular system to another, we call that a pressure gradient.
+And so, blood is always going to always flow down its pressure gradient.
+I'd like to look at an illustration in your textbook right now which shows us a little bit about the actual differences in pressure in various parts of the vascular tree.
+So, that picture's open in front of you.
+And if we look at what's going on along the bottom edge of the picture, you can see that the illustrator has given you various designations like the aorta, the arteries, the arterioles, the capillaries.
+So, you can see that we're looking at how the pressure changes in the blood vessels across the vascular system.
+And I will just point out to you that the label on this Illustration tells us that we're looking at blood pressure in various blood vessels of the systemic circulation.
+So we're thinking about what's going on in the systemic circulation where most often you'll have an, a health care provider assessing your blood pressure.
+We'll be doing that later this week in the sim lab.
+Okay, and then on the vertical axis of this graph, you can see that we're measuring or recording the actual blood pressure in those blood vessels.
+So, the first thing that you can look at is that, in the aorta and the large arteries, there's a pressure fluctuation.
+And the highest pressure is labeled systolic pressure.
+When do we generate systolic pressure in the blood vessels? When the, there's contraction of the, of the ventricle.
+Exactly.
+So, and this is a systemic circulation, so we could even say when the left ventricle contracts and ejects blood, we generate systolic pressure in, in the aorta and the larger arteries, right? And that systolic pressure, if we had to give a formal definition, we would say it is the highest pressure achieved in those large arteries.
+And so, we would achieve it really at the end of systole, 'kay? And then notice that in those large arteries there's actually a low pressure line labeled diastolic pressure.
+When does diastolic pressure occur? Do you have an idea, Andre? When the ventricles are relaxing? Exactly.
+So, during ventricular diastole the pressure would fall in those large arteries and at the very end of ventricular diastole, we would achieve diastolic pressure in the vessels, right? So, what's actually happening during ventricular diastole that allows the aorta and the large arteries, those large, elastic arteries, to go from this distended place where they're experiencing a high pressure to less distended diastolic pressure? What happens, Mia? Is that when the elastic fibers are sort of bringing it back to its resting state? Yeah, yeah, they're retracting and bringing the, the lumen diameter back to its more resting, I guess you would call it, back to a diastolic level or diameter.
+Cool.
+Alright.
+And so, then, if you continue looking at this graph, you'll see that they've added a line that they've labeled Mean arterial pressure.
+Mean does not mean mean.
+Mean means an average arterial pressure, okay? So, because the pressure is fluctuating from systolic to diastolic in those large arteries, we have to, when we think about systematic blood pressure and the pressure gradient that keeps blood flowing, we would think about that pressure gradient in terms of a mean arterial pressure.
+What's the average pressure across the system? And so, that mean arterial pressure shows us that, although there's a fluctuation between the systolic phase of the heart and the diastolic phase, we can see that there is an average pressure that's maintained.
+And you can see that it's highest in the arteries and the large, in the aorta and the large arteries, and then the pressure falls as we move across the vascular system.
+So notice that, as we move across the arterials, the pressure falls fairly dramatically.
+That decrease in pressure is caused because there's a fairly high resistance to blood flow in the arterioles.
+And so, pressure gets dissipated just to force the blood through the arterioles. [BLANK_AUDIO].
+I would just like somebody to take a wild guess as to why we would need blood pressure to fall as blood is flowing through the arterioles.
+Is this a wild guess? [LAUGH] Might be a little wild.
+Okay.
+But going into the capillaries for gas exchange, maybe you need more for the blood to move slower to go through so gas exchange can happen.
+Well, well, that, that is, that's it's true that we don't want blood to race through the capillaries.
+So that's, that's really true.
+But just because we've decreased the pressure, that's not going to be the major factor that will create the slow rate of flow through the capillaries.
+I'd, if you're going to take another wild guess, somebody, think about how thin and delicate the capillary wall is.
+It's only a single thin layer thick, right? You don't want it to break? Exactly.
+So, the capillaries are fairly delicate.
+You don't want blood flowing into the capillaries under really high pressure, or it would start to damage the capillary beds, right? So, the arterials help to protect the capillary beds, because pressure gets dissipated as blood flows through the arterioles.
+But notice, at the arterial end of the capillary bend, the blood pressure is a little bit higher than it is at the venous end of the capillary bed.
+That ensures that blood will continue to flow through the capillaries, right? And then look at what happens? Pressure falls as the blood moves through the venules.
+It falls even further in the veins.
+And finally, by the time we get to the venae cavae, the pressure is at its lowest.
+Yeah, so? Dr.
+Scanga, if the pressure is so low in these vessels, how does the blood get back to the heart? Oh, that's a really good question.
+It's like we, we count on pressure being high enough to keep blood flowing through the heart, or flowing through the blood vessels back to the heart.
+And actually there are some, a big structural modification in veins that will help to keep blood flowing.
+And then there are some other just physiology things that go on that help keep blood flowing.
+So, thinking first about structure, in the veins that are in the extremities, legs, arms, there are venous valves.
+And the valves are similar in structure to the semilunar valves in the heart.
+What happens, we can turn to a picture and take a look at a venous valve which what happens is that when blood moves past a venous valve, it's prevented from flowing backward.
+Because when it attempts to flow backward, the valve closes and prevents a backflow.
+So the other features in the venous system that will keep blood flowing, even though pressure is low, is that skeletal muscles, when they contract, skeletal muscles bulge.
+And when they bulge, they push on the outsides of the veins, and that helps to push the blood toward the heart.
+When the skeletal muscle relaxes, if blood tries to flow backwards, the venous valves close and prevent the back, the backflow.
+And so, we can gradually push blood through the venous system, even though pressure in the veins themselves is pretty low,.
+Also, I know you never think about this, but when you inhale, pressure in your thoracic cavity falls, and that helps to also draw blood back to the heart through those biggest veins in the thoracic cavity.
+So, that was a really good question.
+And now I think you have a really good understanding of how blood maintains its flow through the circulation. 

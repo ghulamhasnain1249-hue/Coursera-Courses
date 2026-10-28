@@ -1,0 +1,125 @@
+We saw that consumers know a lot of their online
+activity is tracked, but they don't always
+feel comfortable with their browser
+behavior data being shared and used for advertising. Some consumers will take
+action as a result of that. As a marketing analyst, it's good to know how consumers can take control
+of their own data and content as it helps
+you understand the limits of the data you
+will get to work with. Let's explore it in this video. First, we'll look
+at tools that help consumers remain
+anonymous online. Next, we'll look at
+device settings that consumers can use to increase their
+personal data privacy. Finally, we'll walk
+through some platform specific privacy settings
+a user can manage. There are a number of tools
+a consumer can use to limit the information they
+share about themselves online, or how that information
+can be used. Three of the most
+common and most readily available
+are ad blockers, cookie blockers and VPNs. Ad blockers do what the name
+implies, they block ads. Ad blockers are a piece
+of software designed to prevent advertisements from
+appearing on a webpage. Most often these tools are plugins that you can install
+in your web browser. They will then block
+ads from appearing on the sites a
+consumer is visiting. For example, two
+popular ad blockers are Adblock Plus
+and uBlock Origin. These are both
+plugins that can be added to the most commonly
+used web browsers. Consumers appreciate the
+ad-free browsing experience. But as we covered in
+the previous video, a huge percentage of site's
+content publishers and creators rely on ads to
+fund the work that they do. Both of these tools allow the consumer to whitelist
+particular sites. Whitelisting allows
+ads to show on certain sites while still
+blocking ads on other sites. Some publishers and
+websites are very transparent about this
+process and they'll directly ask the
+user to turn off the ad blocker or whitelist their site so that they
+can earn ad revenue. Another tool consumers
+can use to limit how much information they
+share, are cookie blockers. Generally, cookie
+blockers operated similar way to ad blockers. They can be added as a
+plugin on a browser. However, what they do
+is somewhat different, rather than blocking
+ads entirely, these tools will prevent storing data through cookies
+in your browser. Without that data, it's
+hard for publishers and advertisers to track
+your browsing behavior. You may still see an
+ad for a new cat food, but a cookie blockers will
+limit or remove entirely the information that
+an advertiser receives back about you and
+your browsing habits. Two of the most popular
+cookie blockers are Privacy Badger,
+and Ghostery. Like the ad blockers, these are plugins that can
+be added to a browser. As we saw earlier, the use and usefulness of
+cookies is changing as browsers and devices
+are changing settings and
+acceptance of cookies. As a result, they're valued advertisers is changing
+and over time, consumers may feel less
+of a need to block them. Finally, a different type of privacy tool you
+can use is a VPN. A VPN or virtual private
+network, anonymizes all traffic, leaving a consumer's
+device by sending all traffic through an
+intermediary server. This hides a
+consumer's IP address, location and personal
+information. But they still leave room for tracking based on browsing
+habits and patterns. There are many VPN
+options available. Some are free and some paid, some are even built into
+devices and browsers. Regardless, the
+basic functionality of all VPNs is the same. Next, let's look at an overview
+of some of the settings consumers can change on their devices to
+improve their privacy. If you've ever looked at
+the settings on your phone, you know that there are
+many specific settings and privacy preferences available
+on all major devices. For our purposes, we're going to discuss three
+overarching concepts, location, tracking
+and permissions. Think of all the
+modern day devices that can track a
+consumer's location, cell phones, tablets, laptops, smartwatches, the list goes on. On each of these devices, you can choose how, when and to whom this
+location data is accessible. Most often these settings can be found on the location services. The next setting a
+consumer has some control over is how and by whom
+they're tracked online. These settings are
+less universal, but in Apple's
+iOS, for instance, you can find a tracking menu
+under the Privacy settings, which allows you to specify
+which apps can track you. Finally, on most devices, permissions is an umbrella term that allows a user to find tune what information
+or which functions apps and websites can access. For instance, you might want your favorite photo-sharing app to have access to your camera, but you might not need to give that same permission to
+a grocery shopping app. As with device settings, there are lots of
+different privacy controls that different platforms
+online provide. We can't cover them all, but let's take a look at some examples for
+social media platforms. On social media, users
+have some control over their content,
+communication and interactions. You can usually delete a post, turn off incoming messages, and customized what
+personal information is readily available
+to the public. These specific controls work in tandem
+privacy policy. Sites and apps that
+have access to data about you are
+required to have a privacy policy and you
+can usually find it with the terms of service for a
+website, app or service. Social media platforms
+recognize that it's important for consumers to have control over their privacy. Facebook, for instance,
+tries to make it easy for its users to control
+their settings through the privacy
+checkup tool in their app. Of course, advertising is a big component of social
+media platforms and the data you share on
+these platforms will often determine the
+types of ads you see. Aside from controlling
+who can see what you post and who can
+interact with you, most social media platforms
+also let you determine the extent to which your data is used for advertising purposes. On Facebook, you can find these controls in your
+personal settings. As a consumer online, you have a lot of
+control when it comes to who and what
+information you share. Now, you may wonder why I would walk you through
+all the ways you can block or control the data you share in a course on
+marketing analytics. After all, don't we
+marketers want to prevent people from limiting
+the data they share? Yes, you're right. Marketers usually like to have access to more rather
+than less data. However, they also
+understand that it's important to keep the
+trust of the user. and I believe that for a
+marketing analyst, it's really important to know that there are some limits and gaps in the data
+you'll get to work with and why those limits exist. Now you have a better
+sense of some of the data limitations resulting
+from consumer controls.

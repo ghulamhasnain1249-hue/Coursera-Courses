@@ -1,0 +1,54 @@
+Once you have your hypothesis formulated,
+you can use an experiment to test it. We saw in the previous lessons that
+experiments are often used in marketing to evaluate the effectiveness
+of advertising campaigns. Before we go into detail on the specific
+experiments used to do that, let me walk you through
+the basics of experiments. Experiments have been around for
+a long time and they're used in many different fields. The roots of experiments stem from
+agriculture, over centuries farmers learned what makes their crops grow
+through the use of countless experiments. By keeping almost all things the same, changing just one thing at
+a time called a variable, the farmers were able to pinpoint which
+factor yielded the largest benefit. Imagine you have two plants and
+your goal is to increase planned growth. You want to test the hypothesis that
+giving plants fertilizer increases growth. In other words growth is the dependent
+variable you're interested in and fertilizer is the independent variable or the variable you believe
+will affect growth. You can call one of your plans plant A and
+the other one is plant B. You give fertilizer to plan B and
+not to plant A. A few weeks later you
+measure your plants and you see that plant be
+grew more than plant A. Since the conditions your plants grew
+in where otherwise exactly the same, you know that fertilizer must
+have cost plan B's growth. This is the foundation of
+experimental design methodology, you treat one group of subjects and
+you don't treat the other group. You measure the differences in results
+between both groups after treatment and learn about the effect of your treatment. If you keep the conditions for
+both groups exactly the same and only vary one factor or variable
+like the fertilizer in our example, you can assign the results you're
+seeing to that one variable. We call the group that received
+the treatment the treatment or test group, and the group that you didn't
+treat the control group. The one variable that differs between
+the groups is often referred to as the treatment or
+the treatment variable. So how do experimental design
+principles apply to measuring advertising effectiveness? In advertising your treatment could be
+exposing someone to a particular ad, so you can use experiments to measure
+the effects of your ad on the results you're hoping to achieve. For example,
+if one group sees your ads and another group doesn't see your ads,
+you can measure how many results or sales you achieve from the group that saw
+your ads and compare that to the number of results or sales you see from
+the group that didn't see your ads. The difference in results or sales can then be considered
+the results of your advertising. But as I'm sure you can imagine creating
+a controlled experiment to measure your advertising effects is a bit more
+complex than comparing what happens to two identical plants when you
+give one of them fertilizer. Later in this lesson we'll go through
+exactly how these experiments are set up, but before we do that
+there's one really important thing you should remember
+about experiments. Experiments are carefully planned ahead
+of time, that's because they involve creating groups of subjects that
+received different treatments. So if you want to run an experiment to
+test your advertising effectiveness, you have to plan it before you create or
+run your advertising campaign. While there are different ways to
+evaluate your advertising effectiveness, experiments are the best way to answer
+the most important question you'll get as a marketer. Was your advertising worth the money? Did it generate results you wanted like
+sales, traffic leads and other types? But in order for an experiment to
+give you all the answers you need, there are a few things you need to
+keep in mind as you design your study. Let's cover those in our next videos.

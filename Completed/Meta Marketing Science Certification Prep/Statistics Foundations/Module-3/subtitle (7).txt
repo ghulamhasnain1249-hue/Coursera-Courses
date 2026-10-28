@@ -1,0 +1,56 @@
+Previously, we discussed using an analysis to rule out chance
+and observe differences. Essentially, calculating
+what we call in statistics a p-value to see if changes between groups could
+explain these differences. This video will guide you on using the p-value to identify statistically significant
+differences between groups not explained by
+accidental differences. A p-value measures
+the probability that the difference between the
+two groups was due to chance. For instance, if
+morning workouts lead to greater weight loss
+than evening workouts, the p-value will show if
+this difference is due to chance or if there's a quantifiable reason for
+the weight loss disparity. Another interesting fact is that the p-value is
+expressed as a decimal, but should be interpreted
+as a percent. So a p-value of 0.03
+is the same as 3%. A p-value of 0.03 means there's a 3% chance we might be wrong in saying there's a difference when there actually isn't one. The question is, how willing
+are you to be wrong? The great news is that
+you don't have to decide. There are already conventions to decide what risk of being
+wrong is acceptable. In statistics,
+significant means that the analysis shows
+a real difference between the compared groups. In other words, statistically significant means the
+likelihood of error is low enough that we can
+confidently say there's a notable difference between
+the groups compared. What is the just right
+amount of risk being wrong? Something that we call
+Alpha determines that. Alpha is the cutoff value
+that p should be compared to to determine whether differences are
+statistically significant. The significance level or
+Alpha is usually set at 0.05 to judge if a
+result is significant. Changing Alpha affects
+your test strictness and should only be done if you
+fully grasp the implications. Let's see how the p-value Alpha and significance work together. To see if a difference
+is significant, compare the p-value calculated
+in the analysis to Alpha. Remember that Alpha
+is often set at 0.05. If the p-value is under 0.05, it's significant, and you
+reject the null hypothesis, suggesting there is
+a real difference. If the p-value is over 0.05, the result isn't significant, and the null hypothesis stands indicating the
+difference could be random. A p-value less than
+Alpha indicates that we can be confident there's
+a significant difference. This comparison method ensures
+reliable calculations. Remember, if you fail to
+reject the null hypothesis, this means that no
+significant differences in the groups were
+being compared. If you reject the
+null hypothesis, then there are
+significant differences in the groups being compared. As an example, if the
+analysis of the effects of a high fiber diet on blood sugar levels gives
+the p-value a 0.03, this is less than
+the Alpha of 0.05, which means you reject the
+null hypothesis and there are significant differences in blood sugar control
+due to the diet. The ideas of p-value
+significance and Alpha all relate
+to one another. As you move through
+the different types of hypothesis test and
+statistical analyses, you will continue to use
+all of these concepts. You're almost to the best part, completing an analysis to find out if your
+hypothesis is true.

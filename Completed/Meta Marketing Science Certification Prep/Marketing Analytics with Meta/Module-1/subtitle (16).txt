@@ -1,0 +1,77 @@
+Now that we've gone through
+the planning and scheduling, it's time to create the actual ads. In this video you'll learn
+how to do that step by step. Ads are created at the ad
+level in ads manager. First, in the identity section, choose how
+you want your business to be represented. All ads are required to have
+an associated Facebook page. So select your page here. You can also select an associated
+Instagram account from this drop down. Next, choose whether you want to use a
+post you've previously posted on Facebook or Instagram is the basis of your ad or
+if you want to create an ad from scratch. Facebook also has a platform for businesses to prepare ad
+designs called Creative Hub. If you had prepared an ad on Creative
+Hub, you could select a design here. In this video we will
+create one from scratch. To do that we first have to
+pick the format of our ad. There are many different
+formats you can choose from. Single immature video,
+carousel or collection. It is beyond the scope of this course
+to go through all of them in detail. But if you are interested in
+learning more about them, you can check out this
+information page from Facebook. We are creating a single image ad. So let's choose that here. Next, we need to add the image to copy and
+links for our ad. Let's start with the image here. You see two different buttons. The first one that says add media
+allows us to pick the image for our ad, which we will do in a moment. Facebook also allows you to create
+a simple video using your own images and copy. To do that, just click create video and
+follow the steps. We will focus on a single image ad for
+now. To add our image,
+we click on add media and then add image. If you want to create a single video
+ad instead you would choose add video. In this pop up screen, you see all the images that you have
+previously added to your account. With a drop down on the top left you can
+also pull the images you have posted on your page or on Instagram. This allows you to easily reuse
+the photo without uploading it again. Facebook also gives you access to
+a huge library of professional stock photos that you can use
+in your ads free of charge. Just type in a keyword that describes
+the image you have in mind and pick the one that best
+supports your message. Let's see what choices we have
+when we look for flower bouquets. There are literally hundreds of options
+here I could pick from for a campaign for Callahan ivy. Well, it's super easy to pick
+just one of these photos. It is usually a much better idea to
+use your own photos if you have them, especially when it comes
+to visual products. You want to showcase
+your unique products and give your audience a good idea of
+what the items actually look like. So in color and ivy's case we want to show one of the
+actual flower bouquets in our campaign. To add an image from our hard drive,
+we click on the upload button here and then pick the photo to upload it. Next, we make sure that the image
+looks as best as possible in all the different placements. We can crop the image we have picked to
+make sure it looks great in a square, vertical and horizontal format. You can also replace the image for
+a specific placement and upload a different one by
+clicking this button here. When you're happy with all the previews,
+click safe. Now let's add a copy to our ad. There are three pieces of
+copy you can provide here. The primary text, the headline and
+the link description. The primary text is required. The other two elements are optional. Note that not all three elements
+will be shown in all placements and can also be shortened. As you write your copy the preview
+on the right refreshes and gives you an idea of what
+the actual ad will look like. You can click through
+the different placements here. See how our primary text gets shortened
+on Facebook mobile news feed and in the Instagram feed. For example, only the primary
+text is shown also shortened. Click through the different previews to
+make sure your image looks great in all of them and that the most
+critical information is visible. If not consider rewriting your copy and put the most important
+information in the beginning. So it doesn't get cut. Once we are happy with
+what our ads look like. We need to add the destination for our ad. All we need to do is enter the URL for
+the web page. We want people to visit. This landing page should be directly
+linked to what you want people to do after clicking your ad. If you're URL very long because
+you are linking to a sub, sub page of your website. You can also choose to show a shorter
+display link by adding it in this field. The link should still go to the same
+domain as your website, URL. Our final step in creating our ad
+is picking a Call to Action button. You can pick one from
+the many options listed here. So choose the one that gets closest
+to what you want people to do. In our case that is shop now. Please note that the CIA or the call to action button won't
+be shown in all placements. We're almost on, if you were advertising
+to audiences that speak different languages, you can add or generate
+automatic translations by clicking here. Below we also have some advanced
+options to add your l parameters and tags for tracking. We'll skip these for now. Click on review to see a summary
+of your whole campaign and make sure everything is set up correctly. Once you have confirmed that
+everything looks great, click on publish to publish your campaign. If you need to make changes, click close
+and go back to the section where you need to make changes before publishing
+your campaign and that's it. Our first campaign is life. Well, not quite. Facebook, will now review everything
+before our campaign goes live. This can take up to 24 hours. Facebook wants to make sure
+that your ad add years to its advertising policies before
+it goes life on its platform.

@@ -1,0 +1,162 @@
+We learned earlier
+that Facebook uses a competitive auction
+based on advertiser bid, and estimated action rate, and the ad quality to determine the best ads to show to a person at any
+given point in time. Let's take a closer look at the advertiser bid
+part of the equation. This is the amount an advertiser is willing
+to pay for someone in their target audience to
+achieve a specific result, like a customer
+visiting their website, or downloading their app, or signing up for
+their newsletter. Your advertiser bid
+is determined by how much you're willing to spend
+in your campaign budget. Let's talk about how
+to optimize your bid. Your campaign's long-term
+success relies on not spending more on advertising
+than you make in profits, which we learned in
+a previous video. It's important to never
+bid more than an action you're trying to get a customer
+to take is worth to you. That's why it's a
+good idea to only bid up to the true
+value of an action. Let's think about
+the flower business, Calla & Ivy, again. Imagine Imra, the owner, plans a campaign to
+generate sales for new flower craft kits she
+added to the website. Imra knows that she makes $20 in profit on each
+flower kit sale. She also knows that people
+who buy a flower kit often become repeat
+customers for her. On the basis of
+this information, Imra decided that every
+flower kit purchase is worth a bit over $20 to her, accounting for those
+potential future sales. She decided she can bid $15 in the auction for a
+conversion-focused campaign. It is under $20 and it leaves a little bit of
+potential profit for her. In addition to determining
+what your bid should be, you also have to
+let Facebook know how you want them to bid
+for you in the ad auction. To do that, you have to
+choose a bid strategy. Sounds complicated? Well, don't worry. Facebook has a tool to help. When setting your
+campaign budgets and selecting campaign
+budget optimization, you can choose one from multiple
+campaign bit strategies. The bid strategies
+you can choose from depend on your
+campaign objective, but the most common
+strategies are lowest cost, cost control, and bid cap. Let's look at those
+in a bit more detail. If you're just starting out
+and want to get a sense of how much it'll cost to
+get a specific result, like an app download, we recommend you go with the default bid strategy
+called lowest cost. The lowest cost
+bid strategy tells Facebook to bid with
+a goal of getting you the lowest possible
+cost per desired action while also spending
+your entire budget by the end of the campaign. It means you don't have to set
+a bid as Facebook will use its machine learning
+tools to spend your whole budget as
+efficiently as possible. Let me show you how
+you can think of this. Every time you set
+up a campaign, you determine a time for which your campaign
+will be running. You specify who you want
+to target with your ads. Over the time of your campaign, there will be many
+opportunities to put an ad in front of
+your target audience. Let's represent those
+opportunities with dots. These opportunities will
+have a different price depending on how
+many advertisers are competing for
+this opportunity. In other words, it will be more expensive to put an ad in
+front of your target audience if more advertisers are
+bidding for the opportunity to put an ad in front of that
+same target audience. The lowest cost bid strategy
+works by identifying the cheapest opportunities
+to place your ads while still achieving your results
+in the timeframe you set. While the lowest cost
+bid strategy can produce costs that
+fluctuate more, Facebook still aims to get you the lowest cost
+results available. If over time of your campaign, auction competition decreases, costs may go down. If auction competition
+increases, costs may go up. The lowest cost bid strategy takes all of these
+data into account when placing your
+ads and helps you get the most results
+for your budget. It also means that by the
+end of your campaign, you'll have better idea of the lowest likely amount you can spend to get a specific action. That'll make it easier to plan your campaign budgets
+moving forward. The lowest cost bid strategy can be a very good
+choice if you have a limited budget
+and want to achieve as many results as
+possible for that budget. Let's go back to Calla & Ivy. When Imra opened a
+new pop-up store in Amsterdam and set up an ad campaign to
+reach people locally to generate awareness
+of the new location, the lowest cost bid strategy
+was the strategy she used. She had a limited budget to
+market her new store and she wanted to reach as many people as possible for that budget. The lowest cost bid strategy
+achieved that for her. Once you have more
+experience in advertising on Facebook and want
+tighter control of your bids and costs, you may want to have a look at other bit strategies you can choose from in the
+drop-down menu. It's important to
+note that the more precisely you control
+your ad placement, the more constraints
+you place on Facebook's delivery system
+to achieve the lowest costs. This means that not all of
+your budget may be spent and you may lose out on less
+expensive actions as a result. Let's briefly go over the other bid strategies that
+do give you more control. Three of the most common bid
+strategies Facebook offers are called lowest cost, cost control, and bid cap. We just talked
+about lowest cost. Now, we'll go over cost control. The cost control bid
+strategy allows you to set the average amount
+you're willing to pay for a desired outcome, like a conversion
+on your website. This amount is known
+as a cost control. The Facebook delivery system
+will try to stay around the average amount while still getting you the
+lowest cost actions. Cost controls apply to your average cost
+per desired outcome. This bid type goes after the cheaper results first and then the expensive
+opportunities. Some of the opportunities cost more than your cost control but Facebook may still go after them because others were
+sufficiently below. In other words,
+they will go after the cheapest results
+first but will go after more expensive
+opportunities once they've exhausted
+all the cheaper ones. Over the lifetime
+of your ad set, your average cost should be at or below your
+cost control amount. This bid type is best
+when you want to maximize cost efficiency but also need to keep costs within
+a specific threshold. Given the cost
+control you've set, you also may not spend your entire budget
+with this bid type. These are the main
+differentiators between cost control and the
+lowest cost bid type. Here's an example for
+Calla & Ivy where the cost control bid
+strategy is a good choice. Imra has a website
+where people can buy her hand-bound bouquets, enroll in a subscription
+delivery service, and finds the
+flower craft boxes. The website is relatively
+new and Imra is interested in attracting
+visitors to it. Imra knows that some
+of the visitors will ultimately buy something
+but not all of them. She calculated that on average, a visit to her page is worth
+about two dollars to her, so when setting up an ad campaign to generate
+more page visits, Imra decided to use the cost control strategy with
+a two dollar cost control. This allows her to maximize the number of page
+visits for her budget while keeping the
+average cost per page visit at two dollars. The final bid strategy
+is called bit cap, and it works a bit differently. While the cost control
+strategy controls for the average cost per
+desired outcome over time, the bid cap strategy limits what Facebook can bid in
+every single auction. For this bid type, you set what's called
+a bid control, and Facebook will aim to
+get the most results for you without bidding more
+than your bid control. This means that if you set a bid control of five dollar and 100 optimization events become available for bids at $5.01, Facebook won't
+enter your ad into those auctions to
+try to get them. In comparison, we'd likely
+go after all of them if you had chosen the cost
+control strategy and set a cost control
+of five dollars. We recommend a bid control over a cost control only if you must tightly control the cost of every optimization
+event you get. You can set your maximum
+bid under bid control in the Optimization & Delivery
+section at the Ad Set level. Here's an example of when the bid cap strategy might be a good choice
+for Calla & Ivy. Remember how Imra knows that for every flower and craft
+box she sells online, she makes $20 in profit. Well, Imra decided
+that she really doesn't want to ever lose money on the sale
+of these boxes. She believes that at this point, her business cannot
+really deal with a loss, so she decided to use a bid cap bid strategy for her campaign focused on
+sales of these boxes. She set her bid cap at
+$20 so Facebook will not pursue any conversions
+more costly than 20 dollar. That way, she knows
+that she won't be selling any of the
+boxes at a loss. That was a lot to cover. For now, we recommend
+sticking with lowest cost. That way, Facebook will spend our whole budget as
+efficiently as possible. Once we have a better sense of how our brands and products are performing for
+a given audience and we increase budgets, we might want to
+consider switching to one of the other
+two bid strategies.

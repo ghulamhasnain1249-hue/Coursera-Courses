@@ -1,0 +1,32 @@
+It is very important. And it's so
+astonishing how you can find so much insight on how the data is
+distributed across media mix channel. Like being able to get insight
+on things like finding out the most effective marketing
+channels in driving users. Or driving visitors to your website. And how it's totally a different
+channel that drives conversion. So it's very important to
+analyze Apple for Apple for you to get insight on how the data is
+distributed across media mix channel. Well we get a sample from
+various data sources. And for marketing purposes it's going
+to include all the marketing vendors or marketing medium. And this include google ads, facebook ads. We can going to inside from google
+analytics which is a website and we're extracting too. We can also get inside from all like
+our social platform that are actually deploying our marketing campaigns. So these are very important where you can
+get a lot of samples on your marketing tactics as well as the audience for you to
+be able to understand the user behavior. And that will help inform the marketing
+optimization to help drive or improve return on investment for marketing. Absolutely, so for the cluster sampling, majorly I use that for
+customer segmentation to help segment customers in terms of the demographic and
+behavioral factors. And also to create different groups
+of our customers in order to either make recommendations on customer
+loyalty programs like categorizing customers in order of
+how often they purchase, or how often they interact with like our
+marketing campaigns or even the website. So this helps for us to get more
+insight on like the segmentation area. And also this is going to help
+impact the predictive model or like the future outcome of the results. I think it's very important because
+in marketing, we do a lot of not just descriptive, we do a lot of predictive and
+all this is as well. So it's very important to
+understand the variables. So that way we can find
+a relationship between variables and also have insight on if a certain
+variable is impacting the next variable. For example if the reduction in cost is
+impacting the overall marketing result. Or if the discount that was applied in
+like a certain promotional items has any impact on like the overall
+result of the marketing. So I think it's very important. So understand the variables and
+also like not just the variables, understand the entire data at hand.

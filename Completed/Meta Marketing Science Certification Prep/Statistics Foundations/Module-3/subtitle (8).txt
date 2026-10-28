@@ -1,0 +1,44 @@
+Confidence intervals help us
+understand an estimates accuracy. For example, saying I'll be
+there in ten minutes, give or take five minutes means you might
+arrive between five and 15 minutes. This range for arrival time is similar
+to a confidence interval in statistics, which helps us estimate where a true
+value lies within a specified range. In this video, we will define confidence
+intervals and their use in statistics. A confidence interval is a range
+in which the actual mean, sometimes called the true mean
+of the population, will fall. For instance,
+if researchers say the average height of a certain group is 68 inches,
+with a 95% confidence interval of 66 to 70 inches,
+they are 95% confident that the true average height falls
+between these 266 and 70. This 95% isn't just an arbitrary number,
+it's widely used because it strikes a balance between
+being sure about our estimate and acknowledging that there is
+a small chance we could be wrong. It suggests that if we repeated
+the measurement 100 times, 95 times of the 100, the true mean
+would fall within our calculated range. Confidence intervals are important
+because they provide a range that estimates where the true value
+of a measurement is likely to fall considering possible
+errors in the data. This not only helps in making
+more informed decisions, but also in assessing the reliability and
+precision of these estimates. They allow researchers, businesses and
+policy makers to measure the uncertainty in their findings and
+make decisions considering it. But how do we determine these intervals? This brings us to the alpha level,
+or the level of significance, which complements the confidence interval. The alpha level represents the proportion
+of times the interval would not capture the true population parameter. So if we are 95% confident,
+our alpha level is 5% or 0.05, indicating a 5% chance that the true
+mean does not lie within our interval. Similarly, a 99% confidence interval
+has an alpha level of 1% or 0.01, making it narrower and
+more precise, but also requiring more stringent
+conditions or larger sample sizes. Last, if you were only 90% confident,
+then alpha would be 0.1. A confidence level of 90%
+is less frequently used, which is why it comes last on our list. Most data analysts want
+confidence higher than 90%. Confidence intervals are calculated
+using statistical software, but the calculations have
+several important components. First is the standard deviation,
+which measures the spread or variability of the data set. Next is the sample size. Larger sample sizes tend to result
+in narrower confidence intervals, indicating a more precise estimate because
+they accurately reflect the population. The mean or average of the dataset is at
+the center of the confidence interval. Last is the margin of error, which determines how wide the confidence
+interval should be around the mean. This was a lot of information but you now
+know the concept of confidence intervals. Later, it's time to leverage spreadsheets
+to complete these calculations.

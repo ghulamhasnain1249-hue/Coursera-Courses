@@ -1,0 +1,161 @@
+[BLANK_AUDIO].
+Well, good morning.
+Here we are in the nursing research lab.
+And Dr.
+Libonati is going to talk to us a little bit today about how metabolic rate is assessed.
+And we're just going to see the process in action with Stephanie.
+Good morning.
+I'm really glad you could come to the laboratory this morning.
+And we're going to talk about measuring the metabolic rate today.
+And as you can see, Stephanie, our subject is resting.
+She's been at rest for approximately 50 minutes.
+And we're measuring how much oxygen she is consuming.
+And how much carbon dioxide she is producing, which are surrogate markers of her level of metabolism.
+So, if I may, I'd like to show you how the system kind of works.
+You can see that there's a valve here.
+Where Stephanie's bringing in air from the atmosphere in the room.
+And, it's a two way valve.
+Such that the air flows in, it moves into her mouth.
+It goes, the oxygen then gets, transverse throughout her body and gets metabolized.
+And as Dr.
+Stanga has taught you previously, carbon dioxide is then produced.
+So then on the way back out when Stephanie breathes out, the air gets pushed through this tube into our computer.
+And there are oxygen sensors and carbon dioxide sensors in the computer, that are sensing how much oxygen and Co2 are in the expired air.
+So we know what the concentrations of oxygen are in the atmospheric air, and CO2 in the atmospheric air.
+And we just simply do subtraction.
+What's taken in versus what goes out, was everything Stephanie then consumed.
+So we then measure that level of oxygen that she's being consumed.
+Which is proportional to how much energy she's producing in her body to make adenosine triphosphate.
+And you'll see on this very first panel.
+This VO2 means it’s the volume of oxygen that she's consuming per minute.
+And, at this moment in time, after 52 minutes of rest.
+She's consuming somewhere around 290 mililiters, or 0.29 liters of oxygen every single minute.
+At the same time, Stephanie is producing 0.18 liters per minute of CO2.
+And this is important because, if you take the ratio between how much CO2 and 02 Stephanie is producing versus consuming.
+We get this other value called the respiratory exchange ratio, the RER.
+And that's a very important value because that tells you what type of substrate Stephanie is consuming.
+Meaning, is she using carbohydrates for her energy? Is she using fats for her energy? Is she using proteins for her energy? And what 0.84 represents is she's, right now, using sort of a mixed.
+Diet approach.
+There are some percentage of her coming from proteins.
+Some calories are coming from carbohydrates.
+And, some are coming from fats.
+Now, as we continue on, we are also able to measure her breathing rate.
+So, this is her respiratory rate in breaths per minute.
+And, you'll see this is variable, because, this is sampling every 15 seconds, or so.
+She's breathing anywhere between 15 to 20 breaths per minute.
+Which is slightly high probably due to the stress of doing this video.
+She is breathing in term of the volumes of gas coming in per minute the ventilation the VE in leaders per minute about 6 liters of air per minute wich is pretty standard for what people breathe. now, if we look since we started this test, Stefanie has consumed, just resting, 70 calories of, of total energy expenditure, and that represents her metabolic rate, which is abbreviated as METS.
+And one MET represents a resting metabolic rate.
+And you can see she's very close to being, what we would classically define as rest, at 1.4 METS.
+Now in a few minutes we're going to have Stephanie get up and do some stepping exercise and I would really like for you to keep your eye on the screen.
+And watch how these how these variables change over time as she steps up and down, she's going to need more energy so therefor she's obviously going to need to take in more oxygen and as a byproduct of that she's going to produce more carbon dioxide.
+And then that will change how she combusts calories.
+And that's why we talk about exercise to be important for caloric expenditure, and is a big part of health particularly metabolic disease.
+Okay, great.
+Okay.
+There's one question that I would like to ask right now Joe, if I could? Yes.
+You mentioned the RER of .88.
+And we haven't actually talk about RER yet in our class.
+And so I, would like if you would explain it to the students.
+This RER of .89 is representing to us a kind of a mixed macro nutrient use in Stephanie right now.
+But the RER can range.
+And if you would just describe to them the normal range for RER.
+And give them a sense of what that might represent, it would be really interesting.
+Sure, so, so the respiratory exchange ratio is a ratio of the volume of carbon dioxide that's produced.
+Divided by the volume of Oxygen that is being consumed.
+And the range of ratio will span some where from about the high .7s, low .8s, all the way up to 1.
+The higher the ratio, the more carbohydrates are being consumed.
+So, for example, if Stephanie just ate a big stack of pancakes.
+This value would be leaning towards 1.
+And sometimes it even exceeds 1.
+And this goes down to the, to the chemistry.
+Where you look at, you know, how many moles of oxygen are required, to totally and fully combust or oxidize a molecule of carbohydrate.
+So if you think back, it takes six oxygens to combust carbohydrates.
+Six carbon dioxides are produced.
+The ratio six to six is one.
+So, that's indicative.
+It takes more oxygen per CO2 production to combust fats.
+And so that's why that ratio is is, is a lower ratio.
+And then from the we know what folks are using in terms of their substrates.
+Great.
+Okay, I think it may be time to, get Stephanie moving.
+Okay.
+Okay, now that, now that Stephanie is in the upright position.
+We're going to challenge her metabolically and make her do a little exercise.
+So she's going to step up and down at the tempo that our students are going to set as our human metronomes.
+And we're going to watch what happens to her metabolic rate.
+Which is going to be very interesting.
+And you can see even the fact that she just stood from the lay down position has already started to increase her metabolic rate.
+So let's watch what happens from here on out.
+And go. [NOISE]. [NOISE].
+Now, obviously the faster that we go with the tempo, the more her metabolic rate will increase.
+So, we'll do this for a few seconds and then we'll speed it up a little bit. [NOISE]. [NOISE].
+Good, Stephanie. [NOISE].
+So, you see, the oxygen consumption is now up into the 0.6s.
+It's actually double, a little doubled or more compared to what it was at rest.
+And she's producing more carbon dioxide as she's combustioning more such straight.
+And the points are moving upwards. [SOUND] Really good Stephanie.
+Okay, let's speed it up a little bit.
+Let's just you know, half tempo up.
+You're okay with the speed up Stephanie? Stay with the pace Stephanie.
+And we can see now, the oxygen consumption's .1, .91 meters per minute.
+Now we're up to 1.2 liters per minute.
+So if you just follow this blue line you'll see Stephanie doing more and more work.
+Notice the metabolic rate which we, whole METs earlier, is now up to five.
+And that's important to watch because now it's actually 6.
+She is doing six times above what her resting metabolic rate, maintaining the stepping rate.
+She's producing more carbon dioxide, and as she's producing more carbon dioxide.
+The stimulus to breathe is carbon dioxide.
+So now she is breathing 24 liters per minute.
+And so she's breathing more and more and more as her metabolic rate increases.
+And so we can speed up another half note and really challenge her a little bit.
+You okay with another speed up? And we're make her sweat a little bit.
+So now. [SOUND].
+She's up, breathing 25 liters per minute.
+She's up to 7 METs.
+Now, we use METs clinically, to show a patient's function.
+And patients that can't get beyond 5 METs have a difficult time of even living at home alone.
+And so, Stephanie is obviously in good shape.
+And she's, she's showing that right now. [SOUND].
+And we can watch this rise and rise and rise.
+If we had her to go to full maximal levels of exercise, we could see this MET level promptly rise up to 15 or 20 units.
+At, you know, great athletes, great olympic type athletes can even see 20 units for METS. [SOUND].
+So I think we, we made Stephanie. [CROSSTALK].
+I think we've stressed Steph enough.
+Yeah.
+Now we can watch.
+Now.
+Her, her recovery.
+Which is going to, now her metabolic rate should lower because she doesn't need energy.
+She doesn't need adenosine triphosphate. [CROSSTALK] [INAUDIBLE].
+At the same production rate.
+So let's watch the post-exercise oxygen consumption.
+And watch it go back down, closer to where it was at baseline when we started.
+It's been about 15 minutes since Steph stopped exercising.
+And she's been lying down in recovery.
+And I'm curious about what has happened to her metabolic rate in that time, Joe.
+Well, Connie, we can see that the peak exercise oxygen consumption was somewhere around 1.99 liters.
+And if you follow this blue line from the time she stopped exercise, and that's almost 15 minutes ago.
+We can see her metabolic rate is coming back approaching her pre-exercise levels.
+But still slightly elevated.
+Just ever so slightly.
+And that's to be expected, because now she's no longer requiring ATP production to the same level.
+Now, something that you mentioned earlier was her METs level.
+And the METs went up to about 6, maybe a little bit more than 6 when she was exercising? Yes.
+The METs is really an index of how much energy Stephanie is consuming.
+And so, I just want to put this in the context of some of the things we talked about in class this week.
+And one of them is that as the METs went up and Stephanie's energy consumption went up.
+What do you think was happening in terms of heat production in her body? Mia? You would see the heat production go up also? Exactly.
+So she was actually generating more heat along with all of that ATP that she was making, right? And so what do you suspect would happen, if we would've made Steph keep stepping for 20 minutes, or a half an hour? [SOUND].
+Andre? We would noticed her body temperature increasing? Maybe, and maybe a slight increase.
+And what physiologically, what would have happened then? Lindsay? She would start sweating.
+Yes, I expect she would have started to sweat.
+We didn't see much sweat today when she was exercising.
+But, if she would have sustained even a 6 MET level of exercise, for longer we would have seen her start to sweat.
+Okay.
+So, I really thank you for bringing us here to the lab today.
+And showing us this demonstration.
+It's be really, a valuable way for us to put together the topic of metabolism and see it in action with a subject.
+So, thanks.
+It's been my pleasure.
+Thank you, thank you for coming. [BLANK_AUDIO] 

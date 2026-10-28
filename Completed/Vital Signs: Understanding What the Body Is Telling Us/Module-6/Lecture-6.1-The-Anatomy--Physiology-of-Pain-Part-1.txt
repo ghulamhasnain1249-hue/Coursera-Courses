@@ -1,0 +1,100 @@
+[BLANK_AUDIO] In this final week of vital signs, we'll be addressing the fifth vital sign, pain.
+Pains an experience we've all had and it's a hard experience to describe to someone else.
+In spite of that, pain is the symptom that is most likely to draw people into healthcare environments and inspire them to seek medical treatment.
+This week, I will be describing the anatomy and physiology of pain.
+We'll be learning how to assess pain, and we'll be interviewing some pain experts who will tell us something about the social and cultural determinants of pain and the therapeutic value and therapeutic treatment options for pain.
+Hi.
+Let's get going.
+So, when, when you have to describe pain to someone, how do you describe it? What's been your experience of pain? Stephanie.
+Something that makes you uncomfortable.
+It maybe like sharp or dull any kind of pain but it's definitely it's like not a normal feeling.
+Okay.
+So, it's not normal.
+And it's uncomfortable, right? It can have different qualities.
+It can be sharp, it can dull, it can be dull.
+Any other things you want to add, about it? [BLANK_AUDIO] Lauren.
+Well, it can be either centralized and that you can pinpoint exactly where the pain is coming from.
+Or it can be more diffused and it can be in general area.
+Mm-hm.
+Like that.
+Exactly, yes.
+So sometimes it's hard to say exactly where it hurts, right? It's kind of in this area, but I don't know exactly where or how to describe it.
+Sometimes you know what's causing it.
+Maybe you like bumped your knee.
+And sometimes you're just achy.
+Maybe you have like the flu, but you don't really know [CROSSTALK].
+Yes, exactly.
+So, sometimes you know the root cause, other times the cause is not so apparent to you.
+Exactly.
+Pain organizations, which are made up of professionals who, are experienced in the in the management or study of pain,.
+Describe pain as a sensory and emotional experience that is unpleasant and it has the vital role of alerting us to actual or potential damage to the body or body tissues.
+Pain is then, by definition, sensory and emotional.
+So there's a true anatomy and physiology component to pain which we'll talk about today.
+But that emotional component means that our perceptions of pain can be modulated to some degree by for example, our mood or by social and cultural expectations and by our past experience.
+So the, it's not so cut and dried when we talk about using pain as an assessment, a feature or when we talk about describing our pain circumstances to a healthcare provider.
+So, let's talk with the easy part of the topic which is the sensory part, okay? So when we think about nervous system activity, we think about the nervous system having a sensory arm, which is the arm that carries, stimulus information to the brain and spinal cord and then the nervous system.
+Has a motor arm which carries, impulses out the skeletal muscles or cardiac muscle, or glands in the body, right? So, when we're talking about pain, we are mostly talking about a sensory experience.
+People's reactions to pain will be the motor experience, but today we're talking just about the sensory experience.
+And that sensory arm begins with specialized kinds of receptors called nociceptors.
+Okay? Nociceptor just indicates that these receptors are responding to stimuli that are potentially harmful to the body tissues.
+Nociceptors are able to respond to 3 different types of stimuli to mechanical stimulus.
+Can you think about, any types of stimulus that we might call a mechanical stimulus.
+Steph.
+Maybe like bumping your knee or getting pinched by something.
+Yes, bumping, pinching, over scratching.
+Those would be examples of mechanical stimulus.
+Nociceptors also respond to thermal stimuli.
+So we've talked already about those as we talked about thermal receptors, but nociceptors are the type of sensory receptor that responds to temperature extremes that could be damaging to the body tissues.
+And then, they are the nociceptors are also responsive to chemical stimuli.
+Can you think of any examples of what that might be? Like chemical burns if you spilled a harsh chemical on yourself.
+Exactly, exactly.
+So that's the kind of stimuli that the receptors will be, responding to.
+And one feature about the nociceptors is that if you have a tissue that is inflamed, as part of the inflammation process, there will be chemicals released in that general area that make the nociceptors more sensitive.
+So if the tissue damage is already starting to occur then the nociceptors become more sensitive and are more likely to signal that some kind of damaging stimulus, is, occurring.
+So now in general when we think about sensory receptors, we think about receptors that have the job of converting a stimulus energy into an electrical energy, right? Because neurons, or the nerve cells, communicate in terms of electrical impulses that they conduct down their very long axons, right? Okay.
+So, nociceptors are a bolt to convert the stimulus energy, it doesn't matter if it's mechanical, thermal or chemical.
+They convert it to an electrical energy and if the stimulus is strong enough, there will be enough of an electrical current created that this action potential signal will fly toward the central nervous system.
+Okay? [BLANK_AUDIO] So, now we have to think about sensory pathways because sensory pathways generally, consist of 3 neurons in a chain.
+Okay? So, the first neuron that's carrying an action potential from the receptor toward the central nervous system is called a first order sensory neuron.
+Okay? And the first order sensory neuron will have a long nerve fiber that extends into the central nervous system.
+Inside the central nervous system, a first order neuron will communicate with the next neuron in the pathway.
+What do you think it's called? Lauren? I'm not sure.
+Lydia, are you going to take a guess? A second order? Exactly.
+So the, inside the central nervous system, the first order sensory neuron will communicate with the second order sensory neuron across, as, just a little, narrow physical gap called the synapse.
+And, and that action potential impulse will be transferred across the synapse and activate the second order sensory neuron, all right? [BLANK_AUDIO] Now in general, if the pathway is working properly the impulse would flow along the first order sensory neuron.
+Get transferred across the synapse to the second order sensory neuron, the sensor, second order sensory neuron would conduct the impulse to the.
+Third order sensory neuron? Yes, third order sensory neuron.
+Okay? So you got the, the pathway kind of laid out in your mind.
+Okay? So now, I want to refer a little bit to where that first order sensory neuron is going to communicate with the second order sensory neuron.
+The first order sensory neuron is going to get carried into the spinal cord, on the posterior side of the spinal cord and it will arrive in a region that we call the dorsal horn of the spinal cord.
+And it's in the dorsal horn that the first order neuron will pass the signal to the second order sensory neuron.
+Okay? I will mention a little bit more about this later on.
+This is an important location because at the point where that synapse occurs, there can be complicated communication between neurons.
+And that communication can result in the second order sensory neuron being less likely to pass on the signal, in which case we would say there's some inhibition of the pain signal, right? Or of the pain inflammation.
+Or that second order sensory neuron could be made hyper-excitable by all of the, complex communication between neurons.
+And if the second order sensory neuron is hyper-excitable, it means the first order sensory neuron does not have to provide quite a strong, a signal to get the second order neuron fired up and going, okay? So, let's just say the second order sensory neuron has been excited.
+The pain signal, which we can't really call pain at this point.
+All we can say is that it's a signal that provides information about a stimulus.
+That signal will be passed through the second order sensory neuron and now I'd like you to look at this picture to find out what happens next.
+What you can see is that after that signal is passed across the synapse and is delivered to the second order sensory neuron.
+The second order sensory neuron is going to cross over from one side of the spinal cord to the next, you see it? We call that act of crossing over.
+Decussation.
+Okay? So, what it means is that this stimulus information that might have been triggered in my right hand.
+That information gets carried by a first order neuron into my spinal cord, right? The first order neuron synapse is with the second order neuron? And, at about the level of that synapse, or just slightly higher up the spinal cord, the second order neuron's fiber will cross over.
+Okay? So, the second order neuron then continues carrying its information up the spinal cord through the brain stem to a part of the brain called the thalamus.
+So let me show you that.
+I have a little brain model here.
+And, just so you can be oriented a little bit.
+If, this brain were actually in my skull, it would be at about this level where my finger is, that the spinal cord would emerge from the skull.
+Okay? So our signal is getting passed up the spinal cord. [SOUND] Through this part of the brain, which is called the brain stem.
+And then it's passed by that second order neuron into this part of the brain which is the thalamus.
+Okay? Now, in the thalamus, we have another communication happening across a synapse.
+So, in the thalamus, the second order neuron passes its signal across the synapse to the third order neuron.
+And the third order neuron, as you can see in this picture, extends through the cerebrum and the third order neuron ends in a part of the brain called the primary somatosensory cortex which we see indicated in this lovely shaded region on the cerebrum.
+Okay? So, this information that finally reaches the primary somatosensory cortex can enable the brain to precisely locate where the stimulus occurred.
+And this primary somatosensory cortex communicates with other regions of the brain so that you can actually get an understanding of what the pain is.
+Maybe you know, oh, that's thermal related pain because I just touched the hot stove, or oh, I spilled something on me, that's creating a chemical burn.
+It's the complex interaction between neurons in the brain that will allow you to figure that out.
+Okay? Now, that sounds pretty straight forward.
+It's a little bit more complicated because I've only described one of the pathways to you.
+Okay? 

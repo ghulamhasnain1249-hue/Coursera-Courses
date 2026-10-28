@@ -1,0 +1,956 @@
+
+
+--- [FILE START: subtitle.txt] ---
+
+Welcome to the second week in our
+course on data analytics for marketers. This week will delve into the use of
+analytics for planning and forecasting. As a marketing analyst, you'll often be asked to support
+budget estimates and requests where you have to help management justify
+the money they plan to spend on marketing. And help them predict the outcomes. Having a structures approach to planning
+and forecasting will help you with that. In our first lesson, will discuss
+the descriptive metrics marketers commonly use and we'll discuss how to create
+dashboards and assess trends in the data. In our second lesson will
+look at an important metric, customer lifetime value and
+how it's calculated. And in the third lesson we'll look at
+forecasting using regression analysis. We've got a lot to cover. So let's get started.
+
+--- [FILE START: subtitle (1).txt] ---
+
+We're ready to get started
+with this week's lesson. We'll start by talking about
+the sales funnel as it is the backbone of all the metrics we're discussing in this lesson. A sales funnel, also called a purchase funnel
+or revenue funnel, is a way to visualize your potential customer's
+first interaction with your brand all the way
+through to repeat purchase. The sales funnel is shaped
+like an inverted pyramid because there are more users at the top of the
+funnel than the bottom. There are different
+versions of the funnel, but the basic structure
+is as follows. The top of the funnel is
+often labeled as awareness. This should indicate the user is aware of the brand or product. Next is interest,
+understanding or discovery. The mid funnel is often
+the hardest to quantify, but it should
+indicate the user is interested in or understands
+the brand or product. The third stage of the funnel is generally called decision
+or consideration. This is where the user considers their options and begins
+to make a decision. Next is conversion or sales, where a user actually purchases. After sales comes
+loyalty or repurchase, which may come in the form of multiple purchases
+or a referral. It's important to note the
+B2B and B2C funnel may look different as B2B often has a longer lead time and
+may include more steps. The funnel is important because it gives
+marketers a way to visualize the journey
+a customer takes on the way to purchase
+and repurchase. The marketer's goal is
+twofold: on a micro level, moving an individual user
+from one stage to the next; and on a macro level, moving as many people
+as possible through the funnel by increasing
+conversion rates at each step. Marketers can use the funnel
+to optimize each step of the funnel from
+click-through rate to lead rate to conversion rate. As we talk about
+return on investment, return on ad spend, and customer profit, you'll want to keep
+the funnel in mind. How can we optimize
+the purchase funnel to attract more customers
+and have them repurchase? In our second video, we'll look at descriptive
+versus predictive metrics, understanding what
+each is good for and why they're both valuable
+in different ways. Then we'll explore
+the importance of and the difference between
+return on ad spend, return on investment,
+and customer profit. We'll shift gears in
+the next video and discuss key performance
+indicators, good dashboard development, and how to create better reports. By the end of this lesson, you'll be able to use KPIs
+like return on ad spend, return on investment,
+and customer profit in your dashboards and
+reports. Let's get into it.
+
+--- [FILE START: subtitle (2).txt] ---
+
+While there are a few
+different kinds of analytics, we want to hone in
+on two kinds to understand how they
+help our business. Descriptive Analytics
+look at data in the past to explain
+what happened; while Predictive
+Analytics look to explain what could
+happen in the future. It's important to note, one is not more important than the others, but
+they're complimentary. Descriptive Analytics is
+the most commonly used form of analytics where
+data is collected, analyzed, and presented in a
+way humans can understand. This is where our pie charts, line graphs, and
+scatterplots come into play. You would use
+Descriptive Analytics to answer questions like, what's our
+year-over-year revenue? How has inventory moved
+in the last 12 months? How many people have we hired
+in the last six months? What's the engagement rate
+of our Facebook page? Descriptive Analytics
+can be incredibly beneficial to a business as
+it tells you what happened. However, it doesn't tell you what could happen
+moving forward. That's where Predictive
+Analytics come in. Predictive Analytics
+can't tell the future, but it can tell you
+what's likely to happen. It uses probability to say what's most likely to
+happen by looking at the data and filling
+in the blanks using methods like machine
+learning and deep learning. Predictive Analytics can be used to answer questions like, what are expected sales
+in the next 12 months? How much revenue should we expect from this
+marketing campaign? What will the demand for our
+product be next Christmas? How much less overtime will we have if we scale up the team? Predictive Analytics
+can be used for many things including:
+improving business efficiency, staffing, fraud
+detection, risk analysis, marketing efforts,
+and sales planning. Now that we know the
+difference between Descriptive and
+Predictive Analytics, we will dive into
+the world of ROI, ROAS, and CP. If you don't know
+these acronyms yet, don't worry, you'll learn
+them in our next videos.
+
+--- [FILE START: subtitle (3).txt] ---
+
+Return on ad spend and return on investment are two key ways
+to track success in digital marketing. While these terms are sometimes
+used interchangeably, they are actually quite
+different in this lesson. We'll walk through what ROAS and
+ROI mean and how we can use them to
+track performance ROAS or return on ad spend is measured
+by the formula seen here. It is the revenue resulting from your
+ads divided by your Ads spent times 100. ROAS is used to measure
+the effectiveness of advertising and it does not include other costs
+associated with marketing. Basically it tells you if
+you're advertising is working. ROAS is often used by
+performance marketers and those who run ads in platform to measure
+what to return on their spend is. It's useful to understand what
+channels are working well and where to allocate spent. Contrast this with ROI we measured by
+the formula seen here it is the net profit divided by the net spent times 100
+ROI is used to measure the effectiveness of your total expenditure
+including technology people and data and it looks at resulting profit,
+not just the revenue. ROI is generally considered a more
+holistic or top line view and is often requested by executives to
+understand all the costs that went into a campaign and
+the results that came from it. You'll notice two key differences
+between ROI and ROAS, ROAS uses revenue. Not profit ROAS uses only
+direct advertising spent. Whereas ROI uses all costs. Let's take an example say you spend
+$100 in your advertising campaign and sell five $100 worth of flowers. Using the formula seen here,
+you find your role as is five times or 500 for every dollar you spend,
+you get $5 back. Now let's include our cost of goods,
+salt production costs and salary costs. To find ROI. First we subtract $100 marketing costs, $100 cost of goods are $200
+production costs and our $100 salary costs from our good salt. Then we use the Formula seen
+here are net profit was zero and the net spent was $500. We find our ROI is actually zero or 0%. So for every dollar spent,
+we make $0 in profit. You can see just from
+this example why ROI. Is so important for a business to track. To put a fine point on
+the difference between ROI. And ROAS to meyer CMO of to
+effect explains in ad exchanges. ROI optimizes to a strategy while
+ROAS optimizes to a tactic. Yet some marketers use these
+terms interchangeably. ROI measures the profit generated by
+ads relative to the cost of those ads. In contrast ROAS measures
+gross revenue generated for every dollar spent on advertising. It's an advertiser centric metric
+that gauges the effectiveness of online advertising campaigns. In our next video will focus
+on customer profitability. Another metric used to measure the success
+of your campaigns on a more granular level
+
+--- [FILE START: subtitle (4).txt] ---
+
+Now that we understand
+the difference between ROI and ROEs, let's discuss customer
+profitability or CP. Customer profitability
+is a way to track which customers are
+well profitable. CP is often used in B2B
+advertising to manage clients but can also be used
+in B2C to segment customers. You may have heard of the 80/20 rule where
+businesses often find that 20 percent of their customers provide 80 percent of profit. This metric, customer
+profitability, focuses on seeing
+if that's true. Understanding which of
+your customers are good, meaning they require low
+effort and result in high spent and which
+are not so good, meaning high effort and
+low spend in return. The general formula for customer profitability
+can be seen here. It's the revenue earned
+from a customer in one year minus the cost of supporting that
+customer in that year. What are the steps
+to calculate this? First, we want to define
+our customer costs. This can include
+but is not limited to things like marketing costs, customer service cost,
+returns, shipping costs. Next, we want to look at
+our customers' spend. We can do this using your customer relationship
+management system or CRM, or other spent tracking
+software that you may have. Subtract customer
+cost from customer spend and get your
+customer profitability. But that customer profitability doesn't tell you how
+your customers behave, or what is influencing
+their actions. In order to do this, we'll need to segment
+our customers. You may already have a
+segmentation analysis done for your
+customers and if so, feel free to use that. If not, you have a few
+options to segment out your audience depending
+on your business; B2B vs B2C, segmenting out individual
+customers versus businesses. Customer personas, segmenting out the type of buyer
+your customer is. You may have this type
+of segmentation from a cluster analysis
+you ran for instance. Recency, frequency,
+monetary, or RFM analysis. An RFM analysis is one of the most common ways to segment users to gauge
+customer profitability. An RFM analysis explores
+questions like, who are my best customers? Which customers have
+potential to spend more? Which customers should we
+pay less attention to? To answer these questions, RFM looks at recency, how recently someone purchased; frequency, how often they purchase within a
+set time period; monetary, how much they spent
+within a set time period. In order to do an RFM analysis, you'll need to decide your
+segments beforehand and create a scale of one
+to five for each, with five being the greatest. Here you can see an example
+for an established brand. It's important to note
+these may be different for your business and you should
+understand the lifecycle, and average order value
+of your customers in order to assign
+these parameters. From here, analyze
+each customer, and then push their RFM
+numbers together to create a three-digit code which
+tells you their RFM. Generally, your CRM software can run an RFM analysis for you but you can also do
+this in Excel if you're just starting out or
+do not have a CRM. Let's walk through an example. Say you have a customer file with the five customers
+indicated here. In this case,
+recency is in days. Using our segmentation we
+previously determined, we can then assign scores
+to each of these variables. Once we assign scores, we push the three numbers
+together to get an RFM score. Those closest to 555
+are best customers, while those closest to 111
+are lowest scoring customers. If you'd like to plot
+or manipulate the data, you can also take the average of the three numbers to get
+a simplified RFM score. When doing this, you
+also may decide that you want to rank one factor more than another
+in your formula, so you may multiply that
+to give it more weight. In this example, we've given
+more weight to recency and multiplied it times 1.5 in order to weight
+that factor higher. Once you've done
+your RFM scoring, you'll want to plot them
+out and name your segments. Some common segments
+include champions. These are our 555s that you'll want to segment out and
+target with specific offers. New customers, those with a high RFM score
+but low frequency. You may also want to target
+them with a special offer. At-risk customers, those who rank highly for
+monetary and frequency, but low for recency. Remind them of previous purchases or
+encourage subscription. A marketer will want to tailor their messaging and offers to
+each one of these segments. While customer profitability is often used by product
+or finance teams, CP is another excellent tool
+in a marketer's toolbox to determine what messages may resonate with
+their consumers.
+
+--- [FILE START: subtitle (5).txt] ---
+
+We've talked about a lot
+of different metrics and ways of finding and
+segmenting your audience. Now, we're going
+to shift gears and talk about how to present
+that information. You may remember how in an earlier course
+in this program, we talked about reflecting on your business goals before
+starting an analysis. We also saw how it helps
+to determine which metrics you will track to
+assess whether you're making progress
+towards those goals. We call those metrics Key
+Performance Indicators or KPIs. It's no surprise
+then that one of the most common types of
+reports is a KPI dashboard. As Microsoft Power BI explains, KPI dashboards are tools that unite data sources and provide at-a-glance visual feedback
+showing your business is performing against your
+key performance indicators. They benefit users
+by providing a fast, easy solution to tracking KPIs and other business metrics, a unified view of data that improves visibility
+into company health, and customizable
+data visualization with performance and
+status indicators. In order to develop
+a KPI dashboard, you must first have a KPI. As we said, KPIs are derived
+from your business goals. They have three important
+characteristics. First, a KPI is measurable, and more specifically, it
+should be rated or graded. This generally
+translates to a cost per like cost per acquisition
+or cost per click, or a rate like click-through
+rate or view-through rate. Second, it should be
+directional and target-based. You should have an idea of
+what success looks like, either through internal
+or external benchmarks. Lastly, it should be related to the behavior you're looking to impact with your marketing. Looking to increase sales, customer loyalty,
+lifetime value. Your KPI should ladder
+up into your goal. You should have one
+singular primary KPI for any given
+marketing campaign. That way, you can easily look
+at your campaign and say, was this successful or not? Having a single KPI
+also gives your team a metric to focus on and
+optimize during your campaign. It's important to
+note there may be different KPIs at different
+levels of your campaign. Here we see a KPI pyramid. Your business KPI is the
+company's North star. What will make the
+company money? This generally focuses on
+overall sales or acquisitions. Your campaign KPI is what designates the success
+of the campaign. Is there a specific
+efficient reach number or course per action
+you're focused on? Whatever it is, this
+one primary KPI should indicate success
+for that campaign. Last, we have your channel KPI. Each channel within
+your campaign should be there for a reason, with a goal for that channel. For instance, you
+may use YouTube and Facebook in the same campaign with totally different goals. YouTube may be used for more upper-funnel
+tactics measured through video completion
+rate, for instance. While Facebook may be used for lower-funnel tactics
+and measured on a cost per acquisition
+or conversion rate. While it's really
+important to focus on one singular KPI at each
+level of the campaign, your dashboard may also include secondary KPIs and
+diagnostic metrics. Secondary KPIs are
+those that indicate you're on your way to
+success in your primary KPI. For example,
+click-through rate may be a secondary KPI for a cost-per-acquisition-focused
+campaign. CPA is your primary KPI, but CTR can give you
+information that helps you understand whether you're making progress towards
+that primary KPI. Diagnostic metrics
+are those metrics you want to keep an eye on to
+make sure things are okay. These are metrics like spend, impressions, and reach. If these metrics were
+to significantly increase or decrease
+at any given time, you'd want to investigate. As you can imagine, different people require
+different levels of granularity when
+looking at a dashboard. After establishing your KPIs, the second step to developing a strong dashboard is
+understanding your audience. Consider their level, their
+familiarity with the data, how they usually
+see information, and what they care about. Is this sea-level audience who usually sees complicated
+finance charts but needs just a
+high level insights because they don't have much time to spend
+on this information? Is this in the weeds team
+who digs into the details? Is this a client who prefers information be
+communicated in words? What are their KPIs, and what are they
+concerned about? Be sure to design
+for your audience and provide the information
+they need to know. What kind of chart should you use
+to show your performance? Well, there are lots of options. Let's go over some of
+the most common ones. If you're looking to
+compare results over time, use a linear chart or bar chart if you're focused on
+only one variable. If you're showing
+parts of a whole, use a pie chart or a
+stacked bar chart. If you want to show
+the relationship between two different variables, a scatter plot or bubble
+chart should do the trick. You'll want to use
+color theory and sizing to indicate key metrics
+and their performance. The easiest way to do
+this is to represent your primary KPI as a
+larger area of the report, along with the red,
+yellow, green indicators, to let readers know
+how the campaign or initiative is
+performing overall. In addition to designing
+your dashboard to call out your KPI
+loud and proud, you'll most likely
+want to indicate insights in your KPI
+dashboard as well. In order to have
+a strong insight, you should include
+what happened, why it matters, and what you'll
+do with this information. For instance, let's say you ran an AB creative test against
+two different creatives. One with just a product shot, and one with an offer
+and the product shot. If you find that the
+offer creative commands a 50 percent lower CPA,
+that's what's happened. Here's why it matters. We've learned that creative
+with an offer in it drives more efficient
+acquisitions than one without. What can we do with
+this information? Develop more creative with
+an offer involved or design another test against
+different offers to see which performs best. Thinking about your audience,
+incorporating your KPIs, telling your story with
+a fantastic graphic and a few insights can really take your reports
+to the next level.
+
+--- [FILE START: subtitle (6).txt] ---
+
+You've previously learned
+about customer profitability, the backwards-looking
+model that reviews just how profitable a customer
+has been to a company. Now we want to focus on a forward-looking
+predictive model called Customer Lifetime Value, sometimes abbreviated
+CLTV or just LTV. Customer lifetime value is the expected profitability
+of a consumer and is forward-looking rather
+than just an analysis of the current data to date,
+like customer profitability. Why use CLTV if we've already calculated
+customer profitability? CLTV assumes that customers
+can or will change over time, whereas customer
+profitability only looks at how a customer
+has acted to date. Above all, CLTV incorporates
+forward-looking data to, hopefully, make a more
+accurate prediction of what the customer
+is really worth. We'll talk about
+the actual formula for CLTV in an upcoming video. But first, let's ask ourselves
+why this metric matters. First, having a lifetime
+value of a consumer allows us to focus on not just
+the cheapest acquisition or lowest CAC, and instead focus on acquiring long-term,
+profitable customers. In other words, it may be okay to spend a little more
+money on acquiring a customer that you
+expect to generate a lot of value for the
+company over time. You may know it's more efficient for a
+business to nurture current relationships versus
+acquiring new customers. But did you know
+that research done by Frederick Reichheld
+of Bain & Company, shows that increasing
+customer retention rates by five percent increases
+profits by 25-95 percent? Second, calculating CLTV helps
+our marketing efforts by helping us to segment out in new ways and target
+those customers. Do we want to focus on those
+already with high CLTV? What about those
+that are showing increased propensity to
+buy but moderate CLTV? Finally, having a customer
+lifetime value can also lead to increased
+ROI. How so? By focusing on those customers that are likely to
+purchase again and often versus those who only purchase once or only
+wait for steep discounts. As you can see, there are many reasons to calculate
+customer lifetime value. In our next videos, we'll focus on how to calculate lifetime
+value and apply it to a company so you can
+see CLTV in action.
+
+--- [FILE START: subtitle (7).txt] ---
+
+Now that we understand why customer lifetime
+value is so important, let's dive into how
+to calculate it. It's important to
+note that there are multiple formulas for CLTV. In this lesson, we'll deep dive into one of the
+more popular ones. The customer lifetime
+value formula is pretty basic at it's core, but it can become
+more complicated, so what is the formula for
+customer lifetime value? CLTV is the average
+value of a sale times the average number of transactions times the
+customer retention period, times the profit margin. This number can be
+calculated overall for the business for
+different cohorts, and even on the
+individual level. Most businesses will look at CLTV in aggregate
+for the business, but looking at it by cohort
+or at the individual level helps you understand
+how important a customer or set of
+customers is to you. Let's look at calculating CLTV at the individual
+consumer level, since this is the most
+granular and can be applied at either the
+segment or business level. Average value of a
+sale should come from that individual's
+transaction history. The average number of transactions in a
+customer lifetime, customer retention
+period, and profit margin should come from data
+gathered across the business. To calculate the average
+value of a sale, pull transaction history for that user and divide by
+number of transactions. In this case, our
+consumer has spent $120 in three transactions, making their average
+value of a sale $40. Now, we have the average
+value of a sale, and let's say the
+average customer of this business has
+five transactions. For customer retention periods, let's say the average customer stays in this ecosystem
+for one year. In other words, they are loyal customers for
+a year on average. After that, they move on. So far, we have the
+average value of a sale, the number of transactions, and the customer
+retention period. Now, we need to figure
+out the profit margin. We're going to calculate
+the gross profit margin. Note, that you could also use the net or operating
+profit margin. If these don't ring a bell, I've added a reading with more info on how
+they're calculated. For now, let's continue with
+the gross profit margin. Gross profit margin
+is an indicator of profits relative to
+production costs. Basically, looking
+at the total cost of goods sold or COGS, minus the production
+costs for those goods. The formula for gross profit
+margin can be seen here. Let's work through an example. You have sold $1,000
+worth of goods, and you paid $400 to
+acquire those goods. First, you subtract 400
+from 1,000 to get 600. Then you divide the profit
+by the total revenue, in this case, 600 divided
+by 1,000 to get 0.6. From there, your last
+step is to convert this to a percentage
+by multiplying by 100, so we get 60 percent
+gross profit margin. Gross profit margin is the
+easiest way to calculate profit margin and often the most commonly used because
+it is so simple. For most customer lifetime
+value calculations, starting out with
+gross profit margin is just totally fine. As you get more data and make
+your model more advanced, you may want to expand to operating profit margin or
+even net profit margin. Now, heading back
+to our example. Remember, our consumer has made five transactions with
+us totaling $200, making their average
+value of a sale $40. We've also established that
+the average consumer stays in our ecosystem for one year. We've gone ahead and calculated the gross profit
+margin at 60 percent. Multiplying all of
+these together, we find that the CLTV for
+this customer is $120. As we've seen, you can
+calculate individual CLTV, but we more commonly
+create segments or cohorts based on
+customer lifetime data. Segmenting your customers
+out into low, mid, and high CLTV, can be a great way to start working with customer
+lifetime value. Keep in mind, this is the
+most basic calculation. More complex models
+bring in marketing, changes in the marketplace, and changes in
+consumer behavior. Now that we've worked
+through the steps to calculate CLTV, in our next video, we'll apply this formula to a specific business and see
+how they calculate CLTV.
+
+--- [FILE START: subtitle (8).txt] ---
+
+Now that we've learned how to calculate
+customer lifetime value in theory, it's time to apply it. We'll be looking at Calla & Ivy
+a small florist to see how they might calculate CLTV. Remember, CLTV is the average value
+of a sale x the average number of transactions x to customer retention
+period x the profit margin. First, Calla & Ivy decides to calculate
+the customer retention period. In order to do that, they'll need
+to follow the formula seen here. So as you may have guessed the first
+thing they need to do is find their churn rate percentage. Churn rate is defined as
+the number of customers or subscribers who cut ties with your service
+or company during a given time period. Put more simply, churn rate looks at
+how many customers a business has lost during a given time period. Churn rate is generally
+calculated on a monthly or annual basis depending on sales volume. Churn rate is calculated
+by the formula seen here. Calla & Ivy pulled all of their
+customer data from their last 2, 4 years of business and find that
+in 2019 they had 791 customers and in 2020 702 of those customers remained. There are three steps
+to finding churn rate. First, we have to subtract the most recent
+number of customers from the previous in order to get a number
+of lost customers. So in this case we subtract
+702 from 791 to get 89. Second, we divide a number of
+lost customers by the users at the beginning of the period,
+so 89 divided by 791 to get 0.11. Lastly, since we wanted to be
+a percentage we multiply by a 100 to get 11% churn rate. This is the churn rate
+over the period of a year. For Calla & Ivy, this means that
+11% of the customers they had in 2019 are no longer customers in 2020,
+they have churned. Now how does churn rate fit into
+the average lifetime of a customer? Going back to our average
+lifetime formula, we then divide 1 by the churn rate,
+in this case 1 divided by 11% to get 9. Therefore, Calla & Ivy's average
+customer lifetime is about 9 months. To translate that to years we divide
+9 by 12 to get 3/4 or 0.75 years. Great, we have the first
+piece of data we need, next we need to calculate
+the average value of a transaction. Calla & Ivy decides to look at 2020
+data since that last complete data set they have for the year and
+they already know they had 702 customers. They find that total
+sales came to $ 32,994. They then divide total sales
+by the number of sales to get an average order value of $47. Great, we have two parts of the puzzle. Next we need to figure out
+the average number of transactions. Calla & Ivy returned to the 2020 data and
+see that there were 2106 transactions. Next they divide 2106,
+the number of transactions by 702, the number of customers in 2020
+to get 3 average transactions. It's important to note average number
+of transactions can be a decimal, in this case it's just
+a nice round number. So now we have the average value
+of a sale $47, the average number of transactions 3 and
+the customer retention period at 0.75. The last piece Calla & Ivy need to
+calculate is the profit margin for 2020. They decide to use gross profit margin
+to simplify their CLTV calculation. Remember, in order to calculate gross
+profit margin we need revenue and cost of goods sold. We know total sales came to 32,994,
+Calla & Ivy spent 17,781 to acquire their flowers,
+visas and decorative items. When we use the formula seen here,
+we find that the profit margin is 46%. Great, now we have all the four pieces
+of the puzzle, let's calculate our CLTV. When we multiply all of
+our inputs together, the average CLTV for
+Calla & Ivy customer is $48.65. From here they may want to start
+segmenting out at high, medium and low CLTV customers in order to
+provide different offers, products or even services. This is just one way to calculate
+customer lifetime value. In our next reading, we'll talk
+about some of the limitations and other ways customer lifetime
+value can be calculated.
+
+--- [FILE START: subtitle (9).txt] ---
+
+In the previous lessons, we discussed several
+important metrics. We looked at different
+outcome metrics that marketers focus on, like ROI, customer profit, LTV, and so on. In this lesson, we're going to look at
+the statistical methods often used to understand
+the influence of independent variables on
+those outcome metrics and ways to plot our data
+and analyze strengths. One common way of doing
+this is linear regression. Linear regression is
+an analysis that shows the relationship between an independent and a
+dependent variable. In marketing, we may use linear regression to find
+answers to questions like, does click-through rate on social ads have an
+effect on conversion? Does video completion rates have an effect on
+site visitation? Do sales go up when we
+spent more on Facebook? In our first question, the independent variable is click-through rate and the dependent variable
+is conversions. In the second question, completion rate is our independent variable
+and site visitation is our dependent variable. Linear regression can
+help us understand these relationships and predict outcomes based on
+that understanding. Let's walk through the formula for linear regression together. We looked at this before in a previous course
+in this program. The formula for linear
+regression is y equals b times x plus a. y is
+the dependent variable, b is the slope of
+the regression line, x is the independent variable, and a is the y-intercept
+of the regression line. The slope of the
+regression line, or b in this formula is
+crucial in this formula as it tells us how much our dependent variable
+changes with the change in x. In other words,
+it's the ratio of change in y for a change in x. You could consider
+it an indication of how much x and y are correlated. Note that b could be negative. In that case, a positive
+change in x would result in a negative
+change in y or vice versa. It means the independent
+and dependent variables move in opposite directions. The y-intercept is another
+part of the formula. Here, represented as a. It specifies where
+the regression line intercepts the
+y-axis in the plot. While an important
+part of the formula, there isn't always
+a meaningful way to interpret this point. Let's look at an example of how regression analysis
+could be used. Let's go back to Calla and Ivy, a flower store in Amsterdam. Imra plans to run an
+advertising campaign on Facebook to encourage people
+to visit her website, but she would like to predict the effect increased visitation of the website could
+have on sales. Imra uses data from the past year to run a
+regression analysis. Data of the sales she observed last year will be her y data, the data on website
+visitation are the x data. With this data, she runs a
+regression analysis and she finds this result that helps her plot this
+regression line. Now she can predict based on
+her expected website visits what sales will
+look like by using this formula and
+regression line. In our next video, we'll take a closer look at how regression analysis works so
+you can run one yourself.
+
+--- [FILE START: subtitle (10).txt] ---
+
+In the previous video, we focused on linear regression. We ran our regression
+analysis to evaluate the effect of
+advertising on sales. We plotted our trend line
+and found a positive effect, but we're not done yet. There are two questions
+we still need to answer. Let's start with
+the first question. How well does this
+line fit the data? Or in other words, does the data really
+match this trend line? We need to validate our model. In order to answer this, we'll need to
+calculate R-squared. R-squared measures, how
+close the data are to the calculated regression
+line and tells us how likely additional points
+are to fit that line. In other words, it
+shows us how well our regression line
+represents our data points. R-squared varies from 0-1 and a higher R-squared
+indicates a better fit, so how do we
+calculate R squared? R stands for the
+correlation coefficient, so we need to find the correlation coefficient
+and then square it. R is defined by the
+equation you see here. Remember, all those
+sigmas means sum of. We have most of what we need
+to complete this equation, but we do need the
+sum of Y squared. Let's calculate that as 7,225 before we
+input our variables. Keep in mind we need both
+the sum of Y squared, which is 1,071 and the sum of
+Y squared, which is 7,225. Just like we did with A and B, Let's first input our variables. Next, we multiply within our
+numerator and denominator. Now, let's solve within our numerator and
+denominator. Keep solving. Now take the square root of
+52,271,328 and then divide 6,991 by 7,229 to get 0.967. Great. Now we have R, but don't forget, we're
+looking for R-squared, so we need to square
+0.967 to get 0.935. Now that we understand the
+math behind R-squared, let's look at how
+to do it in Excel. We'll return to our dataset
+and click on our trend line. Right on the Display
+Equation on chart, you'll see a button for Display
+R-squared value on chart. Click that and you're all set. What's a good R-squared? Well the higher the better, but there really is no
+one right answer here. In natural sciences
+or engineering, an R-squared should
+be at least 0.9, but in social sciences, R-squared can sometimes
+be as low as 0.2. You'll want to make sure that your R-squared stays similar across experiments to give you an idea of what your
+R-squared should be. Of course, the higher R-squared, the more certainty you have that your linear regression
+model is predictive. Much depends on how much certainty you or
+your company needs. After solving for R-squared, we need to solve
+for our P-value. The P-value is the
+likelihood the data would have occurred if the null
+hypothesis were true. The null hypothesis
+is when there is no significant difference
+between test populations, which generally means
+nothing happening. In our case, a null
+hypothesis would be spending money on Facebook does not have an
+impact on sales. Keep in mind, P-value tells you how likely the null
+hypothesis is to happen, not that our original
+hypothesis is true. P-value is also sometimes called the statistical
+significance of a set of data. Statistical significance
+is another way of saying the P-value of a statistical test
+is small enough to reject the null
+hypothesis of the test. How do we calculate P-value? The easiest way to
+calculate p-value is to use the Analysis
+ToolPak in Excel. If you don't already
+have to ToolPak installed, go to Tools, then Excel Add-ins, then
+click Analysis ToolPak. Once you have it installed, click Tools again, and
+then Data Analysis. Then you'll want to click t-Test: Paired Two
+Sample for Means. Place your range of
+X-variables into your variable 1
+range and range of Y variables into your
+variable 2 range. Leave your Hypothesized
+Mean Difference blank. This will return a list of
+variables in a new sheet, one of which is your P-value
+labeled as P(T is smaller or equal to t) one tail. What makes a good P-value? In general, data is
+considered statistically significant when the
+P-value is less than 0.05. In the case of our data, we can see our P-value is 0.00, so we can say our
+data is significant. Going back to our
+original question, we can now see that
+increasing spent on Facebook increases sales in a statistically significant way. Next, we'll talk about how
+linear regression is used in marketing and we'll
+also take a look at more complex
+forms of regression. Bye, you might need those.
+
+--- [FILE START: subtitle (11).txt] ---
+
+We learned what
+linear regression is, what it's used for, and the formula that
+guides the analysis. Now, let's look at this
+analysis in more detail. Let's take another
+look at the formula; y is the dependent variable, b is the slope of
+the regression line, x is the independent variable, and a is the y intercept
+of the regression line. We're first going to look at
+the equation and analysis manually and then we'll look
+at how to plot it in Excel. Let's focus on the
+following question. Do sales go up when we
+spend more on Facebook? In order to determine this, we'll look at the
+dataset picture here. It shows us the daily
+advertising spend on Facebook and the corresponding
+sales for the day. Generally, you'd want to
+look at a larger datasets of a moment or more in order to remove day of week
+and sample bias. But since we're doing
+manual math here, we'll keep it a little simpler. For our example, y, or the dependent variable, is sales and x, or the independent
+variable, is spent. Now we need to find a and b
+using the formulas seen here. No need to dwell on where
+the formulas come from here, but these are the mathematical
+formulas that will get us the slope b and the intercept
+a of our regression line. While these formulas may
+look a little complicated, the sigma in this
+equation means sum of. Anytime you see that symbol, you know we're looking for a sum of a variable
+or variables. We'll need to keep track
+of all of our variables. We'll want to calculate each one before jumping
+into the equation. First we need n, which is the number of
+data points we have. In this case, n equals 7. Next, we need to sum up
+our x column where we get 2,095 or in other words, sigma x or the sum of all
+our x values is 2,095. Then we need to sum up
+our y column where we get 85 or sigma y is 85. From here, we need to find
+the sum of x times y. We'll multiply x times
+y and then sum up all those values
+to get 26,438 or sigma XY is 26,438.Then we
+need to find x squared for each x value and sum all of
+those up equaling 654,457. Sigma x squared is 654,457. Lastly, we'll want to
+find y squared and add all of those numbers
+up to equal 1,071. Well, we won't use
+y squared now, it'll come in handy later. Sigma y squared is a 1,071. From here, we simply
+plug in the numbers into the equation to find
+our a and b values. Let's start with
+a, the intercept. First, we do our multiplication and then
+we do our subtraction. Divide our numerator
+by our denominator, and a or the y intercept of our regression
+line, is 1.255. Let's do the same for b. First we input all of our
+variables into the equation, then we multiply within
+our numerator and denominator and do
+our subtraction. Then lastly, divide the
+numerator by the denominator, and b or the slope of our
+regression line, is 0.036. Our linear regression
+formula is y equals 0.036 times x plus 1.255. Now you're probably
+thinking well, there must be an
+easier way to do this. You'd be right. Excel makes this possible
+in a few easy steps. First, you'll want to make sure your data is
+formatted correctly. Make sure your x axis for your
+independent variable is on the left and your y axis for your dependent variable
+is on the right. Second, you'll want to make
+a scatter plot of your data. You can do this by clicking "Insert" then clicking on
+the "Scatterplot" icon. Once you have your scatterplot, you'll want to add a trend line. You can do this by clicking any data point then
+clicking "Add Trendline". Make sure to choose a linear trend line
+when the box pops up. Lastly, you'll want to display
+the equation on the chart. You can do this by
+clicking the box that says "Display
+Equation on chart". Once we do this
+you'll see this is the same equation we came up with on our own, so great job. But we still need to
+answer the question, do sales go up when we
+spend more on Facebook? We can use our trend line
+to determine this quickly. We see an upward trend which indicates that as the
+independent variable, in our case spend, increases the
+dependent variable, or sales for us, also increases. We can answer the question
+and say yes, it does. That's great, but there are a few more steps we need
+to take before we can confidently claim that our advertising spent
+increases sales. We'll continue in
+the next video.
+
+--- [FILE START: subtitle (12).txt] ---
+
+Now that we've learned how to create a linear
+regression model, you may be wondering, well, what can we use this for? Well, linear regression models can be used in a lot
+of different ways. Let's explore a few. It's important to keep in
+mind that linear regression requires historical data to
+predict future patterns, therefore, all
+examples we discussed require historical data
+in order to execute. The historical data are
+used to come up with your regression model or to plot the trend line we just saw. Once you have that trend line, you can predict
+what will happen to the dependent variable when you change the independent variable. What is linear
+regression good for? In short, linear regression
+is a great way to answer how might
+this relate to that? For instance, one of the most common ways to
+use linear regression is to predict the impact of a price increase or
+decrease on sales. Using linear regression, we're
+able to look at the impact of previous price changes on sales to answer a question like, will the price
+increase or decrease change the number of sales
+based on historical data? Another common way we can use linear regression is to
+answer the question, does increased advertising
+spend lead to increased sales? Take, for example, the set of advertising spend and resulting sales data seen here. Once we plot our analysis, we see a positive correlation, meaning increased
+advertising spend does correlate positively
+to increased sales. Our R squared is 0.6827, meaning about 68
+percent of our change in sales can be
+correlated to ad spend, and 32 percent of our change
+in sales could be due to other factors like
+competitive availability, sales, the general marketplace, and desire for your product. This means that we can expect that we increase
+advertising spend, we will see increased sales. We can also use
+linear regression to forecast things like, does customer satisfaction
+impact sales? Does social engagement
+increase page visits? Do increased email open rates
+lead to increase sales? As you can see, the goal of any regression
+analysis is to see the correlation between
+one variable and another. In our next video, we'll take a look
+at how there are more complex forms of
+regression that consider the influence of more than
+one independent variable on the dependent variable.
+I will see you there.
+
+--- [FILE START: subtitle (13).txt] ---
+
+We've looked at linear regression as
+a predictive modeling technique that lets you analyze and predict the relationship
+between one independent and the dependent variable. Linear regression is one of many
+types of regression analysis. And the type of model that
+an analyst chooses for regression is based on the nature of
+the variables you're dealing with, and the relationship you expect between them. In linear regression, we expect there
+to be a linear relationship between the independent and dependent variable. So, if the independent variable changes
+with a certain amount, we expect that to have a constant effect on how
+much the dependent variable changes. For instance,
+if I spent $1000 more on advertising, I expect $6,000 more in sales. No matter how much I was already spending
+on advertising when I decided to increase my investment. But as we know from experience,
+that isn't always the case. So there are situations in which linear
+regression may not be the best choice. Scientists will rely on other models and machine learning to better
+predict outcomes over time. And while linear regression
+is a great starting point, sometimes more complex
+models are necessary. We won't go into those here, but I added a reference to a reading
+with more information. When we looked at linear regression so
+far, we showed how it can help us understand the relationship between one
+independent and one dependent variable. We refer to this as
+univariate linear regression, referring to the fact that we are only
+considering one independent variable. But you can also use linear regression
+to evaluate the effect of multiple independent variables on
+the dependent variable. In that case, we're talking about
+multivariate linear regression. For instance, you might want to evaluate
+data of advertising you ran on Google and on Facebook and
+look at the effect on sales. In that case the ad spent on Google and
+the ad spent on Facebook would both be independent variables, and your sales
+volume would be your dependent variable. The formula for multiple regression with three
+independent variables looks like this. Just as with linear regression,
+y is our dependent variable x1, x2, x3 are the different
+independent variables. And b1, b2, and b3 represent
+the slope of the regression line for each of the variables, assuming you
+keep the other variables constant. In other words, b tells you what
+happens to your dependent variable if this independent variable changes. We also refer to this as
+the regression coefficient. And a is your intercept. Say for my example with Google and
+Facebook advertising, I might find this regression formula. x1 is my advertising spend on Google and
+x2 is my advertising spend on Facebook. In this case, I can see that
+the influence of my ad spent on Google is bigger than the influence
+of my ad spend on Facebook. In other words, spending more on Google will have a bigger
+effect than spending more on Facebook ads. Multivariate regression is
+used a lot in marketing. Later in this course, we'll talk about
+marketing mix modeling, a technique used to optimize the marketing mix, which
+relies heavily on multivariate regression. One other important form of
+regression is logistic regression. In the linear regression models,
+we've talked about so far are dependent variable
+was a continuous variable. In logistic regression,
+the dependent variable is discreet. Or in other words,
+the dependent variable can only have one of two values like yes or no,
+for instance or true or false. Let's think about an example. You know how credit card companies
+are constantly on the lookout for fraudulent use of credit cards. They want to protect themselves as
+they don't want to be on the hook for payments on a stolen card, for instance. They'll constantly track different data
+points around the purchases that happen on the credit card. For instance, what's the type of purchase? What was the amount? What was the location of the purpose? What was the time interval
+between purchases? And so on. They will then use all that
+data to decide on whether or not a purchase was fraudulent. So the dependent variable in
+this case is the evaluation of the purchase as a fraud,
+with only two answers yes or no. The logistic regression model can help
+them evaluate how all the variables for which they have collected data
+influence this dependent variable. As we indicated before,
+there are many more regression models, but they go beyond the scope of this course. With the univariate and
+multivariate linear regression models, and your understanding of what
+logistic regression is used for, you now know the main models that
+are commonly used in marketing.
+
+--- [FILE START: 3 Ways to Calculate Profit Margins.txt] ---
+
+Profit margins
+Profit margins are useful in many ways, from estimating a customer’s lifetime value to gauging the success of your business. 
+
+
+There are three different ways of calculating profit margins. Let’s explore each one and how to calculate them.
+
+Gross profit margin
+Gross profit margin is an indicator of profits relative to production costs, basically looking at the total costs of goods sold, or COGS.  In gross profit margin, we use the total revenue generated by the goods minus the production costs for those goods. Gross profit margin is the easiest way to calculate profit margin, and often the most commonly used because it is so simple.
+
+The formula for gross profit margin is shown below:
+
+
+Let’s break it down even further with an example. Let’s say you have sold $1,000 worth of goods and you paid $400 to acquire those goods. First, you subtract 400 from 1000 to get 600, which is your profit. Then, you divide the profit by the total revenue, in this case 600 divided by 1000, to get 0.6. From there, our last step is to convert this to a percentage by multiplying by 100. This gives us a 60% gross profit margin. 
+
+
+Operating profit margin
+Operating profit margin is calculated as total revenue minus COGS minus business operating expenses divided by revenue times 100. Business operating expenses include, larger company operating expenses, and administrative expenses.
+
+
+Let’s go back to our example where we’ve sold $1,000 in goods. We’ve established that we’ve  paid $400 to acquire those goods, but operating and administrative expenses cost us an additional $200 to equal $600 total. Then, we go through the same steps we did before. Subtract 600 from 1000 to get 400, divide 400 by 1000, to get 0.4 then multiply by 100 to get 40%, our operating profit margin.
+
+
+As you can see, operating profit margin is lower than gross profit margin. It can give you a more realistic picture of your actual profit margin because it includes the costs of running your business as opposed to only factoring in the cost of the goods.
+
+Net
+Net profit margin includes total revenue minus COGS, business operating expenses, interest, taxes, and debt repayments, divided by revenue, times 100. 
+
+
+Let’s go back one last time to our example where we’ve sold $1,000 in goods. Remember, we paid $400 to acquire those goods, and operating and administrative expenses added $200 to that, so we subtracted $600. Now, including interest, taxes, and debt repayments subtracts another $100 for a total of $700 out. Similarly to the other two profit margin formulas, we subtract $700 from $1,000 to get $300, then $300 divided by $1000 equals 0.3. Last but not least we need to make this a percentage, so we multiply by 100 to get a 30% net profit margin.
+
+
+Our net profit margin is even lower than with the other two methods, but this is also even more accurate because we’re now including interest, taxes, and debt repayments into the mix.
+
+Conclusion
+As you can see, profit margin varies pretty widely depending on which formula you use. Each formula offers a different view of your business and is useful in its own way. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is CLTV?
+Customer lifetime value (CLTV) is the expected profitability of a consumer, and is forward looking, rather than an analysis of the current data to date. CLTV assumes that customers can or will change over time, whereas customer profitability only looks at how a customer has acted so far. CLTV allows us to focus not just on just the easiest acquisition, but also on acquiring long-term, profitable customers. Having a CLTV for a particular customer can even lead to increased return on investment by targeting customers who are likely to buy again and more often. 
+
+What a CLTV includes
+One of the most important pieces of forward-looking data that CLTV should incorporate is upcoming marketing programs, including any sort of current or upcoming marketing strategies as well as the expected results of those strategies.
+
+Additionally, CLTV should look at the current and future marketplace, for example whether competitors have entered or left the space. Has the category grown or shrunk? Understanding the environment allows an analyst working on CLTV to anticipate any changes a customer might make. 
+
+This brings us to our final consideration for CLTV, which is how have consumers changed? What are customers currently looking for from your product? Have purchasing habits changed at all for certain segments? For example, was our category hot and new but has now cooled down?
+
+These considerations allow us to create a forward-thinking predictive model that is flexible enough to respond to both consumer and marketplace shifts.
+
+Calculating CLTV
+So far, we have discussed why CLTV matters. However, it’s also important to know that there are multiple formulas to calculate CLTV. The approaches that we discussed in previous atoms were relatively straightforward, but CLTV calculation can actually become a lot more complicated if you keep in mind some other factors that may influence the value of your customers over time. Let’s not get too ahead of ourselves though! We’ll start with the individual level, given that it’s the most granular and can be applied not just at the individual but at the segment and business levels. 
+
+Individual CLTV
+The most basic formula defines CLTV as the average value of a sale times the average number of transactions times the customer retention period times profit margin. Firstly, the average value of a sale should come from the individual’s transaction history.The average number of transactions in a customer lifetime, customer retention period and profit margin should come from data gathered across the business. Finally, to calculate the average value of a sale, pull transaction history for that user and divide by number of transactions. Let’s break this down a little further: 
+
+If a consumer has spent $120 in 3 transactions, their average value of a sale is $40. 
+
+Let’s say the average customer of this business has 5 transactions, and that their retention period is 1 year. 
+
+Using the gross profit margin formula (detailed in atom 3), we can say that the gross profit margin is 60%.
+
+Multiply these together and we find that the CLTV is $120. 
+
+We can create individual CLTV as we’ve done using this example, or more commonly, we can create segments such as low, medium and high CLTV customers to harness the data to our advantage. This example uses the most basic formula, but other models bring in various other factors such as marketing and changes in the marketplace or consumer behavior. 
+
+
+Business-level CLTV
+Remember atom 4, where we looked at Calla & Ivy’s CLTV? Let’s revisit that to explore using CLTV for your business, first breaking down the basics of how Calla & Ivy owner Imra will go about her calculations. 
+
+First, Imra calculates the customer retention period using the churn rate, which is how many customers a business has lost in a given period (see atom 4 for a refresher on the formulas). She finds that her churn rate is 11%, which translates to a customer retention period of about 9 months. 
+
+Next, Imra calculates the average value of transactions, which she finds to be $47. 
+
+Third, Imra calculates the average number of transactions by dividing the number of transactions by the number of customers she had in 2020, which came out to 3. 
+
+Last, Imra calculates the profit margin, which turns out to be 46%. 
+
+Multiplying all of these together, we get a CLTV of $48.65 for a Calla & Ivy customer. 
+
+
+Using CLTV for marketing
+As you can see there are many ways to calculate and many uses for CLTV, and it can be a large component of a marketing strategy. There are also many ways to increase CLTV, such as loyalty programs, retargeting customers via phone calls and email and even customer service. No matter your approach, consider CLTV a great new feature in your marketing toolkit. 

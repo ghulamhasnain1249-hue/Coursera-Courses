@@ -1,0 +1,47 @@
+In this video,
+we're going to use Tableau Public to complete a model using a
+cluster analysis. First, you need to connect
+your data into Tableau. I've saved my data as a
+Microsoft Excel file, so I'm able to click on Microsoft Excel and
+then select my dataset, and then Tableau brings me
+to the Data source page. I'm able to see my data here so I can see that I have
+a column of ages, and I have a column of income
+values for specific ages. To begin the cluster analysis, we're going to need to
+move into our sheet. We're going to need to drag our variables to the
+rows and the columns. I'm going to bring age into my column and I'm going to
+bring income into my row. In previous videos, we've
+shown you how to change the scale of the axis
+by double clicking. In this video, we'll show
+you a shortcut where you can hit analysis and go
+to aggregate measures, and it's going to
+automatically adjust each axis to view the correct window to see all of the data points
+in the scatter plot. The first step to completing your cluster analysis is to
+create the scatter plot. What Tableau Public
+is now going to do is it's going to
+segment this scatter plot into different clusters based on the proximity and the values
+that it sees are required. Now, to complete that
+cluster analysis, we're going to go to analytics, or conversely, you could use the Analysis tab at
+the top of the screen, and we're going
+to go to cluster. Now, when you click "Cluster", nothing's going to happen, you have to actually
+select it and drag it. You'll notice that a menu populates asking you the number of clusters that you're wanting. We are wanting to leave it as automatic because
+that's going to let the model tell us the ideal
+situation for this data. Once I close this window, you'll notice we have
+four different clusters. It has taken this sample
+that spans multiple ages, and it's determined that
+these ages should be segmented into four
+different clusters : seen by the navy, the orange, the red, and then the green points. If you're curious what values
+each cluster encompasses, you can look at the
+border cluster dots here and see what
+those values are by moving your mouse
+over them to better help you understand the
+boundary for each cluster. For instance, at age 28
+and income of 38.37, it belongs in the red cluster. However, age 27, which is
+just one year difference, and an income of 37.86, which is fewer or smaller than one belongs in
+the green cluster. This will allow you to explore the different
+values in the clusters and understand the
+way that it has been segmented into
+different groups. Now that you've
+watched this video, you can use a cluster analysis to segment groups utilizing Tableau Public and
+its automatic feature that will group
+samples accordingly, and you are able to explore the values that fall
+within each cluster.

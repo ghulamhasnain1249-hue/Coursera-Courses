@@ -1,0 +1,39 @@
+In the previous video, I walked you through
+the main components of the Ads Manager reports. Depending on your
+campaign goals, you may find different
+metrics in your report. We'll talk more about
+that in our next lesson, but you may have reasons
+to structure your report differently from the default reports you see in Ads Manager. For instance, you may want
+to filter the data so you can focus on the metrics
+that matter most to you, or you may want to
+add a metric because it's an important KPI
+for your organization. Fortunately, Ads Manager comes with a few useful
+control features. Let's look at them
+in this video. First, you have the search and filter option at the top of the
+Campaigns page. This makes it easy to find any campaign ad set or ad you're looking for
+by its name or ID. You just click on what
+you want to search, such as campaign name, and then enter your search term. You can also use
+the filter feature. Ads Manager comes
+with a long list of predefined filters
+you can pick from. Each of the filtered
+categories you see here has subcategories, such as objectives, conversions, or audience age, 35-44. You can add multiple filters to help you uncover
+specific insights. Third, you can change the
+columns shown to you. To do this, go to the Columns button on the
+right side of the page. The default columns report
+is the performance report. You can also pick from other
+predefined sets of columns. If you pick Engagement,
+for example, you see all the
+metrics that describe how often your posts were liked, saved, or shared. You can also customize
+the columns you see by clicking on
+"Customize Columns". One final control feature we'll want to check
+out is the breakdown. You can find this
+button to the right of the Columns 1 on the
+right side of the page. Its drop-down menu
+options allow you to break down the performance
+of your campaign by time, who it was delivered to, and what actions people
+took on your ads. When you pick Breakdown
+by Week, for example, Ads Manager will break down all data by each week that
+your ads were active. Each row here shows you the
+data for a specific week. This can be a handy
+tool to compare performance across different
+time periods or audiences.

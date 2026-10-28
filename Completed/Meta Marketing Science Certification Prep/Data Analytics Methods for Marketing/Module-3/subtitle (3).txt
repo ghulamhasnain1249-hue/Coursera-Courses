@@ -1,0 +1,29 @@
+Deciding on the Use of Experimental or Observational Methods
+0:01
+/
+4:28
+Experiments and Marketing
+You might not have thought you’d get quite so scientific when it came to coming up with marketing strategies and campaigns for your business, but brushing up on one skill from your old science class can actually come in handy here: conducting an experiment. Don’t worry, it’s a lot easier than you might think.
+
+Observational and Experimental Methods
+Ok, so it won’t all be experiments when exploring the results of your marketing activities. As we learned in the previous videos, there are a few different methods for analyzing the effects your marketing campaigns have had on your target audience. Let’s look at a couple. 
+
+Experimental
+As the name suggests, this method involves a bit of experimentation. In order to successfully utilize this approach, you’ll have to carefully plan your experiment in advance of actually executing your marketing campaign. This will help you not only organize the experiment itself, but will help it be as accurate as possible. Usually, an experiment involves planning for one group of people to be exposed to an ad and another group to not be exposed to the ad. Then, you run your campaign, whether it’s TV, digital or another form. Once the campaign is over, you’ll then look at your results, usually sales, to see how the ad did. If you’ve made all variables except for exposure to your ad equal for both groups of people, you can make a few conclusions from these results. For example, if the group that did see the ad saw more sales than the group that did not, chances are your ad made a difference. 
+
+Observational
+Let’s say, however, that you don’t have the budget or resources to conduct an experiment as described above. Or maybe you have already completed a campaign and are trying to assess your ad after the fact. This is where observational methods come into play. Essentially, this method uses observations based on the information you are given to infer the impact of a campaign, without being able to control any of the variables. For researchers in general, this means they’re comparing the two groups without the guarantee that they are alike in every way, as with a controlled experiment. For marketers, this means they have to make educated guesses about causal relationships between the ads and sales, just by going off the insights derived from the given information. 
+
+So, you may wonder, why use observational methods at all if you can rely on experiments?  Well, there are cases where it is just not feasible to run an experiment.  You may not be able to control who does or doesn’t see your ad as tightly as you may want to.  Or, you may not have the budget to isolate the required groups of people. In that case, you will try to define groups of people who were and weren’t exposed after the fact. 
+
+There is a large body of research that studies how to best find ‘naturally occuring experiments’ or how to isolate groups that are as similar as possible except for the variable you are interested in.  If you can do that successfully, you can still infer causal relationships between the treatment variable and the results you are interested in, like sales for instance.   In fact,
+ researchers David Card, Joshua Angrist and Guido Imbens won the 2021 Nobel Prize in economics
+ for their contributions to this field.  
+
+In the video linked below, Guido Imbens explains to his kids what his research involves.  From this video, you’ll learn that mimicking experiments through observational methods has far reaching applications in many different fields. 
+
+Stanford economist and Nobel laureate Guido Imbens discusses his work with his kids
+How Does This Help My Business?
+Over the  course of this lesson, we’ve learned that measuring the effectiveness of your advertisements is a key part of successful marketing your business. Not only does it help you decide whether a particular campaign was effective, it could help you make further marketing decisions. Although it can be a little tricky gauging the effectiveness, it’s worth exploring the effectiveness of your advertising campaigns using quantifiable measurements. These methods give you different options, depending on where you are in your marketing strategy, what budget you have available and what sort of information you are looking for or already have. 
+
+

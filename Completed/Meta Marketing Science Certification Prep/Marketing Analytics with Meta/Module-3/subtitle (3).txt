@@ -1,0 +1,61 @@
+You can use conversion
+lift tests to evaluate effectiveness of your conversion
+focused advertising. Information on the effectiveness
+of your campaigns will also help you decide your
+future advertising strategy. Of course to do that
+well you'll have to draw the right conclusions
+from your study. We'll talk about how to
+do that in this video. Forty-eight hours after
+the tests stopped running, the results will
+become available. As we discussed in our last
+video conversion lift tests are run with the help of a
+Facebook representative. They will communicate with
+you about the results. Here's an example of the
+results you might receive. The conversion lift tells you how many additional conversions happened as a
+result of your ads. In this example, there were 8,297
+conversions from people who saw your ad that would not have happened
+without your campaign. Let's take a closer
+look at the graph here. It tells us that
+there were a total of 16,917 conversions from people who were exposed to the
+advertising campaign. Based on our test, we know that 8,297 of those
+were incremental when you compare to the group
+of people who were not exposed to the ad or
+our control group. In other words,
+without a campaign, I would have received 8,620 conversions instead of 16,917. Based on this information we could calculate lift percent. For that, we should divide the number of
+additional conversions by the number of
+conversions we would have gotten without ads times 100. For our example, the lift percentage
+would be 8,297 or the incremental
+conversions divided by 16,917 minus 8,297, or in other words
+divided by 8,620. The number of
+conversions I would've received if I had
+not run any ads, that is a lift of 96 percent. Note that you also get an evaluation of the cost
+per conversion lift. Note that the word lift
+is really important here. It is the cost of each additional conversion
+costs by your ads, so this metric reflects
+what you spend on the campaign divided by the incremental
+conversions you got. One final part of this report
+to pay attention to is the top part here that shows
+us the confidence level. In this particular case, the test has a high confidence
+level of 99.9 percent. This means that if you were to repeat this test with
+the exact same setup, there is a 99.9 percent
+chance you will again find that your ads costs
+a lift in conversions. In other words, this result was not just chance there
+is a real effect. You could also read
+it is as follows, you can accept your hypothesis
+that your campaign lifts conversions with a 99.9
+percent certainty. If the confidence level for
+your test isn't very high, you might want to try to run
+your test for a bit longer. You may also need to increase your advertising budget
+to see a bigger effect. It's also worth
+noting that if your desired to action happens
+to lowering the funnel, for instance if you want to influence people's
+intent to purchase, it can be harder to affect lift and larger budgets
+may be required. As you can tell from looking
+at this report the result of a conversion lift test gives you all the information you need
+to answer the questions, what was the effect of my
+advertising on conversions? Were my ads worth the
+money I spend on them? Experiments when
+they're well-designed make it easy to answer
+these questions. In our next video, we will take another
+look at what it takes to design a
+good experiment.

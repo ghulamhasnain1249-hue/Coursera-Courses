@@ -1,0 +1,51 @@
+>> Every study begins with a question like
+how can we improve customer interactions? This may seem obvious to some people,
+but every study is based on a question. In this video, we will practice writing strong
+questions guiding a statistical study. This question is called many different
+things, but for this course, we will call this a research question. A research question is a question that
+a statistical analysis sets out to answer. Research questions can come
+from anyone seeking answers, including academics, business leaders,
+healthcare professionals, a client, or even government officials,
+just to name a few. These questions guide studies
+exploring new knowledge, solving specific challenges,
+or making informed decisions. With so many possible people coming
+up with questions, how do you, as a data analyst, refine a question
+to be a good research question? Let's explore some of the qualities
+of a good research question. First, be specific. Broad questions can be
+challenging to address. For instance, wondering, will I be
+healthier this year, is too vague. Instead, break it down into
+manageable questions like how many times a week should I
+exercise to improve my stamina? Or what dietary changes can
+lower my cholesterol this year? The clearer and more precise your
+questions, the easier they are to answer. Second, ensure your research
+question aligns with your goals. For instance, finding a link
+between types of exercise and life satisfaction is interesting, but
+if you aim to lower health risks, it doesn't directly align with your goals. Your question should directly
+align with improving your health. Last check if you have
+the resources to obtain new data or must use existing health datasets,
+know what information and variables you can use as asking
+questions your data cannot answer means you can't conduct your study. Instead, work within the resources
+available to you and be a creative thinker in
+obtaining the data you need. Let's evaluate an example question and
+see if it meets all of these criteria. In our health example, lets assume
+that the goal is to study factors that can lower blood pressure over time. The question, does incorporating
+30 minutes of cardiovascular exercise into my daily routine decrease
+my blood pressure over six months, was proposed to guide the study. Does it meet the criteria? For a good research question? Let's find out. This question is specific because it
+targets a particular type of exercise, cardiovascular, and a defined duration,
+30 minutes daily, and a clear outcome, decrease in blood pressure,
+within a set time frame of six months. It avoids vagueness and
+provides a clear focus for the study. The question aligns with the goal
+of studying ways to lower blood pressure over time. It focuses on a lifestyle change
+daily cardiovascular exercise and its effects on blood pressure,
+a key factor in many health issues. This question requires measuring
+blood pressure accurately using personal monitors or
+healthcare services over time. It's possible you or
+your team can monitor these metrics for six months using a blood pressure monitor,
+which is low cost and could even transmit data directly
+from a participant to your team. Overall, this question meets the criteria. It's specific, aligns with health goals,
+and is achievable given resource limits, making it a solid choice for
+health research. Asking a question might seem
+straightforward, but in statistics it's one of the most important steps in
+a study as it directs the whole process. Imagine the question as
+a destination in your gps. It doesn't just start your journey,
+it guides you all the way to the answer.

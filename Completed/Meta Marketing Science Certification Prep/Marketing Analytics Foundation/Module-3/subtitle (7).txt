@@ -1,0 +1,16 @@
+The best way to learn what Google
+Analytics has to offer is to get some hands-on experience with the tool. But of course to try
+the tool you need a dataset. Fortunately, Google has provided
+a dataset with real data from its online merchandise store that you can use to
+familiarize yourself with the tool. Let's check it out. First, let me tell you a bit
+about where the data comes from. Google has an online merchandise store
+where you can buy Google branded products like t-shirts, mugs, bags, etc. This is the store and
+you can check it out at this URL, shop.googlemerchandisestore.com, go
+check it out. Knowing the website will help you
+understand the data you'll get to see later. Google integrated Google Analytics
+tags on this site and thus data from people interacting with
+the site is sent back to Google Analytics. Anyone with a Google account
+can get access to their data. In the reading that follows, we explain how you can access the data
+inside a Google Analytics account. You can follow the instructions
+to get access yourself, and you can start exploring the data
+in the exercises that follow.

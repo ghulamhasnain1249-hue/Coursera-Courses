@@ -1,0 +1,67 @@
+Now that we know how to
+determine a campaign budget, let's talk about how we set
+that budget in Ads Manager. First it's important to
+remember that a budget you set an Ads Manager is not necessarily the
+amount you'll spent. For example you don't buy
+an ad campaign for $100. You instead indicates to
+Facebook how much you want to spend on an ad campaign
+over a given time period. If you set a maximum
+budget of $100 to be spent over a
+month but Facebook only spend $70 in advertising that month based on the
+campaign's performance, your bill will be $70. When you first set up a
+campaign in Ads Manager, you have the option
+to either set a campaign budget or set
+individual ad set budgets. Setting a budget at
+the campaign level allows Facebook to
+dynamically assign budgets to ad sets based on
+their performance therefore maximizing your
+spending efficiency. This tool is known as
+campaign budget optimization. Setting a budget at the ad
+set level lets you control how much money you spent
+on each individual ad set. In general we recommend
+setting your budget at a campaign level if you
+have two or more ad sets. That's because if you
+set up your budget at the ad set level you'll
+end up paying more per desired outcome because
+you won't benefit from Facebook's campaign budget
+optimization option. As we mentioned before Facebook's campaign budget
+optimization directs your advertising dollars
+to the ad sets that are providing the best outcome
+at any given moment in time. This means that if you have two active ad sets
+in one campaign, Facebook might
+spend 90 percent of your budget on the
+first ad set if that asset is getting most efficient outcomes
+based on your objective. Campaign budget
+optimization uses machine learning to optimize
+your campaign budget. It's almost impossible
+for us humans to replicate that degree of
+precision and calculation. While you may feel tempted to optimize your campaign
+budget yourself, we recommend enabling campaign budget
+optimization and letting the machine do the
+work for you if you choose to use multiple ad sets. Once you click the Campaign
+Budget Optimization toggle it'll prompt you to enter a budget for
+your campaign. Facebook offers two types of budgets to control
+how much you spent on a campaign or ad set: daily budgets and
+lifetime budgets. We'll briefly go over each. When you set your daily budget, you're setting an
+average amount you're willing to spend on a
+campaign every day. The actual amount spend can
+vary slightly day-to-day. Facebook may spend
+up to 25 percent more than what you set as a daily budget if they see potential for better
+results on a certain day. But if they spend
+more on a day with lots of opportunities for
+good campaign results, they'll spend fewer on a
+day with less which means your daily budget will always average out to your set amount. When you set a lifetime budget you're telling Facebook how much you're willing
+to spend over the entire run-time
+of your campaign. You will never be charged more
+than your lifetime budget. In most cases Facebook
+will aim to spend your budget evenly over
+your campaign's lifetime. Let's say we set a
+lifetime budget of $700. We'll then provide Facebook with the schedule on
+the ad set level. Once we've set up our
+ad set schedules, Facebook will know our
+full campaign runtime. They'll make sure to
+spread out to budget more or less evenly
+during that time. There are few more
+options we can use to optimize our
+campaign strategy. We'll cover them
+in the next video.

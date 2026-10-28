@@ -1,0 +1,19 @@
+We've talked about the
+different types of data marketers and
+marketing analysts work with, and how these days, a lot of data is related to the
+use of digital media. We get data about different
+websites people visit, the way they
+navigate on websites, the products they
+purchase online, apps they download, ads
+they see, and so on. In order to get the most out of the data that's available
+to you as a marketer, it's important to understand
+how this data is collected. That's what we will
+cover in this lesson. First, we'll go over how online interactions
+generate data. Then, we'll take a look at data collection on
+websites using cookies. We will also look at the
+use of tags or pixels. Then, we'll take a
+closer look at the use of software developer kits or SDKs for data collection
+for mobile apps. We'll also discuss the use of Platform APIs to
+help connect data that a company may
+already have to the advertising platforms
+they may want to use. Finally, we will look at the use of UIDs. Let's get started.

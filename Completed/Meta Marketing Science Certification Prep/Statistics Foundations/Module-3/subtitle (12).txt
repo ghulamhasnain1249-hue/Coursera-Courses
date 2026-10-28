@@ -1,0 +1,94 @@
+When did a friend's
+positive movie review last make you ignore its
+lukewarm online ratings? This example of social bias
+demonstrates how the opinions of those around us can influence our choices
+and perceptions, affecting decisions from movie watching to broader beliefs. Recognizing your
+bias is important to completing statistical
+studies as a data analyst. In this video, we will explore
+the common forms of bias to recognize it and eliminate potential skewing of
+the data from bias. Let's begin with
+statistical bias. Statistical bias occurs
+when a model, experiment, or survey is conducted
+in a way that makes the result unrepresentative
+of the population. One example of bias
+is if a survey about city park usage only includes responses from
+people living near the parks. What about the responses from residents of the city that
+don't live near the park? The results of this survey may not accurately
+reflect the views of all city residents,
+demonstrating statistical bias. To further help you
+be aware of bias, let's look at other common
+types and how to avoid them. Survey bias is a
+common type of bias. Survey bias is when
+the actions you take while giving a survey
+will skew the results. The order of answers or questions can bias
+survey responses. For example, respondents
+might favor the first option listed or be influenced by initial questions
+about your company, affecting their later choices. Modern survey tools combat this by randomly ordering
+questions and answers. Leading questions that suggest a specific answer
+like would you prefer the delightful Product A or the disgusting Product
+B skew results and should be carefully avoided. Avoid leading questions
+by ensuring they are neutral and do not
+suggest a preferred response. Recall bias occurs when respondents misremember
+past events, like overestimating how often
+they exercise last month. To avoid recall bias, avoid open-ended questions about the past or make such questions multiple
+choice and specific. Another type of bias
+is cultural bias. Cultural bias is the tendency to interpret or judge
+behaviors, values, or phenomenon based on the
+standards of one's culture, potentially overlooking
+or misrepresenting the perspectives
+of other cultures. Cultural bias occurs when interpretations are based on
+your own cultural standards, leading to misunderstandings
+when applied globally. For instance, phrase
+that's meaningful in one culture may not
+translate well in another. To avoid cultural bias, consider using local
+survey conductors familiar with the
+culture to ensure translations capture the
+intended meaning and use localization groups to adopt content for
+different regions. Another type of bias
+is confirmation bias. Confirmation bias occurs when
+you actively look for data, survey responses, or other information that proves
+your hypothesis is correct. For example, if you search for proof that your favorite
+diet is the most effective, you're likely to find
+supporting evidence true or not due to confirmation bias. To avoid confirmation bias, collect data objectively without trying to confirm
+your initial beliefs. Stay open-minded and skeptical to ensure a balanced approach. Now, let's explore
+observation bias. Observation bias is the
+idea that people will act differently when they
+know they're being watched, so you may not get
+accurate answers. Simply said, people may behave differently if they know
+they're being observed, potentially leading to
+inaccurate responses. For example, in a
+study on productivity, employees might work
+harder if they're aware they're being monitored,
+skewing the results. Obvious signs of observation, such as cameras or note takers, can influence
+participants' behavior, leading them to provide socially desirable
+answers instead of their true opinions. To minimize this, use subtle
+observation methods for sensitive questions and opt for anonymous surveys to
+encourage honest responses. The final type of bias
+is selection bias. Selection bias occurs when the process used to
+select participants or data analysis results in a sample that is not
+representative of the population. For example, if a study on exercise habits only
+includes gym members, it may overlook the exercise
+routines of those working at home or outdoors,
+demonstrating selection bias. The best way to avoid this
+is to make sure you use the random sampling techniques we taught you earlier
+in this course. Let's use a brief
+example of a survey from our pet store,
+Inu and Neko. Carlos wants to write a short
+survey to see if Inu and Neko's customers prefer their dog food
+brand to other brands. Carlos asked, Question 1, do you like the delicious Inu
+and Neko brand of dog food? A, yes. B, no. Question 2, what is
+your favorite brand? A, Inu and Neko. B, Brand B. C, Brand C. Question 3, please describe how
+your dog reacted the first time it had Inu
+and Neko brand dog food. This survey is
+spectacularly biased. Words like delicious make question one a leading question. Additionally, both
+the first question and the first answer to the second question
+introduce order bias in that Inu and Neko
+is listed first. Finally, the third question
+introduces recall bias, where the survey
+taker is asked to remember a time they
+may not be able to. All in all, this survey
+probably needs some help. You now understand general bias and some of the common
+types to avoid. However, many biases exist. So if you suspect
+bias in your data, pause, review your work, and consider a second opinion. Remember, biased results
+are worse than no results, since they should not be
+used for decision-making.

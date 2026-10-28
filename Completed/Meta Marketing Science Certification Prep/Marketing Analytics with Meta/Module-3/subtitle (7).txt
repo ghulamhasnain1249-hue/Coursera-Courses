@@ -1,0 +1,92 @@
+Facebook offers the option to
+create a brand lift test for your brand-focused campaigns. In fact, for brand lift tests, you can set the test stop right
+inside the Facebook platform. And contrary to the conversion lift
+studies, you don't have to work with someone at Facebook to run a test,
+you can do it all yourself. So let's take a look. Let's go back to the example we
+talked about in the previous video. Imra at Calla&Ivy plans to run a campaign
+focused on generating awareness for the purchase options she
+offers on her website. When Imra decides to run her
+awareness focused campaign, she had a certain goal in mind. Imra's SMART goal for this campaign is
+increase awareness of the Calla&Ivy online purchase option with 10 percentage points
+among the target audience by November. This goal helped Imra create her campaign,
+and it will now help her to evaluate
+whether her campaign was successful. The brand lift test specifically
+will help her measure this. After Imra creates her
+campaign in Ads Manager, she can set up the brand lift test
+using the Facebook experiment tool. This is part of the business tools in
+Facebook which you can find by navigating from your Ads Manager here. It's important to remember you have to run
+an experiment after you create a campaign but before you start running it, otherwise
+you can't create a proper control group. After you click Tests,
+you land on the Facebook experiment page, where you'll find the Brand Survey option. Click that option and
+then you're ready to start testing. Note that not all ads manager accounts
+are eligible to use this test platform. You have to have a certain level
+of money spent in your account. Facebook also suggests that in order to
+run a successful test, you should at least spend about $30,000 on advertising
+in the campaigns you're testing. When you think about how these tests
+are conducted, that makes sense. After all, as we learned, we're going
+to compare the difference between ad awareness for people who did and
+those who didn't see your ad. In order to see a difference, you need to poll a large enough audience
+about whether or not they saw your ad. So that means you have to have
+a certain budget to make the test work. Let me walk you through
+the steps at a high level, as it will help you understand
+how the tests run in practice. You might be surprised at how
+easy these tests are to run. The first section of the brand
+survey focuses on the Test Details. You start by specifying
+what you're testing. You can test the effect of all the
+campaigns that are running in your account together. Or you can test the effect
+of a group of campaigns. Or you can test a specific campaign. In Imra's case, a specific campaign
+would be the right choice. She'll specifically choose
+the awareness campaign she created. As part of the test details, you also
+specify the name of your Facebook page. This will later on be used to identify
+your brand in the poll questions, so users know who these
+questions are coming from. You'll also specify the region where
+your target audience lives and the vertical your brand belongs to. Then you select a date range for
+your test and you name your experiment. Then you get to the core of the test
+set up, creating your poll questions. The first question is
+the standard ad recall poll. That one is always included in your test. This question basically asks respondents
+whether they recall seeing your ad. You can customize the question
+here to make sure it best reflects the type of ad that you created and
+your brand. For Imra's ad,
+this question looks like this. Then you can add up to two more questions. Imra decided to add one more question
+to evaluate how familiar people are with Calla&Ivy. When you've added your questions,
+your test is basically ready to run. You also get an estimate of the power
+of the test that you've created. This tells you whether your test
+is likely to be successful or have enough power to give
+you significant results. The power of a test depends
+on the questions you use and the time frame in which you run your test. If your test runs for a longer time,
+you'll get more responses and your results will thus be more reliable. And that's it, the test is created. Just as we did when we discussed
+conversion lift tests, let's discuss a few best practices. Let's start with the duration. It's good to keep a brand lift
+study running for a little while, four to six weeks is
+what Facebook suggests. That allows for enough time to get a sufficient number of
+people to respond to the brand survey. We already indicated that you need high
+enough budget to run this type of test. In fact, you should have a budget
+that's high enough to allow for an average of two ad impressions
+per person per week. Facebook also sets a required minimum
+spend, in the US, that's $30,000. Of course, your creative should be very recognizable
+as being associated with your brand. Remember that we will ask people later on
+whether they recall seeing an ad for your brand, so it's essential that they realize
+who the ad is for when they see it. Just as with conversion lift studies, you
+want to minimize the overlap with other campaigns for
+the audience you want to see your ads. Facebook also recommends that you achieve
+a minimum reach of 2 million people with your ad campaign. In other words,
+your audience should be big enough. And as we discussed with
+conversion lift studies, Facebook also recommends a dark period for brand lift studies where you don't show
+the audience any ads for your brand. Facebook also suggests that you
+create polling questions for different stages of the funnel to get
+a full picture of your brand effect. Here are the questions they suggest. If your campaign goal is more
+focused on generating awareness, which would be the top of the funnel,
+questions like, do you recall seeing an ad for X,
+or have you heard of X, work well. For mid funnel campaigns that
+focus on engagement with a brand, you can ask questions like,
+how familiar are you with X, and how would you describe
+your overall opinion of X? If your campaign is focused on the lower
+part of the funnel, you can use questions like, will you recommend X to a friend, or
+how likely are you to consider buying X? It's good to keep in mind though that
+while that last question asks about intention to buy, it doesn't necessarily
+predict whether people will convert. If you want to test the effect of
+your campaign on actual conversions, you should use conversion
+lift test instead. Finally, just as with
+conversion lift campaigns, you shouldn't edit your campaign while
+you're running a brand lift test, and ideally, you don't end your test early. With these recommendations in mind,
+you can run your brand lift test. Let's take a look at
+the results in the next video.

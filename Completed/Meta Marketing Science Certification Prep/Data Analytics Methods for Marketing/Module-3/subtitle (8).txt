@@ -1,0 +1,45 @@
+In our last video, we saw what it takes to
+run a good experiment. Now, let's look at the
+nature of the results that come out of an experiment and
+how you can interpret them. Remember that we run experiments to try to prove a hypothesis. In advertising, this hypothesis usually is an expected
+effect of our advertising. For instance, the Carousel
+ad campaign I run on Facebook will significantly lift the number of purchases
+of my product. The results of your
+experiments will help you to accept or reject
+that hypothesis. In fact, your
+experiment will let you conclude without a doubt
+that your treatment, the advertising campaign, is responsible for the lift
+in sales you're seeing. Results from an experiment
+consist of two parts. First, you will get a number of incremental results
+caused by your treatment. In our example, the number of extra sales as a result
+of our advertising. You get this number by
+looking at the conversions in both the control and
+the experimental group. The difference in
+the conversions you see in the experimental and the control group is your lift and is a result
+of your treatment. The second part of the
+results is an evaluation of how powerful your experiment
+and its result is. Depending on the size of
+your test and control group, you will get a measure
+of how confident you can be in the results
+of your experiments. This measure is expressed as a confidence or
+power percentage. It's a measure of the likelihood of causal results of your test. It represents the
+likelihood that a test's outcome would be the same if the test was repeated again under the same condition. For instance, the results of
+your experiment might show a 10 percent lift in results and a 90 percent
+confidence interval. That means that
+the likelihood of you seeing the same
+result when you repeat the tests again under the same conditions
+is 90 percent. A confidence interval
+of 90 percent or higher is considered good to be confident in a
+causal relationship between your ads and the
+lift you are observing. Lift tests can help a marketer evaluate a campaign's
+effectiveness and they can also be helpful in making strategic decisions about
+how to use budgets. By running multiple experiments, you could evaluate two
+conflicting strategies and decide on which one results in a higher increase in
+sales, for instance. That concludes our
+lesson on experiments used to test the
+effectiveness of advertising. The type of experiments
+we explored are referred to as random control
+experiments or RCT, and they use a control group. In our next lesson, we'll discuss another form
+of experiments, AB tests. It's a form of experiment that does not use a control group, but that can be super
+helpful as a tool to optimize campaigns.
+I'll see you there.

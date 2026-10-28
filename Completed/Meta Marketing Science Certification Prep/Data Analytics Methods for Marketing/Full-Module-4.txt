@@ -1,0 +1,1146 @@
+
+
+--- [FILE START: subtitle.txt] ---
+
+So far, you've learned about the important outcome
+variables marketers focus on and how
+to calculate them. We saw how to find segments to help us determine
+our target audience, and you learned how you can use regression to help you
+plan and forecast. We also covered the
+different ways in which you can analyze
+the effectiveness of a campaign using observational or
+experimental methods. But as you can imagine, marketers need to look
+beyond one campaign and they often juggle different campaigns and actions on
+different platforms. It's great to evaluate
+the effectiveness of each of those
+actions individually. But you also want to understand
+how all these actions and efforts work together to ultimately help you
+reach your goal. Which of your ads was
+most influential? Where should you allocate your precious marketing dollars? Which parts of the sales funnel are affected by my actions? All of these are very common and
+important questions that marketing analysts
+help to answer. This week, you'll learn about different optimization
+techniques and you'll finish with a new
+set of tools that you can apply in your
+role as an analyst. In this first lesson, we're going to focus on
+marketing mix modeling, a technique that
+brings historical data from marketing actions in
+different channels together, and through iterative modeling, helps you understand how much each of them influence
+your results. Then we'll look at attribution, which also looks
+across channels, but it's often used to evaluate
+digital channels only. Attribution analysis is a
+bit more immediate than marketing mix modeling and uses a different approach
+to building a model. Finally, we'll look at how you can analyze
+your sales funnel to understand how your company is performing at the awareness, consideration, and
+conversion stage and what that could mean for
+your marketing optimization. Another full week, so
+let's get started.
+
+--- [FILE START: subtitle (1).txt] ---
+
+So far, we've looked at using
+statistical modeling for a number of individual
+marketing questions, like which audience is likely
+to buy a specific product or what's the impact of a certain
+website design on sales or how much ad spent should I budget
+based on past performance and how does a certain banner ad placement
+affect click through rate as a marketer. You certainly want to understand how each
+individual action impacts your brand awareness conversions and sales. But what about the big picture when you
+are working on your marketing strategy and planning the budget, you should spend,
+you will want to get more insight into the impact of all your individual
+marketing initiatives working together. Marketing mix modeling can help with that. Similar to all the other
+analysis we've seen, you would gather the data from each
+of your marketing initiatives. Then you would apply an analysis
+that looks at all that data and finally gives you a model that shows
+the combined impact your marketing efforts have on your sales and revenue. In other words, it gives you a model
+that shows you what's working and what's not, that's how it gets its name. You're not just looking at one
+marketing channel or initiative, but a mix of them to see which
+strategies work and which don't. Knowing which strategies are the most
+effective and which generate most sales means that you can focus on those
+strategies in your marketing efforts and do away with or rethink
+the strategies that aren't working and you can rebalance your
+budgets to reflect that, let's take another look at our
+flower shop Calla and Ivy. To see how they might use
+marketing mix modeling Imra at Calla and Ivy has reached the point where
+she has been in business for a few years and she wants to gain
+a greater insight into how her marketing efforts have impacted her
+sales over that time. She's used a mix of marketing efforts and
+as she thinks about how to budget for marketing in the future, she wants to make sure her money is
+spent as effectively as possible. She's already tracked a number of
+individual marketing efforts and their impact on her sales. For example, she ran a Facebook campaign
+last holiday Season during which online orders increased by 10%. In this past Mother's Day, she took out a series of print ads during
+which in store sales bumped $5,000. Camera could assume that the 10%
+increase in online sales is directly attributed to the Facebook ad Campaign and
+the 5000 extra dollars in in store sales is directly attributed to
+the print ads, but other Calla and ivy marketing initiatives were
+happening during that time as well. In addition to Facebook ads at holidays,
+Imra was doing a lot of organic engagement on social media and in addition
+to the print ads around Mother's Day, Imra did a Facebook live session to
+talk about planning flower purchases. She also sponsored the post on Instagram
+in partnership with another local shop. So which efforts actually
+resulted in those sales if it was the Facebook campaign and the print
+ads that directly caused those sales, then Imra will know that those
+investments were money well spent. But what if it was the unpaid organic
+engagement on social media that really led to those sales,
+then Imra knows she can save money in the future by investing time and
+creativity into organic channels. But what if it was the sponsored posts on
+Instagram that actually led to the sales? Or what if it was a combination of all of
+these initiatives that led to these sales? How would she know ? Marketing Mixed Model will tell us the answer, let's get started on learning
+more about how this works.
+
+--- [FILE START: subtitle (2).txt] ---
+
+In our last video,
+we learned that Imra at Calla and Ivy is looking to better understand where
+her marketing dollars are going and if her efforts are truly
+making an impact on her sales. She has been able to study the impact
+of individual market efforts, but she wants a more comprehensive
+look at how all of her marketing efforts are impacting her sales. In order to do that, she's going
+to use a marketing mixed model. Let's look at what marketing mix
+modeling is, how it works and how this can help Imra in this video. Marketing mix modeling, sometimes also
+referred to as media mix modeling or just MMM is a data driven
+statistical analysis that quantifies the incremental sales impact in
+ROI of marketing activities. It's an established measurement
+solution for holistic cross channel sales measurement that can take both
+offline and online data into account. MMM uses historical data to
+quantify the impact of a large set of variables on sales. These variables can be marketing or
+non marketing related. Like for
+instance the opening of a new store or the season during which
+you are evaluating data. The result is a model that helps marketers
+understand what influenced past sales and predict what might happen as
+a result of future marketing action. Let's look at the different
+steps involved in MMM. In most cases,
+marketing analysts will work with a research provider who
+does the actual modeling. But you need to understand the steps,
+so you can fully support this process. First, you start by identifying all
+the different variables that could impact sales, again this can be
+marketing and non marketing variables. As I'm sure you can imagine there can
+be a very large number of variables. This is an example of what a variable
+landscape could look like for an airline, the red variables directly
+related to marketing campaigns. You see things like TV ads,
+social media ads, PPC display and so on. The blue variables are other variables
+that may affect sales like seasonality, loyalty program membership and so forth. Once you have identified
+all the variables, data collection begins a good time
+to think of the osemn model again. Which you will remember if you completed
+the second course in this program. You'll have to identify how you can
+obtain the data for each one of these variables and you'll have to scrub them,
+make sure that they're clean. This may already be a large amount of data
+for any given month, but for a marketing mixed model to really understand
+the environment of your business. The general rule is to have at
+least two years worth of data. With two years of data, you know that you're not only
+capturing a solid sample size. But that you're accurately capturing
+large factors like seasonality and market conditions that may
+impact your sales as well. Even if you work with a vendor,
+you'll have to assist in this process. Later we'll also see how
+platforms like Facebook for instance may provide you with direct
+access to the data you need via an API. Then it's time for modeling,
+MMM uses a form of multi variant linear regression analysis to quantify
+the impact of all the different variables on the outcome or
+your key performance indicator. All the variables that may impact your
+KPI are considered independent variables. A marketing mixed model is a long
+mathematical equation which shows the statistical relationship between
+all the independent variables and your outcome variable. At high level The equation looks
+like this, KPIt stands for the key performance indicator
+at time T you want to model. Beta refers to the coefficients or
+what changed in the variable means for the KPI similar to the regression
+coefficients we talked about earlier. Beta zero refers to
+the base performance or what performance would look like if
+all the other variables were zero. So no media, no marketing,
+no promotions, no seasonality and so on. the goal for the modeler is to come up with
+the model that best fits your data and explains as much as
+possible of the outcome variable with the combination
+of independent variables. So the model should be giving us the
+closest possible prediction of the KPI. Based on the modeled
+combination of the independent variables while keeping the error
+in our model as small as possible. The closer the model predicts
+the KPI the smaller the error. Marketing mix models are never perfect,
+but they're very useful and the smaller the errors the more
+useful your model will be. As we said, MMM uses multi
+variant linear regression, but it's a rather complex form
+of multivariate regression. As you can imagine, it has to take
+into account a very large number of variables as well as
+the possible correlation between these variables as they don't
+all move independently. No need for you to learn those models
+as that is where you will get to help from data scientists and vendors. What you'll find when working on marketing
+mix modeling is that there's quite a bit of interaction that will happen between
+you and the modeling team you work with. You'll decide together
+on the variables and you will discuss the best ways
+in which you can get the data. Then the modeling team will come
+up with the actual statistical model that involves calculating
+the beta coefficients. Even in that modeling step,
+there will be some back and forth between the teams to come up
+with the best fit for your data. Once you have the model you can use
+it to predict what your KPI value would be based on the models coefficients. So you can evaluate what would happen if
+you distributed your spending differently across your marketing campaigns or
+your marketing variables in this model. Let's take a look at how this may work for
+Imra at Calla and Ivy. Remember Imra is looking to see
+which marketing efforts had an impact on her sales. And more specifically which marketing
+efforts in combination had an impact on her sales. The goal is to gain more transparency
+into what's working and what isn't. As a first step, Imra needs to decide which variables
+may have an influence on her sales. While she's interested in understanding
+how her marketing action influence sales, she should still take into account other
+non marketing related variables as they may have had an influence too. Let's first look at
+the marketing variables. Since Calla and Ivy is a small flower shop, we wouldn't have as many marketing efforts
+to include as a large company would. But Imra has tried a number of
+different marketing tactics over the past two years and so
+we want to include all of them. Every Facebook ad campaign she ran,
+every google ad campaign, she ran every print ad she took out. Every email newsletter she sent every
+organic engagement on social media, her in-shop promotions and
+each paid search ad. When thinking about these variables, Imra needs to further specify what about
+these campaigns will have influenced sales. She may add how much she spent
+in each of these channels, but she should also add things like the number
+of impressions in a campaign for instance. Then Imra thinks about the non marketing
+variables she needs to include. She decides to include
+the launch of her website, the price changes she made over the years,
+the opening of a new store in Amsterdam, the addition of the Belgian market for
+online sales. Now, Imra needs to collect data for
+all these variables. This may seem like a lot of data and
+it is, one thing to keep in mind as you anticipate using marketing mix modeling
+in the future is data collection. Are you or those you work with actively
+collecting data on your marketing efforts? Models are only as good as the data
+you put in, so be sure to make data collection of priority,
+Imra won't do the analysis herself. She hired the vendor to help and their team of statisticians is
+helping her define variables and the exact data she needs to collect and
+they help her clean the data too. Then they're ready to
+start the modeling work. We won't get into the details of how the
+exact analysis works for Imra, essentially the modelers run a very complex regression
+on all the data Imra and team provided. After several iterations, the modelers
+come back to Imra with a model that explains how much influence all the
+variables she defined had on her sales. In a very, very simple form,
+this model could look something like this. If there were only three variables,
+the model tells me that if Imra increases prices with $1,
+her sales units go down by 5000. If Google search ad impressions increase
+with a million, sales units go up by 500. And an increase of Facebook
+ad impressions by a million, increases the sales units by 4000. Of course Imras model looks
+more complex as she had many more variables she was assessing. But now that she has this model, she can use it to start planning
+how to best allocate her budget. As you can see, having a marketing mixed
+model can be very helpful for small and large businesses alike. But as we'll see in the next video, there are some challenges when it comes
+to running this type of analysis.
+
+--- [FILE START: subtitle (3).txt] ---
+
+Evaluating Results of Marketing Mix Modeling
+0:00
+/
+6:26
+Marketing Mix Modeling is the established measurement solution for holistic, cross-channel sales measurement. It can be used to measure the effect of a large set of variables and media on both offline and online sales.
+
+In this lesson, you’ll learn when Marketing Mix Models (MMM) are typically used, who uses them and how they influence marketing decisions. You’ll also learn what the typical outputs of a MMM look like and how these outputs help in the decision making.
+
+Who uses MMM?
+CFOs, CMOs, GMs, Brand Managers, and Media Planners across different industries use MMM to understand the factors that influence sales and how to spend marketing budgets across marketing channels, brands and countries. 
+
+There are specific circumstances in which the use of MMM is even more prominent:  
+
+When a business has a majority of their sales offline, or majority of their spend is on traditional offline channels (TV, Print, Radio, OOH).
+
+Offline sales influenced by marketing cannot be tracked in the same way we can track online. MMM can provide a view of what your online or offline media spend is delivering in both offline and online sales.
+
+Businesses with a large marketing budget 
+
+Marketing Mix Modeling is expensive and so to justify the return on a MMM project, marketing spend must be significant. 
+
+Businesses with sophisticated media plans that are too complex to set up multiple individual experiments to measure each factor in isolation. 
+
+MMM allows them to measure holistically within a single project. 
+
+What questions can MMM answer?
+MMM is a CFO/CMO’s tool to understand how to spend their money across marketing channels, brands and countries. It is a robust model that can help answer many different questions. Common questions addressed are:
+
+How much in sales did each of my marketing investments drive?
+
+What was the Return on Investment (ROI) of each marketing channel across all my brands?
+
+How should I allocate budget by channel, by brand, by country going forward?
+
+Where should my next marketing dollar go?
+
+What media weight is optimal for each major marketing channel?
+
+What’s the ideal mix of 15s v 30s ads, video v static ads, prime vs. non-prime TV?
+
+Which creative strategy has produced the highest sales impact?
+
+How would sales be impacted if I made X change to my marketing plan?
+
+If I needed to cut my marketing budget by X%, where should the dollars come from?
+
+Understanding the output from a Marketing Mix Model (MMM)
+There are three components to the output you receive from a Marketing Mix Modeling exercise: 
+
+1. Report of incremental sales from modeled variables
+
+2. Return on Investment Analysis
+
+3. Media Curves
+
+1. Report of Incremental Sales from modeled variables
+Marketing Mix Models identify and quantify the factors that have an impact on the KPI. 
+
+The model tries to replicate the historical business metrics as closely as possible by using data on how different factors have driven business outcomes over time. 
+
+The output shows the incremental value that each of the factors has driven over the modeling time period.
+
+Here is an example of what the output might look like for a sample company: 
+
+
+In this graph, total sales units are shown on the Y-axis and the X-axis represents the modeling time, broken out in weeks.  The output shows that, over the past three years, Price, Promotions, Brand and Media all had an impact on sales.  The impact is different at different times, for instance, the effect of media is larger at the times the company ran their TV campaigns.  Note that together, Price, Promotions, Brand and Media add incremental sales, over and above the base sales, or the sales that were expected without the impact of changes in Price, Promotions, Brand or Media.  
+
+Most models will also break out the results by Media Channel 
+
+A more granular look at the influence of different media channels results. Here is what that looks like in the case of Patty Shack:
+
+
+
+
+In this example, the Media variable is further broken out in Pay Per Click (PPC), Press, Facebook and TV.  This way we can see how the impact of different media channels changes over time. And, it shows us more clearly that the peaks in media impact we see were indeed a result of the TV campaign that the company was running at those times.
+
+2. Spend and ROI
+In order to get full insight into the efficiency of the marketing budget allocation, it's important to evaluate the incremental sales resulting from marketing efforts in light of the cost of those marketing efforts. 
+
+In order to achieve that, MMM also reports the spend for the different influencing factors and the Return on Investment (ROI) for each factor.
+
+Here is an example of what the output could look like for the different media channels the company invested in. 
+
+The company invested in Pay Per Click (PPC) ads, Facebook advertising, TV and press.  This chart shows the investment in dollars per year. 
+
+
+
+
+The company saw the following incremental revenue as a result of these media investments.  
+
+
+
+
+This chart shows the ROI (return on investment) for the different media channels.  The PPC ads resulted in an ROI of 2, meaning that for every dollar spent on PPC advertising, they saw 2 dollars in revenue.  Facebook advertising had an ROI of 1.8 for the company and TV and press followed, with lower ROI each.
+
+
+3. Media Curves
+The return on investment in a media channel typically diminishes as investment in that media channel increases.  That means that a marketer needs to keep in mind that their return on investment may start to go down as they invest more dollars in a particular channel.  
+
+The output of the MMM will provide the curves that represent the return or the ROI for different media channels by level of spending.  
+
+Here is an example of what a media curve can look like:
+
+
+The media curve for a channel shows the relationship between spend and revenue generated by this channel.  As the spend increases, the marginal return decreases.  
+
+When a marketer uses the MMM to optimize marketing budgets and to plan future spending, this information is crucial. Marginal returns feed into budget optimization recommendations. 
+
+Here is an example of how different media channels can have different curves, and how that can affect the expected ROI: 
+
+
+
+
+
+--- [FILE START: subtitle (4).txt] ---
+
+While marketing mix modeling is an
+established measurement solution that can clearly be very useful to
+optimize your marketing mix. There are a few challenges
+you should be aware of and keep in mind as you use or
+recommend using this analysis method. First, as you saw as we walked through
+how marketing mix modeling works. It involves collecting a lot of data and
+if you want a high-quality analysis, you'll need high-quality data
+to conduct an MMM analysis. You need a long historical data
+window we said how ideally you use data from at least two years back. But typically models are built with
+data from even a longer period of time. For MMM to work well, you also need enough
+variation in the data for each variable. If there isn't much change in the variable
+over the time period you're looking at. The variable will not be much of a signal
+and its influence will be hard to model. Even if you expect that variable to
+change a lot more in the future. MMM measures the impact of
+different variables on a result. For instance, sales, for the model to
+work well the impact of the independent variables you are looking
+at should be substantial. In other words, you should expect that
+the variables change your result a lot. If that is not a case,
+it's hard to derive with enough confidence what the impact was of
+the different variables. MMM is great for
+saying what every factor contributed and whether channel X did
+better than channel y. But MMM is not great at deriving more
+granular insights from specific campaigns. For instance, MMM is not right tool to
+understand whether one ad placement was better than another. MMM is a combination of art and
+science, conducting the analysis means an interaction between a team of
+modelers and an econometric model. It's an iterative process where the
+modelers try to keep improving the model by altering the variables
+that serve as an input. When creating MMM you're heavily reliant
+on the team of modelers making good decisions when building the models. Modelers need to understand
+how your business works, and collaboration between client and
+modeler is critical for success. That's where your role as a marketing
+analyst comes in by understanding how the process works. You're in the best position to guide it. MMM does not help you within
+channel optimization. MMM is good when it comes to
+getting insights to help you set your budget across channels. But it does not help you to optimize
+your budget within a channel because of that limitation,
+it often optimizes media spent. Without questioning whether we
+maximized within the media channel, for example, let's think
+about Calla and ivy again. Imagine that there MMM shows that
+their Facebook investment did not have as much impact as the pay per click
+campaigns they ran last year. As a result, the model recommends spending
+more money on pay per click next year and reducing the investment on Facebook. But what a model doesn't know is that
+Enra could have chosen better creative assets for her Facebook campaign and could have done a better job
+defining her targeting parameters. Had she optimized these variables, Facebook might have had a much
+higher impact than pay per click So there would have been a better
+optimization option than what a model recommend. Estimating the future
+based on data from the past can be hard as we saw MMM
+uses historical data. Models based on historical
+data are of course useful but not 100 accurate at estimating the future. With MMM you are attempting
+to replicate a real world and you can get pretty close
+relying on historical data. But it's a fast changing world, especially
+when it comes to digital marketing. So the assumption that historical
+data from 2 to 3 years ago applies seamlessly to the future. Isn't always correct, and then also struggles with
+short-term changes in strategy. If your company goes through a substantial
+change the marketing mixed model, you have may no longer apply. Finally, marketing mix models
+take a long time to build and building them is expensive. The process to build a marketing mixed
+model can easily take six months, and once you have a model, you have to refresh
+it regularly with new historical data. As a result, MMM is mostly used by
+larger companies who have the means to run this type of analysis. In cooperation with the research agency
+that specializes in this sort of modeling. In our next course, in this program will
+discuss how there are new developments related to marketing mix modeling that try
+to help overcome some of these challenges. So MMM becomes more feasible
+as an analysis technique for smaller companies and
+companies who want faster results. In the next lesson, we'll look at attribution as a different
+way to optimize your marketing mix. Attribution is mainly
+focused on online channels. It uses a very different approach,
+but the results are more immediate. I'll see you there.
+
+--- [FILE START: subtitle (5).txt] ---
+
+In the previous lesson, we've looked at one way
+to measure the effect of marketing in different
+channels on results. Marketing mix modeling. We learned how marketing
+mix modeling can give you high-level insights into which channels and marketing actions
+work best for your brand. We also saw how it uses historical data and how the analysis can
+take quite a while. Traditional marketing
+mix modeling isn't exactly a method that delivers
+you immediate results, it's not the ideal approach. If you need to
+quickly adjust and optimize your
+marketing strategy. There is other methods
+that marketers use that gives you
+faster insights and that can even deliver some real-time results to help you adjust
+your marketing mix. That method is called
+attribution modeling. Let's look at how it
+works in this video. Let's imagine a
+woman named Cathy. Cathy is interested in
+buying a new mattress. While she scrolling to
+her Facebook news-feed, she sees an ad for
+a purple mattress. She's never heard
+of the company, but the ad says that it has special technology and
+makes superior mattresses. Later that evening, Cathy's sees another ad for purple
+on her laptop. She clicks on the
+ad to read a bit more about the new
+mattress technology. The next day, Cathy
+sees another ad for purple when she's reading
+news on her phone. She also sees a
+video ad on YouTube. Finally, Cathy is
+reading an article in The New York Times and sees
+yet another purple ad. Two days later, she visits the purple website
+and buys a mattress. As Cathy moves through
+her customer journey, she came into contact
+with many different ads, and most likely all these ads had some effect on
+Cathy's decision. If you're a marketer at purple, you'd like to know which one
+of your ads worked best. How do you answer that question? Attribution is the
+measurement solution that many marketers rely on to
+answer these questions. Attribution is the process
+of assigning credit to touch points along a
+customer's conversion path. By understanding which of your ads deserves the credit for leading a customer to take an action like
+making a purchase, you can better measure the
+effectiveness of your ads and make decisions for future
+planning and optimization. This insight can help
+you understand whether you invested in the right
+advertising channels. By understanding which of
+the channels works best, you can make decisions to redistribute your
+budget in the future. Before digging into
+how attribution works, let's take a closer look
+at what the output of an attribution tool could look like and how results
+are typically used. Here's a hypothetical example. Imagine you're a
+marketer and you ran an advertising campaign on
+these different channels. Google, Google Display Network, Facebook, Tradedoubler,
+and Criteo. Your attribution tool may
+show you that the ads you ran on Google contributed
+most to your results, in this case, a
+weight of 30 percent. Next, our Google Display, which contributed 20 percent, and Facebook also 20
+percent and so on. You also see the ROI or
+return on investment here. Again, Google is highest,
+Facebook is next. Note that the ROI is different
+from the weight since it takes into account how
+much you paid for the ads. The weight of google
+Display may be higher, but the ads were more expensive. That makes the ROI lower than the ROI for the Facebook
+ads in this case. Those were your
+observations for Q1. Now you can use
+this information to inform your marketing
+strategy for Q2. Since you learned that Google
+and Facebook had great ROI, you can increase your
+investment indoors channels. For instance, you could put 40 percent of your
+budget into Google ads, 30 percent into Facebook ads, and less into the
+other channels. Attribution is mostly
+used to evaluate the impact of online media
+channels on a purchase. Of course, you could
+also use it across online and offline channels
+like TV, for instance. But since the data is not
+always as easy to get by, the results from this type
+cross-channel analysis are not as immediate. You can use both paid
+and non-paid media as input for your attribution
+analysis or in other words, you can look at the effect
+of advertising as well as organic social media
+posts, for instance. Well, that sounds a lot like what you do with marketing
+mix modeling, right? But there's a difference, with attribution modeling, you will decide on a model in which you're going to credit the different marketing channels before you start analyzing, you will think about the customer journey and
+make some assumptions about which parts of
+your marketing you believe has the biggest
+effect on the final sale. In our example for Cathy and the purple mattress,
+you might see, I believe that the very first
+ad Cathy saw and the last ad before she decided to buy are the ones that really
+made the sale happened. You're model would be one
+where the first ad and the last ad share all the
+credit for the conversion. The model you decide on
+is the attribution model. Attribution is a method
+with these components; The input data,
+information about the ads a person saw and whether they clicked on them or took action. A model that is used to assign a value to the
+different touch points. The output is a value for
+each touch-point that reflects the impact it
+had on the conversion. The accuracy of
+attribution results depends on the quality
+of the data input, but also the accuracy
+of the model. In other words, how
+closely the model reflects reality and
+that part is key. In our next video, we'll take a closer look at attribution models
+and how they're used.
+
+--- [FILE START: subtitle (6).txt] ---
+
+We just saw how in attribution we use a
+data input and apply a model to that data. The model we use is determined
+before we run the analysis. There are two different types of models
+that are commonly used single-touch and multi-touch models. Will explain the most common
+single-touch models in this video. In single-touch attribution
+models the assumption is that there is a single ad that is
+responsible for the results you observe. So even if a person is exposed to
+many ads for a particular product or service before they decide to take action,
+the action like a purchase for instance is attributed to
+just one of those ads. The most commonly used model is
+the last click attribution model. It gives 100% credit to the last click
+from a person before a conversion took place. Even if a person saw and clicked on many
+ads before that the model still assumes that the last add the person clicked
+on is solely responsible for the sale. Let's think about an example,
+remember Kathy from our last video, she was looking for a mattress. And on her journey before
+buying the mattress, she was exposed to many different ads. If we were to use the last
+click attribution model, we would assume that the last ad,
+Kathy clicked on was 100% responsible for the mattress purchase she made. So even though Kathy saw and maybe
+even interacted with some ads before, only last ad she clicked on would be
+considered to be the reason she purchased. In this case,
+that was an ad she saw on her computer. Another single-touch attribution
+model is the last touch model. Like last click models, this model
+also takes only one touch point into consideration, but in this case,
+there is no need for a click. This model gives 100% credit to
+the last ad a person interacted with before a conversion, whether the person
+just saw the ad or clicked on it. So in our example for Kathy the ad that would get the credit
+would be the very last ad Kathy saw or clicked on, which would be the ad
+she saw in the New York Times. Then there's the first click attribution
+model which gives 100% credit for a conversion to the first
+click on the conversion path. So in Kathy's case we would attribute her
+mattress purchase to the first ad she clicked on, which just happens to be
+the same single ad she clicked on. So in this case, the last click or the first click attribution model
+would give us the same result. Finally, the first touch attribution
+model which gives 100% credit for a conversion to the first
+interaction in the conversion path, whether that interaction was a view or
+a click. So basically, all credit goes to
+the first ad the person sees or clicks. In Kathy's case all the credit for her
+purchase would go to the very first ad she saw for a purple mattress
+on her Facebook news feed. So now we know the four single
+touch attribution models. But you may wonder how marketers
+actually use these models or more importantly how they
+decide which model to use. Having an attribution model will help
+marketers decide on how to plan for their marketing mix for
+future campaigns, or how to optimize campaigns
+that are running now. If we think that the last ad
+people interacted with is entirely responsible for their purchase,
+like in the last touch model, and if we see the last ad was most of
+the time a Google search ad for instance, then advertisers may decide to shift
+more of their budget to Google search. As they consider it responsible for
+most actions. So you can see how the type of attribution
+model you choose has a big effect on your budget planning. So how do you choose the type
+of attribution model then? Much depends on the type of business
+you have or your business goal. If you use first touch or first click
+attribution, you put a lot of weight on the beginning of the customer journey or
+the top of the purchase funnel. In fact, you're saying that the ad that
+helped generate awareness was responsible for the purchase you're seeing. With a model like that you would recommend
+to shift more of your marketing budget to advertising, that helps to add
+people to the top of the funnel. Marketers may like that strategy, if it's
+their goal to generate more awareness for a brand or a product, like in the case
+of a new product launch, for instance. With last click or
+last touch attribution models, a lot more weight is given
+to the bottom of the funnel. In other words, you really credit the ad
+that is responsible for closing the deal. In cases where you're eager to
+move more people to conversion, like in direct response campaigns,
+this may be a better strategy to use. But while these single
+touch models are popular, marketers agree that they're not a very
+accurate representation of reality. For the majority of conversions,
+it takes more than one touch point for people to convert. Hence, models that give credit
+to more than one touch points are considered to be more accurate
+when evaluating what made people buy. Models that credit more than one
+touch points are referred to as multi-touch attribution models. Let's look at those in our next video.
+
+--- [FILE START: subtitle (7).txt] ---
+
+In our last video, we talked about how there are two different types of attribution models that are commonly used, single-touch and multi-touch models. We already talked about single-touch attribution models, and while they're very common, we also saw that they're not a very realistic representation of reality. After all, in most cases, people will see multiple ads, often on different platforms, before they make the decision to buy something. Multi-touch attribution models try to better capture that reality, so let's look at them. In multi-touch attribution, we assume that all of the ads people see leading up to taking the desired action, like making a purchase for instance, have an effect on that action. Or in other words, all ads together are responsible for the result. That makes sense, but the question becomes, were all ads equally important, or were some ads more important than others in their influence on the results? Depending on how you answer that question, a different attribution model can be used. Let's look at the most common ones. First, there's the even credit model, in which equal credit is given to the touchpoints, impressions, and clicks that led to a conversion. Let's go back to Cathy. We talked about her mattress purchase in our previous videos. Remember that Cathy saw several ads before she decided to purchase her new purple mattress. In the even credit model, we assume that all the ads Cathy saw played an equally important role in her purchase decision. The time decay model gives credit to touchpoints, clicks, or impressions, based on how recently they happened. This model gives more credit to touchpoints that happened more recently, so closer to the conversion. In the case of Cathy and her mattress purchase, using this model would mean that the New York Times ad would get most credit for her conversion. Next would be the YouTube ad, then the display ad she saw on her phone, and the first ad she saw would get the least credit. Another approach is the positional model. In this model, first and last touchpoints, whether they're clicks or impressions, are given more credit, while the credit for the remaining touchpoints in the middle is divided equally. So for Cathy's purchase, both the New York Times ad and the Facebook ad would be given most credit, and the other ads she saw along the way would be considered less important, but they still are given some credit. All of the multi-touch attribution models we described so far are referred to as rule-based models. As the analyst, you decide on the rules up front, and then you apply the model to your data. So you can decide whether you will use a rule in which you give credit to the touchpoints evenly or not. When you use attribution analysis in platforms like Google Analytics, for instance, you get to select a model you want to apply to your data. But it's not always clear which model best applies to your situation. How would you decide between all these models? You really have to understand what influences your users most, and that isn't always easy. That's why you may want to rely on a statistical model rather than one of these rule-based models I just described. Statistical models take a different approach. In statistical or math models, you let the data speak, and you don't decide on a model ahead of time. Statistical models use all available data to determine which ads impact results. This data-driven attribution model then assigns fractional credit for a conversion to touchpoints based on their estimated incremental impact. So instead of using your intuition to choose a rule, a statistical model uses the available data to figure out which touchpoints have the most influence. Statistical models are more robust and often better at reflecting reality. Let's look at an example of how marketers might use attribution. Let's go back to Kala and Ivy. During the summer, Imra ran campaigns across Facebook and Instagram with the goal to get people to subscribe to her new weekly flower delivery service. The campaign used a variety of ads. On Instagram, she primarily focused on creating awareness for the service with video ads that explained how the service works, and different image ads showcasing the seasonal bouquets. Imra also used Facebook to show ads with a coupon. Imra is now preparing the advertising budgets for the coming year, and given the success of the flower delivery service, she wants to increase marketing spending. She's now evaluating what the focus of her campaign should be. She decides to use attribution. When using the most common last-touch attribution model, she finds that the ads on Facebook with the embedded coupon are driving all the conversions. So she could conclude that it would be best to put all her advertising dollars in a similar campaign next year. Imra understands that the ad on Facebook with a promo attached would not have been nearly as effective without the awareness generated by the other campaigns. So she decides to take another look at her attribution model. Instead of using a last-click model, she uses the even credit model. Applying that model shows that the awareness ads on the path to purchase were indeed important to generate conversions. So Imra decides to include another awareness campaign for the coming year. Changing the attribution model helped Imra understand the influence of her campaigns. But it would have been even better had she used a statistical or data-driven model. That way, she would not rely on her intuition of how the influence of different ads may be spread along her customers journey. You can rely on tools like Google Analytics, for instance, to do this type of analysis. But in many cases, you'll find that marketers will rely on data scientists or research agencies to help them out with this. Measuring advertising effectiveness across channels is quite complex, and getting expert help can at times be necessary. As you've probably noticed as we went through this video, there are a few complicating factors when measuring across platforms, which have to do with how readily the data is available for each channel, and how reliable the data really is. In our next video, we'll look at the essence of these complexities.
+
+--- [FILE START: subtitle (8).txt] ---
+
+When advertising
+first with digital, there was incredible
+excitement around the measurement opportunities
+associated with it. When people click on an ad or interact in any way
+with content online, their actions are registered
+and resulting data allow for the granular reporting and analysis we've discussed
+in this course so far. But by now, you probably also read between the lines
+that data collection, measurement, and analysis online isn't always as easy
+as it may seem. It comes with a few challenges. While we have some ways to
+overcome these challenges, it's good to be aware of them, especially when you're
+measuring across platforms like we discussed
+in the previous videos. In this video we'll
+take another look at the challenges you
+should be aware of. For the sake of this video, I'm going to categorize the challenges into
+two different themes. First, to get a good read into what happens along
+the customer journey, you need to be able to
+measure behavior and ad exposure on different
+platforms and devices. Second, you have to
+connect the behavior you see to one individual and
+their customer journey. Let's talk about the
+different platforms and devices first. When we want to track
+advertising effectiveness across the whole
+customer journey, we need to be able
+to monitor behavior on the different platforms
+where people can convert. For instance, if you sell
+a product on a mobile app, on the web and in your store, you want to make sure you have a way to capture all the sales. If you're trying to
+evaluate the effect of your advertising on all sales, you'll have to make sure that all sales are indeed included, which also means including
+the offline sales. Let's think about
+what that means for a business like Calla & Ivy. For instance, if Imra
+wants to understand the effect of her
+advertising for the fall reeds she sells, she would have to monitor
+how many reeds people bought online through her
+website and her mobile app, and how many she
+sold in the store. In order to do this, Imra will need to make
+sure that her team can collect all the
+data for every sale. To track the sales
+on the website, she could use the Facebook or the Google Analytics
+Pixel, for instance. Depending on which tool she plans to use to
+analyze her data, the Pixel would send
+information back to Facebook or Google on every sale through a Pixel event on
+the Thank You page. To track the sales
+through the app, Imra would need to make
+sure the Facebook or Google Analytics SDK is
+integrated in her mobile app. The SDK will then allow her
+to track the app sales. For the offline sales, Imra could integrate
+her offline sale system or the system she uses
+to track sales in her store with Facebook
+or Google Analytics through the respective
+offline convergence APIs. That's an automated
+way to integrate the offline events into the
+Facebook or Google platform. To get this to work, she needs the help of
+software developer. But once it's set up, Imra will see information on the offline sales in her Facebook or Google
+Analytics reports. This will definitely
+help her track the effectiveness
+of her advertising. The second measurement
+challenge is connecting all the touch
+points to one person. When a person visits
+your website and also visits your app along
+their journey to purchase, you'd want to understand that
+that was the same person. Without that insight, it's
+difficult to understand the contribution of
+different touch points to your results. Historically, advertisers
+have relied on cookies to connect a sequence of touch points to a person. Cookies are pieces of
+codes that get added to a person's web browser
+when they visit your site and when
+they see your ads. The cookie then let's your advertising or
+measurement platform know which ads people
+interacted with or saw. This solution works
+reasonably well if you assume that all interactions
+happen on a computer. But cookies don't work
+well on mobile devices, and they don't work
+in mobile apps. As a result, it's
+challenging for advertisers to
+connect the data from a person's interactions
+with ads on mobile devices with that same person's
+interactions on computers. Platforms like Facebook
+and Google leverage a persistent login and a unique identifier associated with a person's Facebook
+or Google account. When a person sees Facebook or Google ads
+on mobile or on the web, Facebook or Google
+can connect to dots. Together with the Pixel, the SDK, and the
+conversions API, this approach allows you to tie the actions directly
+to real people. Using this approach reduces the chance of missing
+touch points in the conversion path
+and it allows to relate all the touch points
+back to the one person. It's good to keep all these data related challenges
+in mind as you plan how you will measure the effectiveness
+of your campaigns. It will help you make
+sure that you put all the tracking mechanisms in place so you can
+connect to dots later. Of course in some cases, you'll be working with 3rd
+parties to help you measure. Make sure that you discuss these challenges with them
+ahead of time so you're aware of how they can
+help you track across platforms and link to touch
+points back to an individual.
+
+--- [FILE START: subtitle (9).txt] ---
+
+So far this week, we focused on optimizing
+your marketing mix using marketing mix
+modeling and attribution. Both of these methods
+help us to adjust where we spend budget to have the
+most impact on results. But as you go through deciding
+where to spend more money, it's also important
+to understand how people move through
+your sales funnel and whether there's anything
+you need to keep in mind as you think about how people go from being aware of your product to
+actually purchasing it. In this lesson, we'll take a closer look at how
+you can evaluate your sales funnel
+and how that may influence some of the
+decisions you make. We've previously
+discussed sales funnels where we looked at ROI, ROAS, and customer profit. As a refresher, a sales funnel, also called a purchase
+funnel or revenue funnel, is a way to visualize
+your potential customers first interaction
+with your brand all the way through
+to repeat purchase. Remember, the marketer's goal in using a sales funnel is twofold. On a micro level, moving an individual user
+from one stage to the next, and on a macro level, moving as many people
+as possible through the funnel by increasing
+conversion rates at each step. Next, let's deep dive
+into sales funnels and discuss how to examine
+drop-off in the sales funnel. We'll also focus on sales funnel shapes and what they mean. We'll look at how
+you can analyze and visualize sales funnels in
+Tableau. Let's take a look.
+
+--- [FILE START: subtitle (10).txt] ---
+
+Now, that we know the
+basics of sales funnels, we're going to dive into how to analyze and optimize
+a sales funnel. First, let's focus on
+the individual level. That helps us evaluate
+whether there's a logical flow to how people
+move through the funnel, and whether there
+are any ways in which we can make this
+process smoother. To keep it simple, we're going to look at an online sales funnel
+through a website. Of course, funnels could include offline
+activities as well, like a phone call
+with a salesperson or a written contract for a
+service, for instance. In order to do a sales
+funnel analysis, we need to understand what
+the steps are in our funnel. For instance, a basic
+e-commerce funnel may look like this: You go from the entry page to
+the category page, product page, checkout page, and finally, to thank you page. Yours may be more or
+less complicated than that depending on how
+your website is set up. Your website design will typically dictate
+a certain flow, but when you analyze the data of how people actually
+navigate your site, you might find that it's a little different from
+what you intended. That's always good
+information to have. For instance, you may
+think that people always start their journey on
+the homepage of your site, but you'd be surprised how
+often that's not the case. Many people find their way to a website through
+search, for instance, and they may just land on
+a product page instead, bypassing the need funnel that you had
+constructed for them. If that is the case, you may need to reflect
+on what you put on that product page since it's the first interaction people
+have with your website. Data will help you
+assess whether your intended funnel
+matches reality. To analyze and
+optimize your funnel, it's good to look
+at each stage of the funnel and ask
+ourselves some questions. Remember that every funnel
+typically consists of roughly four stages:
+the awareness stage, the interest and
+consideration stage, the conversion stage,
+and the retention stage. First, we'll take a look
+at the awareness stage. We want to focus
+on questions like, what pages are people
+entering our website on? Is it our homepage? A landing page? Using this
+information will help us optimize our pages and push
+users down the funnel. It's very important to
+evaluate whether people are getting the first impression
+you intended for them. For instance, if they land
+on a product page first, it may be good to add
+some general info about your company and
+a variety of products you offer so people
+who are not super interested in the product
+of focus aren't lost. How long are people spending
+on their first page? Using this information will help us understand
+if our content is interesting to our consumers and if we are attracting
+the right consumers. If we see a high bounce rate, perhaps we need to look at
+where people are coming from. If they came in through
+one of our ads, but they don't stay, we should look at that
+campaign and evaluate whether our message was right and whether it was targeted
+at the right people. Attracting traffic
+to a website without seeing real engagement is
+a real waste of money, so definitely worth
+another look. What channel are
+people coming from? This will help us narrow in
+on what's working and what's not from both an organic
+and paid media perspective, could also point to additional
+marketing opportunities. For instance, if many users are coming in from a blog post, we could expand that out
+to a white paper and collect email addresses to
+generate leads, for instance. Where do users go after
+their first page? Do they head straight to
+a category page search, bounce off the page? All of these are insights that can help us optimize our funnel. If you see people go to search after their first
+page, for instance, it may mean that people did not get what they
+were looking for in the first place so you may
+want to try and remedy that. As you can see from this list of questions in the
+awareness stage, it's all about attracting the right audience and making
+a good first impression. Then, at the interesting
+consideration stages, you'll want to ask your
+data questions like, what are people searching
+for on my site? Is it a specific
+item or category? What category and product
+pages drive the most traffic? Where does that traffic
+go from those pages? This information can help you evaluate whether
+you are promoting the right products and
+it may also help you prioritize which pages
+to polish first. You also want to understand
+what the drop-off is between browsing and getting to the first step
+of your purchase. It's important during this
+stage that people research your product and get all the information
+they need to purchase, but you also want to know whether there's anything
+that keeps people from taking the next step and actually converting or buying. It may give you clues as to whether you are
+actually giving people the most crucial
+information or whether you're making it easy for
+them to make their decision. Then at the conversion stage, you'll want to really dive into the purchase process to understand where
+do users drop-off? Do they get through the full
+checkout process easily? If not, what makes them leave? For instance, do they get blocked filling out information? Maybe you're asking
+them for too much or do they drop off when you
+calculate the shipping costs? That might be a sign
+that you should re-evaluate when you
+provide shipping costs, or maybe even consider free shipping and
+increase your price. Do users go backwards
+at any given time? If you see users clicking backwards or returning
+to their cart, this may be an indication
+your checkout is too complicated or confusing
+for your users. How long does it take
+your users to check out? This will help you
+understand what the average experience is like
+and optimize accordingly. Lastly, at the retention stage, you'll want to look at
+questions including how many of your visitors
+are returning users? If the number is low, it may be worth it to invest in a customer retention program, like an email newsletter,
+or promotions. Remember that
+retaining users helps to increase your
+customer lifetime value. You'll also want to understand what pages you're
+returning users visit. This may give you clues
+for products you can promote to keep users
+coming back and of course, you don't just want to check whether visitors returned
+to your website. You also want to know what the repurchase rate is
+for returning visitors. You can also check where
+returning users enter from, especially if you have
+a retention program, you want to assess
+whether it works, but it can also help
+to understand what triggers users to come
+and visit you again. Asking these questions
+will help you understand where users are
+dropping off in your funnel, as well as how to optimize your site experience
+for success. But how exactly do you perform
+an analysis like that? This is where your site
+analytics tool comes in. A tool like Google Analytics, for instance, helps you
+evaluate these questions. It is an exploratory process and you should let this list of questions guide your exploration and find the answer in the
+Google Analytics data. It's a bit like detective work
+and it takes some digging, analyzing, following clues, but if you keep this
+checklist in mind, you should find the main areas where you can optimize
+your sales funnel. These questions will
+help you understand how individual users
+navigate through your sales funnel and
+what may hinder them to advance from awareness to
+conversion and retention. But remember that
+you may also want to use your sales funnel to
+get a better sense of how your customer base on
+aggregate flows through the process to help you make strategic decisions related
+to marketing action. That is what we'll look at in our next video as we explore how to optimize using different
+sales funnel shapes.
+
+--- [FILE START: subtitle (11).txt] ---
+
+Now that we've learned
+about optimizing sales funnels on
+a tactical level, let's zoom out to think more strategically about
+sales funnel shapes. Visualizing the funnel
+is a great way to understand where
+your opportunities are with your customers, too many people
+staying in awareness or too few customers
+in conversion. Visualizing the funnel
+will let you know where customers are and what
+messaging they may need. A healthy funnel is sometimes
+called the classic funnel. This funnel has people
+continually coming into the awareness phase with some customers going
+down into consideration, then fewer going
+into evaluation, then even fewer going
+into conversion. If you see this funnel
+shape, congratulations. Your funnel is very
+likely healthy. To stay healthy, this funnel should
+be continually refreshed with new users
+in the awareness stage. Keep an eye on your funnel shape to ensure it stays the same. It's very common to see the classic funnel shape narrow considerably
+at the bottom. In that case, people come
+in at the awareness stage, and they may show some
+level of interest, but they don't make it all
+the way through to purchase. That's when you should go
+back to your checklist and explore what's happening
+during the checkout process. Is there anything in
+your website that's blocking people
+from checking out? Are they leaving when you require them to give their
+personal information? Maybe you're asking
+them to sign in, and that complicates things. Are the costs too high? Maybe shipping is
+an issue and so on. In a case like this, it may be worth considering a conversion campaign where you specifically target
+people who have had an interaction with
+your brand already, and encourage them to convert, for instance, better promotion. As you examine
+your sales funnel, you may run into another shape, sometimes called the blockage. This is where a
+majority of users are stuck into consideration
+or evaluation stage, but your awareness and
+conversion numbers are low. If you see this, consider why consumers may
+be staying in that phase. If you're B2C, take a look at your
+product detail pages and check out flow. Is it easy for
+people to go through the conversion phase or
+are there obstacles? If you're B2B, take a look
+at your lead gen process. Perhaps you're selling
+too soon or haven't provided enough information
+for users to convert, and you may be attracting
+the wrong audience. In a situation like this, you may need to consider another awareness campaign so you can attract more people
+to the top of the funnel. But you should pay special attention to
+your target audience. It may be a good idea to get more insight into the
+people who do convert and try to mimic their
+characteristics in your target audience for
+your awareness campaign. You could combine this with
+a conversion campaign, targeting people
+who have interacted with your brand to
+try to convert them. The last shape we can look for is the reverse funnel shape. This reverse funnel has very little activity in the
+awareness, consideration, and evaluation stages, and large swaths of users
+in the conversion stage. While this may seem
+great at first, a reverse funnel can lead to a lack of customers
+down the road. If you see this shape, whether you are a B2B or B2C, you'll want to focus on
+your awareness tactics to bring more users into
+your sales process. Analyzing your sales funnel
+shape can be a great way to develop a holistic strategy towards your media campaigns, and help you understand where you should be
+focusing your time. Once you have the shape down, you'll be able to deep dive
+into the questions previously discussed in order to optimize your sales
+funnel for success. Next, let's take a
+look at how you can visualize your sales
+funnel using Tableau.
+
+--- [FILE START: subtitle (12).txt] ---
+
+Sales Funnel Reference Sheet
+0:01
+/
+4:47
+What are sales funnels? 
+In this lesson, we’ve focused on using marketing mix modeling (MMM) and attribution to optimize our marketing mix, help us stay within budget and have the most impact. Another important aspect besides knowing where to focus your spending is understanding how people move through your sales funnel. That’s what we’ll focus on in this reading. 
+
+Sales funnels are also called purchase or revenue funnels. No matter which term you describe them with, funnels are used to visualize a customer’s journey from their first interaction with your brand all the way to them actually making a purchase. Understanding what the steps in the funnel are will help us do our sales funnel analysis. 
+
+Using our ecommerce example from the video 
+Dropoff in Sales Funnels
+, a sales funnel could look like this: entry page, to the category page, product page, checkout page, and finally the thank you page. Your own funnel could look very different based on your desired page and input from your design team if applicable; they might even help you make your funnel even more efficient than when you started! 
+
+
+
+
+Stages of sales funnels
+Regardless of what your funnel looks like, it will typically consist of about four stages that help us analyze and optimize funnels for maximum impact. 
+
+Awareness: In this stage, we are trying to attract the right audience for our brand, so we want to ask questions like: what page are people entering on, where are they coming from and how long do they stay? Using this information can help us not only optimize these pages and push people to the next stage, but also to help evaluate whether people are getting the first impression of your brand that you’re wanting them to get.
+
+Interest and consideration: In the interest stage, we’ve now attracted our audience and we’d like to keep their attention to prevent them from dropping out of the funnel. To this end, we can ask our data questions such as what are people searching for on my site? What categories or product pages are driving most traffic? Where are people dropping off without making a purchase or taking other action? This will help us keep their attention and can even help push us to the next stage. 
+
+Conversion: At the conversion stage, you’re really looking diving into the purchase process. This is to understand a couple of things, particularly where do users drop off within this process and how might we retain them. This means examining potential pain points customers might be experiencing that are blocking them from making a purchase. For example, do they drop off when shipping costs are calculated? Or perhaps do they move backwards in the process at any point, which might mean that the checkout process is too complicated. Although these variables might seem like tiny details, they great food for thought as you consider moving your customers through the funnel and can even be easy fixes in reaching that goal. 
+
+Retention: In the last stage, you’re looking at repeat customers, those that keep returning to make more purchases. Here in this stage the questions can look like:  how many of the visitors to our site are returning users and what pages do they visit? Asking what the repurchase rate is can also be very telling, because of course you want customers to come back and buy your products or services again!  
+
+Tools such as Google Analytics can help you answer these questions, and the skills you learn in this course can help you make informed marketing plans after analyzing the data you collect. 
+
+How do marketers use sales funnels? 
+A marketer has two goals within the sales funnel, which are the following. 
+
+Micro level
+At the micro level, a marketer’s goal is to move an individual customer from one stage to the next (preferably all the way to purchase!). Focusing at this small-picture level helps us evaluate how people actually move through this process and what we can do to make it smoother for them. Marketers can step in at any point during the sales funnel through the website or other activities such as a phone call from a salesperson. 
+
+Macro level
+At the macro level, a marketer’s goal is to move as many people as possible through the funnel. This is where the insights from individual data points come in handy and give us a bigger picture of how we’re doing overall with our marketing efforts. 
+
+Conclusion
+Whether you use your sales funnel to get a better sense of how your customer base on aggregate flows through the process to help you make strategic decisions related to marketing action or to check in on an in-progress campaign, funnels can be a useful tool to fully optimize your marketing mix. 
+
+
+
+
+--- [FILE START: subtitle (13).txt] ---
+
+In this video, we're
+going to create a sales Funnel Visualization, two different ways
+using Tableau. The first is fast and simple, the second is a
+little more complex but it's more
+visually appealing. You'll probably find
+times in your work as a marketing analyst where both of these will be appropriate. First, make sure you've got your data loaded into Tableau. Our data is just
+called Funnel.csv. I will click on "Text
+File" and open up my data. This is a CSV and we're not
+connecting any other sheets, so we'll just click on "Sheet
+1" down here at the bottom. For the first simpler
+Funnel Visualization, we need to do a few
+things first over in the data pane on the
+left side of the screen. First, I'm going to
+duplicate my KPI data. I'll need two copies
+so that we can miror one to get the Funnel
+Visualization effect. I'll click on this
+downward arrow here and then click "Duplicate". Next I'll drag both KPI measures
+over to the column tray. To show that Funnel
+Visualization, we need to reverse one of these. I'll double-click on the x-axis of the left side of
+the visualization. In this window, I'll
+click on the checkbox labeled reversed under scale, then click out of that window. That reversed the data
+so that the zero for both sets of numbers is in the middle of
+the visualization. Now, to finish off this
+funnel visualization, we need to add the
+stages of our funnel. In this spreadsheet,
+that's just Titled stage. To ensure that this
+shows correctly, we need to convert
+it to a dimension. I will click on the
+downward triangle again and click on
+"Convert to Dimension". Finally, I'll either
+double-click stage or just drag it over
+to the rows tray. There it is, a Funnel
+Visualization. We can customize and polish this so that it
+looks a bit cleaner, but the basic
+structure is there. Let's remove the
+column divider lines. Up in the top toolbar, I'll click on "Format"
+and then "Borders", which opens up a format
+menu over on the left. I'll click on the "Columns"
+tab and then remove the column divider under
+the pane drop-down menu. Now we don't have
+that line running straight down the
+middle of our funnel. For the second Funnel
+Visualization, there are a few more steps, but the finished product
+looks a bit more polished. I'll click new
+sheet down here in the bottom left-hand corner
+so that we can start fresh. I'll need some of
+the same things; two copies of the KPI data and the stages of our funnel
+converted to a dimension. Because we already did that
+for the first visualization, we don't need to repeat it here. To start, we'll drag measure values over to
+the columns tray twice. Next, click on the right-side
+copy of the "Measure Values" data and the
+little downward arrow. Click on "Dual Axis". Like before, this is telling
+Tableau that we're going to use this data twice in
+the same visualization. Under measure values, Tableau automatically
+grabbed the count of items in our CSV, so we can remove that, just pull it out. We'll drag over the stage dimensional data we have
+over to the rows tray. Our first time
+through, we reversed an axis to create
+our funnel shape. This time we're going to use a very simple calculation in Tableau to create the
+shape we're looking for. I'll click on the copy
+I made of our KPI data, then that little
+downward arrow again, then "Edit", and the
+calculation will enter here is simply a subtract
+sign before the brackets. I'll click "Apply", and then "Okay".
+There you have it. That created a set of mirrored opposite
+numbers for our funnel. It's already really starting
+to look like a funnel. Let's customize this from here. Under the first
+measure values menu, drag in the stage and
+measure names data. I'll set the stage as the color and measure name as the
+detail which it already was. We'll change this field
+from automatic to line, and you can see we already have the shape of a funnel in
+a spectrum of colors. Under the second
+measure values menu, I will drag in stage again
+and measure names again. I'll set it to line again and this time I will
+set the stage to color. Down here under measure names, I'm going to set this
+to path instead. That gives us a
+nice outlined shape for our Funnel Visualization. Like last time, you can customize this
+however you'd like, but the basics of your sales funnel are
+right there for you. I hope this was
+helpful walk-through for creating a sales
+funnel visualization. It's something you'll surely use in your career as a
+marketing analyst.
+
+--- [FILE START: subtitle (14).txt] ---
+
+Visualizing a Sales Funnel in Tableau Summary
+0:01
+/
+3:45
+Quick overview 
+As we’ve learned in previous atoms, sales funnels are useful visualizations of your customer’s journey from their first impression of your brand to actually making a purchase. Understanding what their experience is at various stages of the sales funnel can be immensely helpful in optimizing your marketing strategy, both as your campaign unfolds as well as afterward in assessing the success of your campaign. 
+
+We’ve also explored what tools can be used in modeling your sales funnel, specifically Tableau. There are two ways to create a sales funnel using Tableau, which we’ll go over in this reading. Whether you need a very polished and aesthetically pleasing funnel visualization to show clients or your team or a simple one that you’re just modeling for yourself, you will have two new tools for your marketing analytics tool kit. 
+
+Option 1: Fast and simple
+Our first method of creating a sales funnel in Tableau is also the simplest and fastest. Let’s break it down step by step. 
+
+1. Make sure you’ve uploaded your data to Tableau. 
+
+2. Duplicate the KPI data so that you can mirror one for the funnel visualization effect. 
+
+
+3. Drag both KPI measures to the columns tray. 
+
+
+4. To get the reverse version, double-click on the x-axis of the left side of the visualization. In this window, you’ll then click on the checkbox called reversed under “scale,” then click out of that window.
+
+
+5. Now you can add the “stages” of your funnel. 
+
+6. Make sure that it shows correctly, convert it to a dimension by clicking on the triangle in the data pane then clicking on “convert to dimension.” 
+
+
+7. Double-click stage and drag it over to the rows tray. 
+
+8. Customize and polish as you wish from here, but you’re pretty much done! 
+
+
+Option 2: Complex but visually appealing
+This second option is more complex with more steps, but gives your sales funnel a more visually appealing, polished result. Let’s break this one down next.
+
+1. Click on “new sheet” at the bottom of the page or simply start with a fresh dashboard. 
+
+2. Drag your measure values to the columns tray twice to duplicate the data, just like with the previous method. 
+
+3. Click on the right side copy of the measure values data and the little downward arrow. In that dropdown menu, click on “dual axis.” 
+
+
+4. Remove the count of items in your file that Tableau may have grabbed, which are under “measure values.” 
+
+
+5. Drag the “stage” data to the row tray. 
+
+6. Instead of reversing the axis as in the first method, we’re now going to use a calculation to create our funnel shape: 
+
+a. Click on the copy of your KPI data, then the downward arrow.
+
+
+
+b. From the dropdown menu, click on “edit” and insert a subtraction sign before the brackets 
+
+
+c. Click apply to create a set of mirrored numbers. It’s already looking like a funnel!
+
+7. Customize as you wish. For example: 
+
+a. Under the first measure values menu, drag in stage and the measure names. Set the stage as the color and measure names as the detail. Change this field from automatic to line so you have an outlined funnel in a spectrum of colors. 
+
+
+b. Under the second measure values menu, drag in stage and measure names again. Again, set this to line, rather than automatic. This time, set the stage to color, but set the measure names to path, which will give you a nice, outlined funnel visualization.
+
+
+
+
+Conclusion
+Now that you have a grasp of using Tableau, you can start visualizing your sales funnels and planning your marketing strategies or begin optimizing currently in progress campaigns. As we’ve seen, funnels can be a quick and in-depth way to check in on not only your marketing efforts, but also your customer experience. Happy visualizing!
+
+
+
+--- [FILE START: subtitle (15).txt] ---
+
+Congratulations, you've
+finished another week in the analytics for
+marketing course. You now have a set of
+new tools to help you optimize your marketing mix
+as well as your sales funnel. You learned about marketing
+mix modeling and how it can be used to optimize
+your marketing mix. By bringing your data together
+in a marketing mix model, you can generate insights in which channels have
+historically contributed most to your results and that
+will give you a great tool to optimize the use of your marketing budget
+going forward. We also covered attribution and how attribution analysis can guide your
+decision-making when it comes to allocating
+budgets online. You also know what to look
+out for as you now understand the limitations and
+challenges that come with this marketing
+analysis techniques, and you know how to analyze
+your sales funnel both at a tactical micro
+level as well as the more strategic macro level by assessing funnel shapes. Next, let's apply everything you learned in this course
+in a practical project. I think it'll give you
+a glimpse into what the day-to-day tasks of a
+marketing analyst look like, and it will be a great way
+to practice. Good luck.

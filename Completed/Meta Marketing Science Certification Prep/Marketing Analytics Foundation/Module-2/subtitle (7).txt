@@ -1,0 +1,76 @@
+In the previous video, we discussed how data is generated when
+people interact with online content. We saw how those interactions leave
+a trace in the publishers' and the advertisers' servers in
+the form of web server logs. But the interactions you
+have with websites and ads can also leave a trace in your
+browser in the form of cookies. I bet you've heard about them before, so let's explore what they are and
+how marketers use them. Web and ad servers can store
+some information about your interaction in a special
+storage area in your browser. When you interact with content from
+the same publisher or advertiser later, the publisher can call up the information
+it's stored in your browser to help it remember a few things about
+you and your previous interactions. So you can think of cookies as
+the browser memory, and publishers and advertisers can ask it to be
+reminded of relevant things. A cookie is a formatted piece of text
+that gets stored in a person's browser. Cookies contain information on when
+the person accessed a website, saw an ad and where they clicked. Sometimes, login information
+is stored as well. This information makes it possible for
+websites to remember a person's log in info for instance, remember what
+someone had put in a shopping cart or what content a user seemed interested
+in. Cookies allow a server to connect multiple interactions
+from the same person. Here's how they work. The person requests a page through
+the browser. To the server, it looks like a browser requesting a page. When the server gets this request, it
+sends the page the person asked for back. But alongside the page it
+also sends a tiny text file that's placed inside
+the person's browsers. The next time the person requests
+a page from the same server, the request will come
+with a cookie attached. So now the server has a little bit of
+information about a browser that's asking for the page. In the previous lesson, we distinguished
+between 1st, 2nd and 3rd party data. Actually, that distinction is also very
+relevant when we talk about cookies, Especially 1st and 3rd party cookies. First party cookies are the text
+files stored in your browser by the sites that
+you're actually visiting. For instance when you visit
+your favorite news site, they will store a text file in your
+browser that helps this new site to remember some of your preferences.
+When you come back to that news site, your experience may be personalized on
+the basis of the information the site has stored in your browser. By
+visiting your favorite news site, you have an implicit or explicit agreement that the site can
+store these cookies in your browser. You've probably had to
+accept the use of cookies for many sites you visit. When you accept, you give the site you are on permission to add
+cookies to your browser. Third party cookies are text files
+stored in your browser by a third party with whom you don't have
+a direct relationship. In the case of your favorite news site,
+there may be an advertiser who stores some information in your browser
+while you visit a news site. The advertisers can do that
+because it has an ad showing on the news site you are visiting. For that ad to load, your browser
+interacts with the ad server, and the ad server can send a cookie to
+your browser in that interaction. But, you did not intentionally seek out
+a relationship with that advertiser. Hence, the cookie they store is
+considered a third party cookie. Third party cookies are used for tracking
+and advertising targeting purposes. Advertisers can use this third party
+cookie to build a user profile on you, tracking the different websites
+you visit and which ads you click. Thus getting a better
+understanding of your interests. That understanding will help
+them tailor ads to you. Since users have less control over 3rd
+party cookies and how they're used, they have raised privacy concerns. Users and browsers increasingly block
+these cookies from being stored. Later, we'll take a closer look at data and
+privacy and we will cover this in more detail. But for now it's good to keep in mind
+that third party cookies are harder to rely on as they're slowly phased
+out as a result of these concerns. While cookies in general can be
+a great way to connect a person's interaction with the server and
+pass some information back and forth, they have some challenges.  Ideally,
+the cookie would function as the memory of the interactions between a website and
+a person. With that memory intact, navigation would be smoother for
+the person. The website would know
+what actions they took or it might remember settings they like or
+pages and ads they saw, but people don't use just one browser for
+all their interactions with the website. They may use different computers,
+different browsers and mobile devices. Cookies don't work across devices and
+memory trace is lost. People can also erase
+cookies from their browsers, which erases the memory from
+the publisher and the advertiser. Users can also change the privacy
+settings in their browsers and prevent cookies from being stored. You should also keep in mind that many
+browsers today don't allow the use of 3rd party cookies by default. One of the major complications with
+cookies is that they don't work on mobile apps. As a result, it's hard for a publisher to link behavior from a person
+on its website to behavior on its app. But even with those limitations, cookies play an important role in
+how data is stored and used online.

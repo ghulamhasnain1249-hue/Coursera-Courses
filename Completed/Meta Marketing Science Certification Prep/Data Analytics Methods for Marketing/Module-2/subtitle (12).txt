@@ -1,0 +1,36 @@
+Now that we've learned how to create a linear
+regression model, you may be wondering, well, what can we use this for? Well, linear regression models can be used in a lot
+of different ways. Let's explore a few. It's important to keep in
+mind that linear regression requires historical data to
+predict future patterns, therefore, all
+examples we discussed require historical data
+in order to execute. The historical data are
+used to come up with your regression model or to plot the trend line we just saw. Once you have that trend line, you can predict
+what will happen to the dependent variable when you change the independent variable. What is linear
+regression good for? In short, linear regression
+is a great way to answer how might
+this relate to that? For instance, one of the most common ways to
+use linear regression is to predict the impact of a price increase or
+decrease on sales. Using linear regression, we're
+able to look at the impact of previous price changes on sales to answer a question like, will the price
+increase or decrease change the number of sales
+based on historical data? Another common way we can use linear regression is to
+answer the question, does increased advertising
+spend lead to increased sales? Take, for example, the set of advertising spend and resulting sales data seen here. Once we plot our analysis, we see a positive correlation, meaning increased
+advertising spend does correlate positively
+to increased sales. Our R squared is 0.6827, meaning about 68
+percent of our change in sales can be
+correlated to ad spend, and 32 percent of our change
+in sales could be due to other factors like
+competitive availability, sales, the general marketplace, and desire for your product. This means that we can expect that we increase
+advertising spend, we will see increased sales. We can also use
+linear regression to forecast things like, does customer satisfaction
+impact sales? Does social engagement
+increase page visits? Do increased email open rates
+lead to increase sales? As you can see, the goal of any regression
+analysis is to see the correlation between
+one variable and another. In our next video, we'll take a look
+at how there are more complex forms of
+regression that consider the influence of more than
+one independent variable on the dependent variable.
+I will see you there.

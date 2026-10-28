@@ -1,0 +1,137 @@
+In our last videos, we discussed how to
+interpret your results. Prepare recommendations,
+and tell your story. An important part of
+telling your story is creating a presentation that
+will support your narrative. In this video, I'll
+walk you through a basic templates you can use as a starting point for
+your presentation. You'll want to add
+to this based on your specific analysis and the questions you are
+trying to answer, but I think this templates
+can get you on your way, and can guide you
+as you prepare. To do this, we'll put
+ourselves in the shoes of the team that manages the marketing analytics
+for Calla & Ivy, the flower store in Amsterdam. Imre, the owner wants us
+to give her an overview of the results of the last campaign which was a big
+holiday campaign. Calla & Ivy is marketing plan preholiday season
+was to encourage people to sign up
+for subscriptions rather than come in
+for one of sales. Having a subscription would
+make buying bouquets for the holidays cheaper in
+the long run, and easier. Those with subscriptions
+also get guaranteed one-day delivery and they get access to the online
+classes Imre offers. Customers can sign up with
+the initial fee of $50, so even if they opt out after one month we still get a
+month's worth of revenue, though most subscribers
+stay on for longer. Imre had talked with us about the goals of the
+campaign upfront. The marketing team
+executed the campaign, and now Imre wants to
+hear about what happened. Let's build the slide deck
+for our presentation. These days, there are a few different
+software programs you can use to create
+your presentation, but we're going to
+use Google Slides. In order to look professional, we're going to use our branded
+Calla & Ivy template which includes the brand's
+color palette fonts that are used in the
+marketing campaigns, and a logo at the bottom. If your company
+has a template or some brand guidelines,
+you should use that. First, book put together
+a slide with our goals. While Imre already
+knows this goal, in order to set the foundation
+for our presentation, we'll go over it again. The goal we wanted
+to achieve was 200 new subscribers during
+October and November. Next, we'll create a
+slide that includes the campaign objective
+because the goal was to have people purchase a
+subscription to relate it's campaign objective was
+generating conversions. We can talk a little
+bit about what that means and how we
+define a conversion. In this case the purchase
+of a subscription. On our next slide we'll mention the KPIs
+we want to track, because we learn about our
+results through those KPIs. For this campaign, we want to track actual
+purchases of subscriptions which happen through our
+website, or through the app. Anticipating Imre's question of how we can actually
+measure this, we can mention how we have integrated the Facebook
+conversions API, to pass our website
+conversion data to the Facebook platform, and the SDK is integrated
+in the app to let us track. If someone purchases something, it will report data back to
+the Facebook platform so these purchases will appear
+in our ads manager account. Now we'll talk about the Ads
+Manager campaign we setup. We can work with
+the marketing team to integrate this information. Imre doesn't need to know
+every detail of the campaign, but a higher level
+view will be enough. First, we show Imra the
+creative that was used. We can tell her that there were two different beautiful ads, and that we decided to start to run the campaign with both ads. We used A/B testing to evaluate which of
+these images was best. Then, we explain who the target audience
+was for the campaign. The marketing team used the core audience and these
+are the main characteristics. Finally, we show what
+platforms the campaign ran on, in this case, both
+Facebook and Instagram. When it ran, and how
+much was spent on it. Finally, we get to the
+meat of our presentation. How the campaign did, and the insights we discovered. First, we'll start with the summary slide
+of the results. We want to include
+the KPIs again. The cost, the results, and return on ads spend. We gained 150 new subscribers. We didn't quite hit
+our target of 200, but by taking a closer look at the generated revenue
+and return on ads spent, we can further assess
+whether we are happy with the results for the
+$1,000 to be spent. For ROAS, we look
+at the amount of revenue generated based
+on the amount we spent. We're realizing an initial
+$7,500 from our sign-ups, or a 150 times 50 for
+each subscription. That would be a ROAS of 7.5, since subscribers
+tend to stay on we'll add in the expected
+lifetime value as well. This will give us an
+extra perspective on whether this campaign
+was successful. After all, people who
+subscribe are probably going to stay with us longer than just that initial amount. Let's assume that our
+analysis found that the expected LTV of
+a customer is $300. Our return from this ad
+campaign would actually be a 150 times 300
+dollars, or $45,000. But a campaign
+costs of a $1,000, this would actually
+mean a ROAS of 45. After this data summary, it's important to tell
+the full story of our campaign and highlight
+any other findings. We have a few things
+to highlight. First, we'll add a graph of our actual daily
+subscriptions to show that most of them happened
+during the month of November. This is an important finding, maybe the closer we
+get to the holidays, the higher the probability
+people will actually buy. In the next campaign
+we may want to distribute our budget
+differently over the months. We also want to show that
+we discovered most of the subscriptions came from
+women between 35 and 44, another insight
+that can help us to adjust the targeting
+of future campaigns. We also learned in our A/B test that an image with a person
+who receives flowers performs better in this campaign than an image featuring
+only the flower bouquet. While we realized that this may not be the case
+for all campaigns, we know that if we continue to advertise
+the subscription, this image is probably
+the better choice. Finally, we'll wrap
+up with some ways to iterate on our
+campaigns for the future, including targeting the
+demographic that gave us the most subscriptions
+women between 35 and 44. Concentrating ads during
+the month of November, and further iterating on ads that feature women
+receiving flowers. Of course, it's
+also a good idea to keep seeking out ways
+to reduce our cost of conversion so we can reach our ambitious goal
+in our next campaign. That's all we need for
+presenting to Imre, and our slide deck is simple, easy to understand,
+and comprehensive. That's a good presentation
+templates to use to evaluate the
+results of a campaign. Of course, this is a
+pretty simple scenario. You may find yourself
+presenting more complex data like an evaluation of your
+marketing mix for instance. As you prepare
+your presentation, make sure you keep
+things simple. Ask yourself, what's the main messages that
+you want to get across? Backup your findings
+with relevant data, but don't overwhelm people
+with too many data points. You may have given many
+presentations already, or this may be
+relatively new to you, but as I'm sure you know, for many people presenting
+to a larger group, or to their clients, or managers, can get
+a little daunting. In our next video, I'll go through
+some tips you can keep in mind to make it all a bit easier and to help you
+shine as you tell your story

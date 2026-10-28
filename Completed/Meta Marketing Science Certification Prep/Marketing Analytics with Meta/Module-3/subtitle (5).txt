@@ -1,0 +1,33 @@
+The Facebook Conversion API
+0:01
+/
+1:42
+What is the Conversion API? 
+An API, which stands for application programming interface, is software that allows two applications to talk to each other. Each time you use an app, including Facebook, you’re using an API. A conversions API like Facebook’s allows you to connect your Facebook systems to your marketing data such as events. This helps you optimize your strategy, decrease costs and measure your results once you’ve completed a campaign. The Conversion API is a great tool to have for a marketing analyst. Let’s explore why. 
+
+How the Conversions API works 
+According to Facebook
+, the Conversions API is “designed to create a direct and reliable connection between marketing data (such as 
+website events
+ and 
+offline conversions
+) from your server, website platform or CRM to Facebook. This marketing data helps power ad personalization, optimization and measurement on Facebook so that your ads are shown to people who are more likely to be interested in them.”
+
+There are lots of different ways to set up an API, many of which don’t require a developer to help you. Facebook has a 
+resource
+ dedicated to helping you choose which setup method is right for you. You can even use it alongside the Facebook pixel! 
+
+Benefits of the Conversion API
+The Conversions API can help with several things, including: 
+
+Reducing the cost per action as a result of improved connectivity
+
+Optimizing ads for actions that happen later in the customer journey
+
+Improving measurement of ad performance and attribution across your customer’s full journey
+
+Reducing the cost per action as a result of increased event matching
+
+Increasing data control
+
+

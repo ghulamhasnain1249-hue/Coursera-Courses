@@ -1,0 +1,10 @@
+Welcome to week 1 of our
+Statistics Foundations course. During this first week, you will learn about
+descriptive statistics. Descriptive statistics
+provide insights into the data you've collected, helping to understand various
+aspects more clearly. These foundational skills are applicable not just in
+professional settings, but also in everyday situations. In the first lesson, you'll learn how to use
+measures of central tendency, such as mean, median, and mode to find the
+middle of a data set and how to choose
+when to use them. This is an exciting course in which you will learn practical skills for statistical analysis and a clear and
+concise understanding of the concepts behind them. Let's get started.

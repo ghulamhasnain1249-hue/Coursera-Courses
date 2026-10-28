@@ -1,0 +1,18 @@
+Welcome to our second
+week in this course. Last week you focused on how campaigns are created and
+managed in Ads Manager. While as an analyst you may
+not be the one creating the campaigns you
+will get involved in analyzing the
+campaign results. First step in evaluating the success of a campaign
+is understanding the results using
+the performance reports that are
+part of Ads Manager. As we said before many of the
+basic principles of how you build campaigns in
+Ads Manager are similar in other platforms. Your knowledge of Ads Manager
+will easily translate. Just as is the case
+for Ads Manager, other platforms also
+provide you with extensive reporting on how
+your campaigns performed. This week we will focus
+on how you can evaluate the results of
+your campaign with the Ads Manager report, and how to evaluate the results against your goal.
+Let's get started.

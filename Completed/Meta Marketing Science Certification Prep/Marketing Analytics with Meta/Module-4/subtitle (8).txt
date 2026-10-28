@@ -1,0 +1,89 @@
+Let's take a look at
+marketing mix modeling and how it can help you optimize
+your marketing strategy. Marketing mix modeling has been around for a long time and many large brands rely on it to fine tune their campaigns
+and their marketing budgets. Imagine you work in the marketing department of
+a large electronics company, like LG or Sony, and you're a marketing analyst
+working in the team that's responsible for the marketing
+of its flat-screen TVs. You've been asked to help create a marketing plan
+for the coming year and a budget that details how the company should spend
+its marketing dollars. To do this, you
+want to understand how different marketing
+actions like TV advertising, promotions, Facebook
+advertising, advertising on YouTube, and so on affected
+last year sales. Marketing mix modeling
+can help you analyze last year's data to
+understand what worked, predict what will
+work in the future, and plan how to best spend your money next year
+to improve results. Here's how it works. You would first
+collect data related to any previous
+marketing actions and, more specifically, you
+would look at data on how much you spend and
+what results you got. For instance, how much
+money was spent on TV ads and how many people
+saw the ads as a result? How much is spent on promotions and how many purchases resulted? How much money was invested
+in Facebook ads and how many conversions
+that you get and so on? Note that the results
+data you get from different platforms are
+going to be different. In some cases, you'll
+collect a number of views like in TV
+ads, for instance. In other cases, a number of purchases and so on. All that data will then
+be cleaned, categorized, and analyzed using a
+marketing mix model. The result of this
+analysis will show you the ROI of each
+channel or the percentage contribution
+of each channel or marketing activity
+on the final result. The marketing mix model is a mathematical
+equation that shows the statistical relationship
+between variables and a KPI. In other words, it's
+an analysis that shows the relationship
+between the investments you made and the final outcome. Marketing mix models use linear regression
+for its modeling. We looked at this in more detail in the previous course
+in this program. We also talked about how most marketers and
+marketing analysts rely on statisticians or marketing scientists
+to help them it is. Very often, they'll enlist the help of an agency
+or a research firm that specializes in
+marketing mix modeling to do the analysis for them. As a marketing analyst, you will get involved in the data collection
+though to make sure that your partner receives
+all the data necessary to conduct
+a robust analysis. You'll also be the one who helps marketers interpret the results. Let's go back to our example. You're working on
+a marketing budget for the flat-screen TVs for LG and you use marketing mix modeling to help
+inform budget allocations. You would most likely step to a research group to help you. They would collect cost
+and results data for all marketing
+channels your company used over the past year. They may also add a few other
+variables that could have had an influence on
+sales like seasonality, big promotions you ran, etc. All that data forms the input for the
+marketing mix model. The research agency analyzes the data and then comes
+back to you with report that tells you what return on investment was for each
+one of the channels you used and how much each channel contributed
+to your final results. From these results, you might learn that the contribution of
+your Facebook ads was much higher than the
+contribution for the TV campaign, for instance. On the basis of this insight, you then adjust your budget
+proposal for the next year. You might suggest putting a smaller portion
+of the budget into TV and a larger chunk
+into ads on Facebook. There are few things you should
+keep in mind though when you think about using
+marketing mix modeling. Because marketing
+mix modeling uses a variety of datasets from
+different channels where information may not
+all be immediately available in contrast
+to online media, the information collected
+can be long and complex. Moreover, the modeling
+approach is typically iterative and building
+a model takes time. As a result, marketing
+mix modeling is a method that takes a
+long time to execute. You'll find that
+marketing mix modeling is typically used by larger brands with
+larger marketing budgets and who are spending
+across multiple channels. They do this type of analysis on historical data
+about once a year. Overtime, it gives them a solid high-level understanding of which channels
+work well for them. Recently, there have been
+new developments in how data inputs are collected
+for marketing mix modeling, and some of these
+innovations are very promising as
+they may make it easier for smaller companies with smaller budgets
+to benefit from marketing mix modeling and thus also use it for
+optimization purposes. I'll talk more about it in
+one of our next videos. But first, let's take a closer
+look at some things you should keep in mind when including data from
+digital channels, like Facebook, in your
+marketing mix model. That is what's coming next.

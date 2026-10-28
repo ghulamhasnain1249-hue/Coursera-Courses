@@ -1,0 +1,61 @@
+Let's look at a set of tools every
+marketing analyst should know how to utilize in order to understand
+the full picture of marketing efforts. Website analytics tools. You can certainly use website
+analytics to inform you about how well ad campaigns are doing or
+to track e commerce sales. But website analytics have much broader
+application and can help give you insights into who your audience is, how they're
+finding your site and what they're looking at on your site, and more.
+This can help to better strategize not just your marketing efforts but your brand engagement and your entire online presence as well.
+Whether for a blogger, a small business,
+a news website or a massive e commerce retailer.
+Web analytics can provide you data about how many visitors you receive,
+who your visitors are, what they've clicked through to get to your site,
+what pages they like the most and how long they stay on them,
+what if anything they buy and if they're a returning visitor and more.
+This data isn't just fun to have, it can give you insights into
+your audience's behavior, which can help with planning better
+strategies for your advertising, website layout, web copy,
+target audience, outreach, social media content and more.
+Where do marketing analysts go to find this type of data?
+There are a number of sites and services that will run website data for
+you. The primary one we'll talk about here is
+Google Analytics, which is a mostly free service run by Google that provides a
+massive amount of data on websites as well as insights and reporting.
+Adobe Analytics is another big player in the space and offers paid enterprise level website reporting and analytics tools comparable to Google.
+Website hosting and creation sites will also offer their
+own native analytics for customers. For example, Square Space offers analytics tracking and
+while not as robust as Google or Adobe, they are still helpful in
+knowing who is coming to a site and what they're viewing.
+Finally, dozens of other websites offer free and
+paid analytics tools for anyone wanting to use them and
+can offer alternative metrics or different ways to visualize your data.
+Different tools are going to present the data to you in
+different levels of analysis. You may enjoy taking the raw data and making sense of it, or you may prefer
+more analysis and have the tool create charts and insights for you.
+You may also prefer to go into an analytics dashboard at your leisure to
+pull down the raw data or you may prefer receiving a compiled report once a week.
+All these options and more are available to you.
+You don't necessarily need to use only one tool either, some web analytics platforms
+offer different types of metrics. So you may find it useful to use two or three to get the fullest
+picture of your site. Let's talk more about Google Analytics since we'll be
+looking at it in the next few videos. Since Google Analytics is a free tool, anyone with a website who wants to
+use it can sign up for an account. As we saw earlier, Google will provide you with some
+tracking codes to add to your website, also known as the Google Analytics
+global site tag, to collect data from your website.
+Then you can simply log into the Google Analytics dashboard to view metrics.
+Once the code is embedded in your site, anytime someone visits, Google Analytics
+attaches a unique identifier to the user, usually in the form of a cookie and
+tracks their movement throughout the site. Each uniquely identified visitor is called a user and each time they visit
+your site is called a session. While Google Analytics is free to use for any website, those looking for
+an enterprise level analytics program can look to Google Analytics 360 which offers
+a larger scope of data collection for larger websites,
+more frequently refreshed data, and more comprehensive metrics.
+The latest version of Google Analytics is also referred to as G4.
+It integrates data from across sites and apps, collects data with or
+without cookies, and it is more event focused rather than page view focused.
+Page views were central in the older version of Google Analytics,
+but since users consume content on mobile
+devices where scrolling is more prominent, it's much harder to divide content up
+in pages and hence page views have become less relevant.
+In our next video, we'll take a tour around Google Analytics
+and show you what it has to offer.

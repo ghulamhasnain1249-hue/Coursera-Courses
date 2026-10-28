@@ -1,0 +1,74 @@
+We learned what
+linear regression is, what it's used for, and the formula that
+guides the analysis. Now, let's look at this
+analysis in more detail. Let's take another
+look at the formula; y is the dependent variable, b is the slope of
+the regression line, x is the independent variable, and a is the y intercept
+of the regression line. We're first going to look at
+the equation and analysis manually and then we'll look
+at how to plot it in Excel. Let's focus on the
+following question. Do sales go up when we
+spend more on Facebook? In order to determine this, we'll look at the
+dataset picture here. It shows us the daily
+advertising spend on Facebook and the corresponding
+sales for the day. Generally, you'd want to
+look at a larger datasets of a moment or more in order to remove day of week
+and sample bias. But since we're doing
+manual math here, we'll keep it a little simpler. For our example, y, or the dependent variable, is sales and x, or the independent
+variable, is spent. Now we need to find a and b
+using the formulas seen here. No need to dwell on where
+the formulas come from here, but these are the mathematical
+formulas that will get us the slope b and the intercept
+a of our regression line. While these formulas may
+look a little complicated, the sigma in this
+equation means sum of. Anytime you see that symbol, you know we're looking for a sum of a variable
+or variables. We'll need to keep track
+of all of our variables. We'll want to calculate each one before jumping
+into the equation. First we need n, which is the number of
+data points we have. In this case, n equals 7. Next, we need to sum up
+our x column where we get 2,095 or in other words, sigma x or the sum of all
+our x values is 2,095. Then we need to sum up
+our y column where we get 85 or sigma y is 85. From here, we need to find
+the sum of x times y. We'll multiply x times
+y and then sum up all those values
+to get 26,438 or sigma XY is 26,438.Then we
+need to find x squared for each x value and sum all of
+those up equaling 654,457. Sigma x squared is 654,457. Lastly, we'll want to
+find y squared and add all of those numbers
+up to equal 1,071. Well, we won't use
+y squared now, it'll come in handy later. Sigma y squared is a 1,071. From here, we simply
+plug in the numbers into the equation to find
+our a and b values. Let's start with
+a, the intercept. First, we do our multiplication and then
+we do our subtraction. Divide our numerator
+by our denominator, and a or the y intercept of our regression
+line, is 1.255. Let's do the same for b. First we input all of our
+variables into the equation, then we multiply within
+our numerator and denominator and do
+our subtraction. Then lastly, divide the
+numerator by the denominator, and b or the slope of our
+regression line, is 0.036. Our linear regression
+formula is y equals 0.036 times x plus 1.255. Now you're probably
+thinking well, there must be an
+easier way to do this. You'd be right. Excel makes this possible
+in a few easy steps. First, you'll want to make sure your data is
+formatted correctly. Make sure your x axis for your
+independent variable is on the left and your y axis for your dependent variable
+is on the right. Second, you'll want to make
+a scatter plot of your data. You can do this by clicking "Insert" then clicking on
+the "Scatterplot" icon. Once you have your scatterplot, you'll want to add a trend line. You can do this by clicking any data point then
+clicking "Add Trendline". Make sure to choose a linear trend line
+when the box pops up. Lastly, you'll want to display
+the equation on the chart. You can do this by
+clicking the box that says "Display
+Equation on chart". Once we do this
+you'll see this is the same equation we came up with on our own, so great job. But we still need to
+answer the question, do sales go up when we
+spend more on Facebook? We can use our trend line
+to determine this quickly. We see an upward trend which indicates that as the
+independent variable, in our case spend, increases the
+dependent variable, or sales for us, also increases. We can answer the question
+and say yes, it does. That's great, but there are a few more steps we need
+to take before we can confidently claim that our advertising spent
+increases sales. We'll continue in
+the next video.

@@ -1,0 +1,33 @@
+Have you ever wondered how your social media post frequency might affect your
+engagement levels. Statistics can analyze
+this connection by classifying variables
+as independent, your post, and
+dependent engagement. In this video, we'll explore
+these types of variables. First, let's define an
+independent variable. An independent variable
+is a variable that is controlled or changed
+in a statistical test. In other words, an
+independent variable is a factor you adjust or control in a statistical study to see its effect
+on other variables. For example, in studying how social media post frequency
+influences engagement, the number of posts is the independent variable
+because you control it. Now, let's define a
+dependent variable. A dependent variable is a variable whose value
+depends on that of another. Another way to think of this is a dependent variable is what you measure
+in an experiment, and its value changes based
+on the independent variable. In the context of social media, the engagement you receive, likes or comments, is dependent on the variable
+as it changes based on how often you post the;
+independent variable. As we progress further into our understanding of statistics, you'll see that it's
+possible to have multiple dependent and
+independent variables. For example purposes,
+let's use something many of us interact
+with; social media. Let's say there was a study on social media's impact
+on brand popularity. The independent variable,
+you might adjust, including the brands
+post frequency, the kinds of posts, videos, or photos, and the timing of these posts to determine the
+best posting time. Then you would look at
+what you measure or dependent variables like
+growth in followers, follower engagement
+with likes or comments, and follower actions, re-posts, or purchases. You're now equipped with the first step in a
+statistical analysis, which is determining the independent and
+dependent variables. Very soon, you won't have to wonder what effect things like social media posts have on
+engagement because you're well on your way to analyzing this using statistical methods.

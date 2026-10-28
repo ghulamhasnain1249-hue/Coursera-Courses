@@ -1,0 +1,20 @@
+Choosing the Right Experiment for Your Goal
+0:01
+/
+2:28
+Why do experiments? 
+As we’ve learned, marketing analytics is a lot of experimentation. Because we’re always adjusting and learning, both as we go and after we’ve completed campaigns, it’s important to know what kind of experiment is right for, which in turn begins with knowing what your goal is for the experiment and for the campaign. For example, are you trying to raise brand awareness? Or maybe trying to boost customers in their journey and give them that extra push from desire to action. You might be trying to gauge whether your ad is successfully promoting your product or curious to know whether a new brand image is working or not. All of these questions can be answered with the right experiment! Let’s start by reviewing what our options are. 
+
+Types of experiments and their uses
+There are a few different types of experiments you can utilize depending on what you’re looking to test or learn. Here are the ones we’ve learned about so far: 
+
+A/B tests: used to compare the success of two variables against each other, for example, one image of an ad versus another.
+
+Brand lift tests: used to evaluate the effectiveness of an ad on brand recall and recognition
+
+Conversion lift tests: used to measure the effects of an ad on conversions, or actions, such as purchases 
+
+Choosing one that’s right for you
+Because there is no right or wrong experiment to choose from, you’ll have to simply practice and learn about each method in order to decide. Looking at your goals for the campaign and for the experiment itself is a great place to start. If, for example, you are trying to see whether your customers’ attitudes have changed about your brand--such as whether they are remembering seeing your ads and therefore getting impressions of it--then more than likely you won’t choose the A/B method because you’re not trying to compare a detail in the same ad. Likewise, if you’re trying to test whether an ad has helped produce a certain number of clicks on your website’s link, then you’ll probably opt for the conversion lift test versus the brand lift test, which will tell you how people feel about your ad or product, not how many clicks you’ve gotten. In short, it’s not an exact science because each experiment type has its own features that will tell you very different things. No matter which one you choose, you’ll gain valuable insights into how your marketing campaign is doing! 
+
+

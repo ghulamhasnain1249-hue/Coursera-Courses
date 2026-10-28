@@ -1,0 +1,56 @@
+Hi, I'm Victor Geislinger, and in these next set of videos, we're going to go over
+how you might use clustering techniques
+on data with Tableau. Recall the Snackwall Company. Snackwall wants to use different marketing
+campaigns to better reach its existing customers, already using Snackwalls
+installed at their workplaces. Campaigns can be very expensive to launch since a lot
+can go into them. We would like to make
+sure our marketing resonates with its
+audience and is effective. We can learn about our
+audience with survey data. Thankfully, we already have
+this data available to us. This includes information
+about the business Snackwall would provide
+their service to. Features include data about their employees like
+the average age. There's also information about the business's sales
+history with Snackwall. This will help us group individual businesses into meaningful segments
+known as clusters. Members of each cluster
+will be more similar to one another than with individuals
+outside of a cluster. Remember, there's
+a cost in creating a new campaign for each group so we don't want to target
+too fine and be too specific. If we did this, we
+could end up with too many groups to market to, making it overall
+more expensive. We also don't want
+campaigns that are so broad that
+they're non effective. This means that there are two
+conflicting considerations to keep in mind when
+creating our segments. We'll be using Tableau today
+as our tool of choice in creating cluster since it
+makes the process simple. Tableau uses the k-means
+clustering algorithm, so it can be helpful to keep in mind the algorithm
+when using the tool. But you'll see that
+you won't have to worry about using it directly, to use tables
+clustering effectively. Now, let's take a
+look at the data so we can consider the features. We've already launched Tableau
+so we'll first need to load the data from
+a CSV into Tableau. We click "Connect to Data",
+we'll go to text file. In this case it's
+this file right here, Snackwall_data.csv. From this point, we
+could explore and learn more about the details
+of the data itself. But today we'll instead
+focus on just clustering. The next step will
+be to consider what features we want
+to use when clustering. It helps to review
+whether it would logically make sense to
+use certain features. For example, it's unlikely
+we'll use the phone number. Note however, it
+could be useful to do some feature engineering such as getting the area code
+from the phone number, but we'll ignore that here, since we have some location
+information if we wanted. We'll go ahead and
+open up a sheet now. Now, you can see all of our features listed on
+the left bar right here. We'll go ahead and pass the features that we care
+about under the mark section. These will be used to
+determine clusters. Let's go ahead and drag
+things like the age. How far the closest
+convenience store is, how much was spent last year, and whether or not the company provides lunch to
+their employees. Now, that we've decided on
+what features to consider, in the next video, we'll
+start creating our clusters.

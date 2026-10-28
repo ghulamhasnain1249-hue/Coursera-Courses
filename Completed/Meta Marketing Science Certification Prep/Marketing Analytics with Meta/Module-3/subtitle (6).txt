@@ -1,0 +1,62 @@
+In the previous lesson, we focused on
+conversion lift tests, one form of randomized
+controlled trial experiments you can use to evaluate the
+effectiveness of advertising. Conversion lift tests
+focused on evaluating the effect of advertising
+on conversions or actions. In this lesson we'll focus on a very similar
+type of lift test, the Brand Lift Test. This test evaluates
+the effectiveness of brands focused campaigns. Let's take a look. A brand Lift Test as
+the name suggests, focuses on evaluating
+brand lift, rather than conversion lift. Brand lift refers to an increase in the
+awareness of a brand. The Brand Lift Test is an
+experiment that helps you evaluate whether
+your advertising has an effect on brand recall. A brand Lift Test works in exactly the same way a
+conversion lift test works, but a brand lift test
+is used for campaigns that have a goal related
+to a brand outcome, for instance, increasing
+brand awareness. Just as in a
+conversion lift test you start by randomly assigning people from the
+target audience of a campaign to either a
+test, or control group. People in the test group
+can be exposed to an ad, whereas people in the control
+group don't see the ad. Since you're measuring
+the effect of ads on brand perceptions
+in a brand lift test, you'll measure your
+results a little differently than you would
+for a conversion lift test. For instance, you'll
+want to check your ad's effect on brand awareness as
+opposed to conversions, we measure that using a survey. All the people that were part of your test group
+and the people in your control group
+will be served one or a few polling questions. The main question asked is, do you recall seeing
+an ad for this brand online or on a mobile device
+in the last two days? This is how you measure
+ad recall lift, which is an important metric in evaluating a brand
+campaign success. But your specific ad recall lift question will of course, refer to the specific brand
+that you're testing for. Next, you'll measure
+the difference between the ad recall
+in the test group, versus the control group. The effect you're seeing on brand recall is
+caused by the ad. Let's look at an example
+of how this test can help. Let's go back to Calla & Ivy, the flower business
+in Amsterdam. Imre would like to sell more of her flower
+bouquets online, but she also realizes
+that not too many people know about the option to order flowers
+through her website. She decides to run a campaign to generate more awareness of her brands and the fact that you can order online
+from her website. She uses ads with beautiful images of the bouquets and headline that reads, "Treat yourself, order
+our bouquets online," and she adds a learn more
+call to action button. Imre wants to understand what the effect is
+of this campaign. Before running the campaign
+she decides that she will conduct a brand lift tests
+to evaluate the effect. Out of Imre's target
+audience a group of people is randomly assigned
+to a control group, this group won't see Imre's ad. After the campaign runs
+for about one month, a survey shown to people in Imre's test group who did have an opportunity to see the ad and her control group
+people who didn't. Imre chooses to ask the
+following two questions, "Do you recall seeing
+an ad for Calla & Ivy online or on a mobile device
+in the last two days? How familiar are you
+with Calla & Ivy?" After the test is
+complete Imre learns that her campaign was responsible for a 12 point lift in ad recall, and a 7 point lift
+in familiarity. Imre is excited
+about those results. Now you know what
+brand lift tests are and why you might use them. Next, let's discuss how
+they're set up on Facebook.

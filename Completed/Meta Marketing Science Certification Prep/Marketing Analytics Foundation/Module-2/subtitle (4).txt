@@ -1,0 +1,80 @@
+Finally, as we wrap up our
+lessons on data, we want to talk about the different types and quality
+of data you may use as a marketer or analyst, as determined
+by how you collect it. If you ever had to write a report for
+school that involved research, you know that using primary sources like
+journals or firsthand accounts were always the best sources to use, because they got
+you the closest to what actually happened. Secondary or
+tertiary sources were fine, but weren't as factual, or
+helpful as primary sources. The same is true when you're
+working with first-party, second-party, and third-party data. Not all data is equally as useful or
+helpful. So it's important to know the difference
+between the three, how you obtained each, and when you would use each one to
+help in your marketing efforts. We'll start with first-party data, since that type of data is going to be
+the most valuable and relevant to you. First-party data is simply data
+you've collected about your customers directly from your customers. This can be through the offline and online
+sources we mentioned in previous videos, like tracking site visits, social media
+follows, or via sign up in store. Examples of first-party
+data could be the name and address of a customer who signs up for
+a rewards card at a store location. The amount of unique visitors
+your homepage received last year, the information a customer fills
+in about their interests when they fill out a newsletter sign-up form. The average age of Facebook users
+who clicked on one of your ads, or the customers who purchased
+a specific item last month. Because first-party data directly
+reflects your audience or customer base, it will show you
+customers' behavior and actions, purchase history, and
+how your audience engages with your brand. This kind of information can help you
+plan campaigns and new strategies, and continue deepening the relationship
+with your current audience. Additionally, because first-party
+data is data directly collected from your customers, you know
+that it's going to be accurate, and provide a lot of rich insights. But one of the drawbacks is that it's
+only limited to your audience, so you aren't necessarily getting
+insights from potential audiences, or able to engage with new customers. Still, first-party data is going
+to be the most useful to you, and the most accurate representation
+of your audience. Second-party data is essentially
+second hand data, or data you did not collect yourself. Think of it as another businesses'
+first-party data that they're sharing with you. Or, if you share your first-party
+data with another business, that would be their second-party data. Why would businesses willingly
+share data with one another? If two businesses cater to
+a similar demographic or audience, they may partner
+in sharing their data, which may give insights into
+potential new audiences or trends. For example, there's a coffee shop on one
+block, and a bakery on the next block, and the owners are friends. The coffee shop only focuses on coffee,
+no baked goods. But sometimes,
+people come in with bags from the bakery. Similarly, the bakery just
+focuses on baked goods, and doesn't want to branch into coffee. But they often see customers come
+in with cups from the coffee shop. Even though there is some overlap,
+there are still bakery customers that may not yet have tried the coffee shop,
+but may enjoy it. And there are coffee shop customers
+that may not yet have tried the bakery. The businesses then share their
+first-party data with each other, so that each business can now target more people
+who may be interested in their products, and bringing more new customers. Businesses may also choose to purchase
+second-party data they believe could help them in their marketing efforts. This approach is certainly easier, but unless you're able to
+preview the data first, you may not be getting ahold of
+useful data for your business. You may also run into privacy issues, based on how the data was
+originally collected. Finally, third-party data is collected
+not by you or another business you partnered with, but by a third party not
+directly linked to the end customer. That data is then sold to businesses who
+can use it to expand their targeting efforts. Third-party data is collected using
+similar approaches to first-party data, like through customer surveys, feedback,
+or tracking of online behavior. But the data is typically
+collected through random sampling. In other words,
+it won't be your particular audience, but across the general population. For example, a new restaurant
+opens in a neighborhood, and they want to target an audience
+within a specific zip code. They may buy data about everyone
+within that particular area. They, of course, wouldn't know if
+the population on the list would even like their restaurant, or
+be in their target audience. But they can use the data to do
+an all encompassing campaign, or add the data to their current
+customer data to increase their reach. When you buy third-party data, you may not have as much insight
+into how the data was collected. And the data may be incomplete, or
+of lower quality than first-party data. Additionally, any organization
+can purchase the data, so it wouldn't be uniquely yours. There may also be further privacy risk
+around how third-party data was collected as well. While third-party data may not be
+the primary data set a marketer uses, third-party data can be
+useful to round out first or second-party data, or for comparison. So acquiring third-party
+data may be worth it. What data will be best for you? You will probably find reasons to use
+all three in your marketing efforts and planning. But it's going to be best to
+emphasize first-party data, since that will give you the most accurate
+reflection of who your customers are, and provide you the most accurate
+insight into their behaviors.

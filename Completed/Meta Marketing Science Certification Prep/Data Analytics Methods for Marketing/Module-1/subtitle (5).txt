@@ -1,0 +1,45 @@
+If you completed the previous
+courses in this program, you already know that segmentation is an important
+tool for marketers. As an analyst, you'll
+find that marketers will often rely on you to help
+you with segmentation. In this video, I'll give
+you a short overview of different segmentation
+techniques and how they are important. Let's go back to
+James at SnackWall. You may remember from
+the previous courses in this program that
+James is introducing a new subscription
+products for businesses who would like a convenient
+snack option in the office. With SnackWall companies
+use an app to order snacks and James company
+keeps the snacks coming. James was trying to find the right audience and channels for his
+marketing budgets. Aliyah, his analyst, was
+kind enough to explain segmentation to him and
+help him find his audience. Remember, finding
+your audience's key before you decide on any
+channels or platforms. Segmentation is a way
+to sort people in groups based on characteristics
+they have in common. Segmentation leads to targeting in platforms like
+Facebook and Google. In order to know who
+we want to target, we need to perform a
+segmentation analysis first. Segmentation can
+come in two forms. The first is segmentation
+developed from a persona. Your persona could
+be derived from both quantitative and
+qualitative insights. Once you have your persona, you will then need to parse it out into characteristics
+that matter. Think to yourself what
+elements make up this persona. For example, sometimes age may really matter in a persona, sometimes age doesn't
+matter at all, and occupation is
+much more important. The second form of segmentation is segmentation developed from data analysis. This can
+come in the form of k-means clustering or other
+statistical analysis. We will spend most
+of our time here. This is a much more in-depth way of segmenting our audience. Why practice segmentation? Segmentation helps us reach the right users with our media. Targeting the whole world with ads would lead to waste
+of media dollars. Instead, we want to find our correct audience and reach them with
+the right message. Segmentation helps us
+know our audience better. It also makes it easier
+to set up campaigns in our audience buying
+platforms like Facebook. If we know our
+audience in advance, we can easily look for segments
+that reach that audience. Now that we understand
+what segmentation is and the importance
+of good segmentation, let's move on to some examples
+of segmenting audiences.

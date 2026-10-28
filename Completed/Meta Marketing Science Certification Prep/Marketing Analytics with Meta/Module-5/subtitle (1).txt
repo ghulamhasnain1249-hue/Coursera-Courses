@@ -1,0 +1,89 @@
+Before you can start
+with any analytics task, you will need to
+assess two things. First, you'll need to ask
+what the goal of the analysis is and what KPIs you'll
+use to evaluate success. Second, you need to take stock of the data you have access to. You have to assess your data sources and
+get a good sense of how you will get the data you need to perform your analysis. In this video, we'll take
+another look at what it means to define
+your goals and KPIs. In the next video, we'll look at
+assessing your data. When you're asked to
+analyze marketing data, you typically won't get
+that question in a vacuum. You may be asked to analyze data to evaluate the
+success of a campaign, or the marketing team
+may want your help in defining a target audience
+for the next campaign, or they may want insights
+from historical data that can help them decide how to better allocate their budget
+in the future. In all those cases, the marketing team has a
+business goal in mind. In some cases, they will clearly formulate
+that business goal, but in other cases to
+go may live inside someone's head but may not
+have been articulated well. For you to be successful
+as a marketing analyst, it's important that you
+take a moment before any analysis to write
+down the business goals. To formulate a business
+or marketing goal, well, it's good to follow
+the smart goal template. The goal you formulate
+should be specific, measurable, achievable, relevant, and time-bound. Keeping this framework
+in mind will help you extract the right information
+from the marketing team. You can guide them to help them define a goal that is smart, which will make it easier
+for you to conduct your analysis and evaluate whether their goals
+have been reached. Here's an example
+of a smart goal. It's the example we discussed in the second course
+of this program. Imre, it's Calla & Ivy, a flower store in Amsterdam, is launching her website and is planning a campaign
+to attract visitors. Her goal is get 10,000 website visits during
+the month of May. This goal is smart.
+It is specific and clearly states what
+they want to achieve. It's measurable. You can
+track the number of visits to the website with the software they use to create her website. The company already
+has a physical store, and based on the
+sales in that store, they're determined
+that this goal is challenging but achievable. The goal is also relevant. After all, it's the intention
+to sell products online, so getting more visitors
+will ultimately help. Lastly, it's time-bound. They have set a deadline
+for the end of May. Once your goal is clear, it's time to define the KPIs or the key
+performance indicators. KPIs are measurable values that can help you track your
+progress towards your goal. KPIs are usually quantitative, meaning they can be measured. They are directional,
+they go up or down, and they have a direct
+relationship to your goal. Of course, as a
+marketing analyst, you will have access
+to lots of data, but it's important to
+identify the data that will really help you evaluate
+whether a goal was achieved. KPIs are the metrics that directly correlate with
+your business goals. There may be other metrics
+that are related to the goal, but that don't have a direct effect on
+the business outcome. We often refer to those
+as proxy metrics. For instance, in social media, metrics such as likes, comments, and followers are
+proxies and do not necessarily measure
+the real impact of advertising on sales. If you want to understand the effect of your
+advertising on sales, then likes or comments may indicate some level
+of engagement, but they're not really measuring
+the success of your ads. It's usually not a
+good idea to use these types of proxies as KPIs. You want to use
+metrics that are as closely related to the
+business outcomes as possible. In other words, you
+want to focus on metrics that are really
+indicative of success. In marketing, you'll find that the following metrics
+often function as KPIs. Reach, website visits, conversions, lift, app events like downloads or in-app purchases, and ad recall. In course 2, we
+also talked about the distinction between
+primary and secondary KPIs, where the primary KPI directly measures whether
+you are on track to reach your goal and the secondary KPI is a metric that
+directly correlates to your primary KPI but does not fully allow you to confirm
+that you reached your goal. Note that it's
+possible for a KPI to be a secondary KPI for
+a particular goal, but a primary KPI
+for another one. Here's an example. For Imre's goal, the primary KPI is the number
+of monthly website visits and a secondary KPI could be the brand awareness for
+her company, Calla & Ivy. The higher the
+awareness of the brand, the higher the chances that people will visit her website. But awareness alone
+won't make her achieve her goal of actually
+attracting website visits, so awareness is correlated
+to the number of visits. But it doesn't allow us to conclude the goal has reached, it's a secondary KPI. Of course, if Imre had
+had a different goal that involved raising the brand
+recognition of Calla & Ivy, then it would have
+been possible that brand awareness
+was a primary KPI. To determine your primary
+KPI, ask yourself, which metric will
+let me evaluate without a doubt that we
+successfully reached our goal? Once you have your
+goal and KPIs set, it's time to assess your data. Let's look at that
+in the next video.

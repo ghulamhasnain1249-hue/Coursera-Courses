@@ -1,0 +1,39 @@
+Sampling
+The logistics and cost of understanding the interests, behaviors, and purchasing preferences of a population increases as the size of that population increases and, sometimes, your population might be so large that those interests, behaviors, and preferences would have changed by the time you finished gathering your data. Luckily, you usually do not need information on every member of a population to run an accurate marketing analysis. All you need is a sample, which is a carefully selected subset of the population that is intended to represent the whole.
+
+Sample: Carefully selected subset of a population meant to represent the group as a whole
+
+There are many reasons you would use a sample rather than an entire population, but the primary reason is: It is just more practical. Marketing analytics uses sampling almost exclusively. 
+
+But when would you use sampling, as opposed to using the entire population’s data? The answer depends on what your goals are, and the resources you have available. For example, if a small business has information on their entire population, they would use the entire population. If a large company wants to gather information on their population, but doesn’t have the time or resources to collect information on every single person, they may choose to just use a sample. Similarly, if a company wants to target an audience they don’t have data on, they may use outside data sets that include sampling on that target audience. There’s no hard and fast rule as to when you would use sampling and when you wouldn’t — all you need to know is that sampling is a great option for when data on an entire population isn’t available, or may be too hard to get.
+
+Sample Size
+Choosing a sample size is an important aspect of sampling. In thinking about what makes for a proper sample size, we are often guided by an idea called the central limit theorem, which contains two main parts. The central limit theorem tells us that if your sample size is large enough, then the mean and standard deviation of your sample will be the same as the mean and standard deviation of your population.  It also tells us that the larger your sample is, the more normal the distribution will be, and will look like some of the normal distribution curves, or bell curves, we’ve seen in previous lessons.
+
+A key principle behind the central limit theorem is that your analyses can only be as accurate as the data you run them on. If you have a larger sample size, your sample will be more likely to represent the population, and any analysis you run using it will be more accurate. This is why many statistical analyses have minimum sample sizes. If you do not have the minimum sample size, the results of the analysis may not be trustworthy. Of course, even though larger samples will be more accurate, they are also more expensive and more time consuming. The specific balance you strike between accuracy and cost often will be determined by company policy. We should mention that if your sample is not big enough to meet the minimum requirements for an analysis, there are methods to adjust for this. But those adjustments can skew your data and are only to be used as a last resort.
+
+Four Sampling Techniques
+How you choose a sample is a big factor in whether the sample is a good representation of the population. Let’s have a look at four of the most common methods for selecting a sample and when to use them.
+
+1. Simple Random Sampling
+In simple random sampling, everyone in a population has an equal chance of being selected. You can think of this as putting everyone’s name in a hat and drawing five names out. While this is the most random sampling method, it can only be used with small populations. For example, if a gym wants to survey current members, they already have all of the information for the entire population, so selecting a few names at random would be representative of their gym members.
+
+
+2. Systematic Sampling
+With systematic sampling your population is brought to you in a series, or one by one, and you survey the first individual, then the next individual, and so on. Or, you can break the series into a regular interval, like choosing every fifth person to survey, or tenth. For example, you want to survey people who go to the gym on Saturdays to see if they would be interested in a special event that takes place during the week. To do this, you wait by the front door of the gym and survey every fourth person who enters. It doesn’t matter what number you choose for the interval, but it is important that you stick to it so that you can achieve a randomized sampling.
+
+
+3. Stratified Sampling
+Our next sampling technique is stratified sampling, which ensures that the sample has the same ratio of a specific variable as the full population. This is a good method to use when you know the demographic ratio of your population and you want to make sure every group is represented. For example, let’s say our gym sells protein powder to help customers bulk up. There is a new powder flavor that we want to gauge interest in by conducting a survey of 100 customers. The gym knows that 90% of the customers that buy this powder are male, but they want to be careful not to overlook their female customers. If you were to do a simple random sample, you may not get enough female customers to survey, because there is only 1 for every 9 male customers. By using stratified sampling to get a representative sample of 100 customers, you would divide your population (in this case, protein powder purchasers) by gender, then randomly sample 90 customers from the male group and randomly sample 10 customers from the female group. This will give you a sample with the exact same proportions as your population: 90% male and 10% female.
+
+
+4. Cluster Sampling
+The last technique we want to look at is cluster sampling. You might want to use cluster sampling when your population is broken down into subgroups and you want to make sure your sample adequately represents each of those subgroups. Cluster sampling is often used together with one of the other sampling techniques to get your final sample. After subgroups are selected from your overall population, you can then choose individuals within each group using a second sampling method.
+
+For example, suppose your gym wants to survey customers who take exercise classes, to see if they would be interested in special deals. There are many different classes, and you can think of each class as a subgroup. With cluster sampling, you would pick classes at random and survey them. While strict cluster sampling would survey everyone in the selected classes, any of the other methods also can be used in conjunction with cluster sampling. For instance, after selecting exercise classes, you can randomly select customers from within that class with simple random sampling; or you can select every third person who enters that class with systematic sampling; or you can make sure your sample for every class has the same gender ratio as your population with stratified sampling. For cluster sampling, you just need to remember to break your overall population down into groups, then choose a few groups at random.
+
+
+
+There are many different ways to apply these methods. Get creative. Think of a survey you might want to give, then consider which method might be the best way to gather your sample.
+
+

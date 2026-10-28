@@ -1,0 +1,14 @@
+Welcome to week 2 of our
+statistics foundations course. During the second week, you'll learn about making predictions with
+inferential statistics. In the first lesson
+of this week, you'll learn all about sampling. Sampling is an important
+concept that will help you understand how
+your data was acquired, and who it represents. First, you'll be introduced
+to what a sample is, and why using one is a
+standard statistical practice. Second, you'll learn how to identify appropriate
+sample sizes, and the impact on results
+when a sample is too small. Finally, you'll learn about different sampling techniques, and when to use them. Getting the sample
+right is the first step in a solid statistical analysis. Even the most advanced
+statistics can produce inaccurate results if sampling best practices
+are not followed. Ready to learn all
+about sampling? Let's get started.

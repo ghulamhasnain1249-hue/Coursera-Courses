@@ -1,0 +1,43 @@
+I'm glad you're joining me in this first
+course in the Facebook Marketing Analytics Professional Certificate program. This course is an introduction
+to marketing analytics. It's structured in four parts, each of which will take you
+about a week to complete. In the first week, I want to highlight
+why analytics matters for marketers. I will walk you through the roles of
+a marketer and a marketing analyst, and explain how they go hand in hand. I'll describe the different
+tasks marketers focus on, and how marketing analytics plays
+a role in each of these tasks. If you've worked in marketing or
+analytics before, most of this may be familiar to you, but it will help to set up
+the structure of this course, and give you a good framework for all the
+tools you learn throughout this program. And if you haven't worked in marketing
+before, this will be a good intro to both the marketing and the marketing analysts
+roles and the tasks they focus on. In the 2nd week, I'll focus on the different data
+sources that are used in marketing. By the end of this week, you will have
+a good understanding of the typical databases marketing analysts use,
+and where they come from. We will look at the kinds of data that's
+collected related to offline user behavior, and will also look at the data
+that results from digital interactions like website visits and online purchases. You'll also learn about the tools used
+to make data collection online possible. Then in week 3, you'll learn about
+the marketing measurement and analytics tools marketing analysts use to
+categorize, report and analyze this data. First, we'll take a look at how marketing
+analysts use spreadsheets to structure and analyze data. Spreadsheets are also used
+to visualize data, but we'll also look at a few specific tools
+that are all about transforming data into images that help to understand
+patterns and derive insights. Then we'll turn our attention to
+the tools that are specifically used to understand online user behavior,
+like Google Analytics for instance. And we'll take a look at measurement and
+reporting tools that are embedded in marketing
+platforms, like Facebook's Ads Manager. At the end of this week, you'll know which tools are core to
+a marketing analyst's toolbox, and you'll have high level understanding
+of what all these tools can do. Finally, in our last week in this course,
+we're going to talk about data and privacy. Handling data comes with responsibilities,
+and I think it's essential that every
+marketing analyst understands the power as well as the boundaries
+of the use of data. To do that we'll put ourselves first
+in the shoes of the consumer and look at privacy from their point of view. Then we'll evaluate privacy considerations
+from an advertiser's perspective, and finally we'll go over some
+of the protections and regulations that you'll need to
+know about as a marketing analyst. Throughout the course,
+you'll find many practical exercises and quizzes in which you will put
+yourselves in the shoes of an analyst. You'll be able to choose
+the right data sources and tools for common marketing questions. Knowing how to navigate the wealth of data
+that marketers have at their fingertips is a key skill for a marketing analyst. So let's get started.

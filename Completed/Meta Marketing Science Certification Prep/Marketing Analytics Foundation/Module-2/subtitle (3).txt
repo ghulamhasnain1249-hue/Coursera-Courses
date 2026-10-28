@@ -1,0 +1,69 @@
+As you begin working with data, you'll start to learn what types of data
+are going to be useful to your business, what your best methods are for tracking
+data, how to interpret data points to provide you with insights and
+how to interpret raw data. One more item to be aware of is
+understanding if you want to use sampled or unsampled data. Sampled data is exactly what
+it sounds like, a sample or selection of the larger data set that
+represents the whole of the data set. Why would you use sampled data? If you want to get insights
+about your customers, you'd ideally want to ask all of them,
+but often that's not possible. So, you may take a sample of your customer
+base knowing that their insights and feedback will represent the whole. For example, a movie theater launches
+a new self service kiosk for tickets and
+1000 people use it on the first day. The manager wants to get a sense
+of how the experience went, but it's too big of a job to talk to
+all 1000 people who used the Kiosk. What the manager would do is talk to a few
+users, or a sample, to get their feedback. The movie theater would get the data and insights they want from the sample without
+needing to ask every single person. From the sample, the movie theater is able
+to make inferences on how to leverage and promote the new self service kiosk. Here's another example: do you remember
+the media consumption data from Nielsen we refer to in an earlier video? This is a good example of
+a data set that uses sampling. To monitor people's tv viewing habits, Nielsen recruits households whose tv
+viewing behavior it will monitor. These people agree to be monitored and
+they also fill out a questionnaire that provides Nielsen with demographic and
+interest data. Nielsen then uses the information
+they gather from those households to build a data set that
+represents the total population. You may also use sampling when your
+data set is too large to handle, which would slow down
+generating any insights. Using a sample of the data would give
+you a more manageable data set with faster analysis time. And since the sample represents the whole,
+it should give you the same insights. For example,
+a marketer collects customer data but finds that they have thousands and
+thousands of entries to analyze. Working with that many pieces of
+data will take a lot of time and effort yet
+pulling out a sample of that data, only 1000 entries or a few 100 for
+instance, would give the same insights, just at a smaller scale, and
+would be much easier to work with. We discussed Google Analytics before.
+Marketers use this tool to monitor people's browsing behavior
+on their website or app. If you use Google Analytics on a very
+large website that is visited by many people, then Google Analytics will use sampling,
+so it can give you access to your data and reports faster. What is non sampled data? Well, it's simply the whole population or
+data set in its raw state and there are certainly times when
+you use the entire population for your analysis purposes. For instance, if you're looking for events
+that don't occur frequently, a sample may not be a good way to go as you may
+not catch the event you were looking for, if you only look at
+a small selection of data. You probably noticed when I talk
+about sampled data that I refer to the sample as a data selection that
+represents the total data set. It means that we assume that the
+characteristics of the sample are the same as the characteristics
+of my total data set. And thus it's okay to
+look at the sample and draw conclusions about the total data set. There are a few different methods you
+can use to get a representative sample. We will take a closer look at them
+later in this program when we dive into statistics. For now, I will just mention the most
+common method: random sampling, which simply involves picking members or
+entries at random. This can be done using
+a random number generator and gives everyone a fair
+chance of being chosen. Selecting a representative
+sample is important. Let's go back to our movie theater
+example and their self service kiosk. If I want to know what people think of
+the self service kiosk experience and I plan to take a sample of 20 people, it's not a great idea to select
+the first 20 people in line. By doing that, I may, for instance,
+pick only families with kids who are catching the morning
+show of a Disney movie. The self service experience may
+be different for them than for the crowd that shows up later at
+night to see a romantic comedy. By randomly selecting 20 people throughout
+the entire day, I have a better chance of selecting a group that represents
+the full spectrum of theater visitors. Marketers use both sampled and
+non-sampled data and now, you know what people refer to
+when they make the distinction. We'll dig deeper into sampling
+in a later lesson as well. In our next video, we'll look at
+differences in data collection and how they can be used
+to help your business.

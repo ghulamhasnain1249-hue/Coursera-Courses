@@ -1,0 +1,81 @@
+A strong segmentation strategy is just
+one piece of the marketing puzzle. We can also use statistics and
+algorithms to inform creative decisions. In this video, I will give you an overview
+of the different methods that influence the ads and marketing messages we see. Did you know that according to Infogroup,
+over 90% of consumers say that messages from companies that are not
+personally relevant to them are annoying. Good ads are a huge part
+of that experience. So how do statistics and
+algorithms inform good ads? Personalization enables advertisers to
+reach users based on their interests and demographics. There's no one tactic that
+defines personalization. You may recognize it when a company
+uses your name in the subject line for an email for instance. But personalization goes
+much further than that. There are four key kinds
+of personalization. Wisdom of the crowd,
+semantic understanding, segmentation and targeting and one to one personalization. Wisdom of the crowd is
+focused on finding items and ads you might like if others who
+look like you also like them. This is often how companies begin
+personalization at scale as it moves their advertising from one to many,
+to one to few. So, instead of just targeting
+everyone with a message, only a few people are targeted
+because you have reason to believe that they will be
+more interested in your message. Let's go back to James at SnackWall. Remember, James is trying to sell snack
+subscriptions to businesses who would like a convenient snack option in the office. James creates an app based audience
+list to develop a list of previous purchasers from the SnackWall app for
+Facebook advertising. Facebook that looks at his data for
+correlations and finds users who purchased crackers also more often purchase
+cheese than a typical user. So as a result, the next time a user
+who purchased crackers appears on the Facebook platform,
+they are served an ad for cheese snacks. Semantic understanding is used
+to understand the context behind the words on a page. This is most often used in search but
+it can also be used in contextual advertising to serve a relevant ad to
+a user on a contextually relevant page. For example,
+if James has an ad focused on sports and wants to serve this in sports articles,
+a natural language processing algorithm would parse an article to say
+yes this is contextually relevant and it's about sports and
+serve SnackWall ad. What's important about semantic
+understanding is that if given enough data and algorithm will be able
+to tell the difference between polar bears versus the Chicago
+bears football team for instance. Segmentation and targeting is the backbone
+of many algorithmic optimization and personalization techniques. Say SnackWall has three Facebook
+campaigns running each targeted to a different snack segment. One campaign is targeted to focus tech
+audiences want to sports enthusiasts and want to healthy foods audiences. While James has creative themes for each, he decides to run all creative for
+each audience to let the Facebook algorithm decides to show which
+creative is performing best. To his surprise,
+the Facebook algorithm is serving more sports creative to
+the healthy foods audience. This is the power of segmentation and
+targeting. While James assumed healthy food
+creative would work best for the healthy foods audience. The Facebook algorithm notices that users
+who fit the segment profile of a healthy food consumers are more likely to purchase
+after seeing a sports creative message. Last but certainly not least
+is one to one personalization. This approach looks at individual
+characteristics to deliver a unique experience to a user. This could be the way
+a website is laid out and ad you are served or
+even your search results. While many companies strive for one to one personalization can
+be very hard to do it at scale. One to one personalization looks at
+everything an algorithm knows about you to predict your behavior and serve you the most ideal
+experience to drive that behavior. As an example, if you head to search
+engine and look up baseball tickets while you are in New York, you may receive
+search results for New York teams. If you do the exact same
+search in san Francisco, you may receive different search results. Further, you may receive different
+search results if you've previously shown an interest in baseball
+versus someone who never has. One to one personalization looks at
+all of the elements a company knows about a consumer in order to provide
+the best experience possible. To really up your personalization game, the four types of personalization
+can feed into dynamic creative. Dynamic creative can change
+elements including, but not limited to the primary text,
+image, headline and description in real time given what we know about to
+use it and the context on the page. Dynamic creative is available for
+many creative types, including social posts,
+display banners and video. Let's go back to James at SnackWall. Remember he saw that the sports
+themed creative performs best for his healthy foods audience. James decides to expand his creative
+strategy to run dynamic creative on Facebook. Each ad has three different
+forms of primary text available, one with buy one get one free,
+one with no offer and one with 50% off. Facebook then looks at each user
+individually within their segments to decide what image and
+primary text they would serve. With their dynamic creative
+optimization to our sales, SnackWall sees their subscriptions
+increase 77% over the next two months. Personalization in advertising
+is very important. It is what makes digital advertising
+more effective and it allows us to put the right message in front of
+the right audience at the right time. Personalization is data-driven. So it's important to have a structured
+way to keep and access your data. Let's look at that in our next video.

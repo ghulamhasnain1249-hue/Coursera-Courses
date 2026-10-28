@@ -1,0 +1,20 @@
+What you can accomplish with your
+data largely depends on what type of data you have. In this lesson,
+you will learn about variable types, how to identify them,
+and how to apply them. Variables are measurements or
+descriptions of a thing like an object, a person, or a place. It could be the customers who walk
+into your store or visit your website, the traffic patterns at busy
+intersections, the average temperature for major cities, or anything that can be
+counted or measured in spreadsheets. Each column often represents
+a different variable, such as age, return on investment,
+location, and names. However, numerical variables like age and categorical ones like location
+require different types of analysis. That's why understanding
+variable types is crucial. In this lesson, you will learn about
+variables that are numbers or quantitative variables, and what's considered
+a discrete or continuous variable. Then you will learn about variables
+that are groups or qualities known as qualitative variables, including how to
+identify nominal and ordinal variables. After that, you will learn about
+the difference between independent variables and dependent variables and
+how to use them. This is a fair amount of information,
+but it is important to understand what kind of data you have before you
+can figure out what to do with it. I'm excited to get started.

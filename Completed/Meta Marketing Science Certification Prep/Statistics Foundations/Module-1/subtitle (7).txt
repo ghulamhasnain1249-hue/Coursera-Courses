@@ -1,0 +1,48 @@
+Imagine you're buying
+a new home and are using a popular real
+estate website that estimates the actual
+value of the home based on the average cost of similar
+homes in the neighborhood. Did you know that the accuracy
+of this estimate can vary significantly whether the
+website is using the mean, the median, or mode
+for its calculations? Depending on the measure of
+central tendency chosen, there could be
+unreliable price values. In this video, we'll explore
+when to use the measures of central tendency
+you learned about earlier; mean, median, and mode to help us find
+the middle of a dataset, and we'll do so using this example of homes being
+sold in a neighborhood. Let's start by calculating
+the mean of this dataset. When adding up these
+five home prices and dividing by five, we get a mean of 172,000. But another home in
+this neighborhood was recently foreclosed on
+and sold for 50,000. Let's see how that
+impacts our calculations. We add all of these
+numbers together, including the new home sold, $50,000 and get a
+total of 910,000. Now, we divide by six, since there are six numbers
+in the dataset now and get a mean of $151,666.67. Remember, our mean
+before was 172,000, so this is a big difference. The mean is sensitive to very
+high or very low values. When you have a dataset with very high or very low values, the mean is not
+the best measure. It follows that when there are not high or very low values, the mean can be used as a good measure for the
+middle of a dataset. Next, let's see if measuring central tendency
+using the median does a better job for us. We find the median of our
+new dataset by writing it in order from least
+to greatest, 50,000, 125,000, 135,000, 150,000,
+200,000, and 250,000. Next, we cross off values one at a time starting
+with the lowest, 50,000, and then the
+highest, 250,000. Then the next lowest, 125,000 and the next highest, 200,000, leaving us
+with two numbers in the middle, 135,000 and 150,000. We have two numbers
+in the middle, we will add them to get 285,000, and then divide them by two, giving us a median of 142,500. Our original median was 150,000. So adding the very low $50,000 value did not impact the median as much
+as it did the mean. This is because the median
+is the better measure to use when a dataset has very
+high or very low numbers. Now, when is the mode useful? The mode is useful for
+understanding common values in a set like the most
+frequent house price in a neighborhood
+for home buyers. It's also useful when data isn't numeric such as determining
+the most common house color, since you can't calculate the
+mean or median for colors. Whether you're
+evaluating home prices, assessing salary distributions, or analyzing any other data, choosing the right
+statistical approach will guide you to more
+reliable conclusions. Keep these concepts
+in mind as you encounter data in your
+daily life or work, and you'll be better equipped to interpret and use
+information effectively.

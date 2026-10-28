@@ -1,58 +1,229 @@
 1.
 Question 1
-Another term for modeling
-is:
+Pain is a fairly easy symptom to manage because there is very little variation in patient perceptions of painful stimuli.
 
-  
+ 
 
-Observational learning
+True
 
-Visual
-storytelling
-
-Scaling
-size
-
-None
-of the above
+False
 
 1 point
 2.
 Question 2
-If you want your child to have a certain set of characteristics what is good first step?
+Which of the following is a characteristic of type A-delta fibers?
 
-  
+ 
 
-Reprimand your child when they are not demonstrating those characteristics 
+A. large diameter axon
 
-Explain
-the characteristic to your child and tell them to act that way
+B. myelinated
 
-Break down the characteristic into concrete behaviors
+C. fast speed of impulse conduction 
 
-None
-of the above
+(A) and (B) are correct.
+
+(A), (B) and (C) are correct.
 
 1 point
 3.
 Question 3
-True or false. Saying “Do as
-I say, not as I do” to your child is a good way to develop positive behaviors. 
+First-order nerve fibers associated with the spinothalamic pathway carry nerve impulses from sensory receptors (e.g., pain receptors) to __________________.
 
-  
+ 
+
+the dorsal horn of the spinal cord
+
+the thalamus
+
+the primary somatosensory cortex in the cerebrum
+
+1 point
+4.
+Question 4
+Third-order nerve fibers associated with the spinothalamic pathway carry nerve impulses to ___________________________.
+
+ 
+
+the primary somatosensory cortex of the cerebrum
+
+the thalamus
+
+the dorsal horn of the spinal cord
+
+1 point
+5.
+Question 5
+If an individual steps with their left foot on a sharp nail, it will cause painful stimuli which will ultimately be conducted to their ________ primary somatosensory cortex.
+
+ 
+
+left
+
+right
+
+1 point
+6.
+Question 6
+Inflammatory chemicals that are released at the site of tissue damage cause nociceptors to become more sensitive/responsive to stimuli.
+
+ 
 
 True
 
 False
 
 1 point
-4.
-Question 4
-True or false. The only way modeling is effective is if you model the behavior. 
+7.
+Question 7
+____________________ respond to all types of pain stimuli and are associated with dull, throbbing pain perception.
 
-  
+ 
 
-True
+Type A-beta
 
-False
+Type C
+
+Type A-delta
+
+1 point
+8.
+Question 8
+What type of pain can be localized, replicated by touching or moving the injured body part, and has a sharp and rapid onset?
+
+ 
+
+deep somatic pain
+
+visceral pain
+
+superficial somatic pain
+
+referred pain
+
+1 point
+9.
+Question 9
+Your friend was diagnosed with type 1 diabetes mellitus a number of years ago.  Since her diagnosis, she has not followed her healthcare providers recommendations about managing her condition.  Recently she mentioned to you that she is experiencing pain, tingling and numbness in her feet.  The pain is likely caused by damage to nerve fibers in her feet and is an example of _____________.
+
+ 
+
+superficial somatic pain
+
+deep somatic pain
+
+neuropathic pain
+
+referred pain
+
+1 point
+10.
+Question 10
+When an individual is experiencing a myocardial infarction (a heart attack or MI), they may perceive feelings of pain or pressure in the chest lasting more than a few minutes and may also experience pain or discomfort in one or both arms, the back, neck, jaw or stomach.  The experience of pain/discomfort in one or both arms, the back, neck, jaw or stomach is an example of _______________________.
+
+ 
+
+superficial somatic pain
+
+deep somatic pain
+
+referred pain
+
+visceral pain
+
+1 point
+11.
+Question 11
+Nociceptors are activated by which of the following?
+
+ 
+
+A. extreme temperatures
+
+B. extreme pressure or twisting
+
+C. harmful chemicals
+
+(A) and (C) are correct.
+
+(A), (B) and (C) are correct.
+
+1 point
+12.
+Question 12
+Here is the Case Study you will use to answer the remaining quiz questions. I hope you enjoy the case!
+
+Pain Case Study
+
+(Ankle Sprain)
+
+Olivia is a 14 year old girl who plays soccer (i.e., football). In a game yesterday her left ankle was injured when an opposing player performed a slide tackle maneuver, both kicking Olivia and causing her to fall. She continued to play in the game, and later used ice to relieve the pain and swelling. She is visiting her physician today due to the bruising, continued swelling, and worsening pain in the left ankle. The physician performs an x-ray, which does not reveal any broken bones. After a physical examination, the physician diagnoses Olivia with a sprained ankle. A sprain is defined as stretching or tearing of a ligament.
+
+Sensory receptors that respond to potentially damaging stimuli that cause pain are called _________________________.
+
+ 
+
+mechanoreceptors
+
+thermoreceptors
+
+nociceptors
+
+chemoreceptors
+
+1 point
+13.
+Question 13
+Considering the significant pain that she is experiencing today, what is one reason Olivia could continue to play in the game yesterday after her injury?
+
+ 
+
+She is exaggerating the pain and the sprain must not really be that bad.
+
+She complained about the pain today so that her coach would let her miss practice.
+
+The release of endogenous opioids (i.e. endorphins) during the game may have reduced her perception of the pain.
+
+1 point
+14.
+Question 14
+What type of first-order sensory fibers are most likely activated and carrying Olivia’s pain input today?
+
+ 
+
+type A-delta fibers
+
+type A-beta fibers
+
+type C fibers
+
+1 point
+15.
+Question 15
+What is the best way for the physician rate Olivia’s pain in order to determine the intensity?
+
+ 
+
+Ask her if the pain is getting better or worse since yesterday.
+
+Ask her if the pain is very bad.
+
+Ask her to rate her pain on a 0 to 10 scale.
+
+1 point
+16.
+Question 16
+What other questions should the physician ask Olivia about her pain?
+
+ 
+
+A. What, if anything, alleviates the pain?
+
+B. Does anything make the pain worse?
+
+C. How would you describe the pain?
+
+(A) and (B) are correct.
+
+(A), (B) and (C) are correct.
 

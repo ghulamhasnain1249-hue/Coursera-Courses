@@ -1,0 +1,16 @@
+Welcome to your third week in this course,
+so far, you learned how campaigns are created and
+managed in Ads Manager. And you learned how to evaluate
+the results of your campaigns with Ads Manager reports. Now, it's time to look into how you can
+evaluate whether your campaigns were effective. Or in other words whether your
+campaigns actually were responsible for the results you're seeing. For marketing analysts,
+this is a very important topic as you'll be asked often to help evaluate
+the effectiveness of a campaign. And you'll be asked to
+prove that all the money that was spent on a campaign was worth it. This week, you'll learn how you can
+answer this question with experiments. In our first lesson,
+we'll look at one form of experiments, Conversion Lift Tests. This is a test that can help you evaluate
+the effectiveness of campaigns that are focused on conversions. Then in the next lesson,
+we'll look at Brand Lift Tests or tests you can use to evaluate
+the effectiveness of brand campaigns. Both of these tests are offered by
+Facebook and we'll look at how you can set up these tests and what the resulting
+reports look like, so let's get started

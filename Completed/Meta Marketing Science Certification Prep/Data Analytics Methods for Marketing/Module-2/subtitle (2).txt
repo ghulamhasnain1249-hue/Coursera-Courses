@@ -1,0 +1,39 @@
+While there are a few
+different kinds of analytics, we want to hone in
+on two kinds to understand how they
+help our business. Descriptive Analytics
+look at data in the past to explain
+what happened; while Predictive
+Analytics look to explain what could
+happen in the future. It's important to note, one is not more important than the others, but
+they're complimentary. Descriptive Analytics is
+the most commonly used form of analytics where
+data is collected, analyzed, and presented in a
+way humans can understand. This is where our pie charts, line graphs, and
+scatterplots come into play. You would use
+Descriptive Analytics to answer questions like, what's our
+year-over-year revenue? How has inventory moved
+in the last 12 months? How many people have we hired
+in the last six months? What's the engagement rate
+of our Facebook page? Descriptive Analytics
+can be incredibly beneficial to a business as
+it tells you what happened. However, it doesn't tell you what could happen
+moving forward. That's where Predictive
+Analytics come in. Predictive Analytics
+can't tell the future, but it can tell you
+what's likely to happen. It uses probability to say what's most likely to
+happen by looking at the data and filling
+in the blanks using methods like machine
+learning and deep learning. Predictive Analytics can be used to answer questions like, what are expected sales
+in the next 12 months? How much revenue should we expect from this
+marketing campaign? What will the demand for our
+product be next Christmas? How much less overtime will we have if we scale up the team? Predictive Analytics
+can be used for many things including:
+improving business efficiency, staffing, fraud
+detection, risk analysis, marketing efforts,
+and sales planning. Now that we know the
+difference between Descriptive and
+Predictive Analytics, we will dive into
+the world of ROI, ROAS, and CP. If you don't know
+these acronyms yet, don't worry, you'll learn
+them in our next videos.

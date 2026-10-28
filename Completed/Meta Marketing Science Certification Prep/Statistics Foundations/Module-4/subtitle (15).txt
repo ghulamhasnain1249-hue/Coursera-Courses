@@ -1,0 +1,17 @@
+Now that you've learned
+about a few models, it's time to make
+sure that you use the correct model to
+apply to your data so you can get useful and
+actionable results that can help you in your
+data analysis efforts. It doesn't matter how good
+your sample is or how accurate your model is if
+you're using the wrong model. This lesson will cover how to choose the correct model
+for your circumstance, what variables to use and what the purpose
+of the analysis is. Then we will go over a few scenarios from
+our example businesses. Discuss what the
+best model would be to use based on
+those scenarios, and then explain why. Making sure you are using the
+correct analysis method is important and it is also where a number
+of mistakes happen. If you are ever in doubt about what model you
+should be running, review this lesson
+or ask a colleague.

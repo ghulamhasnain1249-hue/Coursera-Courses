@@ -1,0 +1,77 @@
+So far we've seen how a conversion lift study can help to evaluate the
+effectiveness of an advertising campaign. In this video, we'll look at how
+a conversion lift study works in practice for your Facebook campaigns. Of course,
+you could run conversion lift studies for campaigns on other platforms as well,
+and it works in a very similar way. Let's go back to the example we
+talked about in the previous video. Irma at Calla&Ivy ran a campaign on
+Facebook focused on increasing sales for the fall bouquets. Irma wants to know what the incremental
+impact is of her campaign on sales. In other words, how much lift in sales will there be as
+a result of the advertising campaign? It's Irma's hypothesis that
+the advertising campaign will cause significant lift. This campaign aligned with her SMART
+goal of increasing the online sales of flower bouquets during the month
+of November with 15 percentage points compared to October sales. To be able to evaluate whether her
+campaign helped her achieve this goal, Irma decides to run
+a conversion lift test. While Irma and her team can set up and manage the advertising campaign themselves
+in Ads Manager, to run a conversion lift test they need the help of an account
+representative at Facebook. Who can connect them with the researchers
+at Facebook to set up an experiment. This enables the team at Facebook to make
+sure all the conversion API connections work well, and
+that people in the target audience can be randomly assigned to the test and
+control groups. There used to be a time where advertisers
+could set up a test like this without the help of the Facebook team. But with increased complexities in
+monitoring conversions due to privacy expectations, careful monitoring of the
+test is necessary to get unbiased results. Conversion lift studies need a bit of
+preparation, and you have to start the test when your campaign starts
+running, that's the nature of experiments. They're carefully planned ahead of time. As you prepare to work with Facebook team
+to get conversion lift studies started, there are a few things to keep in
+mind to make your test successful. First, you have to decide on
+the duration of your test. To decide how long the test should run
+for, it's important to ask yourself how long you believe it typically
+takes people to convert, or, in other words,
+what's the conversion cycle? If you want to see the influence
+of your ads on conversions, you have to make sure you have given
+people enough chances to convert. Irma believes that for her flower
+bouquets it typically takes people about a week on average to decide to buy. Facebook recommends that you run the test
+for one to two conversion cycles or at least two weeks. Irma decides on three weeks, just to be
+sure she's captured all the conversions. Then you have to make sure that sufficient
+budget is allocated to your campaign. If you want to see your ads have
+a significant influence on purchases, it's important that your
+ads reach your audience and are seen by that audience more than once. If you spend too little, chances are much lower that your
+campaign can make a real difference. Irma decides to set aside $50,000 for
+her campaign. Of course you also want
+the creative of your ad to be good, so it can have a real impact. It's important that your
+ad is clearly branded and that you include your call to action. For Irma, she added a Shop Now button, specifying the action she would like
+people to take when seeing her ad. To have a clean experiment, you want
+to make sure your audience doesn't see any other ads you may be running. If you're running another campaign
+targeted at the same audience, chances are that your control group
+gets exposed to an ad of yours. While it may be a different ad
+from the one you're testing for, it could still inflate the baseline. In other words, it may increase
+the chances that your control group takes the action you're testing for
+based on the other ad you were running. In that case, it will be harder to understand the effect
+of the campaign you're testing. For the same reason,
+Facebook advisors to consider pre and post study dark periods, where you
+don't run ads to avoid contamination. It's best to make that dark period be
+as long as you believe the conversion cycle to be. That way, if there's still an effect of
+a previous campaign you were running, it wouldn't contaminate the results for
+this test. Irma stopped the awareness campaign
+she was running three weeks before starting this shopping campaign. It goes without saying that the conversion event you choose should reflect
+your primary business goal. That's just good practice for
+any campaign. But you want to make sure
+that the conversion event for the campaign you're testing, aligns with the stage of the conversion
+funnel you believe your audience is at. It's hard to push your audience towards an
+action they are not ready for, like making a very expensive purchase if they've
+never heard of your brand for instance. In order for your advertising to be
+effective, you should use a call to action and optimize for a conversion event for
+which you can expect success. Without that, it will be hard to prove
+that you're advertising had any effect. Irma feels confident that her
+audience is ready to shop for her bouquets on her website, so she's
+aiming at the right conversion event. One final recommendation,
+don't edit your campaigns mid test or stop your campaigns from running all
+together before the test is over. It goes without saying that any
+changes you make while the test is running will contaminate
+the results of your experiment. Keeping all these recommendations in mind
+will help make your test successful. And of course, when I say make your
+test successful, I mean that your test will help you to evaluate whether
+your campaign was effective. It doesn't mean that the results
+will always be positive. Let's look at what the results of
+conversion lift tests look like in our next video.

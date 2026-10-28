@@ -1,0 +1,107 @@
+Now that we've talked about offline data or ways to collect information about your customers behavior in their
+everyday lives, let's look at what
+online data is, what insights it can provide, and how to collect it. With society today
+becoming more and more digital, marketers have a vast number
+of tools they can use that will help them gain insights from customers' online behavior. Those insights can better
+inform marketing efforts, make advertising
+more personalized, and engagement more meaningful. Here are some of the ways
+that marketers can track customers as they move through their journey to a purchase. Brand engagement may
+begin by interacting with a brand's content or posts on
+social media for instance. Platforms like Facebook,
+Instagram, and Twitter have insights or
+analytics dashboards that can reveal a lot about
+an account's followers, including the number
+of followers, where they're from,
+what their age is, their gender breakdown, when they're most
+frequently online, and what languages they speak. This can help a
+business understand who their audience
+is on social media, and if the audience they're targeting is indeed the
+one following them. Social media insights can
+also provide information on which pieces of content are being interacted
+with the most, which is also helpful
+knowledge about your audience. User engagement may also
+begin when someone sees an ad on social media for a
+product or service you offer. This is different
+from the kind of organic engagement
+a business would build with original content in the way of posts and videos. Instead, the business would
+create ads targeted to a specific audience with specific characteristics
+and demographics. When someone clicks on the ad, the business can
+track the interaction and further interactions
+with business. Businesses who
+created ad campaigns through a platform like
+Facebook Ads Manager, can see when people
+interact with their ad and what consumers do as a
+result of seeing the ad. Do they visit a website or app, sign up on the email list or
+buy a product or service? This data, so knowing
+whether an ad campaign results
+in a full purchase or just a website visit, is incredibly valuable
+to have in order to better understand the impact
+of your marketing efforts. Website insights
+produced by dashboards like Google Analytics
+or Adobe Analytics, are also able to
+give you a lot of rich audience data that you can use to inform your
+marketing strategies. Similar to social
+media insights, website analytics will tell you how many people are
+visiting your site, where they're from, what
+language they speak, their age, and their
+gender breakdown. It will also tell you where they're entering or
+leaving your site, how long they're
+staying on your site, and which pages they're
+drawn to the most. You can use website
+data to see how well you're doing on
+website engagement, content areas to fix, and if your efforts to drive your audience to your
+site are working. Keep in mind that these insights from social
+media dashboards and Google Analytics are going
+to be anonymous to you. You'll know, for example, that 1,000 people
+between the ages of 30 and 40 living
+in New York City, clicked on your ad, but you
+won't know who they are. If you sell products online, you can track not
+only purchases, but names and information
+of your customers, like the point of
+sales data collection we saw in the last video. Here's an overview
+dashboard from Shopify, a popular e-commerce
+software tool. Purchasing information will give you a lot of demographic data, product preference data,
+and customer purchasing behavior insights to use
+for your future strategies. You could also, more actively, collect customer information
+through something as simple as a sign-up
+form for a newsletter, a free e-book, or a rewards
+or loyalty program. Or you can also gather customer information through
+feedback questionnaires and surveys that can
+give you insights on how a customer feels
+about your brand, uses your products, or how likely they would be to
+recommend you to others. So far we've talked
+about data that can be gathered online for
+a specific website, app, or online business. However, there are
+instances where marketers want to collect information about the competition as well. They may want to know what audience a
+competitor attracts, or they may want to
+get more insights into how they stack up
+versus the competition. Marketers can leverage
+third-party databases to gather data
+about competitors. These third-party
+databases provide data collected and
+reported by someone else, namely a third party. In most cases, marketers will
+have to pay for that data. As with offline data, there are many
+third-party databases available related
+to online behavior. Marketers use tools that provide data on online
+browsing behavior, as well as data gathered
+from social media posts. Comscore and Nielsen are two prominent providers of
+data on online behavior. Both report on which websites
+and apps people use, how much time they
+spend on them, the demographics of the people
+who use them, and so on. Together with their data
+on offline media usage, they provide marketers
+with a good picture of how users spend
+their media time. Another type of data
+tools that can be useful to marketers are social
+listening tools. They can help marketers
+understand what people outside their audience are saying about their brand online. They monitor how often
+different brands are mentioned in social
+media posts and they provide insights on whether these mentions are mostly
+positive or negative. As with any type of
+data you collect, the impact on your
+marketing strategy and overall revenue generation and brand awareness doesn't come from simply
+collecting the data. It comes from analyzing it, gaining insights in
+what it's saying and using those insights to
+inform your future strategy. In our next videos, we'll take a look at how
+data is collected and how some data will be more
+useful than others.

@@ -1,0 +1,13 @@
+We looked at different metrics you can find in Ads Manager reports and we
+showed you ways in which you can
+customize your report. But we also saw how the
+default report you'll see in Ads Manager will be different depending on your
+campaign objective. In this lesson we'll take a closer look at
+this and examine the relationship between
+your campaign goals and the metrics you'll
+want to evaluate. We'll look at an important
+setting when you develop your campaigns that
+will also affect your reporting, the
+attribution setting. Then we'll walk through an
+example of how you can analyze the results of a campaign
+using the Ads Manager reports. Let's get started

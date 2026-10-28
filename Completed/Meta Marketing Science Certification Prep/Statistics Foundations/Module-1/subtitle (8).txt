@@ -1,0 +1,62 @@
+You can find the
+middle by manually calculating the mean,
+median, and mode. In this video, we will go over how to calculate
+them in a spreadsheet, which is helpful when
+working with large datasets. Using a spreadsheet to
+find the mean, median, and mode makes even the
+largest datasets manageable. We'll start with the mean, also known as the average. It is found by adding
+all the values in a given list and dividing them by the
+numbers in that list. To find the mean or average of your dataset
+in a spreadsheet, we'll use a formula. One advantage of using a
+spreadsheet program like Google Sheets or Excel is that you can add
+a formula to a cell, tell the spreadsheet
+what numbers to look at, and it will calculate
+the answer for you. Formulas typically begin
+with an equal sign, and then you can add any number our command after
+the equal sign. To find the mean, we'll
+use the formula average. Let's find the
+mean of the set of home selling prices
+in this sheet. The formula that
+we're going to use in Google Sheets will be the same one that you
+will use in Excel. To indicate that we are
+going to begin a formula, we use the equal sign and then we're going to
+type the word average. As we type the word average, you'll notice that it
+populates in the commands, and we can select it. Now that I've selected average, the spreadsheet is
+asking you to indicate what values it should
+take the average of. You can do this in
+one of two ways. You can either highlight
+the starting cell or the data and hold down Shift to do the end
+set of the data, or you could type in A2:A21. We want to go ahead
+and close the command out by closing the
+parentheses and then hitting the Enter button that populates the mean value for
+the home selling prices. Now, we're going to repeat the same process to
+find the median. We'll use the equal sign to indicate that we are
+going to do the median, and we will use the
+command median. Now, again, we can highlight ourselves or we can
+type the value in. This time, I'm going
+to type the value in so you can see
+what that looks like. We're going to hit
+the close parentheses to close out the command. Now we hit Enter and it gives you the
+value for the median. Last, we're going to
+go ahead and find the mode using the
+formula for the mode. Again, we'll use
+the equal sign to tell the spreadsheet where we're going to issue a command, and then we'll type in mode. Again, you'll be able to either click or type in the values that you want
+to find the mode of. After closing the
+command out with the closed parentheses
+and hitting Enter, we can now see our mean, our median, and our mode. Notice, in this case, you notice that the mode is
+getting an error message. What this message is
+telling us is that currently this
+dataset has no mode. The way the spreadsheet
+will tell you this is by this error message. Let's see how this changes if we enter a value
+that could be a mode. Let's go down to
+A22 and let's enter 495,000 for a second
+time making it the mode. Now, when we hit our equal
+sign and our mode command, we're going to go from A2
+to the newly entered A22. Then we'll hit Enter and
+you'll notice that this time, it does indicate an
+accurate mode of 495,000. Just because you get
+an error message doesn't necessarily mean the
+spreadsheet has an error. It could be that there
+is no repeated value, and therefore, there is no mode. Now that you've
+watched this video, you should be able to
+use a spreadsheet to find the mean, median, or mode.

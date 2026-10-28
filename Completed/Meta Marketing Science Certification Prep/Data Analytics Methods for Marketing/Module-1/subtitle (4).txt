@@ -1,0 +1,12 @@
+We are ready to get started with our first lesson in this course on Analytics
+for Marketing. In this lesson, we will take a deep dive into segmentation, focusing on the mathematical
+methods to find our audience and speak to them using the most relevant
+message possible. This will take us
+from the theoretical who to the data-driven who. In Lesson 2, we will talk
+about k-means clustering, the most common statistical approach to developing segments. We will focus on how
+we go from analysis to implementation and how
+this ladders backup into our segmentation strategy. In Lesson 3, we will apply our learnings to
+a company walking through how they can go from analysis to
+segmentation strategy. By the end of this week, you'll be able to develop
+segmentation strategies of your own and apply them
+to your marketing work. Let's get started.

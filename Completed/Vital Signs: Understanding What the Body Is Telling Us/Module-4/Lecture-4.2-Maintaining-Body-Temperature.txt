@@ -1,0 +1,75 @@
+So let's take a look at the reflex arc that regulates body temperature.
+All reflex arcs begin with sensory receptors and the sensory receptors involved in thermoregulation are specifically, called thermoreceptors.
+They're responsive to changes in temperature and they can respond to changes in either, that go in either the cold direction, or changes toward the hot direction temperature wise.
+The thermoreceptors are located in two general places in the body.
+Some of them are located in the skin and we refer to those as peripheral thermoreceptors.
+They can be sensitive to hot or cold, like I've have said, and the thermoreceptors that are sensitive to cold changes are much more numerous than the peripheral thermoreceptors that are responsive to changes toward warm.
+Now can you tell me why we might want to have thermoreceptors in the skin? Because the skins part of the shell, right, but Steph, what do you think? So you can adjust the temperature, so if it's really cold out, our body can give off some heat to warm us up.
+Exactly, because a lot of what's involved in thermoregulation is making adjustments to help us cope with environmental temperature changes, right? And so we have these thermoreceptors that are just always sensitive to changes in ambient temperature and that helps us adjust to those changes and still maintain our body core temperature.
+One of the things that I haven't talked about yet is that the body has a very high water content and water has what we think of as thermal inertia.
+It takes a lot of heat energy to warm up water and what that means in terms of thermal regulation is that we need to be aware of changes in the external environmental temperature, so that before our core thermal inertia is disrupted, before it's disrupted, we're sensing changes in the atmosphere and that lets us make physiological adjustments, so that we maintain the core temperature.
+So the other kinds of thermal receptors are located in the body core and we call those central thermoreceptors and when we think about the input that's provided about temperature, really the central thermoreceptors are providing valuable input because they are the ones that are always sampling the core temperature and letting us respond to changes in core temperature.
+Now, the second thing that we have in reflex arcs, we have sensory receptors and then we have neurons that carry sensory input into a control center.
+In the case of thermoregulation, the control center is in a region of the brain called the hypothalamus.
+So I want to just introduce to you, using a couple of models, the location of the hypothalamus.
+Here, we see a brain that's kind of located in the skull and you can see this portion of the brain that's superior is representing cerebrum, specifically, the outer surface is the cerebral cortex.
+You all have one hemisphere of the brain in front of you.
+If I pick up my hemisphere, I see that it's a left cerebral hemisphere and when I look for the hypothalamus, specifically, I find the hypothalamus embedded deep in the brain, okay? All of those sensory inputs coming from thermoreceptors are being delivered to the hypothalamus, specifically, to a tiny region in the hypothalamus called the preoptic nucleus and that region serves as the control center for temperature regulation.
+It receives sensory input and it says either, oh, things are looking good.
+We'll just maintain the status quo or it says, woo, we may be cooling off.
+We better do something to maintain the body core temperature or [SOUND] it's getting so hot, we have to do something to cool of the body core, okay? All of that integration and decision making about what we should do in terms of temperature regulation occurs in the hypothalamus.
+And then the last part of the reflex arc is the motor effects that have to occur to allow us to maintain our temperature.
+We're going to look specifically about what those motor effects are.
+They differ, if we're talking about warming up the body, than if we're cooling off the body.
+So this just gives us an idea of what the reflex arc is all about and we can now look at how we actually use the reflex arc to maintain our body core temperature.
+You have a figure open in front of you in your textbook and what you can see is that temperature regulation is described as being a seesaw or balancing act for the hypothalamus and the body as a whole.
+Temperature homeostasis means that we are maintaining our body core temperature in that narrow range that I described previously, 35.8 degrees C to 38.2 degrees C and we need to think about what are going to be the physiologic mechanisms for helping us lose heat from the body, if the core is getting too hot or retain or gain heat in the body, if the core is, potentially, getting too cold.
+So looking at this figure, we can see a stimulus is being described for us on the right side of the figure.
+The stimulus is decreased body temperature, blood cooler than the hypothalamic set point.
+What does that mean? Blood cooler than the hypothalamic set point? Stacy.
+That person's becoming colder.
+It does mean that.
+The person is becoming colder.
+What is the hypothalamic set point? The body temperature? It's the temperature that the hypothalamus says is normal, right? So you might have a thermostat in your house that allows you to set the temperature for the house as a whole.
+The hypothalamus, as the control center for your body temperature, has decided that 35.8 to 38.2 degrees C is the normal range, right? And so, what we're seeing is in, on the right-hand side of the page, the imbalance is that the body is becoming cooler than the set point, okay.
+So the sensory receptors are signaling cold.
+The hypothalamus is saying oh, the body is cooling off and so the hypothalamus is going to want to do something to promote more heat in the body and what do we see is happening in a condition where our body is cooling off? What is going to happen? Naomi.
+You start to shiver.
+You start to shiver is a big one, yes.
+So I would say though, that first of all, let's think about constriction of blood vessels in the skin.
+Right, that would be the first thing that happens.
+Your body will set into motion mechanisms to conscript blood vessels that carry blood to the skin and in the terms of the skin being the shell and then this region being the core, if we constrict those blood vessels in the skin, it means it will slow down blood flow to the shell, right? And will keep more of the blood flowing in the core.
+So since we lose a lot of heat across the shell, this is a way for us to try to retain some heat in the body.
+That would be the first thing and you would not be aware of that happening.
+It would just be something that automatically occurs to help your body conserve heat, okay? Then, tell me about the shivering thing, Naomi, what's that all about? Well, your body wants to create more heat, so it makes your muscles work.
+Okay.
+So shivering is just a very you know, you know it when you see it, right? You're going like this.
+What's happening is just very, short rapid fluctuations and contraction state in muscles that cause you go like this, right? Now, what do we know about muscle contractions? If we become physically active, what happens, Ryan? When your muscles are contracting, you're releasing energy and because the muscle cells aren't 100% effective, it will release heat.
+Exactly, so any time we're using ATP and making ATP to fuel these contractions that create shivering, we will be generating excess heat.
+So shivering is really a mechanism to promote heat production in the body to help us warm up and that would be, the basically, the acute mechanisms by which we might promote heat gain and help maintain our core temperature.
+If we happen to be exposed to prolonged cold, we may also institute some hormonal secretion activity that would help us boost our basal metabolic rate or our resting metabolic rate, so that we would continuously be generating more heat.
+But that would not be the ways that we manage being really cold on a short term basis, okay? Okay, so the seesaw goes this way and it also goes this way and when it goes this way, we see the stimulus is increased body temperature.
+The blood's warmer than the hypothylamic set point.
+So we know the body core is getting too high and what are we going to do to cope with that scenario? The stimulus coming into the hypothalamus is where the things are getting hot.
+What are we going to do? Our blood vessels might dilate and get bigger.
+The blood vessels in the skin, that supply the skin, those blood vessels will dilate and then more blood gets carried to the body surface and what happens then? We're going to lose more heat.
+Yes, we'll lose more heat by way of? Radiation? Radiation and maybe even convection, if we're in an atmosphere, where it's a little bit breezy.
+Maybe, if it's really hot, we'll turn on a fan to help us lose some additional heat by way of convection.
+Okay, and then if that vasodilation of the blood vessels in the skin isn't enough, what else will we do? Yes, Stacy? Start sweating.
+I would think that we would start sweating, yes.
+So we'll start sweating and will that be effective in helping cool us? Only if the sweat evaporates.
+Exactly, Stacy.
+So if the sweat evaporates, it will cool us and it will do, it will have a significant cooling effect.
+It will be a great way for us to lose heat from the body.
+Now the thing that's interesting, always, about reflex arcs, is that we have built into a reflex arc, feedback.
+So if we're thinking about the body is cooling off and the hypothalamus says, wow, we better vasoconstrict blood vessels in the skin and slow down blood flow through the shell of the body and the hypothalamus thinks that's really not enough, we better start shivering.
+If those mechanisms cause the body core to start heating up again, that warmth is going to send feedback to the hypothalamus to slow our shivering, right? Okay.
+So think about the other arm at the seesaw.
+We have heated up dramatically.
+The hypothalamus has an initiated vasodilation.
+Sweating or cooling off, what's the feedback going to cause? Yeah, Lydia.
+You're going to maybe sweat, start sweating less and the blood vessels might constrict again.
+Yeah, yeah, and ultimately, you may stop sweating altogether.
+You'll, you'll be back to a body temperature that you can survive without sweating in.
+Yes, excellent.
+So that's how it all works. [BLANK_AUDIO] 

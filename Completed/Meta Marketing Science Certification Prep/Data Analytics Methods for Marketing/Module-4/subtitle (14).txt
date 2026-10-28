@@ -1,0 +1,72 @@
+Visualizing a Sales Funnel in Tableau Summary
+0:01
+/
+3:45
+Quick overview 
+As we’ve learned in previous atoms, sales funnels are useful visualizations of your customer’s journey from their first impression of your brand to actually making a purchase. Understanding what their experience is at various stages of the sales funnel can be immensely helpful in optimizing your marketing strategy, both as your campaign unfolds as well as afterward in assessing the success of your campaign. 
+
+We’ve also explored what tools can be used in modeling your sales funnel, specifically Tableau. There are two ways to create a sales funnel using Tableau, which we’ll go over in this reading. Whether you need a very polished and aesthetically pleasing funnel visualization to show clients or your team or a simple one that you’re just modeling for yourself, you will have two new tools for your marketing analytics tool kit. 
+
+Option 1: Fast and simple
+Our first method of creating a sales funnel in Tableau is also the simplest and fastest. Let’s break it down step by step. 
+
+1. Make sure you’ve uploaded your data to Tableau. 
+
+2. Duplicate the KPI data so that you can mirror one for the funnel visualization effect. 
+
+
+3. Drag both KPI measures to the columns tray. 
+
+
+4. To get the reverse version, double-click on the x-axis of the left side of the visualization. In this window, you’ll then click on the checkbox called reversed under “scale,” then click out of that window.
+
+
+5. Now you can add the “stages” of your funnel. 
+
+6. Make sure that it shows correctly, convert it to a dimension by clicking on the triangle in the data pane then clicking on “convert to dimension.” 
+
+
+7. Double-click stage and drag it over to the rows tray. 
+
+8. Customize and polish as you wish from here, but you’re pretty much done! 
+
+
+Option 2: Complex but visually appealing
+This second option is more complex with more steps, but gives your sales funnel a more visually appealing, polished result. Let’s break this one down next.
+
+1. Click on “new sheet” at the bottom of the page or simply start with a fresh dashboard. 
+
+2. Drag your measure values to the columns tray twice to duplicate the data, just like with the previous method. 
+
+3. Click on the right side copy of the measure values data and the little downward arrow. In that dropdown menu, click on “dual axis.” 
+
+
+4. Remove the count of items in your file that Tableau may have grabbed, which are under “measure values.” 
+
+
+5. Drag the “stage” data to the row tray. 
+
+6. Instead of reversing the axis as in the first method, we’re now going to use a calculation to create our funnel shape: 
+
+a. Click on the copy of your KPI data, then the downward arrow.
+
+
+
+b. From the dropdown menu, click on “edit” and insert a subtraction sign before the brackets 
+
+
+c. Click apply to create a set of mirrored numbers. It’s already looking like a funnel!
+
+7. Customize as you wish. For example: 
+
+a. Under the first measure values menu, drag in stage and the measure names. Set the stage as the color and measure names as the detail. Change this field from automatic to line so you have an outlined funnel in a spectrum of colors. 
+
+
+b. Under the second measure values menu, drag in stage and measure names again. Again, set this to line, rather than automatic. This time, set the stage to color, but set the measure names to path, which will give you a nice, outlined funnel visualization.
+
+
+
+
+Conclusion
+Now that you have a grasp of using Tableau, you can start visualizing your sales funnels and planning your marketing strategies or begin optimizing currently in progress campaigns. As we’ve seen, funnels can be a quick and in-depth way to check in on not only your marketing efforts, but also your customer experience. Happy visualizing!
+

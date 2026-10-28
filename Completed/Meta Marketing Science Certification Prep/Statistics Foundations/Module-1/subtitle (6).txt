@@ -1,0 +1,44 @@
+In this video you're going to
+learn several ways to measure the central tendency of a data set
+in an effort to find its middle. It might seem like only one
+value could be the middle. Think of cutting a board in half. The middle is a clear location where
+the same measures are measured on both sides of the cut. Measures of central tendency allow
+you to find the middle of a data set. This middle, the mean, the median or
+the mode is a quick and easy way to summarize a data
+set in a single number. That number can be judged on its own or
+used to compare two or more data sets. The mean is the calculated
+average of a data set. We're most familiar with the mean
+as a measure of central tendency since school grades, sports and customer
+satisfaction ratings use averages. To get the mean, add all of
+the numbers in a data set together and divide by how many numbers there are. Let's look at an example of the mean
+in a neighborhood five houses sell for the following prices 150,000,
+250,000 ,125, 000, 135, 000 and 200, 000. To find the mean you will first add all of
+these numbers together giving you 860,000. Now you need to divide by 5 since there
+are five numbers in our data set, this gives us 860,000
+divided by 5 giving us 172,000 as our mean or
+average for this set of data. Next, let's look at the median. The median is the middle of a data
+set which has been sorted from least to greatest. How do we find the median of this set
+of data consisting of sold home prices? The first step is to order
+the values from least to greatest. Now that our list is sorted,
+I have a trick that I like to use for finding the median. I start by crossing out the lowest number
+in the data set and then the highest one. I keep doing that,
+crossing out the next lowest and the next highest until there's
+one value left in the middle. So let's cross off 125, 000 and 250,000. Then lets cross off 135,000 and 200, 000. This leaves us with 150,000 as the only
+number in the middle, which is our median. This works perfect for
+a dataset with an odd number of values. But what about sets of data that
+have an even number of values? Let's add another house into our
+data set that sells for 210,000. If we cross them off,
+starting with the lowest number 125,000 and then the highest 250,000 and we continue to the next lowest 135,000. And the next highest
+210,000 were left with two numbers in the 150,00 and 200,000. When this happens you simply add
+the two numbers and divide them by two. So we add 150,000 to
+200,000 to get 350,000. Then we divide by two and get 175,000 for
+the median of our new data set. The last measure of central
+tendency we will review is the mode which is the number
+repeated the most in the data set. It is important to realize that
+not all datasets have a mode, and some have more than one mode. For example, in our neighborhood
+selling prices there is no repeated value so it doesn't have a mode. Now if a house sells for 150,000 and we add it to our existing data set,
+150,000 is the mode. If another house sells for 200,000 we now have two values that are repeated two times so
+we have two modes, 150,000 and 200,000. You can now find the middle
+using the mean, median and mode. The next time you see a statistic that
+claims to be the middle or average, consider if you think they use the mean,
+median or mode to find that number.

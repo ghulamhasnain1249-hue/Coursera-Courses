@@ -1,0 +1,99 @@
+Buying ads on Facebook isn't
+like buying ads on tv, you don't just pay to
+buy commercial space. The Facebook ad system is built off
+of what's called an auction system in order to understand how Facebook
+charges for ads and to understand and analyze campaign results. It's important to understand how
+their auction system works first. In this video, we'll take a closer
+look at how it all works. Let's turn to the experts at Facebook, we
+asked one of our colleagues at Facebook to help us understand how
+the Facebook auction works. The Facebook ad auction is how Facebook
+decides how much to charge for an ad. The Facebook ad auction is designed to
+achieve two goals, creating value for advertisers by helping them reach and get results from people in their target
+audience while also providing positive, relevant experiences for
+people who use the Facebook products. To achieve this balance, they hold an auction to match the right
+add to the right person at the right time. Each time there's an opportunity
+to show an ad to someone, an auction takes place to determine
+which ads to show to that person. Billions of auctions take place every
+day across the Facebook family of apps. So who competes in these auctions? When an advertiser like you creates an ad, you define your target
+audience on Facebook. But what happens when another advertiser
+wants to target the same audience as you. Then both you and the other advertisers compete in
+the auction to show that person your ad. For example say one advertiser
+targets all women who like flowers and other advertiser targets all flower
+lovers who live in California. In that case the same woman in California
+who likes flowers could fall into both of these advertisers audiences. Let's call this woman Clara. So how does Facebook decide who's
+add Clara sees, Facebook decides which add Clara sees by running an
+equation that calculates a total value for each ad which is effectively
+a numerical score. The ad with a higher total value,
+wins the auction and gets shown to Clara. So what does this equation look like? An adds total value is
+based on three things, the advertiser bid, the estimated
+action rate and the ad quality. We'll explain each of them briefly. The advertiser bid is how much
+an advertiser is willing to pay to achieve their desired outcome. Like a website visit or
+a newsletter, sign up. You can manually set that bid or you can let Facebook automatically
+determine what your bid should be. The more money you bid the higher
+your advertiser bid will be. It's good to remember that the winner
+of an auction is not simply the advertiser that pays the most. It's a combination of all
+the factors in the equation. We'll talk more about setting bids later. The next part of the total value
+equation is the estimated action rate. The estimated action rate measures
+the likelihood that certain ad shown to a certain person will lead
+to a desired outcome. It's basically an estimation of how
+likely the user is to fulfill your ad campaign objective. Whether that's pressing a shop now
+button or going to your website. The final part of the total
+value equation is ad quality. Ad quality is determined by many sources, including feedback from people that view
+or hide your ad as well as findings of low quality attributes such as sensational
+language, engagement bait and more. So the advertiser bid,
+the estimated action rate and the ad quality combined make up and
+ads total value. So what does this mean for Clara who is
+being targeted by two flower companies? Let's assume both companies
+ran an ad with the goal of getting people to purchase
+flowers from their online website. They input the same advertiser bid and Facebook determined Clara is equally
+likely to fulfill their desired goal? Or in this case byproducts
+from both of them. This means the estimated action
+rate is the same for both ads too. Advertiser A however, is sending people
+to a website that has a lot of ads on their homepage as well as misleading
+information about flower pricing. That's not a great user experience. Hypothetically this could
+lower advertiser As ad quality score driving total value down. This means advertiser B, would have
+a higher total value score leading to them winning the auction and
+Clara seeing their ad. So now that you understand the auction, how does that relate to how
+much you are charged for an ad. Billions of auctions take place every day
+across the Facebook family of apps and often with far more than two companies. Every time you see an ad is
+the result of an auction. And Facebook only charges you for
+those ads when you win the auction. Facebook charges you by
+the number of times your ad is displayed to people also
+known as an impression. Facebook charges on 1000 impression basis
+and that's known as CPM or cost per 1000. CPM measures the total amount
+spent on an ad campaign divided by impressions multiplied by 1000. So an example is if you spend
+50 dollars on your ad and got 10,000 impressions,
+your CPM would be $5. You might be wondering
+why CPM is important. CPM is a common metric that's used by
+the online advertising industry to gauge the cost effectiveness of an ad campaign. It's often used to compare performance
+among different ad publishers and campaigns. So while you get charged $50 you
+can gauge what you were charged for by the CPM price. For some marketing goals you can also
+choose to be charged per link click or by action. This means Facebook will only charge you
+if customers click on your ad link or take another specific actions
+such as watching a video. We will show you later where you can make
+the choice to be charged for link click or action rate rather than impression. Now that you know how the auction works
+and how Facebook charges for ads. You are ready to set your budget in ads
+manager, your Facebook ad budget is the total amount you want to spend daily
+or over the course of the campaign. Facebook will try to spend your budget
+evenly throughout the time your ad is running, you won't be charged
+more than the budget you set. So if you set a maximum budget of
+$100 to run an Ad over a month but Facebook only spends $70 that month
+based on the ads performance, your bill will be $70. Remember when you're setting
+your budget for Facebook ads, it's the maximum amount you're willing
+to spend, not the actual amount spent. Finally, let's briefly cover how
+you will actually pay for your ads. In general there are two ways
+you may be charged for ads. Many advertisers have what's
+called automatic payments. With automatic payments Facebook will
+automatically charge you whenever you spend a certain amount which is
+known as a billing threshold. You'll be charged each time you
+hit your billing threshold and again on your monthly bill date for
+any leftover charges. You can also pay via manual
+payments with manual payments. You preload money to your
+account before your ads run. After that Facebook will
+typically deduct from that amount up to once a day as your ads run. For smaller budgets Facebook may wait
+until the charges amount to certain amount or until seven days pass before
+they invoice your account. This concludes our overview
+of the Facebook auction. I know that was a lot to cover, but
+as you continue in this lesson, you'll see why this background knowledge
+on how ads are bought on Facebook really helps when you're evaluating
+results of your campaigns.

@@ -1,0 +1,60 @@
+In the previous lesson, we looked at the
+different types of analysis you might run to understand the impact of marketing and
+campaigns on facebook and other platforms. Once you've completed an analysis,
+it's time to derive insights. In other words, you'll want to
+use the data to tell your story. That story could be an evaluation
+of the success of a campaign, a look at historical performance, a comparison of your company's
+performance to the competition and so on. So how do you go about
+formulating those insights? Let me walk you through
+a few steps that can help. First, you should take a look back at a
+business goal that prompted your analysis. What was your company trying to achieve? And you should also consider the KPIs
+that were formulated as that will give you a good idea of how you
+can evaluate whether or not you made progress towards your goal. Let's go back to James at Snack Wall,
+James ran a campaign with a goal to increase the conversions
+for the Snack Wall subscription. More specifically, James goal was generate 100 subscriptions
+over a period of three months. James KPI is the number of subscriptions. Now James should first ask himself
+whether he reached the goal. He can use his first party data. In other words, the data he recorded about
+his customers behavior to evaluate us. James did indeed reach his goal. Better even,
+he managed to get 147 new subscribers. But for James to tell his story,
+he will need to provide more information. He will have to explain
+how he reached his goal. James used marketing
+campaigns to reach his goal. He ran a campaign on Instagram. But James wants to prove that his campaign
+was responsible for the subscriptions. So he ran an experiment
+during the campaign. He worked with Facebook to
+run a conversion lift test and based on the results of that test, James knows that his campaign caused
+an increase in subscriptions. In fact one 109 of the 147
+new subscriptions are due to the Instagram campaign. So James make sure to make
+that part of his story. As James builds his narrative, he's
+interested in any insights that may help him fine tune campaigns in the future. So he reflects on what he
+learned along the way. Actually, James ran an AB test and
+learned that carousel ads work better than single image ads for
+the audience he was targeting. He thinks that's interesting
+information to keep in mind, so he adds it to his insights presentation. There's one more thing James
+checks as he looks at results. He wants to evaluate whether
+there's any difference in results among different audience groups. James found that most conversions
+came from people who live in cities on the West Coast
+of the United States. That's interesting information for
+James, he may spend more of his advertising money on ads targeted to
+people on the west coast in the future. Once you have a chance to evaluate your
+results against your business goal and KPIs, you can add some perspective and
+context to the story. You can do this by looking at
+historical data and providing trends. What does performance look like
+compared to the last year? Are things trending up or down? James adds some data to his story, showing
+that the subscriptions are really trending up, and that the spike they saw as
+a result of the campaign is not something they'd seen before, even after the initial
+launch campaign a year earlier. Another way to add some perspective to
+what you're observing in your data is to take a look outside of
+your first party data and evaluate how you are positions compared
+to the industry and your competition. Are you doing better than they are? You can use different data sets
+to evaluate a competition. Competitor or industry data vary
+depending on the industry you're in. You'll need to assess which third
+party data are right for you. James could not get his hands on
+sales data for the competition, but he did find information on the
+advertising spending of his competitors. It helped him to show that the competition
+was spending more than he is. Yet from a recent market research study he
+commissioned, he learned that Snack Wall was the top of mind brand with the highest
+awareness among his target audience. James made sure to
+include that in a story. It showed how is marketing
+had been really effective. Once you've extracted the relevant
+insights from your data, it's time to reflect on next steps and what you
+would recommend based on your insights. Let's look at that next.

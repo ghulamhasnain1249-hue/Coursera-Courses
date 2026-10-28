@@ -1,0 +1,11 @@
+Now that you've had an introduction
+to data modeling and general, it's time to
+perform your first analysis. In this lesson, you will be learning
+about simple linear regression. First, you will learn more about
+simple linear regression and classification methods and
+how to plot them using a set of data. Then you will learn how to perform
+a simple linear regression in tableau. Finally, we will discuss classification
+methods and data modeling. While we won't teach you how to use
+them because they're similar to linear regression models, it's important
+that you're familiar with them. So let's get started with
+simple linear regression.

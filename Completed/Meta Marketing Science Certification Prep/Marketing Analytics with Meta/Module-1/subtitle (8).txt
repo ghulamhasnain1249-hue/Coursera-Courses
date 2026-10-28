@@ -1,0 +1,103 @@
+As an analyst, It's important to
+understand how campaigns are created and what decisions marketers need to make
+as they create them that will help you understand the results of a campaign and
+it will also put you in a better position to make recommendations on how the results
+of a campaign can be improved. There are differences in how campaigns
+are created on different platforms. But as you will see when you work with
+different platforms there are also many similarities and
+when you know one platform in depth, it's a lot easier to
+understand other platforms. In what follows, I am going to walk you through the
+campaign creation in facebook ads manager. After all, facebook has one of the biggest
+ad platforms in the world and this will prepare you to understand all the great
+marketing analytics tools Facebook offers. In this video, we'll look at the first
+step in the ad creation process setting a campaign objective. To get started I've opened ads Manager and
+I'm on the campaign overview screen. To create a new campaign, click
+the green create button, you should see a screen similar to mine, which is
+the first screen in the creation process there's a chance that your screen looks
+different Ads Manager is a continuously evolving product with new features
+being added and tested all the time. As facebook rolls out new versions all the
+time It's possible that you see a screen that's slightly different but some
+different options from what you see here. No worries though. The basics of what I'm walking
+through here will still apply and if you ever get lost or confused facebook
+has fantastic help documentation. Just click on the little I next to the
+link you would like to learn more about before we choose our campaign objective. Let's familiarize ourselves
+with how things are structured. If you look on the left, you can see
+that ads manager divides the guidance campaign creation process
+into three steps. The campaign creation process follows
+the campaign structure we've discussed earlier. At the top, we have the campaign level
+where we set our overarching objective below that, we have the asset
+level where we target audiences, choose our ad placements and set our
+ad set budget and schedule if we wish. And finally we have the ad level where
+we create the actual ads by choosing the ad format,
+creative copy and destination. Currently, the second and third levels are locked until
+we choose a campaign objective. That's because our campaign objective
+determines what options are available to us at the ad set and add levels. We'll go into more depth on that later for
+now, let's focus on the first step in creating a campaign in ads manager,
+choosing our campaign objective. Our objective defines what we want
+people to do when they see our ads. In ads manager, Campaign objectives
+are divided into three general categories, Awareness, Consideration and Conversion. It's helpful to first narrow down at which
+stage in the journey your audiences is in and then choose the objective that's
+best aligned with your business goals. You can ask yourself the following
+questions to determine at which stage of the customer
+journey your audience is, have customers never heard of your brand
+and you want to create initial awareness? If so, you should choose an option
+from the awareness category. Do you want people to engage
+with your brand and content and visit your website for instance, or
+download your app or watch your videos? Then choose an objective from
+the consideration category. Do you want to encourage people that
+are already interested in what you have to offer to make a purchase or
+visit your physical store, then consider an objective
+from the conversion scategory. It's also helpful here to have
+another look at the smart goal and a target audience you've defined. You may remember that we covered that
+in our first course in this program. Articulating your target audience and
+where they are in the customer journey ahead of time is helpful
+to structure your campaign. Once you're clear about
+your marketing goals, you're ready to choose your
+Facebook campaign objective. We will briefly go over all the different
+objectives ads Manager lets you choose from and then have a look at some
+campaign examples in the next video. First here are two awareness objectives,
+Brand awareness and Reach. Both objectives are designed to spread the
+word about your brand product or service. You would choose these objectives to
+target people who aren't customers yet, but who could become one
+when they discover you. If you choose the brand awareness
+objective, facebook will show your ads to the people in your target audience that
+are most likely to remember your brand. Once your brand awareness campaign is
+running, facebook will measure how many people they estimate would remember your
+ads If they asked them within two days. The reach objective lets you maximize
+the number of people in your target audience who see your ads and set limits
+on how frequently your ads can be seen. Next, let's have a look at
+a consideration objectives. As I said earlier, this category includes
+objectives that get people to consider or seek information about and
+engage with your product or service. One of the most popular objectives
+is the traffic objective. This lets you drive people from
+facebook or instagram to any URL that you choose like your websites
+learning page or a blog post. Next we have the engagement objective. You select this when you want to reach
+people who are more likely to engage with your post page or event. Engagement includes liking your page,
+commenting on or sharing your post or responding to
+an offer or event you've created. The app installs objective is the right
+choice if you want to send people to the respective app store where they
+can download your business's app. When you want people to
+watch a specific video, you choose the video views objective. This shows your video to the people
+who are most likely to watch. The lead generation objective is a good
+choice for when you want to collect contact information from people
+interested in your product, like emails or sign ups for newsletters. To do that, you will create
+a form write an ads manager that opens when someone clicks on your ad. The final consideration
+objective is called messages. This drives more people to have
+conversations with your business and facebook messenger instagram
+direct messages or WhatsApp. Let's move to the final set of
+objectives centered around conversion. Conversion, as you may remember,
+includes objectives that encourage people to purchase or
+use your product or service. The conversions objective is designed
+to encourage people to take a specific action on your website. This can range from
+adding items to a basket, registering through a form or
+making a purchase. These actions can be logged
+by the facebook pixel, a piece of code you can
+add to your website. We'll talk more about how to do that. Later. When you have an online shop, you can
+set up a catalog of your products on facebook and then create ads that
+dynamically show items from your catalog based on what your target audience
+is most likely to be interested in. The catalog sales objective
+will help you optimize for sales of products from this catalog. Finally, if you have a brick and
+mortar business that you want to promote, choose the store traffic objective. This allows you to promote your specific
+business locations to people that are nearby. This was an overview of the different
+campaign objectives you can choose from in ads manager. We'll have a look at a few campaign
+examples to illustrate some of these objectives in the next video

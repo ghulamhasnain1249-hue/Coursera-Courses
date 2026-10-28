@@ -1,0 +1,62 @@
+By now you know that a campaign objective and the delivery optimization
+you choose when you set up your campaign
+determines how you can best evaluate the
+success of your campaign. There is one more
+important decision that you make while setting up a campaign that affects the reports on the
+performance of that campaign, the attributions setting, that is what we'll
+discuss in this video. First, let's look at what
+the attribution setting is. When you create an ad set, you have to decide
+delivery optimization, that's when you
+tell Facebook which results it should optimize for. For instance, you
+can ask Facebook to get you as many link
+clicks as possible. In that case, your delivery is optimized for link clicks. When you decide the
+delivery optimization for conversion
+focused campaigns, you can also decide the
+right attribution setting. The attributions
+setting you choose is a finite period of
+time during which conversions can be
+credited to your ads and used to inform
+campaign optimization. In other words, you pick a time window for which you
+believe conversions are a result of your campaign and the Facebook system can learn
+from the conversions during that time window
+to further improve the delivery of your
+ads and show them to those people who are
+most likely to take the action you would
+like them to take. There's a limited set of time windows you
+can choose from, for most conversion
+campaigns you will find four options, one day click, seven day click, one day click and one day view, seven day click
+and one day view. Here you see what your selection looks like in Ads Manager. What does this actually mean? You can choose to attribute
+all the conversions like for instance sales you
+see to your Facebook campaign if the conversion
+happens one day after the person
+clicked on your ad or you can choose to include
+all sales that happened in a window of seven days after the person
+clicked on your ad. You would choose that
+option if you assume that people may take a little
+longer to decide to buy, this is actually the default
+option in Ads Manager. You could also decide that
+people don't really need to click on your ad to
+be persuaded to convert, you may feel that someone who's viewed your ad and then buys within a day is
+equally influenced by your ad as
+someone who clicked. In that case, you
+would decide to use the one day click or view
+attributions setting. Alternatively, you could decide that someone who clicks
+and comes back to your site and converts within seven days or someone
+who views and converts within one day converted
+as a result of your ad in which case this is the attribution setting
+you would choose. Marketers will make
+a different choice here based on the type
+of product they sell. For instance, it may take someone a bit
+longer to decide to buy a certain television than it takes them to buy
+a new phone case. Often more expensive
+products will be given a longer
+attribution window. The choice that's made
+here while setting up advertising campaign will also be reported in your
+Ads Manager report, it is one of the campaigns
+setting metrics. It helps to remind you as an analyst of the
+settings chosen for the campaign and it indicates what the data in
+your report reflects. We skipped over this
+metric previously as it requires a bit more
+explanation but now you have all the information
+you need to confidently assess the success of a
+campaign in Ads Manager

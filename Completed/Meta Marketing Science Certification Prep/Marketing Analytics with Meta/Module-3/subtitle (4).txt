@@ -1,0 +1,72 @@
+In the previous lesson, we learned that a conversion
+lift study can help you evaluate the effectiveness of
+your advertising campaign, and its ability to
+lift conversions. We also saw how Facebook
+can help you execute the experiment that forms the basis of the
+Conversion Lift Test. In this video, I want
+to go over to aspects of the conversion lift
+tests that are important, randomization, and
+intention to treat. Both of these are automatically
+used by Facebook, so you don't have to worry about them when you set up
+a test with Facebook, but as an analyst,
+it's good to know what this really means
+and why it matters if you've completed the previous courses in this program, you've already learned about
+good experimental design. You want to make sure,that you design your test in such a way, that you can have confidence in the results your test provides. A conversion lift test, is a form of Randomized
+Controlled Trial or RCT. Randomized controlled trials are a form of experiments
+commonly used in marketing. In an RCT, subjects are randomly assigned to either a test
+or control group. People who are assigned to the test group may be
+exposed to a treatment, and people in the control group, don't see that treatment. In a conversion lift
+test, this means, that these group of people
+may see a specific ad or campaigned aimed at
+generating conversions. The control group won't. After the campaign runs, two results are compared between the control
+and the test group. In this case, we look at the
+difference in conversions. For instance, sales in the test group to group
+that saw the ads, compared to the control group to group that did
+not see the ad. As we discussed in
+our previous videos, well-designed
+conversion lift tests, can show the true impact
+of an ad or campaign. Any difference between
+the groups is likely to have been caused
+by the ad campaign This is the incremental
+impact of the campaign. An RCT is setup so
+people will have the experience intended for whichever group they've
+been randomly assigned to. However, it's not that easy to achieve this
+in advertising, because it's not always
+possible for the researcher, to make sure that everyone in the test group,
+receives the treatment. Let's think about a
+conversion lift study again. Once people have
+been assigned to either the test
+or control group, the assumption is that, everyone in the test group, will see the ads that
+encouraged them to convert. However, as an advertiser, you don't have full
+control over that. Imre at Calla&Ivy, had decided to run her
+campaign for three weeks. But imagine a person
+in the test group, who was on vacation
+and decided not to check Facebook at
+all while on safari. That person won't see Imre's ad, even though she was
+in the test group. You could argue that we could take that person out
+of the test group, and put her in the
+control group instead, but that's not good practice. Once you start to move
+people from tests to control group based
+on certain behavior, your groups are
+no longer random. In fact, it's better
+to keep people in the group you intended them
+for in the first place. Even if that means they may
+not receive your treatment, in this case, not see your ad. In other words, you have the intention to treat
+people in the test group, and you leave it that way. By doing this, you make
+it a little harder on yourself to find the test
+results if more people, in the test group didn't
+actually receive the treatment, chances are you're going to find less difference
+between your test, and control group, but, that makes for a stronger tests, and it's definitely better
+than biasing your results, by interfering with random
+assignment to groups. Facebook uses intention to treat or ITT in its
+conversion lift tests. It keeps our experiment participants in the
+groups that they were originally assigned to regardless of what
+they see or do. This minimizes the effect
+of potential bias. Randomization and intention
+to treat are part of Facebook's common
+practice when it comes to running experiments. There is no special action
+you need to take, but, it's good to keep this in mind for any other
+experiments you would like to run to evaluate the effectiveness of
+your advertising. Our next lesson we'll
+focus on another type of randomized controlled
+trial brand lift tests. I'll see you there

@@ -1,0 +1,48 @@
+In the previous lessons, we discussed several
+important metrics. We looked at different
+outcome metrics that marketers focus on, like ROI, customer profit, LTV, and so on. In this lesson, we're going to look at
+the statistical methods often used to understand
+the influence of independent variables on
+those outcome metrics and ways to plot our data
+and analyze strengths. One common way of doing
+this is linear regression. Linear regression is
+an analysis that shows the relationship between an independent and a
+dependent variable. In marketing, we may use linear regression to find
+answers to questions like, does click-through rate on social ads have an
+effect on conversion? Does video completion rates have an effect on
+site visitation? Do sales go up when we
+spent more on Facebook? In our first question, the independent variable is click-through rate and the dependent variable
+is conversions. In the second question, completion rate is our independent variable
+and site visitation is our dependent variable. Linear regression can
+help us understand these relationships and predict outcomes based on
+that understanding. Let's walk through the formula for linear regression together. We looked at this before in a previous course
+in this program. The formula for linear
+regression is y equals b times x plus a. y is
+the dependent variable, b is the slope of
+the regression line, x is the independent variable, and a is the y-intercept
+of the regression line. The slope of the
+regression line, or b in this formula is
+crucial in this formula as it tells us how much our dependent variable
+changes with the change in x. In other words,
+it's the ratio of change in y for a change in x. You could consider
+it an indication of how much x and y are correlated. Note that b could be negative. In that case, a positive
+change in x would result in a negative
+change in y or vice versa. It means the independent
+and dependent variables move in opposite directions. The y-intercept is another
+part of the formula. Here, represented as a. It specifies where
+the regression line intercepts the
+y-axis in the plot. While an important
+part of the formula, there isn't always
+a meaningful way to interpret this point. Let's look at an example of how regression analysis
+could be used. Let's go back to Calla and Ivy, a flower store in Amsterdam. Imra plans to run an
+advertising campaign on Facebook to encourage people
+to visit her website, but she would like to predict the effect increased visitation of the website could
+have on sales. Imra uses data from the past year to run a
+regression analysis. Data of the sales she observed last year will be her y data, the data on website
+visitation are the x data. With this data, she runs a
+regression analysis and she finds this result that helps her plot this
+regression line. Now she can predict based on
+her expected website visits what sales will
+look like by using this formula and
+regression line. In our next video, we'll take a closer look at how regression analysis works so
+you can run one yourself.

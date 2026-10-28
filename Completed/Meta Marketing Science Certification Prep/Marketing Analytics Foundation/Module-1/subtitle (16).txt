@@ -1,0 +1,73 @@
+There's one more
+important aspect of marketing that relies heavily on analytics and that is sales funnel
+optimization. We discussed how
+marketers will pay close attention to
+the sales funnel and how they might split the purchase process in
+four different steps; awareness, interest,
+decision, and action. As you can imagine, getting people to the
+awareness stage usually involves quite a bit of time
+and effort and often budget. If you are introducing a
+new product, for instance, you need to get a word out to an audience that may have an
+interest in your product. Often that involves
+developing an ad, buying advertising
+space, and so on. It's no wonder then
+that marketers want to closely study what happens next. That's where marketing analytics comes in to help them understand if and how people make it
+through the sales funnel. Specifically, they want to
+identify points of friction or points where people stop moving or leave the
+funnel altogether. Friction can happen at
+different points of the funnel. For instance, people may
+be aware of your product, but it may be hard to get
+them to become interested. That could happen if you
+just don't get your message across or don't explain the benefits of your
+product very well. That may mean you have to change your advertising message. You may also find that
+people who have become interested don't bite the bullet and decide to buy your product. That could be
+because a competitor may have a more attractive offer, or they may have a
+better message and people may decide to buy
+their product instead. In some cases, you may see people who've decided
+to get your product, but they failed to take action, and that could be
+because there's friction in the checkout
+process for instance, like on a website
+that's hard to navigate or that does not work
+well on a mobile phone. By studying the data
+on the number of people that make it from
+one stage to the next, or by evaluating the flow of how people navigate
+your website, these points of friction come to light and that's what shows a marketer where
+they should focus their efforts and adjust
+their marketing strategy, or in some cases, parts of the product
+or the sales process. When James was evaluating the
+sales funnel for SnackWall, he saw that there was a substantial drop-off from the decision to
+the action phase. Of the people that made it
+to the SnackWall website, only 11 percent ended up enrolling and thus
+purchasing the product. While James figures that
+some drop-off is natural, he and Aaliyah did a
+little bit more digging. In fact, they turned to Google Analytics
+and evaluated how people flow through
+the different pages in the online checkout process. This is the type of report
+they were studying. We will learn more
+about these reports and Google Analytics later
+in this program. They saw that people
+who landed on the website did click on
+the "Enroll Now" button, but they did not submit their information when they
+landed on the next page. This puzzled James
+and Aaliyah and they decided to interview a
+few target customers. They interviewed five people and had them go through the
+checkout process with them. As they were going
+through the website, all five of them told James and Aaliyah that
+they did not feel comfortable providing their
+name and company information without a clear idea about what a SnackWall subscription
+would cost them. As a result, James and Aaliyah created a quick cost calculator. Instead of the
+"Enroll Now" button, they now have a
+"Learn More" button. That leads people
+to a page where they are asked how
+many employees they have and they get a
+quick calculation of the estimated costs of the
+SnackWall subscription. Then there is an
+"Enroll Now" button. After making this
+change to the website, James saw the enrollment
+percentage go up to 20 percent. As I'm sure you can imagine, James was glad he did some digging into the
+sales funnel data. Analyzing the sales
+funnel can highlight weak links in your sales and
+marketing process and give you clues as to what part
+of the process may warrant more research and
+where there may be opportunities
+for optimization.

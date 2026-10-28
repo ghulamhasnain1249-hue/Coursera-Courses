@@ -1,0 +1,65 @@
+To understand how data fuels digital
+marketing and how data and advertising are connected, it's important to have a
+closer look at where the data comes from. How does that come about when
+you visit content online? Let's look at how
+interactions happen online. As an example, let's look at what happens when someone
+interacts with the publisher's website. Every publisher's website starts
+as a blank canvas made of code and stored on a web server. Think of your favorite news site, for
+instance. In your mind, strip away all of the content. The shell that's left is the blank
+canvas the website started with. To fill this blank canvas with content,
+the publisher uses a tool known as a content
+management system, or short: CMS. Publishers use their CMS to store, create
+and manage content on their websites. So, imagine your favorite news site,
+they use such a CMS. It's typically a system that makes it
+possible for many people to easily create and manage the content without
+needing to know how to code. Or in other words, it's an easy system
+to write a news article that you will see appear on the new site. The publisher will leave some space
+on the website for advertising. A separate server will place the ads. This server is referred
+to as the ad server. So note that two different
+systems handle the content and the ads.  The ads come from advertisers. To get the right ad in
+front of the right people, the publisher sends a signal to connect
+with the advertiser's ad server and retrieve the creative for
+the ad that needs to be displayed. Again, when we think about our favorite
+news website, the people who are writing the articles that you see aren't deciding
+on the ads that you see on the site. The ads you get to see are coming in from
+the Ad server. To publish, this website will connect with the Ad server and the Ad
+server fills the advertising spaces. Now let's look at what happens
+when someone accesses a website. As soon as the person's browser
+requests a web page from the publisher, some data about a person
+is sent to the publisher. That information is used to bring
+the right content to the person, but it's also sent to the Ad server to
+make sure a relevant Ad is displayed. So, data is exchanged
+between the person and both the publisher and
+the advertisers' servers. The publisher and
+the advertiser both store data. Every interaction like accessing a page,
+clicking on a link, clicking on an ad or
+making a purchase leaves a record. The publisher and the advertiser
+categorize and store some of that information to personalize the content and
+adapt the ads people see. So we now know that a lot of
+data is generated as people interact with online content. But what do we really mean
+when we talk about data? As you probably know,
+every website is made of code. That code is stored on a publisher server. Every time you interact with the website, you tell its server which
+piece of the code to display. Every request you make for
+a piece of code or elements of the website,
+leaves a record in the server. That record is referred
+to as the web server log. A web server log consists of
+strings of code like this one. This code may look foreign to us but it's not too difficult to
+understand its components. First, you see a series of numbers.
+That's the person's IP address. It tells the server
+where to send the data. Next is a unique identifier. This is how the server recognizes
+who is asking for the information. This identifier is typically pulled
+from the person's browser and is usually a sequence of characters. Note, that this is not personally
+identifiable information also referred to as PII. So, no names or
+physical addresses are stored here. Next, if the website requires the person
+to log in, there may be a user name here. Next, there's a date and a time stamp of when the information
+was requested from the server. After that is the string of code that
+identifies what information the person is requesting. This is how the server finds
+the right piece of data to return. This string of code is embedded in the
+links on websites so that you can click on a link and give an instruction
+to the server at the same time. Next, you'll see a number that tells us
+whether the information was successfully provided to the person. 200 means successfully delivered,
+while 404 means error. Finally, another number reflects the size
+of the content filed a person received. While every interaction leaves a trace
+in the publisher and advertiser servers, the servers often also send some
+information back to the user and store it in their browser as a cookie, which is
+what we will cover in our next video.

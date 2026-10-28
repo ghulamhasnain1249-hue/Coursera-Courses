@@ -1,0 +1,13 @@
+In this lesson, we're going
+to explore distributions. Distributions are a fundamental
+statistical concept that tells you how your
+data is spread out. They can also help you
+predict what behavior people or customers might take
+regarding a specific decision. First, we'll describe how
+to find a distribution. Then we'll explore some
+common distributions that you can expect to
+find as a data analyst, including normal uniform piss and exponential
+distributions. After that, we'll examine data shapes and
+finish this lesson by learning about Z-Scores and how to use them
+to judge a value. This lesson will provide some basic concepts that
+you will build on later.

@@ -1,0 +1,112 @@
+Evaluating Results of Marketing Mix Modeling
+0:00
+/
+6:26
+Marketing Mix Modeling is the established measurement solution for holistic, cross-channel sales measurement. It can be used to measure the effect of a large set of variables and media on both offline and online sales.
+
+In this lesson, you’ll learn when Marketing Mix Models (MMM) are typically used, who uses them and how they influence marketing decisions. You’ll also learn what the typical outputs of a MMM look like and how these outputs help in the decision making.
+
+Who uses MMM?
+CFOs, CMOs, GMs, Brand Managers, and Media Planners across different industries use MMM to understand the factors that influence sales and how to spend marketing budgets across marketing channels, brands and countries. 
+
+There are specific circumstances in which the use of MMM is even more prominent:  
+
+When a business has a majority of their sales offline, or majority of their spend is on traditional offline channels (TV, Print, Radio, OOH).
+
+Offline sales influenced by marketing cannot be tracked in the same way we can track online. MMM can provide a view of what your online or offline media spend is delivering in both offline and online sales.
+
+Businesses with a large marketing budget 
+
+Marketing Mix Modeling is expensive and so to justify the return on a MMM project, marketing spend must be significant. 
+
+Businesses with sophisticated media plans that are too complex to set up multiple individual experiments to measure each factor in isolation. 
+
+MMM allows them to measure holistically within a single project. 
+
+What questions can MMM answer?
+MMM is a CFO/CMO’s tool to understand how to spend their money across marketing channels, brands and countries. It is a robust model that can help answer many different questions. Common questions addressed are:
+
+How much in sales did each of my marketing investments drive?
+
+What was the Return on Investment (ROI) of each marketing channel across all my brands?
+
+How should I allocate budget by channel, by brand, by country going forward?
+
+Where should my next marketing dollar go?
+
+What media weight is optimal for each major marketing channel?
+
+What’s the ideal mix of 15s v 30s ads, video v static ads, prime vs. non-prime TV?
+
+Which creative strategy has produced the highest sales impact?
+
+How would sales be impacted if I made X change to my marketing plan?
+
+If I needed to cut my marketing budget by X%, where should the dollars come from?
+
+Understanding the output from a Marketing Mix Model (MMM)
+There are three components to the output you receive from a Marketing Mix Modeling exercise: 
+
+1. Report of incremental sales from modeled variables
+
+2. Return on Investment Analysis
+
+3. Media Curves
+
+1. Report of Incremental Sales from modeled variables
+Marketing Mix Models identify and quantify the factors that have an impact on the KPI. 
+
+The model tries to replicate the historical business metrics as closely as possible by using data on how different factors have driven business outcomes over time. 
+
+The output shows the incremental value that each of the factors has driven over the modeling time period.
+
+Here is an example of what the output might look like for a sample company: 
+
+
+In this graph, total sales units are shown on the Y-axis and the X-axis represents the modeling time, broken out in weeks.  The output shows that, over the past three years, Price, Promotions, Brand and Media all had an impact on sales.  The impact is different at different times, for instance, the effect of media is larger at the times the company ran their TV campaigns.  Note that together, Price, Promotions, Brand and Media add incremental sales, over and above the base sales, or the sales that were expected without the impact of changes in Price, Promotions, Brand or Media.  
+
+Most models will also break out the results by Media Channel 
+
+A more granular look at the influence of different media channels results. Here is what that looks like in the case of Patty Shack:
+
+
+
+
+In this example, the Media variable is further broken out in Pay Per Click (PPC), Press, Facebook and TV.  This way we can see how the impact of different media channels changes over time. And, it shows us more clearly that the peaks in media impact we see were indeed a result of the TV campaign that the company was running at those times.
+
+2. Spend and ROI
+In order to get full insight into the efficiency of the marketing budget allocation, it's important to evaluate the incremental sales resulting from marketing efforts in light of the cost of those marketing efforts. 
+
+In order to achieve that, MMM also reports the spend for the different influencing factors and the Return on Investment (ROI) for each factor.
+
+Here is an example of what the output could look like for the different media channels the company invested in. 
+
+The company invested in Pay Per Click (PPC) ads, Facebook advertising, TV and press.  This chart shows the investment in dollars per year. 
+
+
+
+
+The company saw the following incremental revenue as a result of these media investments.  
+
+
+
+
+This chart shows the ROI (return on investment) for the different media channels.  The PPC ads resulted in an ROI of 2, meaning that for every dollar spent on PPC advertising, they saw 2 dollars in revenue.  Facebook advertising had an ROI of 1.8 for the company and TV and press followed, with lower ROI each.
+
+
+3. Media Curves
+The return on investment in a media channel typically diminishes as investment in that media channel increases.  That means that a marketer needs to keep in mind that their return on investment may start to go down as they invest more dollars in a particular channel.  
+
+The output of the MMM will provide the curves that represent the return or the ROI for different media channels by level of spending.  
+
+Here is an example of what a media curve can look like:
+
+
+The media curve for a channel shows the relationship between spend and revenue generated by this channel.  As the spend increases, the marginal return decreases.  
+
+When a marketer uses the MMM to optimize marketing budgets and to plan future spending, this information is crucial. Marginal returns feed into budget optimization recommendations. 
+
+Here is an example of how different media channels can have different curves, and how that can affect the expected ROI: 
+
+
+

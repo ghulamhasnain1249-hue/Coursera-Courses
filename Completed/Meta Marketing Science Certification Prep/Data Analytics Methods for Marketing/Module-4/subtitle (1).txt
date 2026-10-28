@@ -1,0 +1,49 @@
+So far, we've looked at using
+statistical modeling for a number of individual
+marketing questions, like which audience is likely
+to buy a specific product or what's the impact of a certain
+website design on sales or how much ad spent should I budget
+based on past performance and how does a certain banner ad placement
+affect click through rate as a marketer. You certainly want to understand how each
+individual action impacts your brand awareness conversions and sales. But what about the big picture when you
+are working on your marketing strategy and planning the budget, you should spend,
+you will want to get more insight into the impact of all your individual
+marketing initiatives working together. Marketing mix modeling can help with that. Similar to all the other
+analysis we've seen, you would gather the data from each
+of your marketing initiatives. Then you would apply an analysis
+that looks at all that data and finally gives you a model that shows
+the combined impact your marketing efforts have on your sales and revenue. In other words, it gives you a model
+that shows you what's working and what's not, that's how it gets its name. You're not just looking at one
+marketing channel or initiative, but a mix of them to see which
+strategies work and which don't. Knowing which strategies are the most
+effective and which generate most sales means that you can focus on those
+strategies in your marketing efforts and do away with or rethink
+the strategies that aren't working and you can rebalance your
+budgets to reflect that, let's take another look at our
+flower shop Calla and Ivy. To see how they might use
+marketing mix modeling Imra at Calla and Ivy has reached the point where
+she has been in business for a few years and she wants to gain
+a greater insight into how her marketing efforts have impacted her
+sales over that time. She's used a mix of marketing efforts and
+as she thinks about how to budget for marketing in the future, she wants to make sure her money is
+spent as effectively as possible. She's already tracked a number of
+individual marketing efforts and their impact on her sales. For example, she ran a Facebook campaign
+last holiday Season during which online orders increased by 10%. In this past Mother's Day, she took out a series of print ads during
+which in store sales bumped $5,000. Camera could assume that the 10%
+increase in online sales is directly attributed to the Facebook ad Campaign and
+the 5000 extra dollars in in store sales is directly attributed to
+the print ads, but other Calla and ivy marketing initiatives were
+happening during that time as well. In addition to Facebook ads at holidays,
+Imra was doing a lot of organic engagement on social media and in addition
+to the print ads around Mother's Day, Imra did a Facebook live session to
+talk about planning flower purchases. She also sponsored the post on Instagram
+in partnership with another local shop. So which efforts actually
+resulted in those sales if it was the Facebook campaign and the print
+ads that directly caused those sales, then Imra will know that those
+investments were money well spent. But what if it was the unpaid organic
+engagement on social media that really led to those sales,
+then Imra knows she can save money in the future by investing time and
+creativity into organic channels. But what if it was the sponsored posts on
+Instagram that actually led to the sales? Or what if it was a combination of all of
+these initiatives that led to these sales? How would she know ? Marketing Mixed Model will tell us the answer, let's get started on learning
+more about how this works.

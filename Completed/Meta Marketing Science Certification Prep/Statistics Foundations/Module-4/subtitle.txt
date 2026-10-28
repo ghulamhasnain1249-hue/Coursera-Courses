@@ -1,0 +1,14 @@
+Welcome to Week 4 of our
+Statistics Foundations course. During this week, you'll get an introduction
+to data modeling. Data models can help you turn your dataset into a
+powerful predictor or a versatile
+classification tool that will allow you to
+take decisive action. Let's start with a review
+of what you'll learn in this week's first on
+statistical modeling. First, you'll get introduced to what a statistical model is. Then you'll learn
+some common types of statistical models
+that you might use, and then get some
+practical insights into how statistical modeling can be applied in data analytics. We have a lot to
+cover this week, but after all of the hard work
+you've done up until now, I know you're ready to take on this challenge.
+Let's get started.

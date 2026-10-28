@@ -1,0 +1,123 @@
+Before we look at how to create audiences in Facebook Ads
+Manager, here's a story. Your niece's birthday is coming up and you want to
+get her a gift. She's a teen who loves to read, so you head to the bookstore, where you ask a
+bookseller for some help. Instead of pointing the way to the young adult fiction section and leaving you to browse, the bookseller asks
+you some questions, "How old is she?
+Where does she live? What does she like to
+do in her spare time? What other books or
+movies did she enjoy?" You answer, "She's 16. She lives outside
+of New York City. She loves to draw, and is into stuff like
+The Hunger Games." Based on that information, the bookseller pulls a
+book from the shelf about a teenage girl who
+saves the world in a dystopic New York City, and the book is full
+of cool illustrations. You give your niece the book
+and she loves it saying, "This is the perfect gift." How does this relate to
+Facebook Ads Manager? Well, because your teenage niece was the target audience
+for that book, if you think about
+your business, you're creating a
+product that you want to get into the
+hands of people who are going to say that it is the perfect gift or exactly
+what they were looking for, instead of advertising
+to everyone on the planet and wasting
+your dollars doing so. You want to focus on
+those who will be most interested in
+you and your product, and who will be most
+likely to buy it. Creating a target
+audience isn't so much about targeting certain
+people by name, but choosing characteristics
+of groups of people that line up with who you think would be interested
+in your business. For your niece, it was a teenage girl who
+likes to read, likes books, liked
+The Hunger Games, lives in New York City, and loves to draw. When you advertise on Facebook, you can specify the audience you would like to
+show your ads to. You can do that by creating
+an audience for your ads. On Facebook, there are three different ways
+to create an audience. You can define a core audience, a custom audience, or a lookalike audience. Each audience type can fulfill your advertising
+objectives in different ways so you can utilize the right audience
+for each campaign you run. Let's go through an overview
+of the three types. You'll create and
+define audiences in Ads Manager at the Ad Set level. While you can assign different audiences
+to each campaign, you can't further segment
+audiences per ad, which means whatever
+audience you choose will apply to all ads in your ad set. The first type of
+audience you can create is your core audience, which is an audience you create manually by choosing all
+the characteristics of the people you want to see
+your advertising because you believe they'll be the most interested and the
+most likely to act. Here's a quick overview
+of how you set up a core audience
+in Ads Manager. The audience screen will
+default to create new audience, and you can create your
+core audience here. First, pick the location
+where you want to advertise. You can target whole countries, cities, or even
+specific zip codes. Next, set the age
+of your audience. If you know that your business
+caters to millennials, for example, set the age
+to just that generation. Set the gender targets of your audience either
+men, women or all. Only set a language if you're targeting non-native
+speakers in your location, otherwise, just leave it blank. The detailed targeting
+section is where you'll be able to drill down into
+specific demographics, such as education
+level and occupation, interests such as
+hobbies and pastimes, and behaviors such
+as device usage. Finally, on the connections, you can choose to include or exclude people who
+interact with your page, app, or events. In other words, you can
+exclude people who are already following you to find new
+audience members for instance. Your core audience is set. Use this audience to find the people who should know
+about your products or services and either
+start them on their customer journey or raise their awareness
+of your brand. The second type of audience
+is a custom audience, which allows you
+to target people who have already interacted with your business in
+some way and who you want to nurture along
+their customer journey. For example, a custom audience could target long-time
+customers with an ad or people who've expressed interest by visiting
+your app or website. This targeting of customers or potential customers
+who have had some touchpoint
+with your business already is called retargeting. Let's have a look at
+how you can create a custom audience
+in Ads Manager. In the audience section, at the Ad Set level, we click on "Create New"
+under Custom Audiences. Now, we can choose from two different data sources
+to build our audience; our own data or data
+from Facebook sources. Our own data sources allow
+us to target people who visited or performed
+certain actions on our website or
+in our mobile app. This information is tracked
+through the Facebook pixel, the SDK, or the conversion API. We talked about them in the
+first course of this program. We can also build a
+custom audience by uploading a list of online
+or offline customers. With Facebook data sources, we can build a custom
+audience targeting those who watched a video we posted
+or filled out a lead form, visited our Instagram profile
+or Facebook business page, or interacted with an
+event we've created. You can then pair your
+custom audience with criteria such as
+location, age, gender, and other demographics,
+interests, and behaviors to achieve an
+even more targeted audience. The third audience
+type you can create in Ads Manager is a
+lookalike audience, which is an audience
+that's built off of an existing custom audience and looks like your
+current customers in terms of demographics, interests, and behaviors. The thinking is that because your current customers are
+interested in your business, people like them will
+probably be interested too. First, you'll start with
+a source audience which will be a custom audience
+like we just explored. Use data from your
+website or app, upload an email list, or use the Facebook
+data sources we've seen earlier to create
+this source audience. Next, set a location
+you want to target, for example, you could target similar audiences in
+different regions. Using the information
+you provide, Facebook will then
+find and target people with similar
+characteristics. Facebook will also
+allow you to select how closely you want the audience to look like your
+source audience, from very similar
+to less similar. The broader you go, the bigger the audience will be. You can also create multiple lookalike
+audiences with different similarity sizes, and use them for the same
+or different ad sets. This was an overview of
+the three audience types you can create in Ads
+Manager: core audiences, custom audiences, and
+lookalike audiences. By carefully specifying
+the criteria of your ideal customers and using the information you've collected on your loyal customers, you have a better shot at
+finding new customers. In other words,
+what you get out of Ads Manager audiences is only
+as good as what you put in.

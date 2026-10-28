@@ -1,0 +1,24 @@
+Welcome to Week 3. Now that you know about
+the importance of marketing analytics and the many sources of
+data collection, it's time to learn about
+the tools of the trade. These are the software
+applications and techniques used by marketing analysts all
+over the world every day. In our first lesson, we'll look at some
+common tools that are used to analyze and
+visualize data. We'll talk about
+spreadsheets and some popular
+visualization tools. Then in Lesson 2, we'll take a closer
+look at specific tools analysts use to
+evaluate online data, like Google Analytics
+for instance. Finally, in Lesson 3, we will look at
+common ways in which marketing analysts
+evaluate the success of their marketing campaigns. We'll look at specific
+reports that are provided by big marketing platforms like Facebook Ads Manager or
+Google Ads for instance. At the end of this week, you'll have a good
+idea of the tools that marketing analysts
+use every day. Later in the program, we'll cover them in
+lot more detail. But it's always good to
+start with the big picture. Marketing analysts
+have a suite of very powerful tools
+at their disposal, and I hope some of them
+will pique your interest. Let's get started.

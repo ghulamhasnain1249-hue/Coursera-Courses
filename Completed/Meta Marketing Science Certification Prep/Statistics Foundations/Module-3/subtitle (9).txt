@@ -1,0 +1,40 @@
+In this video, we're going
+to use a spreadsheet to calculate the
+confidence interval for home selling prices. To calculate the
+confidence interval, you do have to do
+some calculations prior to the confidence
+interval calculation itself. You're going to need
+to know the mean, as well as the
+standard deviation in order to complete the confidence
+interval calculation. To complete the confidence
+interval calculation, we're going to use
+the equal sign to signal that we're
+using a formula, and then we're going to use the confidence t calculation
+within the spreadsheet. Now remember, you have to
+determine your Alpha level, which comes from the confident interval percentage
+you want to use. Since 95% is the most common confidence
+interval percentage, we'll use that in this example. If my confidence
+interval is 95%, the remainder of that is 5%. To convert that 5% to a decimal, we make it 0.05, and that becomes the Alpha
+level that we enter. For the standard deviation, you can enter the cell
+number instead of entering the value itself to save you a
+little bit of time. Then you're going
+to enter the size, and the size is going to correspond to the
+number of values in your column that you're calculating the
+confidence interval for. In this instance, I have 21 values in my column
+for the selling price. Now you're going to
+notice this doesn't give you an actual interval, this gives you the
+width on either side of the mean that describes
+the confidence interval. Now we have to find
+the lower limit and the upper limit using
+the width that we found. To find the lower limit, you're going to take the
+mean and you're going to subtract the confidence
+interval width. To do the upper limit, you're going to
+take the mean and you're going to add the
+confidence interval width. This means that we now have a 95% confidence interval
+for selling prices. That is $360,095 and $456,405. Remember that what this
+interval represents is that we are 95% confident that the true value for the average selling price
+of a home is going to fall $360,095 and $456,405. Now that you've
+watched this video, you can use a spreadsheet
+to calculate the width of the confidence interval
+and then to find the lower and upper limit
+of the interval itself.

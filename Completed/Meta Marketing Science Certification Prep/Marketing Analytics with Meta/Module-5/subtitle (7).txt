@@ -1,0 +1,126 @@
+So far this week we focused
+on different tests and analysis you can perform
+on the Facebook platform. But as we've seen
+throughout this program, there are many
+instances in which you may have to perform
+an analysis that doesn't just use data from
+Facebook campaigns or that uses a methodology
+Facebook doesn't offer. In the first course of
+this program we discussed a wealth of data you can
+access as a marketing analyst. In the second course
+we focused on a framework you can use to
+approach your analysis, and in the third
+course we discussed different statistical
+methods that can help you conduct
+that analysis. In this video, I'll recap a few important points from
+those courses as it relates to analysis you may want
+to do that includes some data from Facebook
+as part of your dataset. If you complete this course too, you'll remember our
+awesome framework. When you approach a
+data analysis project, it's good to go through the different steps
+in this framework. First, you need to
+obtain the data. Then you'll scrub
+them, explore them, create a model, and apply it to the data, and then you have to
+interpret the results. Let's take another look at the first step
+obtaining the data. The data you need
+for an analysis will often exist in
+different databases. For instance, you may have some data from your
+Facebook campaign and you may have data from a Google campaign you
+run with a similar goal. Maybe you also have some sales data from
+your store database. As I'm sure you can imagine, if you want to run an analysis for a marketing initiative, the data rarely all
+live in the same place. Data that exists in
+various databases or data tables needs
+to be combined. SQL can help us do that. More specifically a join
+clause can combine rows from two or more tables based on a related
+column between them. For instance, James wants to pull all the new
+subscriptions for snack wall. He has data from the app as
+well as from the website. He wants to find
+the subscriptions for the past three months. To do that, James can use
+the date column and bring the purchases from
+both the app and a website together in one table. An inner join will return records that have matching
+values in both tables. In James's case, he would get the data for app purchases and
+website purchases for those days where
+there is a purchase on both the app and a website. A left join would
+return all records from the left table and the matched records
+from the right table. In James's case this would give him all the app purchases and a website purchases
+that happened on the days where there
+was an app purchase. A right join on the
+other hand will return all records from the right table and the matched records
+in the left table. In James's case he would get all the website
+purchases and the app purchases
+that happened on a day where there was
+a website purchase. A full outer join
+returns all records when there is a match in either
+the left or right table. In James's case, this would give him
+all the purchases that happened during
+the three months he's evaluating no matter
+whether there was both a web and an app
+purchase on a given day. As long as there was
+a purchase James will see the data in this
+new joint table. Once you have obtained the data, you'll need to clean
+or scrub them. This may mean filter
+data so you can focus on the data that really matters
+to you or correct issues, like missing data, duplicates, and so on. Because not all
+measurement tools use the same methodology, you will also need to reconcile results across different
+measurements solutions. Here are some questions you can ask yourself to assess whether your data from different
+datasets are comparable. Which events are monitored and how is data collected
+across devices? Can I compare the data
+from different devices? During what time frame
+was the data recorded? What were the
+attribution settings for the data or in other words for which time periods are the results credited
+to marketing action? Is that time window the same for the different tools I'm
+receiving data from? What measurement
+methodology was used? How did the tools I'm using record data on a
+conversion for instance? Or how is a video
+of you defined? Different platforms have
+different definitions for what counts as a video view or how much time a
+video needs to be played for it to be
+considered viewed. Is the data the results of an observational method like
+marketing mixed modeling or attribution or an
+experimental methods , like lift studies? Can I compare my data
+to historical data or data from similar
+industry as mine? When you bring data from different data sources together, you'll need to keep these
+questions in mind to make sure your data inputs
+are comparable. Next, you'll focus on
+exploring the data. Summarizing your data with descriptive statistics
+can help in that process. You can get a pretty
+good understanding of your data by describing
+them using the means, median, and mode. You can find the
+minimum value and maximum value to find the
+range and standard deviation. That information will give you a quick summary of your data. Based on your hypothesis, you will then determine which statistical
+analysis is required, or in other words
+you'll choose a model. If you completed the third
+course in this program, you saw several
+statistical analysis that are commonly used
+in marketing analytics. You learned about simple
+linear regression to help you evaluate relationship between one
+independent variable and a dependent variable. You also learned how multivariate regression
+can be used to evaluate the influence of multiple variables on
+the dependent variable. You learned other analysis
+techniques as well like cluster analysis
+to help you define audience segments
+and time series to help you forecast
+sales, for instance. While you may not always be the one to come up with a model, as a marketing analyst you will often be given a set of data as input and you'll use a given
+model to produce an output. For instance, James may
+know from analysis on historical data using multiple
+regression how TV ads, Facebook ads, and the amount of simultaneous advertising on TV from his competitors
+is affecting sales. Imagine that this
+is the model he has from a previous analysis. Now, when James is given a
+new set of data he can use that data as an input to his model and generate
+new outcome data. Or in this case, James
+can predict sales using this model and a current data
+about his spending on TV, and Facebook ads, and the competitors spending on TV ads during the same period. We saw in our previous courses how you can easily generate the output column in a spreadsheet like Google
+Sheets for instance. As part of the modeling step, you will also validate
+your analysis. In other words, you'll want to check how
+good the quality of your analysis is or how well the data you found
+fit your model. There are many different
+validation metrics like R-squared, T-statistic, F-statistic, Durbin-Watson, and so on. It's important to understand how confident you can be
+in your analysis. So you'll want to use
+these validation metrics. The final step in your analysis
+is the interpretation. As we discussed in course
+2 and 3 of this program, visualization is key to interpreting and
+explaining your findings. Presenting your findings
+graphically will help you to communicate relationships
+you found among the data. In our next lesson, we'll focus more on how you can generate insights
+from your data and how you can use those insights to provide data-driven
+recommendations.

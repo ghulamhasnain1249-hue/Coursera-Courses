@@ -1,0 +1,82 @@
+[BLANK_AUDIO].
+Well, we've been building an incredible knowledge of the heart and you're getting a sense, of the importance of those heartbeats in terms of ejecting blood from the heart.
+And the reason we keep blood ejecting from the heart on such a continuous basis is that that blood that's being transported out, out to the body's cells, it's supplying the cells of your body with oxygen and nutrients, and it's also carrying away metabolic waste products.
+Carrying them to organs in the body that can remove the metabolic waste from the body.
+So we have to keep blood circulating continuously through the body.
+And we measure the heart's ability to keep blood circulating and moving by thinking about a concept called cardiac output.
+Now cardiac output is simply the volume of blood ejected from a ventricle per minute.
+Okay? So when cardiac output goes up, it simply means that the heart is ejecting more blood.
+A lower cardiac output, the heart's ejecting less blood.
+What factors do you think are going to determine cardiac output? Natalie.
+Probably your heart rate.
+Heart rate is a big one, right.
+Heart rate is one factor that will influence cardiac output, so we, I'm sure, we're expecting that if heart rate goes up, cardiac output will go up, and usually that's exactly what happens.
+We hope that's what happens.
+What other factor could influence cardiac output? The volume of blood in your heart? The volume of blood in your heart.
+So that, that's what's getting pumped, like through the vessels.
+So the thing that we really care about then, is the volume of blood that's-.
+Injected? Injected each time your heart beats.
+Exactly.
+And it, that is going to be determined, to some extent, by how much blood comes back to the heart during diastole, right? Let's go back to that cardiac cycle picture we spent some time with during the last class.
+And take a look at the ventricular volume tracing, and notice that the highest volume of blood that's present in the left ventricle, hat highest volume is achieved at the end of diastole, right? And we call that volume of blood, end diastolic volume, or E-D-V.
+Then, the lowest volume of blood, notice it has a label beside that part of the curve.
+That label is E-S-V, end systolic volume, right? The volume of blood that's ejected during a single heartbeat is referred to as the stroke volume.
+And stroke volume, or S-V, simply represents end diastolic volume, minus and systolic volume.
+So in this illustration you can see that end diastolic volume was 120 ml, right? End systolic volume was 50 ml.
+So what was the stroke volume? So, 70ml? 70ml.
+So, when this heart, beat, that time, the stroke volume is 70ml, right? Okay, great.
+So, those two factors, heart rate and stroke volume, are going to determine cardiac output. [BLANK_AUDIO].
+Now, why would you have to increase or decrease your cardiac output? Jane.
+To meet the needs of your body.
+Like say if you were exercising, or if you were just sleeping, or at rest.
+So, if you're just sitting around learning about heart anatomy, [LAUGH] you would expect to need a lower cardiac output than if you are at doing some kind of vigorous exercise.
+Right? Running, running for your afternoon cardiovascular activity, for example.
+So, when we're doing that vigorous activity, we need our cardiac output to go up.
+And, we will achieve that higher cardiac output by increasing our stroke volume and our heart rate.
+Right? Have you ever notice this in action? Yeah. [LAUGH] Yeah, yeah? When Natalie? When I go on runs.
+When you go on runs what happens? My heart definitely beats a lot faster so my heart rate is up.
+Your heart rate goes up.
+Exactly right, and my guess is that your, your stroke volume is going up as well.
+Mm-hm.
+The cardiac output is regulated in large part by the autonomic nervous system.
+Have you ever, have you heard of the autonomic nervous system? Mm-hm.
+Tell me what you know about the autonomic nervous system.
+Who wants to start? Andre? Is that the branch of the nervous system, that has, like, two parts like, the sympathetic and the parasympathetic nervous system? Exactly, exactly.
+When we think autonomic nervous, system, we think it has two branches.
+The sympathetic, and the parasympathetic divisions, right? And is the autonomic nervous system one that we think of as being voluntary, or involuntary? Involuntary? Involuntary.
+And so, the autonomic nervous system is the part of the nervous system that functions unconsciously.
+We don't have to think about it.
+That just does its job to regulate body functions right, and in this case, when we think about the heart and cardiac output, both the sympathetic and para sympathetic divisions play a role.
+In regulating cardiac output.
+So, let's think, first of all, about the sympathetic division of the autonomic nervous system.
+The sympathetic division of the autonomic nervous system innervates the S-A node, the A-V node, and all of those contracting cells in the myocardium.
+So when we activate the sympathetic division of the A-N-S, it's going to cause the S-A node to depolarize more quickly.
+It can shorten the delay in impulse transmission at the A-V node.
+And so those two things are going to cause an increase in what? Heart rate? Heart rate.
+Your heart rate is going to go up, right? Because of the sympathetic nervous system activity.
+And the fact that the sympathetic nervous system innervates those contracting cells of the myocardium, enables those cells to beat more forcefully, or contract more forcefully.
+So, if you think about it, you're out for your daily exercise, and you need to increase your cardiac output because you're exercising muscles or using more oxygen, right? You need to increase cardiac output to meet the demands of the body.
+You will do it, like Natalie said, by increasing heart rate.
+And the heart rate goes up because the S-A node and the A-V node activity has been changed, right? And then you can also increase cardiac output because the myocardial cells are going to contract more forcefully.
+And that's going to cause an increase in what? Stroke volume? Exactly, exactly.
+So the sympathetic nervous system really helps us out when we need to increase our cardiac output.
+When we are in a condition where our heart rate increases.
+And let's say it increases above a hundred beats per minute, which my heart rate always does when I am vigorously exercising.
+What do we call that state? Jane.
+Tachycardia? Tachycardia, right.
+And you actually learned a little bit about that in the SIMLab, this week, when you were there, right? So, the sympathetic nervous system is going to help us induce tachycardia in the heart.
+The parasympathetic division of the A-N-S, innervates the S-A node, and the A-V node. now, when we think about the S-A node, what do we think about it in general? Yeah, Natalie, go ahead.
+That it's triggering the, heart to contract.
+It's the pacemaker for the entire heart, right? It sets the rhythm for the heart rate, exactly.
+And the parasympathetic division is going to actually slow, the S-A node's inherent rate of self excitation.
+So, if we didn't have a parasympathetic nervous system, supplying innervation to the S-A node, the S-A node would spontaneously excite about 80 times a minute.
+But the parasympathetic nervous system is always supplying some innervation to the S-A node, and that slows the S-A nodes excitation rate to about 70 beats per minute.
+And so, when the heart is beating at that 70 beat per minute level, we know that the parasympathetic division is doing its work to help the S-A node establish that, what we think of as the normal rhythm of the heart. so, we say because the innervation to the S-A node is carried by the vagus nerve, we refer to that state where the S-A node is receiving parasympathetic stimulation, we refer to that as vagal tone in the heart.
+So instead of beating at 80 beats per, 85 beats per minute, which is what the S-A node would do on its own, it beats at around 70 beats per minute.
+What do we call it when a heart rate falls below 60 beats per minute? Jane. bradycardia? Bradycardia.
+Exactly.
+Now, is that a normal state for your heart, Jane? well, I usually dance, so after dance practice, like, I have a heart rate of, like, around 55.
+So your heart is, as it recovers from the exercise, your, your heart rates was down to a resting level of about-.
+Mm-hm. 55.
+And so, you have a little bit higher vagal tone than I do, in your resting heart. [LAUGH] I'm not sure right now what my resting heart rate is.
+But it's probably I'm not experiencing resting heart rate right now, we know that for sure. [LAUGH] [BLANK_AUDIO] 

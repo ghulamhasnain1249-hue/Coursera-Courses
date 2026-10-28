@@ -1,0 +1,31 @@
+[BLANK_AUDIO].
+So far, we've talked about basic heart anatomy.
+We've talked about the conduction system of the heart that keeps the heart contracting in a very rhythmic and orderly way.
+We've talked about the valves that keep blood flowing in one direction only through the heart and now, we're going to start to put the pieces together to really think, for the first time, about the overall function of the heart as a whole.
+We've talked about isolated pieces of heart function, but now we're going to put it together to think about what happens every time the heart beats, to keep blood flowing through the body, carrying the oxygen and nutrients out to the cells so that we can live, right? The best way for us to think about the very organized and repetitive action that goes on in the heart is to think about what we call the cardiac cycle, and the best way to really get inside the cardiac cycle is for us to talk through the picture that I have opened in front of you on the table.
+This picture summarizes for us the events in one cardiac cycle.
+And if you look at it really quickly, you are going to say that there are elements in the picture that you already know about and have thought about.
+But now we're going to put them all together so that we can really understand what happens every time the heart beats.
+So, let's begin with the conduction system.
+You remember how the SA node gets excited.
+It self excites and creates an electrical current that spreads across the atria.
+When you were in the Sim Lab earlier, you actually completed an ECG and you learned that that excitation wave that spreads across the atria creates an event that we can actually measure on an ECG, and what do we call that event? [BLANK_AUDIO] P.
+P? The P-wave, yes.
+Actually that electrical current is getting carried through the body fluids to the body's surface.
+And we can use electrodes and lead systems in an ECG to pick up those electrical currents.
+The excitation of the atria creates the P-wave.
+You know then that after the SA node gets excited, signal spreading across the atria.
+It passes, that excitation signal passes to the AV node, where there is a tenth of a second delay, right? Before the signal gets passed on.
+And then after a tenth of a second, the signal is passed on to what part of the conduction system? AV bundle? AV bundle, correct.
+And we learned earlier that that delay is the thing that allows the atria to contract before the ventricles get excited, right? And we also learned that the AV bundle is the only electrical connection between the atrial cinsision and the ventricular cinsision, right? Okay, so what part of the ECG illustrated the excitation of the ventricals? The QRS? QRS? wait.
+We usually refer to it as the QRS complex, right? Yes, the QRS [INAUDIBLE] complex results from the excitation of the ventricles.
+You'll notice, when you look at the ECG tracing that they've included in this figure that there is a flat line between the P wave and the QRS complex.
+We call that flat line an isoelect-, isoelectric line.
+It's created by that period of delay that occurs at the AV node, correct.
+Okay, and so if we think then about what's going on further we see the QRS complex we know that the ventricles are doing their contraction thing, and then after the ventricles get excited, they self excite.
+But then the electrical currents of the ventricular mass have to reset themselves to resting.
+Now when those electrical currents go back to resting, we see that on an ECG tracing, which component is it? Is it the dip that goes below the line? No, after the QRS complex the next part of the tracing is the? ST line segment.
+Well the, the, the portion of the ECG that actually represents the resetting of the electrical state; that resting electrical state is the T wave.
+Okay? So, that, that isoelectric line between the s, QRS complex, and the T wave is a period of time in which there's no change in electrical activity.
+Okay? And so it appears on the ECG as just a flatline.
+Okay, so now let's think about the fact that those electrical sequences that happen in the conduction system create electrical changes in the contracting cells, right? And so, those electrical changes in the contracting cells trigger muscle contraction, right? [BLANK_AUDIO] 

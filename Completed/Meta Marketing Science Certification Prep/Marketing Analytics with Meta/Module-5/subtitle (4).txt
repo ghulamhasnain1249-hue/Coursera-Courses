@@ -1,0 +1,241 @@
+Once you have a
+clear goal, KPIs, and you've formulated a
+hypothesis you have to determine how you're going
+to approach your analysis, which measurement
+methods will you use to confirm or reject
+your hypothesis. As we saw throughout
+this program there are many different measurement
+and modeling approaches. In marketing analytics there are a few approaches that
+are quite common and for many of those Facebook provides solutions right
+in their Platform. Let's go over some of the common measurement
+methods again and let's talk about which types of hypotheses each of them
+can help you with. Let's start with the methods
+that let you evaluate the effect of your advertising
+across different channels. You can do this by
+comparing which reports for different channels
+using attribution or using marketing mix modeling. When you want to
+evaluate the impact of your advertising across different channels
+like Facebook, Google, TV et cetera
+you could use to reach reports of each channel
+and compare the results. Or in other words you
+could evaluate for each channel how many people
+were reached with your ads. You can evaluate that against
+how much you spent in each channel and use that
+to reallocate your budget. This is a rather
+crude method DO and I would not advise relying on
+this too much. Here's why. When you look at reports from different channels
+to metrics you see vary quite a bit and finding a comparable metric
+may be difficult. Even if you find similar
+metrics across channels, they may still not
+be comparable. For instance reach for TV ads is much harder to measure
+than it is for digital ads. Often for TV you will get projected reach data
+rather than actual reach. As a result you're going to
+compare apples to oranges. Then there are some channels
+that don't share reach data which may result in
+gaps in your evaluation. Think about reach through direct sales or
+promotions for instance. You may not get to report
+on how many people were reached through your promotion while shopping in a supermarket. You should also keep
+in mind that reach doesn't always correlate
+with brands and conversion outcomes
+and you cannot easily conclude that higher reach
+resulted in more actions. While keeping these
+limitations in mind some analysts may
+still want to rely on cross-channel reach
+Reports because they may be a cheaper
+option to get a fairly high level
+understanding of how different channels are helping to get their
+message in front of customers. Let me give you an
+example you may remember James who's trying to launch
+his new products SnackWall. A business to business
+snack subscription service. Imagine James try to generate some awareness
+for the product using google ads Instagram
+and LinkedIn ads. James would like to test the hypothesis
+that investment in Instagram ads delivers
+more efficient reach relative to LinkedIn
+ads and Google ads. James could use cross-channel
+reach Reporting to test this hypothesis. He would then look
+at the cost per touchpoint in each channel or in other words how
+much did he have to pay to reach a person
+through each channel. That may help James to get a fairly high level idea of the efficiency
+of each channel. If he sees that it is
+cheaper to reach a person using Instagram than Google
+ads or LinkedIn ads, he can confirm his hypothesis. Now, let's look at another
+method to evaluate the impact of marketing
+across channels, attribution. We studied attribution into fourth course of this program. Attribution is the process
+of determining credit for each touchpoint on a
+consumer's path to conversion. You may remember
+that we discussed multi-touch attribution
+in which an analyst assigns value to more
+than one touchpoint in the consumer's
+path to conversion. That's supposed to last touch attribution where we
+make the assumption that the last marketing message
+or touchpoints the consumers saw before converting is
+responsible for the action. As we talked about in
+Course 4 this is not a very good representation
+of reality as in most cases consumers decide
+to take action after having seen a series of ads often spread across
+different channels. There are different
+approaches to multi-touch attribution. You can use a
+model-based approach where you assume a model of how different channels
+contribute to the conversion ahead
+of your analysis. Or you can use the more valid data-driven
+attribution instead. In data-driven attribution
+each touchpoint on the conversion path is assigned a value based on historical data and
+statistical modeling. Among the different attribution methods data-driven attribution is the preferred
+method and it'll give you the most valid results. In most cases you will use offenders to
+help you with this. But there are some limitations to using data-driven
+attribution. Building these statistical
+attribution models can be quite costly. In some cases limited
+to certain channels as data from all channels you
+used may not be available. There are also some limitations related to tracking
+across devices. Certain channels
+rely on cookies to track and cookies
+do not hold up well across devices making it
+very difficult to know which touchpoints are related
+to a specific individual. It's also hard to
+map the full path to conversion as data from some
+channels may not be shared. For instance it can be hard to get all the data from
+in-app behavior. Finally attribution usually only includes
+digital channels. It can be very challenging to also include offline channels. Let's go back to James and his
+introduction of SnackWall. Imagine that James is running two different ad
+campaigns on Instagram. One is an awareness campaign and the other campaign
+targets people who have already interacted with SnackWall website in the past
+but did not convert yet. That's James is
+retargeting campaign. James would like to
+assess how to best allocate his budget between
+these two campaigns. James's hypothesis is that the awareness campaign delivers less incremental value or less sales than the
+retargeting campaign. James doesn't want to run an experiment to prove
+this as he doesn't want to put some of the people
+who interacted with his website before
+in a control group. He does not have that large of a retargeting audience
+so he fears that running such an
+experiment would reduce the effectiveness of his
+retargeting campaign. Hence, James decides to use data-driven attribution
+instead and he works with an agency to
+run the analysis for him using data from
+the Facebook platform. With a data-driven attribution
+model the agency helps James assess the estimated incremental
+value for each campaign. He does finds that his
+hypothesis was right. The retargeting campaign delivers higher
+incremental value. While attribution
+maybe a method you can use when you're only
+evaluating the effect of digital channels if
+you want to include offline channels as well marketing mix modeling
+may be the better choice. They looked at marketing
+mixed modeling or MMM earlier in this course. It's data-driven
+statistical analysis that quantifies
+the impact and ROI of marketing as well as non marketing activities on
+online and offline sales. If you want to use MMM, you should keep the following
+limitations in mind. First, it can be hard
+to show an effect if the increases in sales from
+advertising are small. MMM requires that you work with modelers that can
+help you iterate and improve on the
+econometric model used to explain the effect of the different channels
+in your marketing mix. You will need to
+work with a partner specialized in MMM and that
+can become quite costly. MMM helps with cross-channel
+optimization but it is challenging to use it for
+in channel optimization. MMM is a modeling approach and it shows you
+correlations between the investment in different
+marketing actions and the results in sales. However, these aren't necessarily
+causal relationships. You cannot prove that
+the effect you are observing is a result of
+the marketing action. The only way to prove a causal relationship would be through running an experiment and MMM is an
+observational method not an experiment and it can be
+time-intensive to implement. But even with these
+limitations in mind MMM can be a
+very helpful tool for marketers who want to
+get a better idea of the contribution of their different marketing
+actions on sales. Let's look at another example. Let's think about James again. Imagine SnackWall
+has been up and running for a year and James has now added a few
+more marketing channels to advertise the product. Throughout the year he's been
+running ads on the radio, any added a few print ads
+in trade publications and he kept his ads on Instagram and LinkedIn
+running as well. Now, James would
+love to know what the effect of all these
+channels is on sales. James hypothesizes that the ads on the radio have a higher ROI the ads in magazines
+and therefore more budgets should be
+allocated to radio next year. With marketing mix modeling, James is able to look at the impact of each
+channel and he doesn't need find that video ads have better ROI than
+the magazine ads. But he also finds that
+Instagram and LinkedIn ads are still more cost effective in
+driving incremental sales. He uses that information to adapt his budget
+for the next year. So far we looked at three different
+methods to compare marketing impact
+across channels. All of these are
+observational methods. Now, let's turn our attention to experimental methods
+you can use. We will summarize the methods we have already looked at before A/B tests and RCT let's
+start with A/B tests. We can use A/B tests to test
+multiple campaigns against each other to see which approach produces
+the best results. A/B tests are a very
+effective way to optimize your ads but there
+are some limitations. A/B tests only use
+randomized test groups. There is no control group. So A/B tests cannot measure
+the incremental effect on sales for strategy
+A versus strategy B. The A/B tests can only tell
+you which strategy is best. It's also important to make sure your test has enough
+statistical power. You need enough conversions
+in each group so you can reliably conclude
+which strategy was best. Let's again look at an example of a scenario where you could rely on A/B tests to
+prove a hypothesis. James is running ads on Instagram and he's
+interested in optimizing these ads so he can achieve a lower cost per
+acquisition or CPA. James hypothesizes that using a Carousel ad will have a lower CPA than adds
+with only one image. James uses the add
+with one image as version A and a Carousel
+ad as version B before an A/B test and
+does indeed find that B is the winner giving
+him a lower CPA. Finally let's look
+at another form of experiments often
+used in marketing. Randomized Control Trial or RCT. In an RCT you
+divide participants randomly into two mutually
+exclusive groups. One of these groups receives the treatment and is
+the desk group and the other group does not receive that treatment and functions
+as the control group. You then evaluate the effect of the treatment on an outcome. RCTs are carefully
+controlled to keep all variables constant except
+for the treatment variable. For example, in an experiment where you are
+evaluating the effect of advertising you would randomly assign people to
+the treatment group that sees the ad or the control group that
+does not see your ads. You try to keep everything constant so that the only thing that's different
+between the groups is whether they see
+your ad or not. Because of this careful
+control RCTs let you infer whether your ads caused
+an increase in conversions. RCTs are designed to prove a causal relationship between your treatment and the
+outcome you measured. RCTs are the only way
+you can prove that your ads caused an
+increase in actions. But RCTs also have
+their limitations. First it can be challenging to achieve high enough
+statistical power. The test needs to run long
+enough and the budget needs to be sufficient to
+see enough conversions. Otherwise it's hard to reliably prove that
+your ad had an effect. It can be hard to know what the statistical power of
+your test will be ahead of time if you do not have many data points regarding
+historical conversions. In that case it's
+harder to know how long your test should run for
+and with how much budget. It's also hard to control the exposure of people
+to other media that may run outside your experiments and that could
+contaminate the results. Can also be challenging to run your test for long enough so you can capture all the sales or actions that result
+from your ads. It often means that you need to wait quite
+a while to make sure all results are in and you may not have enough
+time to do so. James has been running ads for a while now for his
+SnackWall product. He's wondering whether
+he should keep spending money on Instagram ads, he thinks they're still
+effective but he wants to make sure that the
+ads do actually pay off. He hypothesizes that is Instagram campaign
+adds a 100,000 in incremental sales per
+month which comes down to $30 per additional purchases
+in the month of August. That's a very good
+return on investment but again James
+wants to make sure this is the case and that his Instagram campaign is really responsible
+for this increase. James works with his Facebook
+account management team to run a conversion lift test. This test does indeed
+confirm James's hypothesis. In fact James learned
+that the cost per incremental purchase
+was actually $27 so better than he expected. The experiment confirms
+a causal relationship between the Instagram ads
+and incremental sales. The question you're trying
+to answer and the nature of your hypothesis will influence your decision on the analysis
+methods that you choose. In this video we looked at the difference
+analysis methods you can use to evaluate and optimize
+your Facebook campaigns. I suggest that you read
+through it one more time into Facebook marketing signs study guide which you will
+find in this lesson

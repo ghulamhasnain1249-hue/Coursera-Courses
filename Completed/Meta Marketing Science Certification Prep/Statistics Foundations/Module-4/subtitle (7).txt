@@ -1,0 +1,95 @@
+In this video, I'm going to show you how to use Tableau Public, a free software, to make a linear
+regression model. Once you download Tableau
+Public and you open it up, it's going to bring you to the current screen that you see. The first thing
+that you're going to need to do in Tableau is to connect it to a dataset. You're not going to type
+your dataset into Tableau. You're going to enter it
+into a different software. I often find that it's easiest
+to use Microsoft Excel. I am going to connect
+this to the Excel file I've created called
+age income dataset. By selecting Open, Tableau is going to
+launch a new window, and this is our
+data source page. If you at any point in time
+during creating the model, want to see your source data
+and what the values are, you're looking at the
+bottom right hand quadrant, and you're able to scroll
+through those values. Now, the purpose of this tab is simply to show you the data. It is not to complete models. To complete the model, we're actually going to want
+to navigate to sheet 1. If I'm on sheet 1, you'll notice there's
+this menu called Show me. If I am in the Show menu, I can select a scatter plot, and I can tell it to
+make a scatter plot. I've got this scatter
+plot selected. It knows what it's doing, and it's time to move
+my variables in from the data panel into where
+we're creating the model. I'm going to take age, which is a
+quantitative variable, and I'm going to take income, which is a
+quantitative variable, and I'm going to ask it to create a scatter plot
+of those things. Now, you're going
+to see that I don't currently see values
+on my scatter plot. If I go back into my data
+source and I start looking, I notice that age is a list
+of rather small numbers. It looks like the lowest
+value is probably in the lower 20s and the
+highest is in the 60s. If you look at the axis
+in the scale here, it goes straight to 500. Part of why you're not seeing
+the correct dots for age, is that it needs
+to be changed to a custom range of let's say 20-70 so that it's actually a small enough scale to plot the points
+that I need to see. Now, you'll see that
+my scale is adjusted. Next, I'm going to go
+into the data source, and I'm going to look
+at the income values to see how to adjust
+the income values. You'll notice that these values
+run roughly from 561,000. We've got some lower values
+as we move through there. Essentially, the scale might be pretty okay to go from 0-4500, but I'm not going to see
+all of those values. I'm going to want to
+use custom again. I'm going to want to
+change that custom scaling to something a
+little more reasonable, so something like zero to, let's say, 70,000
+at the very least. Then I'm going to
+go into analysis, and I'm going to check
+aggregate measures, and you're going to see that
+it's going to populate this. Now, you can also select
+aggregate measures without changing the axis
+scale and the values, and it will typically give you an appropriate zoom window. Now you'll see that this
+is highlighted so that I can actually change my
+model to different things. But we want to be
+on the scatter plot because we're looking at the
+linear regression model. You'll also notice that you
+can change the title of sheet 1 to say linear
+regression model, if you would like to, just to make your graph a
+little more personalized. Now, we have the scatter plot, but what we need to do is
+draw the actual model, which is that line of best
+fit that we've talked about. In order to draw that
+line of best fit, we're going to go to analysis and then we're going to select trend lines and we're going
+to say show trend lines. It is automatically going to
+draw the line of best fit. Now I have a visual model
+of the linear regression. Remember, we use linear
+regression to predict. The goal of getting this model is to be able
+to use it to predict, which you need to
+select the line to do. If you recall, we say that you can use the
+statistical software. If it gives you an equation, you can simply plug into
+the equation to predict. Here, I have 1.04199 times the income amount plus this
+value will give me the age. If I make $50,000, I just need to do 1.04199 times 50,000 plus
+negative seven point this, and it will predict an age. Now, remember that age
+prediction may have some slight error to it depending on how
+good of a fit it is. If you also recall, we talked about R squared and correlations and how the
+higher the R squared value, the bigger the
+relationship between the two things or the
+stronger the relationship. Here, I have an R
+squared of 0.768953. If you recall, that
+is above the 0.75 cutoff and so this
+falls in the 0.75-1, which is a very
+strong correlation. This linear regression
+model is able to help me predict the
+age given an income. It's also telling me how
+related age and income are. If I wanted to predict
+this differently, so let's say I want to use
+age to predict income, all you would have
+to do is click this button up here to switch
+the rows and the columns, and now my equation lets me
+plug in age to find income. You'll notice that the R
+squared value doesn't change, simply the equation changes
+so that now I can plug in a value for age and find out the income that
+that person would make. This is how you use Tableau to complete a linear
+regression model. You're now equipped with
+the ability to bring in your data source to create the actual linear
+regression model, edit your axes, find the equation to use
+to predict and last, find the R squared value to describe the strength
+of the relationship.

@@ -1,0 +1,57 @@
+you've learned what A B tests are and how they're used in this video
+will go over what the results of A B tests look like and the next steps
+you can take based on those results. A B tests have a pretty simple design and while executing them well involves
+careful planning the heavy lifting for A B tests in advertising really
+happens on the platform site. That's where the careful selection and
+assigning of people into different groups on a random basis happens
+as an advertiser, you just have to tell the platform
+which variables you want to alter. It's probably no surprise then that the
+results of A B tests are also quite simple and straightforward. There are typically 2 main
+parts to your results. First you learn who the winner
+of your testes in advertising. The winner is the ad that led
+to the lowest cost per result. Second you'll get information
+on the power of your test. In other words, how good your test was and
+how confident you can be in the results. This is usually expressed in a confidence
+level similar to the confidence level we talked about in our previous
+lesson on experiments. Let's take a look at Callahan Ivy
+will focus on the reports. Imran got after running
+an A B test on Facebook. Remember how Imran ran an A B test to
+determine which one of the images for her add would perform best in
+a traffic focused campaign after numerous tests stopped running. She called an email from Facebook
+with the results of the test. She can also find the results
+through Ad manager or in the experiments tool on Facebook
+here's what results look like. Imran has a clear winner here. The B version of the Ad,
+the one with a close up of the flower had a much lower cost
+per link click than version A. Of the Ad. So B is the winner. Imran also learns from this report that
+her Test has a confidence level of 93%. In other words there's a 93% chance
+that B will be the winner if she were to repeat a test with the same settings so it
+looks like cameras test was powerful and she can have confidence in the results. We like to see a confidence
+level of 90% or above. So 93% is pretty good. Now if you find that
+a confidence level is lower. You can increase the power of your
+test by increasing your budget or the length of your test. If you give your campaign more time and
+resources it will generate more impressions and there will just be
+more observations in your test, making it easier to
+achieve a reliable result. Once you've had a chance
+to evaluate your results, you know the winner of the test and
+you're confident that the test was good. What's next? Well, Facebook will prompt you and ask you whether you would like to shift
+all of your budget for the campaign. You ran the test for to the winning
+ad set choosing to do this makes the losing assets stop running only
+the winning version of the Ad. Is then served If you have a winner and if
+you have high confidence in your results, it's a good idea to go ahead and stop
+running the losing version of the add. I'd also recommend that
+you don't stop here. Once you have a winner from an A B test,
+it's still possible that there may be an even better execution for
+your Ad campaign. So why not try another A B test. This is an especially good idea if you
+have a strong hypothesis that another version of the add might
+perform better for Imran who now knows the close up flower
+image performs better than the bouquet. It may be worth testing whether changing
+the copy would help her improve the add even more so she could make the winning,
+add her new A version and create a B version with different copy. You should use what you learned
+to improve your future campaigns. Imran now knows that a close up image of
+a flower can work better than a bouquet to attract traffic to her website. This may prompt her to try a few
+more ads with different close ups or with other images that are different from
+the usual bookcase she has been showing. I encourage you to plan a B tests for
+your campaigns when you can. It's a good practice. You learn from it and it will help
+you to further optimize will often refer to this practice as using a test and
+learn strategy. Countless companies have found that
+this is a great way to advance.

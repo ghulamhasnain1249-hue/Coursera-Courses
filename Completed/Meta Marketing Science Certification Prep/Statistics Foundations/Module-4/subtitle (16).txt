@@ -1,0 +1,51 @@
+Choosing the right
+statistical model is like selecting the
+best tool for a job. It ensures accuracy, efficiency, and relevance in solving
+real world problems. In this video, we will take you through a
+simple process for determining which
+models we discussed in this course are
+most appropriate. First, you must identify which
+variables you'll be using. This includes which
+variables will be in your model and what type
+of variables they are. Then you will review your evaluation question and identify the purpose
+of the analysis. The purpose might be easier to find as you consider
+your research question. Now, let's quickly review the variable requirements and purpose of the discussed models. First, we discussed
+simple linear regression. As you recall, it requires a quantitative
+independent variable and a quantitative
+dependent variable. Remember using the line, it uses the independent
+variable to predict what the dependent variable would be at any specific value. For example, you could use a simple linear
+regression analysis to see if increasing
+your social media posting results in
+more conversions. Next, let's review
+the variable types and purpose of
+classification models. The independent variable
+is quantitative, and the dependent
+variable is qualitative. Simple linear regression,
+the purpose of classification analysis is to predict the dependent
+variable given a specific value of the
+independent variable. The main difference
+is that it predicts a qualitative variable instead of a quantitative variable. For example, you could use
+classification analysis to see what types of products customers
+purchase more frequently. Next up is cluster analysis. The independent variable
+is quantitative, and the dependent
+variable is quantitative. The purpose is to
+subset your data, which could also be called segmentation as it
+creates subgroups. For example, you could use a classification analysis to see how different audiences
+respond to the same ad. Lastly, let's examine
+the variable types and purpose for time
+series analysis. The independent variable
+is always time, and the dependent
+variable is quantitative. The purpose is forecasting
+or predicting the value of the dependent variable at
+some point in the future. For example, you could use
+a time series analysis to understand how your
+social media followers have grown over a
+period of time. Before wrapping up,
+remember a few key points. The models covered in this course are just
+a starting point. The field of statistics
+offers many models, including various
+regression models, capable of predicting
+categorical variables. Also, it's possible to convert qualitative variables into quantitative ones for
+analysis purposes. Remember that statistics
+is a broad and deep field, and there's always more
+to explore and learn.

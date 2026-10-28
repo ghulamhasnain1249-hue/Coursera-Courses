@@ -1,0 +1,17 @@
+Global Innovations in Marketing Mix Modeling
+0:00
+/
+2:36
+A need for innovation
+Traditionally, marketing mix modeling has been used by consumer packaged goods companies, car brands and other consumer goods where large budgets are spent on advertising spread across different channels. Marketing mix modeling is expensive, and it can often take a year to develop a stable model and use the insights to optimize. 
+
+Newer brands or those that rely on digital channels sometimes struggle to use marketing mix modeling because it is too slow in giving them the results they need for their planning and budgeting. However, an increased focus on privacy across the industry, along with changing expectations from consumers about how their behavioral data is used, has inspired brands to look for more privacy-friendly measurement methods. Because data that’s used as an input for marketing mix modeling is aggregated rather than individualized, it’s just what they’re looking for. Still, there is the cost and time to execute to overcome. Luckily for marketers like you, there are two innovations that have helped overcome these challenges. Let’s explore!
+
+From manual data collection to the use of APIs
+Usually, marketing mix modeling has relied on manually collecting and cleaning data for analysis. Now, research providers are more often collecting data in real-time via APIs. APIs for the different data systems send data in real-time directly to the marketing mix model provider, building what used to be manual databases automatically. 
+
+Use of machine learning
+The second innovation in marketing mix modeling is the use of machine learning. Traditionally, marketing mix modeling uses statistical models and iterates on the model solutions to achieve stable models. With machine learning, however, this process can not only happen in real-time but also with much higher complexity and more accuracy. 
+
+What this means for marketing
+These two innovations result in several improvements: faster turnaround, the granularity of insights and lower cost to run. In fact, some models can be produced in less than 30 days. The insights can also be so granular that it provides you with insight into how to optimize your advertising strategy within a given channel. The efficiencies in data collection also result in lower costs, especially for advertisers who want to run marketing mix modeling on an ongoing basis. As you assess how marketing mix modeling might be useful to your own strategy, keep an eye out for these innovations at play. It might be more feasible than you think!

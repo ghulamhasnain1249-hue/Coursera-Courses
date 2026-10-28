@@ -1,0 +1,17 @@
+Congratulations on completing this course. You've grown as a data analyst and
+mastered the foundations of statistics. Let's now review all that you learned and
+accomplished in this course. You started in week one by learning
+about descriptive statistics and how to apply them to real world examples. You also learned about
+tools like spreadsheets and Python that make your life easier. And in Week 2,
+you learned about inferential statistics. Sampling, distributions and using variables are things you'll need to
+do day in and day out as a data analyst. In week three, you learned about designing
+experiments and testing hypotheses. Every data analyst needs to know how to
+experiment with multiple variables and also determine useful hypotheses based
+on the needs of an organization. In the fourth week of this course,
+you learned about modeling your data. You discovered the strengths of different
+predictive models and how to apply them. And in this final module, you combined
+your knowledge into a capstone project and heard from professionals working
+in the data analytics field. I'm glad that you joined us
+on this learning journey. Think about all the knowledge
+you gained and can put to use. You have made significant
+progress to get to this point. Congratulations again.

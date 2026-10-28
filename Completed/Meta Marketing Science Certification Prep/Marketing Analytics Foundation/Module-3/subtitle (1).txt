@@ -1,0 +1,71 @@
+Spreadsheets are a staple for marketing
+analysts everywhere. They are the most basic way to access, sort, categorize,
+report results and even run analyses. We will dive deeper into spreadsheets
+later in this course, but for now we will introduce
+you to the basic concepts. Today we'll cover labelling, sorting and filtering, calculated cells, and
+visualizations. Before we start, there are several
+different software programs that allow you to access and
+manipulate spreadsheets, but the two main programs
+are Microsoft Excel and Google Sheets. Both programs work well and are similar enough
+that if you can use one, you can use both. Microsoft Excel has more features,
+but Google Sheets is a free program. No matter which you choose,
+the basic format is the same. A spreadsheet is a grid made of columns,
+denoted by letters and rows, denoted by numbers. Each square created where a row and
+column meet is called a cell. You can enter data into a cell
+by clicking on it and typing. You can store several spreadsheets
+inside a single file. At the bottom of the screen
+you will see sheet one. If you click the plus sign next to that,
+you can add a second spreadsheet. This is true for both Microsoft Excel and
+Google Sheets. Here's an example of a spreadsheet from our florist
+in Amsterdam, Calla & Ivy, that records the sales for a few specific
+products over the course of a week. Labelling is an important concept,
+the first row for each column is usually reserved for the label, which describes
+the type of data held within that column. It's important to be as descriptive
+as possible, not only so you remember what's in each column, but so
+someone else looking at your spreadsheet will easily understand
+the contents beneath. Sometimes in large spreadsheets
+with similar data, you will often see abbreviated
+codes as labels. In these cases, it's important to create a code book or legend that explains what
+each column contains. Sorting is straightforward - let's take
+a look at the process in Microsoft Excel. Click into a corner cell and drag
+to highlight the table you want to sort. Once the data is highlighted, press the data button at the top and
+click sort range. This will create a pop up. Click
+the box next to "Data has header row" and select a column by which we
+want to sort all the data. In this case, we want to sort
+by the daily total income. Now, we can see that Thursday had
+the lowest daily total income and Saturday had the largest daily
+total income. Spreadsheets also make it easy to filter your data.
+You can use filters to make certain data appear in the sheet while
+other data remain hidden. The hidden data is still
+saved in your spreadsheet, you just don't see them after
+applying the filter. To add a filter, highlight the table, then click on
+the button that is shaped like a funnel. Once you do, the labels of all of
+the selected columns will have upside down triangles. Clicking on the triangles
+will create a drop down menu where you can select which values
+will be displayed. As simple as that, your table is filtered. Not all
+the cells in the spreadsheet contained raw data. Several columns in this
+chart contained calculated cells. If we click on the cell D2, we see in the bar on the top
+that what is actually in this cell is equals C2 times 19.99
+(=C2*19.99). In this case, this cell
+equals the number of sunrise bouquets sold on Sunday
+multiplied by the cost of a sunrise bouquet.
+$39.98 is the result and that's the number that shows
+up in the spreadsheet. However, calculated cells do
+not stop with simple arithmetic. Spreadsheet software has built
+in functions. Here we see the value of cell L9 is actually
+equals sum of L2 through L8
+=SUM(L2:L8). There are several useful built-in
+functions, feel free to play around and see what you can learn. Visualizations
+in a spreadsheet can be an art in and of themselves. However, anyone can get started with basic
+charts. First, highlight the data you want to use. Second, press the insert chart button
+at the top of the screen. Just like that, you can create a chart. Using the chart
+editor that pops up with a chart you can do all sorts of things to
+customize your visualizations. You could change the type of chart,
+the information in the chart or any number of things. This video has covered a lot of
+information, including labelling, sorting and filtering,
+calculated cells and visualizations. There's a lot more you can
+do with spreadsheets and we'll cover more of it
+later in this program. But for now it's a good idea to
+create a spreadsheet of your own and practice some of the skills we've covered,
+and I'm sure you will discover
+a few new things as well.

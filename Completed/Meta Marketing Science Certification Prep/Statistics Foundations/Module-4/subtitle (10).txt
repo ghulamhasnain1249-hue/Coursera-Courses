@@ -1,0 +1,61 @@
+One of the essential skills for
+a data analyst is the ability to group similar items based on shared
+characteristics, such as categorizing customers by purchasing behavior or
+students by learning styles. In this video, we will explore how cluster
+analysis enables us to identify and group similar data points,
+enhancing our understanding and decision-making in various scenarios. Remember, cluster
+analysis is a statistical technique used to group a set
+of objects or data points so that those within the same group or
+cluster are more similar to each other in some sense
+than those in other groups. Many different analyses fall
+under this model type, and they have very different approaches. Here are a few of
+the more popular options. K-means clustering is one
+of the most used analyses, you may also come across Hierarchical
+clustering, Fuzzy C-Means, Mean shift clustering, and
+Density-based spatial clustering. All of these analyses create
+clusters in different ways but they all do the same thing. The basics of creating
+a cluster model are simple. First, we plot our data points,
+then assign data points to one group or
+another based on a calculation specific to the cluster model you have
+run in statistical software. This gives you a visualization
+of your segments and the ability to gain insights and
+find connections throughout your audience. Now let's talk about assumptions. Each clustering analysis works differently
+and uses different assumptions. So let's talk about
+the clustering analysis, you are most likely to
+use K-Means cluster. K means clustering calculates
+specific points within your data and minimizes the distance from
+them to create groups. K-Means clustering is the default
+method for clustering and is used as a default in
+statistical software. There are assumptions used
+with K-Means clustering. The first assumption is
+the minimum sample size. This can vary slightly, but you should have 50 participants for
+every group you expect. If you think there are three groups, that would be 50 times 3,
+or 150 participants. The second assumption of K-Means
+clustering is sphericity. All this means is that the groups
+will appear roughly round, like a circle or
+sphere when you plot your data points. For example, the groups are roughly
+round in this visual because the plotted data points are clustered
+around three main areas. K-Means clustering positions
+points at the center of your data through complex calculations
+aided by statistical software. It forms groups based on the distance
+from these central points, effectively clustering data that naturally
+aggregates into roughly circular shapes. For example, this data looks like
+it is in two vertical clusters, but that may not be what
+K-Means clustering sees as it attempts to put it into circular shapes. K-Means clustering will break it up into roughly round shapes
+as it creates groups for you. This is why it is important to
+have roughly round groups to meet the assumption of sphericity. Luckily, this happens naturally unless
+your data is in a strange distribution. If the groups in your data
+are a different shape, you will need to find another clustering
+analysis that fits your data better. The third K-Means assumption is
+the homogeneity of variance, like before, all your variables
+should have around the same variance. The last K-Means assumption
+is that each group should have approximately the same
+likelihood of happening or in other words,
+an equal prior probability. If you know that two groups have a lot of
+members and a third group only has one or two members, K-Means clustering will try
+to even out the groups by artificially transferring members from the bigger
+groups to the smaller groups. Now, you should be able to describe
+the steps to complete a cluster analysis, which you can apply using
+any statistical sftware. Get ready for the next steps and
+start leveraging and analyzing real-world situations
+using this type of analysis.

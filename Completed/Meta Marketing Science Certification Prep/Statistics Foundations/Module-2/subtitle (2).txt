@@ -1,0 +1,34 @@
+Imagine a research study claiming that
+100% of people prefer a single soda brand. That high of a value is shocking, right? Now, what would you think if you
+found out the study's conclusion was based on a very small
+sample size of only ten people? This startling statistic
+suddenly seems less reliable, highlighting the importance
+of sample size in research. So how many people should be in a sample? This might feel like an impossible
+question, but we can use a few guiding principles in statistics to
+answer exactly that question, starting with the central limit theorem. The central limit theorem is a statistical
+premise that given a sufficiently large sample size from a population
+with a finite level of variance, the mean of all sampled variables
+from the same population will be approximately equal to
+the mean of the whole population. Now that definition is a lot to digest,
+lets break this definition down. The central limit theorem tells us
+that with a large enough sample size, the samples average and variation will
+closely match the whole populations. So while you dont have to
+ask the whole population, getting a large enough sample
+will give the same results. Which is why larger samples
+give us more reliable insights. But how many is large enough? Various methods and online calculators
+can help determine the right sample size. Its important to meet the minimum
+sample size needed for accurate analysis, which we'll cover
+in more detail later in this course when we examine specific
+types of analysis. Another question to think about
+is can a sample be too large? When a sample is too large, we see
+something called the plateau effect. The plateau effect is a phenomenon where
+after a certain point, additional effort, investment, or data no longer results
+in significant improvement or progress. In the context of data analysis, it refers to the point at which
+increasing the sample size further adds little to no value to the accuracy or
+quality of the results. This means you're spending
+resources gathering more data for little to no additional benefit. Ultimately, the sample
+size must be just right. If you have a sample
+size that is too small, your results will not be accurate for
+the population. If you have a sample that is too large,
+you invest time and resources that you won't get a return on
+regarding the accuracy of your results.

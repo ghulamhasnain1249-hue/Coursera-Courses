@@ -1,0 +1,72 @@
+In our last lesson,
+you saw how the methods for evaluating advertising effectiveness
+fall into two categories. Experimental and observational methods. In this lesson, we'll cover
+the experimental methods in more depth. But before we do so I want to go
+through an important preparation step to formulation of a hypothesis. If you went through the previous
+courses in this program. You already learned about the importance
+of formulating a specific hypothesis. Before embarking on an experiment,
+let's look at it again. In the context of advertising
+effectiveness testing, we've already seen how
+before diving into analysis. You should make sure to formulate the
+business goal, your analysis relates to. Once you have your smart goal formulated, you can isolate what you will
+focus on in your analysis. And that's where your hypothesis comes in. Your hypothesis should relate
+to your primary business goal. And it pays off to put some
+effort into formulating it. A strong hypothesis will
+inform your analysis and make its results more meaningful. So what is a strong hypothesis? A hypothesis is a proposed explanation for
+an observation. Your analysis will then help you accept or
+reject your proposed explanation. In marketing and advertising. A strong hypothesis is
+an explanation that includes some information on who,
+what, where, when and why. Let's start with whom. It tells us something about the audience. This explanation relates to what
+it explains something about the behavior of that audience. Where it specifies a location
+when it tells us something about the time frame of our observations. And why it gives an explanation for the anticipated audience behavior or
+perspective. If you include all these
+elements in your hypothesis, you'll find that it's easier to focus
+your experiment or your analysis. And get stronger and actionable results. When you develop your strong hypothesis,
+you can start with a basic one. And then build on it until
+you have a really strong one. Let's look at an example
+of how that could work. Irma at Calla and Ivy, the flower
+store in Amsterdam has the following business goal Increase online
+sales with 20% over the next year. You're working with the marketing team
+that's drafting a campaign to help them achieve this. The marketing team wants to make
+sure that it's very clear to you what will need to be measured to determine
+whether the campaign was successful. So you're working with them
+to formulate a hypothesis. They first come up with
+a basic hypothesis. Women ages 35 to 44 are more likely to
+respond to our conversion campaign. This hypothesis answers to who and
+what question or the behavior we expect from there. You help them refine their hypothesis by
+asking them to wear and when question. This will help you to understand
+which data to focus on. They revised the hypothesis and
+now it reads women ages 35 to 44. Who live in cities in the Netherlands are
+more likely to respond to our conversion campaign that runs during the Christmas
+and spring holiday season. Your hypothesis has gotten better. But you would like to push
+the team a little bit more. You ask them whether they can come up with
+why they believe this will be the case. The team reflects on that and they come up with women ages 35 to 44 who
+live in cities in the Netherlands are more likely to respond to our conversion
+campaign that runs during the Christmas and spring holidays because our creative
+highlights the choice of giving flowers, which appeals to this group. Now, you have a strong hypothesis. This hypothesis can guide your
+research what data to look for. And you also have some clues as
+to what you may want to test or what to explore in more depth. Once you have a strong hypothesis,
+you can develop your test hypothesis. While the strong hypothesis you just
+developed could be a subjective assumption. A test hypothesis specifically focuses on
+what you want to prove in your research. A test hypothesis includes a no and
+an alternative hypothesis. The null hypothesis reflects the default. It is the assumption that your treatment,
+in our case the campaign, does not make a significant difference. The alternative hypothesis
+is the assumption that your treatment did make a difference. The objective is to test if you
+can reject the null hypothesis and accept the alternative. In other words, the objective is to prove that your
+treatment had a significant effect. In our example,
+the test hypothesis could look like this. We expect a significant incremental lift
+in conversions from women between 35 and 44 who live in cities in the Netherlands as a result of the Christmas and Spring
+holiday advertising campaigns on Facebook. The null hypothesis would be there is
+no incremental lift in conversions. And the alternative would be that there is a significant incremental lift
+in conversions among this group. A test hypothesis should
+specify an independent and the dependent variable where you
+expect the independent variable. To have a significant effect
+on the dependent variable. The independent variable is also
+referred to as the treatment variable. It reflects your action or treatment. The dependent variable is also
+known as the outcome variable and it specifies the results. So in our example,
+the independent variable is the Christmas and spring holiday advertising campaign
+on Facebook thats our treatment. And the dependence or outcome variable
+is the number of conversions. The hypothesis states that we expect
+a significant effect of the independent variable on the dependent variable. In other words, we expect the campaign
+to significantly lift conversions. Now, let's see how hypothesis will
+help us when we design experiments, we'll look at that in our next video.

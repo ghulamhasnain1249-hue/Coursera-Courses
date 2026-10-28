@@ -1,0 +1,95 @@
+Consider your daily step count. Some days you walk a lot, other days very little, but most days fall
+around a certain number. This is your personal
+activity distribution, and it tells a story about your lifestyle and habits
+when you graph it over time. In this video, we will
+learn to recognize four of the common distributions
+that describe data. First, we have the
+normal distribution. A normal distribution,
+often referred to as a bell curve or
+Gaussian distribution, is a probability distribution that is symmetric
+about the mean, showing that data near
+the mean are more frequent in occurrence than
+data far from the mean. Normal distributions
+are the most common because they occur
+naturally all the time. They're shaped like bells and have a few important
+characteristics. The mean, median, and mode are all the same value. Also, the curve is symmetrical, so the curve below
+or to the left of the mean looks the same as the curve above or to
+the right of the mean. You will encounter
+this distribution with all kinds of data. For example, in
+tracking daily steps, if it is a normal distribution, you'll find that most days cluster around an
+average step count, with fewer instances of significantly higher
+or lower step counts evenly distributed on either
+side of that average. Recognizing normal distributions
+is important because numerous statistical tests rely on data fitting this pattern. Using these tests on differently distributed data can lead to incorrect conclusions. Next, we will look at
+uniform distributions. A uniform distribution
+is a type of probability distribution where all outcomes are equally likely. Each value within
+the specified range has an equal chance
+of occurring, and the distribution is flat and not skewed in any direction. A uniformed distribution has
+a box-like appearance with the horizontal line moving
+with the x-axis from the lowest point or
+instanced to the highest. For instance, tracking
+your daily steps and noticing that your step
+count is consistently spread across a specific
+range with no days of significantly higher or lower suggest a uniform distribution. Understanding this can help
+you assess the consistency of your physical activity and make adjustments as needed for
+health or fitness goals. Next, let's explore a
+Poisson distribution, which is a little different from a normal or uniform
+distribution. A Poisson distribution is
+a probability distribution that expresses the probability
+of a given number of events occurring in a fixed
+interval of time with a known constant mean rate and independently of the time
+since the last event. Essentially, it will tell you the probability of something happening based on the number of times that something
+else has happened. A Poisson distribution can adopt various shapes and lacks
+a unique defining form, like those seen in normal
+or uniform distributions. To better understand this distribution,
+think of it this way. If event B happens 100 times, what is the probability
+of event A happening? Let's use an example. In the Poisson distribution, there's a fairly symmetric shape with a peak of 100 times. On the horizontal axis, you'll notice that the
+corresponding percentage is 75%. This means that if event
+B happens 100 times, there is a 75% chance
+of event A happening. Let's use a different
+example to see how this distribution can be applied to a
+real-world scenario, this time in the
+world of marketing. Let's imagine you're using a Poisson distribution to
+look at the probability of making an online sale based on clicking on
+a website ad banner. The Poisson distribution on the screen illustrates
+a graph representing the probability of making a sale based on the number
+of clicks on a banner ad. The x-axis is labeled number
+of clicks on a banner, ranging from 0-200, and the y-axis shows
+the probability of sale, ranging from 0%-100%. This graph has a peak and the probability of a sale
+at around 100 clicks, indicating the highest
+likelihood of making a sale. As the number of clicks moves away from this peak
+on either side, the probability of
+making a sale decreases, approaching zero
+towards 200 clicks. This graph can help understand the relationship between
+ad clicks and sales, and optimize
+marketing strategies for better conversion rates. Let's explore a
+similar distribution, the exponential distribution. The exponential distribution is a continuous probability
+distribution, often used to model
+the time between independent events at a
+constant average rate. The exponential distribution
+is similar to a Poisson, but it is used when a time
+component is involved. The distribution shape is
+a sharp curve that either goes up from left to right or goes down
+from left to right. That said, this curve could
+be oriented in any direction. What matters is the
+sharp one-sided curve, and it can even be
+flipped upside down. The image of the
+exponential distribution on the screen shows a graph, indicating the probability
+of a customer making a purchase based on the amount of time
+spent on a website. On the x-axis, we have time, while the y-axis represents
+the probability of purchase. Initially, as time increases, the likelihood of a
+purchase sharply rises, suggesting that customers
+are more inclined to buy something in the first
+few minutes of their visit. However, the graph levels
+off after a certain point, indicating that extending
+the visit from, say, 45 minutes to one hour does not significantly increase
+the likelihood of making a purchase. This slowing or leveling off of the curve suggests
+that there's a window of time
+where engagement on the site has the most
+impact on sales. There are many
+other distributions and variations of
+these distributions, but these four are
+the ones you are most likely to encounter
+as a data analyst. So learning them now will
+help you later as you complete statistical analyses that require specific
+distribution types.

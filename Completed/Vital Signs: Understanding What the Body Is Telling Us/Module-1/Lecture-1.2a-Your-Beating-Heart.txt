@@ -1,0 +1,64 @@
+So, earlier in the week in class, we talked about the heart being a hollow, muscular pump.
+And now, we're going to start thinking a little bit about how does the heart do its pumping action.
+At the microscopic level, the heart is actually organized as two separate functional units.
+We call each of those functional units a syncytium.
+And so when we think about the heart, the heart is actually organized into an atrial syncytium and a ventricular syncytium.
+And I said that a syncytium is a functional unit, right? The function of the heart is to contract, right, and pump blood.
+So we have an atrial syncytium that functions separately from the ventricular syncytium.
+Natalie.
+Dr Scanga, so does that mean that they don't pump all at once? So you mean, does the atrial syncytium contract when the ventricular syncytium does? Right.
+So that would mean that the heart contracts like this.
+Yes.
+No. [LAUGH] That's not what happens.
+What happens is the atria contract, then the ventricles contract.
+The atria contract, the ventricles contract.
+And each time a heartbeat occurs, what has really happened is atrial contraction, ventricular contraction, relax.
+Atria contract, ventricles contract, relax. [SOUND] Okay? Mm-hm.
+Get the idea? So, okay, so the question, then, I think that would be a follow up for you Natalie as well, if it's not just [NOISE] what keeps it beating in this very rhythmic coordinated way? And the answer is that at the cellular level, there are actually two types of cells in the wall of the heart.
+There are the contracting cells.
+Of course they're the ones that do the pumping action.
+But there are also cells that are specialized just to create an electrical signal in the walls of the heart.
+All of the cells in the wall of the heart have the ability to, generate an electrical potential.
+But about 1% of the cells in the wall of the heart are specialized to actually create an electrical signal.
+And so when those cells get excited and create their electrical signal, they are able to spread that electrical signal throughout the wall of the heart, and it's that electrical signal that causes this coordinated pumping activity.
+So those cells that can generate the si, the electrical signal, or the electrical activity for the heart, form what we call the cardiac conduction system.
+And the cardiac conduction system is a specialized system that allows for the electrical signal to be generated in a very precise and orderly way in the heart.
+And it's that conduction system that allows for the pumping action that I just described earlier that occurs in each heartbeat.
+Okay? So I want to describe the conduction system to you in this class so that you can later understand how we can assess the electrical activity of the heart, and hope to determine if the electrical activity is flowing smoothly.
+So the first part of the cardiac conduction system is referred to as the sinoatrial node.
+And we usually just abbreviate that very long name to SA node.
+The SA node is located in the right atrium near the location where the superior vena cava enters into the right atrium.
+The SA node is actually the part of the conduction system that can generate an electrical signal most rapidly.
+So the SA node is the part of the conduction system that, if you want to think of it this way, it fires first, okay? So when it gets excited, it spreads its signal quickly over the entire atrial syncytium.
+And after the atrial syncytium is stimulated, it contracts, okay? So while that electrical signal is spreading across the atrial syncytium, it actually spreads by a special pathway down to the second part of the cardiac conduction system which is called the atrioventricular node or AV node.
+Now how do you think it gets a name AV node? [LAUGH].
+Atrioventricular [LAUGH].
+It tells you that the atrioventricular node must be located close to the junction of the atria and the ventricles, right, and so on this model we can see the AV node being represented with a little red dot, and you can see that it is down there near the junction of the the atria and the ventricles.
+Now a really cool thing happens at the AV node.
+The AV node is part of the cardiac conduction system, but the AV node doesn't spread the electrical signal immediately.
+So we think of what happens in the AV node, well the signal gets delayed there for just a few milliseconds.
+Okay, so instead of the signal starting up here at the SA node and then immediately spreading every way in the heart, everywhere in the heart, it spreads across the atria, but then the signal gets delayed at the AV node.
+This is significant because what it means is that the atria are allowed to do their contracting thing before the ventricules get excited.
+Okay? So from the AV node, the signal then passes through a very short bit of conducting tissue called the AV bundle, atrioventricular bundle.
+And the atrioventricular bundle is actually very important as well to the system, because it is the only electrical connection between the atria and ventricles.
+So if we didn't have the AV node, the ventricles would just do their thing and the atria would do their contracting thing.
+But we would not have that very coordinated type of pumping action that is possible in the heart when it's functioning well.
+So, we, have the signal delayed at the av node.
+Then it passes through the AV bundle and when the signal passes through the AV bundle it actually arrives in the ventricles.
+And it arrives in the interventricular septum.
+And so the next thing that happens is the signal will be passed down the interventricular septum through two pathways that we call bundle branches.
+Now if you look at the picture that I've opened in the textbook in front of you, you can see passing down through the interventricular septum, you can see that we have a left and right bundle branch, right? And they pass down the interventricular septum to the inferior end of the heart, which we call the apex.
+And down at the apex, those fibers begin to branch, branch extensively, forming what we refer to as Purkinje fibers.
+Now, the Purkinje fibers are being represented in white on this model.
+And you can see that the Purkinje fibers extend through all of these free walls of the ventricles.
+And so when the signal passes down the interventricular septum it activates the contracting cells of the interventricular septum.
+And then, the signal get's passed into Purkinje fibers, and the Purkinje fibers will stimulate the free walls of the heart.
+All of this action happens very quickly.
+And so as a result what we see when we look at the heart is that the ventricles can kind of contract as a single unit, okay? Now, how many of you have heard of electrocardiograms or ECGs? Natalie, what do they do? What are they? I'm not quite sure.
+I just know that it's monitoring your heart somehow.
+Yes.
+You are exactly right.
+Well, electrocardiograms are actually they are the way that we assess the electrical activity of the heart.
+So they're a way for us to assess the cardiac conduction system and see if it's working properly, or see if there might be some abnormalities in the conduction system.
+We can also tell other things about the electrical activity of the heart.
+But this week in sim lab, when your sim lab class meets you will be working with Megan or Amanda to actually collect an electrocardiogram on a subject, so that you can, see how that electrical activity is represented in a clinical evaluation. 

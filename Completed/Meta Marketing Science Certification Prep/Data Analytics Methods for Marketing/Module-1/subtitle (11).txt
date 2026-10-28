@@ -1,0 +1,60 @@
+In our previous video, we learned about
+k-means clustering. We talked about how
+k-means clustering works, and we talked a bit
+about how you can validate the results from
+your cluster analysis. As you probably remember, we also saw how to start a
+k-means cluster analysis. You have to decide
+on the number of clusters you would like
+your analysis to show. There may be instances
+where you know how many segments or
+clusters you can handle, and you may thus have an idea of how many clusters you
+would like to see. But more often than not, you won't really know how many different segments you should divide
+your data into. Ideally, you would have the data speak for itself and
+guide you on the number of different groups
+that can be identified in your datasets in
+a meaningful way. How can you do that with
+k-means clustering? You could use what we
+call the elbow criterion. The elbow criterion helps you to find the number
+of clusters for which adding an extra cluster would not add
+sufficient information, or in other words, it finds the number of
+clusters that's ideal because adding another
+cluster does not give you a sufficiently
+better result. How does that work? Remember that in the
+last video we talked about validating our
+cluster solution. A good solution has
+low variance within a cluster and high-variance
+between clusters. In the elbow criterion, you plot the ratio of the
+within cluster variance to the between cluster variance against the number of
+clusters in your solution. Remember, you want the ratio of the within cluster variance to the between cluster
+variance to be low. When you increase the
+number of clusters, this ratio will start to drop. But there will come
+a point where it does not drop very much
+by adding a new cluster. In other words, your solution is not getting much better, and it may not be
+worth it anymore to add any more clusters,
+which adds complexity. The point where you don't
+gain much by adding a new cluster is referred
+to as the elbow, and that elbow point is considered the ideal
+number of clusters. In this plot, the point
+is at four clusters. That would be the ideal number of clusters in this analysis. Of course, this still
+means that you need to run the cluster
+analysis several times, plot your solutions, and then find the elbow
+in your plot. Fortunately, software
+like Tableau lets you run this
+automatically using an algorithm that will test several solutions and come back to you with
+the best solution. You could still
+decide to do this manually even with the software, but it's easier to
+let Tableau use its algorithm to decide on the number of
+clusters for you. The algorithm uses the
+principle we just described. It finds the number of clusters for which
+the variance within the clusters is as low as possible and the variance
+between the clusters is high. Hence, it's a solution
+where the clusters are tight and ideally far apart. When you think of this from an audience segmentation point
+of view, that makes sense. You would like people to fall into a segment because
+they are very similar to other people in
+that segment on the variables you're
+interested in. But you want them
+to be as different as possible from people
+in the other segments. If these conditions are met, you can feel confident you assigned them to
+the right segment. In our next lesson, we'll see how you can make use of this automatic
+algorithm in Tableau. But before we get into that, let's talk about how we best name and describe our clusters. That's what we'll cover
+in our next video.

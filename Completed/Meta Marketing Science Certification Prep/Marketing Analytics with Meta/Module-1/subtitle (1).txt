@@ -1,0 +1,50 @@
+Welcome, to this course on
+marketing analytics with facebook. This is the fifth course in our Facebook
+marketing analytics program,a program created by aptly with the support of
+Facebook in a world where people have endless choices for products or services. Digital marketing has proven
+to be effective at helping to deliver the right message,
+at the right time, to the user that may have an interest in
+the product or service you're advertising, as we've covered in the other
+courses in this program. Marketing analysts perform a crucial role
+in helping to measure the effectiveness of advertising, as well as helping
+to fine tune the message, and optimize the campaigns and
+the marketing mix. Marketing analysts have many tools at
+their disposal to do their analysis, depending on the platforms you use for
+your marketing and advertising. There may be an option to use tools that
+are specific to those platforms, for many advertising campaigns today,
+Facebook products will be part of the marketing mix, as advertisers
+try to reach people where they are. Facebook has many measurement and
+optimization tools built right into their platform and as an analyst,
+it's important to know how they work. As you'll be in a unique position in
+the company to use these tools, and provide a marketing team with
+recommendations based on them. That's why in this course,
+I will go through how they work, the principles behind these stools, and
+how you can apply them to help your marketing team and
+your company reach its goals. Before getting started with the analytics
+tools, Facebook offers, I'll walk you through the Facebook advertising platform
+knowing how campaigns are created. And managed on the Facebook platform
+is essential to understand how you can measure the results
+of these campaigns, and use different tools to evaluate and
+optimize them. So in the first week, we'll learn that,
+in fact at the end of this week, you'll know how to create an Ad on
+the Facebook platform using Ads manager. Then in the second week, we'll take a closer look at how you
+can analyze the results of a campaign, which reports that are available
+in Facebook Ads manager. Next, we'll learn how to run
+experiments using Facebook, to help you evaluate the effectiveness
+of your advertising campaigns. If you took our previous
+courses in this program, you already know how experiments work. In this course, we'll look at how you can apply what you
+learned using the Facebook testing tools. And then, we'll look at how to optimize
+our advertising using A B testing, and we'll also see how to
+optimize the marketing mix, with marketing mix modeling. We'll do this again, using the Facebook
+tools in our last week will recap what you learned in this program, and
+will highlight the different steps that are crucial for
+a marketing analyst to be effective. This overview, will give you a practical
+marketing analytics playbook, that you'll be able to apply in
+your role as a marketing analyst. If you took all the previous courses in
+this program, then by the end of this course, you'll have learned all
+the marketing analytics methods and tools, that prepare you to take the Facebook
+marketing science certification exam. Employers in digital marketing and
+analytics, love to see candidates who have this certification
+as proof of their knowledge, so I encourage you to go through the exam, so
+you have a way to showcase your hard work. And skills to employers and clients,
+a lot of exciting things to cover, so let's get started.

@@ -1,0 +1,39 @@
+I do in cases like when
+I conduct A/B testing. A/B testing is all about testing two or various variables
+or variants of results, trying to test out
+various elements to see which ones resonate
+with the audience most before deploying those elements, or actually deploying
+it to production. Essentially, once that
+test is conducted, it's all about randomly assigning tests or
+randomly assigning the element to different sources or different users
+of the platform. Once that is done, we need to conduct, the end of the results shows
+what we call the p-value, which is like an hypothesis
+testing results, just to see how statistically
+significant the result is. Absolutely. It's very useful because we leveraged
+A/B testing to test out various elements of the website and also various description, various headlines about
+marketing content specifically. This helps inform us
+because we are in the era of data-driven
+technologies. It's very important to conduct
+A/B testing so that way, the users, or the data, can actually provide insight and make the business decision, rather than just guessing
+and saying like, hey, this is what I feel, and also, it's all about
+coming up with hypothesis, testing them out by
+randomly assigning to your users in the control
+group and the treatment group, and at the end of the day, the results shows the
+most useful element that needs to be
+deployed to production to help impact your
+marketing tactic. Exactly. I discovered
+that a little bit and that's exactly
+what we're talking about, the most important experiment we conduct is the A/B testing, and the good part
+with A/B testing is, it's not just for
+the marketing side, it also help the overall
+website or the UI of the website to help
+improve in terms of the elements we
+have, the headlines, the contents of our marketing, the type of image,
+banners, carousel, videos we actually deploy
+to production to help increase things like marketing metrics
+like conversion rate, click-through rates
+and all that stuff. I think it's very important. Most marketing analyst, they
+just start by extracting, and measuring, or
+analyzing data, but I think A/B testing
+is very important, especially when we're planning and strategizing on
+new marketing tactics.

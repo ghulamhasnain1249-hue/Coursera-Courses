@@ -1,0 +1,34 @@
+So far in the scores,
+you've learned how to create, manage and evaluate campaigns in
+Facebook ads manager. You have also learned
+how conversion lift and brand lift tests can help you to evaluate
+the effectiveness of your campaigns and you learned to optimize
+the campaign using AB testing. You also saw how you can
+adjust your budget and plan your future marketing strategy
+using marketing mix modeling. And if you completed two
+previous courses in this program, you also learned how to prepare for
+your marketing analysis. You learned basic data analysis
+methods including sequel and Peyton and
+you also had an intro to statistics. With all these new skills, you're very well prepared to start an
+entry level role as a marketing analyst. As you go about a job search in this
+field, you will find that in marketing and marketing analytics, employers will often ask you to prove your
+skills with a recognized certification. Facebook offers several certificates. One of them is the Facebook
+marketing signed certification. Getting the certification involves taking
+an exam where you can showcase your skills, after the five courses
+in this program you have the necessary skills to pass
+Facebook certification exam. And this week, I'm going to recap
+the main learnings and summarize some of the key points that will help you pass
+your Facebook certification exam. I'll rely on facebook's own study guide
+for this as that will ensure that you have all the right terminology and
+insights to be successful in the exam. You'll find a study guide in a reading in
+this lesson, I suggest you download it and use it to follow along and
+refresh your memory when you need to. In the first lesson,
+we'll go over data assessment and we'll take another look at
+formulating a hypothesis. Then in the next lesson, we'll take another look at
+a different measurement solutions and how to recommend the right solution for
+the hypothesis you're trying to prove. We'll also look at what you should keep
+in mind when performing an analysis. And then in the third lesson we'll look at
+how you can generate insights from your analysis and how you can make
+data driven recommendations. We're in the homestretch,
+you've gotten very far already. So let's put everything you learned so
+far together.
